@@ -1,0 +1,994 @@
+seq 0: no response (timeout)
+seq 3: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.106 ms
+seq 1: no response (timeout)
+seq 2: no response (timeout)
+seq 4: no response (timeout)
+seq 7: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.017 ms
+seq 5: no response (timeout)
+seq 8: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.028 ms
+seq 6: no response (timeout)
+seq 9: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.237 ms
+seq 10: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.909 ms
+seq 11: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.963 ms
+seq 12: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.155 ms
+seq 13: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.919 ms
+seq 14: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.214 ms
+seq 15: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.159 ms
+seq 16: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.730 ms
+seq 17: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.226 ms
+seq 18: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.850 ms
+seq 19: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.102 ms
+seq 20: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.264 ms
+seq 21: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.323 ms
+seq 22: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.708 ms
+seq 24: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.682 ms
+seq 25: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.747 ms
+seq 23: no response (timeout)
+seq 27: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.789 ms
+seq 26: no response (timeout)
+seq 29: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.032 ms
+seq 30: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.635 ms
+seq 28: no response (timeout)
+seq 31: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.941 ms
+seq 32: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.730 ms
+seq 34: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.455 ms
+seq 35: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.198 ms
+seq 33: no response (timeout)
+seq 36: no response (timeout)
+seq 39: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.749 ms
+seq 37: no response (timeout)
+seq 38: no response (timeout)
+seq 41: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.955 ms
+seq 42: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.254 ms
+seq 40: no response (timeout)
+seq 43: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.753 ms
+seq 44: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.050 ms
+seq 45: no response (timeout)
+seq 46: no response (timeout)
+seq 47: no response (timeout)
+seq 48: no response (timeout)
+seq 49: no response (timeout)
+seq 50: no response (timeout)
+seq 51: no response (timeout)
+seq 52: no response (timeout)
+seq 53: no response (timeout)
+seq 54: no response (timeout)
+seq 55: no response (timeout)
+seq 56: no response (timeout)
+seq 57: no response (timeout)
+seq 58: no response (timeout)
+seq 59: no response (timeout)
+seq 60: no response (timeout)
+seq 61: no response (timeout)
+seq 62: no response (timeout)
+seq 63: no response (timeout)
+seq 64: no response (timeout)
+seq 65: no response (timeout)
+seq 66: no response (timeout)
+seq 67: no response (timeout)
+seq 70: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.850 ms
+seq 68: no response (timeout)
+seq 69: no response (timeout)
+seq 71: no response (timeout)
+seq 74: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.782 ms
+seq 72: no response (timeout)
+seq 73: no response (timeout)
+seq 75: no response (timeout)
+seq 76: no response (timeout)
+seq 77: no response (timeout)
+seq 80: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.385 ms
+seq 78: no response (timeout)
+seq 79: no response (timeout)
+seq 81: no response (timeout)
+seq 82: no response (timeout)
+seq 83: no response (timeout)
+seq 86: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.150 ms
+seq 84: no response (timeout)
+seq 85: no response (timeout)
+seq 88: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.966 ms
+seq 89: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  74.334 ms
+seq 87: no response (timeout)
+seq 90: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.278 ms
+seq 91: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.149 ms
+seq 92: no response (timeout)
+seq 93: no response (timeout)
+seq 94: no response (timeout)
+seq 97: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.488 ms
+seq 95: no response (timeout)
+seq 96: no response (timeout)
+seq 98: no response (timeout)
+seq 99: no response (timeout)
+seq 102: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.008 ms
+seq 100: no response (timeout)
+seq 103: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.546 ms
+seq 101: no response (timeout)
+seq 105: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.584 ms
+seq 104: no response (timeout)
+seq 106: no response (timeout)
+seq 107: no response (timeout)
+seq 108: no response (timeout)
+seq 109: no response (timeout)
+seq 112: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.616 ms
+seq 110: no response (timeout)
+seq 113: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.177 ms
+seq 111: no response (timeout)
+seq 115: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.800 ms
+seq 114: no response (timeout)
+seq 118: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.245 ms
+seq 116: no response (timeout)
+seq 117: no response (timeout)
+seq 119: no response (timeout)
+seq 120: no response (timeout)
+seq 121: no response (timeout)
+seq 122: no response (timeout)
+seq 123: no response (timeout)
+seq 126: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.613 ms
+seq 124: no response (timeout)
+seq 125: no response (timeout)
+seq 127: no response (timeout)
+seq 130: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.884 ms
+seq 128: no response (timeout)
+seq 131: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.248 ms
+seq 129: no response (timeout)
+seq 132: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.963 ms
+seq 135: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.115 ms
+seq 133: no response (timeout)
+seq 134: no response (timeout)
+seq 137: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.107 ms
+seq 138: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.696 ms
+seq 136: no response (timeout)
+seq 139: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.121 ms
+seq 141: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.228 ms
+seq 140: no response (timeout)
+seq 144: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.737 ms
+seq 142: no response (timeout)
+seq 145: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.339 ms
+seq 143: no response (timeout)
+seq 146: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.017 ms
+seq 147: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.777 ms
+seq 148: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.255 ms
+seq 151: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.828 ms
+seq 149: no response (timeout)
+seq 150: no response (timeout)
+seq 153: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.713 ms
+seq 154: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.262 ms
+seq 152: no response (timeout)
+seq 157: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.366 ms
+seq 155: no response (timeout)
+seq 156: no response (timeout)
+seq 160: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.602 ms
+seq 158: no response (timeout)
+seq 161: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.239 ms
+seq 159: no response (timeout)
+seq 162: no response (timeout)
+seq 163: no response (timeout)
+seq 164: no response (timeout)
+seq 167: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.525 ms
+seq 165: no response (timeout)
+seq 166: no response (timeout)
+seq 169: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.188 ms
+seq 168: no response (timeout)
+seq 170: no response (timeout)
+seq 171: no response (timeout)
+seq 172: no response (timeout)
+seq 173: no response (timeout)
+seq 174: no response (timeout)
+seq 175: no response (timeout)
+seq 176: no response (timeout)
+seq 177: no response (timeout)
+seq 178: no response (timeout)
+seq 179: no response (timeout)
+seq 180: no response (timeout)
+seq 181: no response (timeout)
+seq 182: no response (timeout)
+seq 185: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.821 ms
+seq 183: no response (timeout)
+seq 184: no response (timeout)
+seq 187: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.579 ms
+seq 186: no response (timeout)
+seq 188: no response (timeout)
+seq 191: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.151 ms
+seq 189: no response (timeout)
+seq 192: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.954 ms
+seq 190: no response (timeout)
+seq 195: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.110 ms
+seq 193: no response (timeout)
+seq 196: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.714 ms
+seq 194: no response (timeout)
+seq 199: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.060 ms
+seq 197: no response (timeout)
+seq 200: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.445 ms
+seq 198: no response (timeout)
+seq 202: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.206 ms
+seq 203: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.823 ms
+seq 201: no response (timeout)
+seq 205: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.004 ms
+seq 204: no response (timeout)
+seq 206: no response (timeout)
+seq 207: no response (timeout)
+seq 208: no response (timeout)
+seq 211: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.176 ms
+seq 209: no response (timeout)
+seq 212: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.278 ms
+seq 210: no response (timeout)
+seq 213: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.143 ms
+seq 216: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.019 ms
+seq 214: no response (timeout)
+seq 217: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.794 ms
+seq 215: no response (timeout)
+seq 219: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.837 ms
+seq 218: no response (timeout)
+seq 221: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.951 ms
+seq 220: no response (timeout)
+seq 222: no response (timeout)
+seq 225: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.549 ms
+seq 223: no response (timeout)
+seq 224: no response (timeout)
+seq 226: no response (timeout)
+seq 227: no response (timeout)
+seq 228: no response (timeout)
+seq 229: no response (timeout)
+seq 232: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.912 ms
+seq 230: no response (timeout)
+seq 231: no response (timeout)
+seq 233: no response (timeout)
+seq 236: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.290 ms
+seq 234: no response (timeout)
+seq 237: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.621 ms
+seq 235: no response (timeout)
+seq 238: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.196 ms
+seq 239: no response (timeout)
+seq 240: no response (timeout)
+seq 241: no response (timeout)
+seq 244: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.187 ms
+seq 242: no response (timeout)
+seq 243: no response (timeout)
+seq 245: no response (timeout)
+seq 246: no response (timeout)
+seq 247: no response (timeout)
+seq 248: no response (timeout)
+seq 249: no response (timeout)
+seq 250: no response (timeout)
+seq 251: no response (timeout)
+seq 252: no response (timeout)
+seq 253: no response (timeout)
+seq 254: no response (timeout)
+seq 257: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.586 ms
+seq 255: no response (timeout)
+seq 256: no response (timeout)
+seq 258: no response (timeout)
+seq 259: no response (timeout)
+seq 260: no response (timeout)
+seq 261: no response (timeout)
+seq 262: no response (timeout)
+seq 263: no response (timeout)
+seq 264: no response (timeout)
+seq 265: no response (timeout)
+seq 266: no response (timeout)
+seq 269: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.949 ms
+seq 267: no response (timeout)
+seq 270: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.524 ms
+seq 268: no response (timeout)
+seq 271: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.028 ms
+seq 273: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.077 ms
+seq 274: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.041 ms
+seq 272: no response (timeout)
+seq 275: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.072 ms
+seq 276: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.908 ms
+seq 277: no response (timeout)
+seq 280: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.793 ms
+seq 278: no response (timeout)
+seq 279: no response (timeout)
+seq 281: no response (timeout)
+seq 284: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.862 ms
+seq 282: no response (timeout)
+seq 285: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.926 ms
+seq 283: no response (timeout)
+seq 286: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.074 ms
+seq 289: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.714 ms
+seq 287: no response (timeout)
+seq 290: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.886 ms
+seq 288: no response (timeout)
+seq 291: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.810 ms
+seq 292: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.477 ms
+seq 295: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.807 ms
+seq 293: no response (timeout)
+seq 294: no response (timeout)
+seq 297: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.829 ms
+seq 296: no response (timeout)
+seq 299: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.365 ms
+seq 300: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.960 ms
+seq 298: no response (timeout)
+seq 301: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.964 ms
+seq 302: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.903 ms
+seq 303: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.944 ms
+seq 305: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.660 ms
+seq 304: no response (timeout)
+seq 306: no response (timeout)
+seq 307: no response (timeout)
+seq 308: no response (timeout)
+seq 309: no response (timeout)
+seq 312: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.764 ms
+seq 310: no response (timeout)
+seq 311: no response (timeout)
+seq 313: no response (timeout)
+seq 314: no response (timeout)
+seq 317: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.040 ms
+seq 315: no response (timeout)
+seq 316: no response (timeout)
+seq 320: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.959 ms
+seq 318: no response (timeout)
+seq 319: no response (timeout)
+seq 321: no response (timeout)
+seq 324: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.148 ms
+seq 322: no response (timeout)
+seq 323: no response (timeout)
+seq 325: no response (timeout)
+seq 326: no response (timeout)
+seq 327: no response (timeout)
+seq 330: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.597 ms
+seq 328: no response (timeout)
+seq 329: no response (timeout)
+seq 331: no response (timeout)
+seq 332: no response (timeout)
+seq 333: no response (timeout)
+seq 334: no response (timeout)
+seq 335: no response (timeout)
+seq 338: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.546 ms
+seq 336: no response (timeout)
+seq 337: no response (timeout)
+seq 340: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.697 ms
+seq 339: no response (timeout)
+seq 342: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.314 ms
+seq 343: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.690 ms
+seq 341: no response (timeout)
+seq 344: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.638 ms
+seq 345: no response (timeout)
+seq 346: no response (timeout)
+seq 347: no response (timeout)
+seq 348: no response (timeout)
+seq 349: no response (timeout)
+seq 352: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.791 ms
+seq 350: no response (timeout)
+seq 353: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.668 ms
+seq 351: no response (timeout)
+seq 354: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.520 ms
+seq 356: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.253 ms
+seq 357: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.724 ms
+seq 355: no response (timeout)
+seq 358: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.068 ms
+seq 359: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.903 ms
+seq 362: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.867 ms
+seq 360: no response (timeout)
+seq 361: no response (timeout)
+seq 363: no response (timeout)
+seq 366: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.271 ms
+seq 364: no response (timeout)
+seq 365: no response (timeout)
+seq 369: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.576 ms
+seq 367: no response (timeout)
+seq 370: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.964 ms
+seq 368: no response (timeout)
+seq 371: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.141 ms
+seq 372: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.583 ms
+seq 373: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.975 ms
+seq 374: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.073 ms
+seq 375: no response (timeout)
+seq 378: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.233 ms
+seq 376: no response (timeout)
+seq 377: no response (timeout)
+seq 380: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.624 ms
+seq 379: no response (timeout)
+seq 382: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.440 ms
+seq 381: no response (timeout)
+seq 383: no response (timeout)
+seq 384: no response (timeout)
+seq 385: no response (timeout)
+seq 386: no response (timeout)
+seq 387: no response (timeout)
+seq 390: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.981 ms
+seq 388: no response (timeout)
+seq 391: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.521 ms
+seq 389: no response (timeout)
+seq 392: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.971 ms
+seq 393: no response (timeout)
+seq 396: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.811 ms
+seq 394: no response (timeout)
+seq 397: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.403 ms
+seq 395: no response (timeout)
+seq 398: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.912 ms
+seq 399: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.159 ms
+seq 400: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.642 ms
+seq 402: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.475 ms
+seq 401: no response (timeout)
+seq 404: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.235 ms
+seq 405: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.076 ms
+seq 403: no response (timeout)
+seq 407: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.988 ms
+seq 406: no response (timeout)
+seq 408: no response (timeout)
+seq 409: no response (timeout)
+seq 412: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.874 ms
+seq 410: no response (timeout)
+seq 411: no response (timeout)
+seq 415: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.481 ms
+seq 413: no response (timeout)
+seq 414: no response (timeout)
+seq 416: no response (timeout)
+seq 417: no response (timeout)
+seq 420: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.007 ms
+seq 418: no response (timeout)
+seq 419: no response (timeout)
+seq 423: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.750 ms
+seq 421: no response (timeout)
+seq 422: no response (timeout)
+seq 425: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.758 ms
+seq 424: no response (timeout)
+seq 426: no response (timeout)
+seq 427: no response (timeout)
+seq 428: no response (timeout)
+seq 431: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.528 ms
+seq 429: no response (timeout)
+seq 432: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.222 ms
+seq 430: no response (timeout)
+seq 434: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.010 ms
+seq 435: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.769 ms
+seq 433: no response (timeout)
+seq 436: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.217 ms
+seq 437: no response (timeout)
+seq 438: no response (timeout)
+seq 439: no response (timeout)
+seq 442: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.706 ms
+seq 440: no response (timeout)
+seq 443: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.980 ms
+seq 441: no response (timeout)
+seq 446: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.119 ms
+seq 444: no response (timeout)
+seq 445: no response (timeout)
+seq 447: no response (timeout)
+seq 448: no response (timeout)
+seq 451: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.632 ms
+seq 449: no response (timeout)
+seq 452: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.869 ms
+seq 450: no response (timeout)
+seq 453: no response (timeout)
+seq 454: no response (timeout)
+seq 457: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.828 ms
+seq 455: no response (timeout)
+seq 456: no response (timeout)
+seq 459: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.016 ms
+seq 458: no response (timeout)
+seq 462: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.573 ms
+seq 460: no response (timeout)
+seq 463: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.635 ms
+seq 461: no response (timeout)
+seq 464: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.853 ms
+seq 467: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.939 ms
+seq 465: no response (timeout)
+seq 466: no response (timeout)
+seq 470: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.005 ms
+seq 468: no response (timeout)
+seq 471: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  92.346 ms
+seq 469: no response (timeout)
+seq 474: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.885 ms
+seq 472: no response (timeout)
+seq 473: no response (timeout)
+seq 477: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.883 ms
+seq 475: no response (timeout)
+seq 476: no response (timeout)
+seq 479: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.957 ms
+seq 478: no response (timeout)
+seq 480: no response (timeout)
+seq 481: no response (timeout)
+seq 482: no response (timeout)
+seq 483: no response (timeout)
+seq 484: no response (timeout)
+seq 485: no response (timeout)
+seq 486: no response (timeout)
+seq 487: no response (timeout)
+seq 488: no response (timeout)
+seq 489: no response (timeout)
+seq 492: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.608 ms
+seq 490: no response (timeout)
+seq 491: no response (timeout)
+seq 493: no response (timeout)
+seq 494: no response (timeout)
+seq 497: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.239 ms
+seq 495: no response (timeout)
+seq 496: no response (timeout)
+seq 498: no response (timeout)
+seq 501: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.873 ms
+seq 499: no response (timeout)
+seq 502: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.194 ms
+seq 500: no response (timeout)
+seq 503: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.331 ms
+seq 504: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.142 ms
+seq 505: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.714 ms
+seq 506: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.719 ms
+seq 507: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.862 ms
+seq 508: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.250 ms
+seq 509: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.061 ms
+seq 510: no response (timeout)
+seq 511: no response (timeout)
+seq 512: no response (timeout)
+seq 513: no response (timeout)
+seq 516: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.112 ms
+seq 514: no response (timeout)
+seq 517: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.759 ms
+seq 515: no response (timeout)
+seq 518: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.429 ms
+seq 519: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.485 ms
+seq 522: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.971 ms
+seq 520: no response (timeout)
+seq 523: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.329 ms
+seq 521: no response (timeout)
+seq 525: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.786 ms
+seq 524: no response (timeout)
+seq 528: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.750 ms
+seq 526: no response (timeout)
+seq 527: no response (timeout)
+seq 530: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.185 ms
+seq 531: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.596 ms
+seq 529: no response (timeout)
+seq 532: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.316 ms
+seq 534: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.844 ms
+seq 533: no response (timeout)
+seq 535: no response (timeout)
+seq 536: no response (timeout)
+seq 539: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.346 ms
+seq 537: no response (timeout)
+seq 538: no response (timeout)
+seq 540: no response (timeout)
+seq 541: no response (timeout)
+seq 544: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.886 ms
+seq 542: no response (timeout)
+seq 545: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.137 ms
+seq 543: no response (timeout)
+seq 546: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.755 ms
+seq 548: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.071 ms
+seq 547: no response (timeout)
+seq 551: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.013 ms
+seq 549: no response (timeout)
+seq 550: no response (timeout)
+seq 552: no response (timeout)
+seq 555: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.002 ms
+seq 553: no response (timeout)
+seq 554: no response (timeout)
+seq 557: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.484 ms
+seq 558: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.549 ms
+seq 556: no response (timeout)
+seq 559: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.352 ms
+seq 562: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.188 ms
+seq 560: no response (timeout)
+seq 561: no response (timeout)
+seq 565: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.932 ms
+seq 563: no response (timeout)
+seq 564: no response (timeout)
+seq 566: no response (timeout)
+seq 569: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.431 ms
+seq 567: no response (timeout)
+seq 570: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.050 ms
+seq 568: no response (timeout)
+seq 571: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.610 ms
+seq 572: no response (timeout)
+seq 573: no response (timeout)
+seq 574: no response (timeout)
+seq 575: no response (timeout)
+seq 578: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.856 ms
+seq 576: no response (timeout)
+seq 579: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.962 ms
+seq 577: no response (timeout)
+seq 581: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.815 ms
+seq 580: no response (timeout)
+seq 583: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.060 ms
+seq 582: no response (timeout)
+seq 584: no response (timeout)
+seq 585: no response (timeout)
+seq 588: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.816 ms
+seq 586: no response (timeout)
+seq 589: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.785 ms
+seq 587: no response (timeout)
+seq 592: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.642 ms
+seq 590: no response (timeout)
+seq 591: no response (timeout)
+seq 593: no response (timeout)
+seq 594: no response (timeout)
+seq 595: no response (timeout)
+seq 596: no response (timeout)
+seq 597: no response (timeout)
+seq 598: no response (timeout)
+seq 599: no response (timeout)
+seq 600: no response (timeout)
+seq 601: no response (timeout)
+seq 602: no response (timeout)
+seq 605: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.545 ms
+seq 603: no response (timeout)
+seq 606: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.093 ms
+seq 604: no response (timeout)
+seq 608: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.885 ms
+seq 609: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.105 ms
+seq 607: no response (timeout)
+seq 611: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.028 ms
+seq 610: no response (timeout)
+seq 614: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.373 ms
+seq 612: no response (timeout)
+seq 613: no response (timeout)
+seq 616: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.716 ms
+seq 617: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.981 ms
+seq 615: no response (timeout)
+seq 620: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.355 ms
+seq 618: no response (timeout)
+seq 619: no response (timeout)
+seq 622: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.454 ms
+seq 623: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.032 ms
+seq 621: no response (timeout)
+seq 624: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.144 ms
+seq 625: no response (timeout)
+seq 626: no response (timeout)
+seq 629: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.503 ms
+seq 627: no response (timeout)
+seq 630: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.727 ms
+seq 628: no response (timeout)
+seq 631: no response (timeout)
+seq 632: no response (timeout)
+seq 633: no response (timeout)
+seq 634: no response (timeout)
+seq 635: no response (timeout)
+seq 638: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.056 ms
+seq 636: no response (timeout)
+seq 637: no response (timeout)
+seq 639: no response (timeout)
+seq 640: no response (timeout)
+seq 641: no response (timeout)
+seq 642: no response (timeout)
+seq 645: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.624 ms
+seq 643: no response (timeout)
+seq 644: no response (timeout)
+seq 648: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.279 ms
+seq 646: no response (timeout)
+seq 649: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.989 ms
+seq 647: no response (timeout)
+seq 650: no response (timeout)
+seq 651: no response (timeout)
+seq 652: no response (timeout)
+seq 653: no response (timeout)
+seq 654: no response (timeout)
+seq 655: no response (timeout)
+seq 656: no response (timeout)
+seq 657: no response (timeout)
+seq 658: no response (timeout)
+seq 659: no response (timeout)
+seq 660: no response (timeout)
+seq 661: no response (timeout)
+seq 662: no response (timeout)
+seq 663: no response (timeout)
+seq 664: no response (timeout)
+seq 665: no response (timeout)
+seq 666: no response (timeout)
+seq 667: no response (timeout)
+seq 670: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.095 ms
+seq 668: no response (timeout)
+seq 669: no response (timeout)
+seq 671: no response (timeout)
+seq 674: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.183 ms
+seq 672: no response (timeout)
+seq 673: no response (timeout)
+seq 675: no response (timeout)
+seq 678: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  79.272 ms
+seq 676: no response (timeout)
+seq 677: no response (timeout)
+seq 680: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.901 ms
+seq 681: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.308 ms
+seq 679: no response (timeout)
+seq 682: no response (timeout)
+seq 683: no response (timeout)
+seq 684: no response (timeout)
+seq 685: no response (timeout)
+seq 686: no response (timeout)
+seq 689: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.202 ms
+seq 687: no response (timeout)
+seq 688: no response (timeout)
+seq 690: no response (timeout)
+seq 691: no response (timeout)
+seq 692: no response (timeout)
+seq 693: no response (timeout)
+seq 694: no response (timeout)
+seq 695: no response (timeout)
+seq 696: no response (timeout)
+seq 699: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.173 ms
+seq 697: no response (timeout)
+seq 698: no response (timeout)
+seq 700: no response (timeout)
+seq 701: no response (timeout)
+seq 702: no response (timeout)
+seq 703: no response (timeout)
+seq 704: no response (timeout)
+seq 705: no response (timeout)
+seq 706: no response (timeout)
+seq 707: no response (timeout)
+seq 710: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.055 ms
+seq 708: no response (timeout)
+seq 711: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.192 ms
+seq 709: no response (timeout)
+seq 712: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.080 ms
+seq 714: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.178 ms
+seq 713: no response (timeout)
+seq 717: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.118 ms
+seq 715: no response (timeout)
+seq 716: no response (timeout)
+seq 719: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.084 ms
+seq 718: no response (timeout)
+seq 722: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.060 ms
+seq 720: no response (timeout)
+seq 721: no response (timeout)
+seq 723: no response (timeout)
+seq 724: no response (timeout)
+seq 727: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.597 ms
+seq 725: no response (timeout)
+seq 726: no response (timeout)
+seq 728: no response (timeout)
+seq 729: no response (timeout)
+seq 730: no response (timeout)
+seq 731: no response (timeout)
+seq 732: no response (timeout)
+seq 733: no response (timeout)
+seq 734: no response (timeout)
+seq 735: no response (timeout)
+seq 738: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.884 ms
+seq 736: no response (timeout)
+seq 737: no response (timeout)
+seq 741: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.907 ms
+seq 739: no response (timeout)
+seq 740: no response (timeout)
+seq 743: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.152 ms
+seq 744: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.584 ms
+seq 742: no response (timeout)
+seq 745: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.430 ms
+seq 748: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.041 ms
+seq 746: no response (timeout)
+seq 749: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.948 ms
+seq 747: no response (timeout)
+seq 750: no response (timeout)
+seq 751: no response (timeout)
+seq 754: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  90.681 ms
+seq 752: no response (timeout)
+seq 753: no response (timeout)
+seq 756: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.169 ms
+seq 755: no response (timeout)
+seq 759: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.978 ms
+seq 757: no response (timeout)
+seq 758: no response (timeout)
+seq 762: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.004 ms
+seq 760: no response (timeout)
+seq 761: no response (timeout)
+seq 765: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.972 ms
+seq 763: no response (timeout)
+seq 766: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.159 ms
+seq 764: no response (timeout)
+seq 767: no response (timeout)
+seq 768: no response (timeout)
+seq 769: no response (timeout)
+seq 770: no response (timeout)
+seq 771: no response (timeout)
+seq 772: no response (timeout)
+seq 773: no response (timeout)
+seq 774: no response (timeout)
+seq 775: no response (timeout)
+seq 776: no response (timeout)
+seq 777: no response (timeout)
+seq 778: no response (timeout)
+seq 779: no response (timeout)
+seq 780: no response (timeout)
+seq 781: no response (timeout)
+seq 784: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  87.994 ms
+seq 782: no response (timeout)
+seq 783: no response (timeout)
+seq 786: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.828 ms
+seq 785: no response (timeout)
+seq 787: no response (timeout)
+seq 788: no response (timeout)
+seq 791: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.269 ms
+seq 789: no response (timeout)
+seq 792: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.157 ms
+seq 790: no response (timeout)
+seq 793: no response (timeout)
+seq 796: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.510 ms
+seq 794: no response (timeout)
+seq 797: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.235 ms
+seq 795: no response (timeout)
+seq 798: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.073 ms
+seq 799: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.884 ms
+seq 800: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.167 ms
+seq 801: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.033 ms
+seq 803: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.811 ms
+seq 802: no response (timeout)
+seq 804: no response (timeout)
+seq 805: no response (timeout)
+seq 808: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.868 ms
+seq 806: no response (timeout)
+seq 809: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.680 ms
+seq 807: no response (timeout)
+seq 810: no response (timeout)
+seq 811: no response (timeout)
+seq 812: no response (timeout)
+seq 815: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.191 ms
+seq 813: no response (timeout)
+seq 814: no response (timeout)
+seq 818: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.830 ms
+seq 816: no response (timeout)
+seq 819: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.953 ms
+seq 817: no response (timeout)
+seq 821: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.960 ms
+seq 820: no response (timeout)
+seq 824: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.073 ms
+seq 822: no response (timeout)
+seq 823: no response (timeout)
+seq 825: no response (timeout)
+seq 826: no response (timeout)
+seq 827: no response (timeout)
+seq 828: no response (timeout)
+seq 829: no response (timeout)
+seq 830: no response (timeout)
+seq 833: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.208 ms
+seq 831: no response (timeout)
+seq 832: no response (timeout)
+seq 835: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.296 ms
+seq 836: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.270 ms
+seq 834: no response (timeout)
+seq 837: no response (timeout)
+seq 840: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.463 ms
+seq 838: no response (timeout)
+seq 839: no response (timeout)
+seq 842: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.800 ms
+seq 841: no response (timeout)
+seq 843: no response (timeout)
+seq 844: no response (timeout)
+seq 845: no response (timeout)
+seq 846: no response (timeout)
+seq 847: no response (timeout)
+seq 850: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.013 ms
+seq 848: no response (timeout)
+seq 851: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.196 ms
+seq 849: no response (timeout)
+seq 852: no response (timeout)
+seq 853: no response (timeout)
+seq 854: no response (timeout)
+seq 857: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.329 ms
+seq 855: no response (timeout)
+seq 858: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.974 ms
+seq 856: no response (timeout)
+seq 861: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.783 ms
+seq 859: no response (timeout)
+seq 862: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.502 ms
+seq 860: no response (timeout)
+seq 865: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.005 ms
+seq 863: no response (timeout)
+seq 866: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.104 ms
+seq 864: no response (timeout)
+seq 868: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.908 ms
+seq 867: no response (timeout)
+seq 870: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.063 ms
+seq 869: no response (timeout)
+seq 872: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.754 ms
+seq 871: no response (timeout)
+seq 873: no response (timeout)
+seq 876: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.311 ms
+seq 874: no response (timeout)
+seq 877: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.801 ms
+seq 875: no response (timeout)
+seq 878: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.043 ms
+seq 879: no response (timeout)
+seq 880: no response (timeout)
+seq 883: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.327 ms
+seq 881: no response (timeout)
+seq 882: no response (timeout)
+seq 884: no response (timeout)
+seq 885: no response (timeout)
+seq 886: no response (timeout)
+seq 887: no response (timeout)
+seq 890: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.671 ms
+seq 888: no response (timeout)
+seq 889: no response (timeout)
+seq 891: no response (timeout)
+seq 892: no response (timeout)
+seq 895: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.021 ms
+seq 893: no response (timeout)
+seq 896: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.486 ms
+seq 894: no response (timeout)
+seq 897: no response (timeout)
+seq 898: no response (timeout)
+seq 899: no response (timeout)
+seq 902: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.835 ms
+seq 900: no response (timeout)
+seq 901: no response (timeout)
+seq 903: no response (timeout)
+seq 906: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  74.450 ms
+seq 904: no response (timeout)
+seq 907: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.131 ms
+seq 905: no response (timeout)
+seq 909: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.030 ms
+seq 908: no response (timeout)
+seq 911: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.184 ms
+seq 910: no response (timeout)
+seq 912: no response (timeout)
+seq 915: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.845 ms
+seq 913: no response (timeout)
+seq 914: no response (timeout)
+seq 918: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.806 ms
+seq 916: no response (timeout)
+seq 917: no response (timeout)
+seq 919: no response (timeout)
+seq 920: no response (timeout)
+seq 923: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.937 ms
+seq 921: no response (timeout)
+seq 922: no response (timeout)
+seq 925: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.306 ms
+seq 924: no response (timeout)
+seq 927: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.254 ms
+seq 928: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.794 ms
+seq 926: no response (timeout)
+seq 929: no response (timeout)
+seq 930: no response (timeout)
+seq 931: no response (timeout)
+seq 932: no response (timeout)
+seq 933: no response (timeout)
+seq 936: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.086 ms
+seq 934: no response (timeout)
+seq 937: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.702 ms
+seq 935: no response (timeout)
+seq 938: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.919 ms
+seq 939: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.963 ms
+seq 940: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.906 ms
+seq 941: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.533 ms
+seq 942: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.906 ms
+seq 943: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.149 ms
+seq 944: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.003 ms
+seq 945: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.021 ms
+seq 946: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.899 ms
+seq 948: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.986 ms
+seq 949: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.076 ms
+seq 947: no response (timeout)
+seq 950: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.315 ms
+seq 951: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.262 ms
+seq 952: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.079 ms
+seq 954: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.395 ms
+seq 955: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.947 ms
+seq 953: no response (timeout)
+seq 956: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  74.283 ms
+seq 958: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.837 ms
+seq 959: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.581 ms
+seq 957: no response (timeout)
+seq 961: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.575 ms
+seq 960: no response (timeout)
+seq 962: no response (timeout)
+seq 963: no response (timeout)
+seq 966: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.611 ms
+seq 964: no response (timeout)
+seq 965: no response (timeout)
+seq 967: no response (timeout)
+seq 968: no response (timeout)
+seq 969: no response (timeout)
+seq 970: no response (timeout)
+seq 971: no response (timeout)
+seq 972: no response (timeout)
+seq 973: no response (timeout)
+seq 974: no response (timeout)
+seq 975: no response (timeout)
+seq 976: no response (timeout)
+seq 979: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.058 ms
+seq 977: no response (timeout)
+seq 978: no response (timeout)
+seq 980: no response (timeout)
+seq 981: no response (timeout)
+seq 982: no response (timeout)
+seq 985: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.936 ms
+seq 983: no response (timeout)
+seq 986: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  71.778 ms
+seq 984: no response (timeout)
+seq 987: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  73.867 ms
+seq 988: no response (timeout)
+seq 991: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.920 ms
+seq 989: no response (timeout)
+seq 990: no response (timeout)
+seq 993: tcp response from salt.planetlab.cs.umd.edu (128.8.126.111) [open]  72.280 ms
+seq 992: no response (timeout)

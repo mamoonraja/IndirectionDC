@@ -1,0 +1,206 @@
+
+Starting Nping 0.6.40 ( http://nmap.org/nping ) at 2016-02-21 17:06 EST
+SENT (0.0103s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (0.0233s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (1.0127s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (1.0259s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (2.0152s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (2.0245s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (3.0179s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (3.0273s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (4.0206s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (4.0278s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (5.0232s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (5.0336s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (6.0270s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (6.0433s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (7.0297s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (7.0393s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (8.0326s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (8.0419s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (9.0353s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (9.0475s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (10.0379s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (10.0510s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (11.0413s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (11.0520s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (12.0444s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (12.0544s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (13.0473s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (13.1192s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (14.0505s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (14.0597s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (15.0531s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (15.0622s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (16.0565s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (16.0722s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (17.0595s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (17.0691s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (18.0624s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (18.0719s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (19.0652s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (19.0749s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (20.0681s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (20.0788s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (21.0712s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (21.0908s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (22.0742s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (22.0863s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (23.0766s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (23.0861s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (24.0794s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (24.0901s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (25.0826s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (25.0956s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (26.0859s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (26.0953s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (27.0886s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (27.0989s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (28.0913s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (28.1008s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (29.0942s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (29.1035s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (30.0969s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (30.1075s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (31.0998s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (31.1099s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (32.1023s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (32.1115s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (33.1048s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (33.1148s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (34.1082s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (34.1194s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (35.1107s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (35.1262s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (36.1144s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (36.1241s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (37.1175s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (37.1268s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (38.1201s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (38.1303s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (39.1227s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (39.1312s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (40.1256s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (40.1436s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (41.1290s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (41.1401s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (42.1314s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (42.1412s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (43.1345s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (43.1445s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (44.1377s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (44.1495s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (45.1409s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (45.1547s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (46.1440s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (46.1535s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (47.1469s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (47.1571s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (48.1495s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (48.1637s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (49.1515s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (49.1616s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (50.1541s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (50.1638s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (51.1572s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (51.1669s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (52.1603s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (52.1735s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (53.1629s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (53.1726s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (54.1660s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (54.1787s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (55.1691s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (55.1790s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (56.1733s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (56.1897s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (57.1760s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (57.1857s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (58.1791s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (58.1890s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (59.1824s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (59.1955s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (60.1849s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (60.1950s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (61.1883s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (61.1979s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (62.1912s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (62.2032s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (63.1936s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (63.2033s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (64.1967s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (64.2073s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (65.1997s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (65.2092s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (66.2026s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (66.2124s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (67.2058s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (67.2151s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (68.2076s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (68.2173s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (69.2107s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (69.2251s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (70.2134s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (70.2234s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (71.2168s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (71.2266s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (72.2200s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (72.2292s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (73.2225s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (73.2321s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (74.2255s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (74.2424s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (75.2287s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (75.2380s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (76.2324s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (76.2419s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (77.2351s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (77.2445s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (78.2379s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (78.2488s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (79.2412s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (79.2668s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (80.2442s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (80.2535s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (81.2478s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (81.2575s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (82.2509s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (82.2602s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (83.2536s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (83.2670s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (84.2564s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (84.2739s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (85.2583s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (85.2689s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (86.2613s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (86.2709s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (87.2643s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (87.2740s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (88.2664s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (88.2760s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (89.2684s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (89.2778s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (90.2702s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (90.2795s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (91.2729s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (91.2822s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (92.2755s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (92.2850s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (93.2783s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (93.2888s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (94.2812s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (94.2906s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (95.2840s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (95.2932s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (96.2876s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (96.3023s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (97.2906s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (97.3090s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (98.2934s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (98.3070s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+SENT (99.2964s) Starting TCP Handshake > www.google.com:80 (216.58.219.228:80)
+RECV (99.3073s) Handshake with www.google.com:80 (216.58.219.228:80) completed
+ 
+Max rtt: 71.864ms | Min rtt: 7.192ms | Avg rtt: 11.780ms
+TCP connection attempts: 100 | Successful connections: 100 | Failed: 0 (0.00%)
+Nping done: 1 IP address pinged in 99.31 seconds

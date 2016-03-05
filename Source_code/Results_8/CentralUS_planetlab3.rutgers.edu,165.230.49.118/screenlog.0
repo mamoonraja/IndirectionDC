@@ -1,0 +1,999 @@
+seq 0: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.406 ms
+seq 2: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.887 ms
+seq 3: tcp response from planetlab3.rutgers.edu [open]  36.382 ms
+seq 4: tcp response from planetlab3.rutgers.edu [open]  37.429 ms
+seq 5: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.937 ms
+seq 1: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.849 ms
+seq 6: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.445 ms
+seq 7: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.972 ms
+seq 8: tcp response from planetlab3.rutgers.edu [open]  38.716 ms
+seq 9: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.947 ms
+seq 10: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.966 ms
+seq 11: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.115 ms
+seq 12: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.535 ms
+seq 13: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.419 ms
+seq 14: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.129 ms
+seq 15: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.819 ms
+seq 16: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.529 ms
+seq 17: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.823 ms
+seq 18: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.596 ms
+seq 19: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.091 ms
+seq 20: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.065 ms
+seq 21: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.864 ms
+seq 22: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.464 ms
+seq 23: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.081 ms
+seq 24: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.906 ms
+seq 25: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.243 ms
+seq 26: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.675 ms
+seq 27: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.751 ms
+seq 28: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.296 ms
+seq 29: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.592 ms
+seq 30: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.836 ms
+seq 31: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.686 ms
+seq 32: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.447 ms
+seq 33: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.648 ms
+seq 34: tcp response from planetlab3.rutgers.edu [open]  37.844 ms
+seq 35: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.673 ms
+seq 36: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.696 ms
+seq 37: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.535 ms
+seq 38: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.103 ms
+seq 39: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.682 ms
+seq 40: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.974 ms
+seq 42: tcp response from planetlab3.rutgers.edu [open]  37.466 ms
+seq 43: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.208 ms
+seq 41: no response (timeout)
+seq 44: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.948 ms
+seq 45: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.560 ms
+seq 46: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.574 ms
+seq 47: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.134 ms
+seq 48: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.442 ms
+seq 49: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.004 ms
+seq 50: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.513 ms
+seq 51: tcp response from planetlab3.rutgers.edu [open]  37.932 ms
+seq 52: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.432 ms
+seq 53: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.582 ms
+seq 54: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.994 ms
+seq 55: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.778 ms
+seq 57: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.818 ms
+seq 58: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.507 ms
+seq 56: no response (timeout)
+seq 59: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.455 ms
+seq 60: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.720 ms
+seq 61: tcp response from 165.230.49.118 (165.230.49.118) [open]  40.714 ms
+seq 62: tcp response from planetlab3.rutgers.edu [open]  37.320 ms
+seq 63: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.494 ms
+seq 64: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.182 ms
+seq 65: tcp response from 165.230.49.118 [open]  37.937 ms
+seq 66: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.726 ms
+seq 67: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.580 ms
+seq 68: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.040 ms
+seq 69: tcp response from planetlab3.rutgers.edu [open]  38.793 ms
+seq 70: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.575 ms
+seq 71: tcp response from planetlab3.rutgers.edu [open]  38.549 ms
+seq 72: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.729 ms
+seq 73: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.162 ms
+seq 74: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.423 ms
+seq 75: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.633 ms
+seq 76: tcp response from planetlab3.rutgers.edu [open]  37.613 ms
+seq 77: tcp response from planetlab3.rutgers.edu [open]  36.655 ms
+seq 78: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.863 ms
+seq 79: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.170 ms
+seq 80: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.143 ms
+seq 81: tcp response from planetlab3.rutgers.edu [open]  37.946 ms
+seq 82: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.279 ms
+seq 83: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.609 ms
+seq 85: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.872 ms
+seq 86: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.324 ms
+seq 87: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.223 ms
+seq 88: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.096 ms
+seq 84: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.775 ms
+seq 89: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.518 ms
+seq 90: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.842 ms
+seq 91: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.626 ms
+seq 92: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.104 ms
+seq 93: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.744 ms
+seq 94: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.627 ms
+seq 95: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.748 ms
+seq 96: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.118 ms
+seq 97: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.500 ms
+seq 98: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.677 ms
+seq 99: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.635 ms
+seq 100: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.012 ms
+seq 101: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.276 ms
+seq 102: tcp response from planetlab3.rutgers.edu [open]  37.853 ms
+seq 103: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.857 ms
+seq 104: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.572 ms
+seq 105: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.533 ms
+seq 106: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.953 ms
+seq 107: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.641 ms
+seq 108: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.894 ms
+seq 109: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.988 ms
+seq 110: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.855 ms
+seq 111: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.545 ms
+seq 112: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.900 ms
+seq 113: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.857 ms
+seq 114: tcp response from 165.230.49.118 [open]  40.887 ms
+seq 115: tcp response from planetlab3.rutgers.edu [open]  38.638 ms
+seq 116: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.939 ms
+seq 117: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.103 ms
+seq 118: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  40.197 ms
+seq 119: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.555 ms
+seq 120: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.692 ms
+seq 121: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.726 ms
+seq 122: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  40.606 ms
+seq 123: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.701 ms
+seq 124: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.971 ms
+seq 125: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.827 ms
+seq 126: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.463 ms
+seq 127: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.215 ms
+seq 128: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.734 ms
+seq 129: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.001 ms
+seq 130: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.554 ms
+seq 131: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.302 ms
+seq 132: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.170 ms
+seq 133: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.794 ms
+seq 134: tcp response from planetlab3.rutgers.edu [open]  36.573 ms
+seq 135: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.206 ms
+seq 136: tcp response from 165.230.49.118 [open]  38.018 ms
+seq 137: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.127 ms
+seq 138: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.139 ms
+seq 139: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.677 ms
+seq 140: tcp response from planetlab3.rutgers.edu [open]  36.724 ms
+seq 141: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.808 ms
+seq 142: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.463 ms
+seq 143: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.604 ms
+seq 144: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.548 ms
+seq 145: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.769 ms
+seq 146: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.561 ms
+seq 147: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.456 ms
+seq 148: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.630 ms
+seq 149: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.865 ms
+seq 150: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.086 ms
+seq 151: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.056 ms
+seq 152: tcp response from planetlab3.rutgers.edu [open]  38.764 ms
+seq 153: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.725 ms
+seq 154: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.332 ms
+seq 155: tcp response from planetlab3.rutgers.edu [open]  37.221 ms
+seq 156: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.881 ms
+seq 157: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.519 ms
+seq 158: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.279 ms
+seq 159: tcp response from planetlab3.rutgers.edu [open]  38.064 ms
+seq 160: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.868 ms
+seq 161: tcp response from planetlab3.rutgers.edu [open]  38.164 ms
+seq 162: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.186 ms
+seq 164: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.919 ms
+seq 165: tcp response from planetlab3.rutgers.edu [open]  37.680 ms
+seq 163: no response (timeout)
+seq 166: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.061 ms
+seq 167: tcp response from planetlab3.rutgers.edu [open]  39.454 ms
+seq 168: tcp response from planetlab3.rutgers.edu [open]  38.756 ms
+seq 169: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.035 ms
+seq 170: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.511 ms
+seq 171: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.472 ms
+seq 172: tcp response from planetlab3.rutgers.edu [open]  40.243 ms
+seq 173: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.709 ms
+seq 174: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.185 ms
+seq 175: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.494 ms
+seq 176: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.097 ms
+seq 177: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.639 ms
+seq 178: tcp response from planetlab3.rutgers.edu [open]  38.113 ms
+seq 179: tcp response from planetlab3.rutgers.edu [open]  38.947 ms
+seq 180: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.586 ms
+seq 181: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.765 ms
+seq 182: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.401 ms
+seq 183: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.325 ms
+seq 184: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.586 ms
+seq 185: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.537 ms
+seq 186: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.444 ms
+seq 187: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.421 ms
+seq 188: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.893 ms
+seq 189: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.707 ms
+seq 190: tcp response from 165.230.49.118 (165.230.49.118) [open]  41.107 ms
+seq 191: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.711 ms
+seq 192: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.044 ms
+seq 193: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.975 ms
+seq 194: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.092 ms
+seq 195: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.456 ms
+seq 196: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.126 ms
+seq 197: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.914 ms
+seq 198: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.551 ms
+seq 199: tcp response from planetlab3.rutgers.edu [open]  37.105 ms
+seq 200: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.168 ms
+seq 201: tcp response from 165.230.49.118 (165.230.49.118) [open]  41.640 ms
+seq 202: tcp response from planetlab3.rutgers.edu [open]  39.038 ms
+seq 203: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.974 ms
+seq 204: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.945 ms
+seq 205: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.350 ms
+seq 206: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  40.605 ms
+seq 207: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.703 ms
+seq 208: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.637 ms
+seq 209: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.728 ms
+seq 210: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.786 ms
+seq 211: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.978 ms
+seq 212: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.800 ms
+seq 213: tcp response from planetlab3.rutgers.edu [open]  38.919 ms
+seq 214: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.157 ms
+seq 215: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.030 ms
+seq 216: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.150 ms
+seq 217: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.536 ms
+seq 218: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.856 ms
+seq 219: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.574 ms
+seq 220: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.673 ms
+seq 221: tcp response from 165.230.49.118 [open]  39.663 ms
+seq 222: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.130 ms
+seq 223: tcp response from planetlab3.rutgers.edu [open]  38.238 ms
+seq 224: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.219 ms
+seq 225: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.814 ms
+seq 226: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.810 ms
+seq 227: tcp response from 165.230.49.118 [open]  38.672 ms
+seq 228: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.483 ms
+seq 229: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.355 ms
+seq 230: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.958 ms
+seq 231: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.615 ms
+seq 232: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.632 ms
+seq 234: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.356 ms
+seq 235: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.442 ms
+seq 233: no response (timeout)
+seq 236: tcp response from planetlab3.rutgers.edu [open]  38.737 ms
+seq 237: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.559 ms
+seq 238: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.466 ms
+seq 239: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.617 ms
+seq 240: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.576 ms
+seq 241: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.263 ms
+seq 242: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.097 ms
+seq 243: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.702 ms
+seq 244: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.709 ms
+seq 245: tcp response from planetlab3.rutgers.edu [open]  38.581 ms
+seq 246: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.747 ms
+seq 247: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.617 ms
+seq 248: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.647 ms
+seq 249: tcp response from 165.230.49.118 [open]  37.520 ms
+seq 250: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.717 ms
+seq 252: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.494 ms
+seq 253: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.599 ms
+seq 251: no response (timeout)
+seq 254: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.468 ms
+seq 255: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.948 ms
+seq 256: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.092 ms
+seq 257: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.579 ms
+seq 258: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.504 ms
+seq 259: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.937 ms
+seq 260: tcp response from planetlab3.rutgers.edu [open]  38.999 ms
+seq 261: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.596 ms
+seq 262: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.332 ms
+seq 263: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.753 ms
+seq 264: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.476 ms
+seq 265: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.649 ms
+seq 267: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.163 ms
+seq 268: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.685 ms
+seq 266: no response (timeout)
+seq 269: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.148 ms
+seq 270: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.655 ms
+seq 271: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.954 ms
+seq 272: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.526 ms
+seq 273: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.895 ms
+seq 274: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.565 ms
+seq 275: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.540 ms
+seq 276: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.695 ms
+seq 277: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.088 ms
+seq 278: tcp response from 165.230.49.118 (165.230.49.118) [open]  39.950 ms
+seq 279: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.526 ms
+seq 280: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.640 ms
+seq 281: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.505 ms
+seq 282: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.800 ms
+seq 283: tcp response from planetlab3.rutgers.edu [open]  37.501 ms
+seq 284: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.247 ms
+seq 285: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.067 ms
+seq 286: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.138 ms
+seq 287: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.500 ms
+seq 288: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.433 ms
+seq 289: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.765 ms
+seq 290: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.507 ms
+seq 291: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.701 ms
+seq 292: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.774 ms
+seq 293: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.914 ms
+seq 294: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.613 ms
+seq 295: tcp response from 165.230.49.118 [open]  39.262 ms
+seq 296: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.750 ms
+seq 297: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.594 ms
+seq 298: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.789 ms
+seq 299: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.806 ms
+seq 300: tcp response from planetlab3.rutgers.edu [open]  38.164 ms
+seq 301: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.255 ms
+seq 302: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.160 ms
+seq 303: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.217 ms
+seq 304: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.843 ms
+seq 305: tcp response from 165.230.49.118 [open]  36.437 ms
+seq 306: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.249 ms
+seq 307: tcp response from planetlab3.rutgers.edu [open]  38.174 ms
+seq 308: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.476 ms
+seq 309: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.967 ms
+seq 310: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.680 ms
+seq 311: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.564 ms
+seq 312: tcp response from 165.230.49.118 [open]  37.957 ms
+seq 313: tcp response from planetlab3.rutgers.edu [open]  39.334 ms
+seq 314: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.457 ms
+seq 315: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.235 ms
+seq 316: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.509 ms
+seq 317: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.084 ms
+seq 318: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.712 ms
+seq 319: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.576 ms
+seq 320: tcp response from planetlab3.rutgers.edu [open]  36.344 ms
+seq 321: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.435 ms
+seq 322: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.910 ms
+seq 323: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.247 ms
+seq 324: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.263 ms
+seq 325: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.924 ms
+seq 326: tcp response from 165.230.49.118 [open]  38.318 ms
+seq 327: tcp response from 165.230.49.118 [open]  37.793 ms
+seq 328: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.911 ms
+seq 329: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.588 ms
+seq 330: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.891 ms
+seq 331: tcp response from planetlab3.rutgers.edu [open]  37.422 ms
+seq 332: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.708 ms
+seq 333: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.074 ms
+seq 334: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.487 ms
+seq 335: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.173 ms
+seq 336: tcp response from planetlab3.rutgers.edu [open]  38.109 ms
+seq 337: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.589 ms
+seq 338: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.083 ms
+seq 339: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.080 ms
+seq 340: tcp response from planetlab3.rutgers.edu [open]  37.519 ms
+seq 341: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.847 ms
+seq 342: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.680 ms
+seq 343: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.909 ms
+seq 344: tcp response from planetlab3.rutgers.edu [open]  37.695 ms
+seq 345: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.616 ms
+seq 346: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.554 ms
+seq 347: tcp response from planetlab3.rutgers.edu [open]  36.891 ms
+seq 348: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.837 ms
+seq 349: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.666 ms
+seq 350: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.541 ms
+seq 351: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.374 ms
+seq 352: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.012 ms
+seq 353: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.038 ms
+seq 354: tcp response from planetlab3.rutgers.edu [open]  37.732 ms
+seq 355: tcp response from 165.230.49.118 (165.230.49.118) [open]  59.596 ms
+seq 356: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.285 ms
+seq 358: tcp response from planetlab3.rutgers.edu [open]  66.742 ms
+seq 359: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.709 ms
+seq 357: no response (timeout)
+seq 360: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.979 ms
+seq 361: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.285 ms
+seq 362: tcp response from planetlab3.rutgers.edu [open]  37.474 ms
+seq 363: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.665 ms
+seq 364: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.023 ms
+seq 365: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.144 ms
+seq 366: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.399 ms
+seq 367: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.612 ms
+seq 368: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.936 ms
+seq 369: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.776 ms
+seq 370: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.351 ms
+seq 371: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.032 ms
+seq 372: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.508 ms
+seq 373: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.190 ms
+seq 374: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.375 ms
+seq 375: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.167 ms
+seq 376: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.859 ms
+seq 377: tcp response from planetlab3.rutgers.edu [open]  38.430 ms
+seq 378: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.990 ms
+seq 379: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.842 ms
+seq 380: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.683 ms
+seq 381: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.772 ms
+seq 382: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.617 ms
+seq 383: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.981 ms
+seq 384: tcp response from planetlab3.rutgers.edu [open]  68.878 ms
+seq 385: tcp response from planetlab3.rutgers.edu [open]  81.545 ms
+seq 386: tcp response from 165.230.49.118 (165.230.49.118) [open]  50.869 ms
+seq 387: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.814 ms
+seq 388: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.662 ms
+seq 389: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.702 ms
+seq 390: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.836 ms
+seq 391: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.405 ms
+seq 392: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.365 ms
+seq 393: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.832 ms
+seq 394: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.909 ms
+seq 395: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.513 ms
+seq 396: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.731 ms
+seq 397: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.035 ms
+seq 398: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.805 ms
+seq 399: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.633 ms
+seq 400: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.201 ms
+seq 401: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.847 ms
+seq 402: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.524 ms
+seq 404: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.161 ms
+seq 405: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.644 ms
+seq 403: no response (timeout)
+seq 406: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.852 ms
+seq 407: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.389 ms
+seq 408: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.569 ms
+seq 409: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.908 ms
+seq 410: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.870 ms
+seq 411: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.633 ms
+seq 412: tcp response from 165.230.49.118 (165.230.49.118) [open]  40.498 ms
+seq 413: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.632 ms
+seq 414: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.444 ms
+seq 415: tcp response from planetlab3.rutgers.edu [open]  38.557 ms
+seq 416: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.228 ms
+seq 417: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.172 ms
+seq 418: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.842 ms
+seq 419: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.386 ms
+seq 420: tcp response from planetlab3.rutgers.edu [open]  38.314 ms
+seq 421: tcp response from 165.230.49.118 [open]  37.539 ms
+seq 422: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.170 ms
+seq 423: tcp response from planetlab3.rutgers.edu [open]  37.908 ms
+seq 424: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.475 ms
+seq 425: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  98.120 ms
+seq 426: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  92.829 ms
+seq 427: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  89.263 ms
+seq 428: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.662 ms
+seq 429: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.296 ms
+seq 430: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.589 ms
+seq 431: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.261 ms
+seq 432: tcp response from planetlab3.rutgers.edu [open]  38.232 ms
+seq 433: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.756 ms
+seq 434: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.833 ms
+seq 435: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.535 ms
+seq 436: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.139 ms
+seq 437: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.432 ms
+seq 438: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.737 ms
+seq 439: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.365 ms
+seq 440: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.870 ms
+seq 441: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.425 ms
+seq 442: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.640 ms
+seq 443: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.743 ms
+seq 444: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.812 ms
+seq 445: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.702 ms
+seq 446: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.559 ms
+seq 447: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.377 ms
+seq 448: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  40.200 ms
+seq 449: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.741 ms
+seq 450: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.144 ms
+seq 451: tcp response from planetlab3.rutgers.edu [open]  38.262 ms
+seq 452: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.597 ms
+seq 453: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.134 ms
+seq 454: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.622 ms
+seq 455: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.879 ms
+seq 456: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.593 ms
+seq 457: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.890 ms
+seq 458: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.596 ms
+seq 459: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.458 ms
+seq 460: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.308 ms
+seq 461: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.023 ms
+seq 462: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.891 ms
+seq 463: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.901 ms
+seq 464: tcp response from planetlab3.rutgers.edu [open]  36.713 ms
+seq 465: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.705 ms
+seq 466: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.384 ms
+seq 467: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.771 ms
+seq 468: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.946 ms
+seq 469: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.874 ms
+seq 470: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.686 ms
+seq 471: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.700 ms
+seq 472: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.878 ms
+seq 473: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.721 ms
+seq 474: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.027 ms
+seq 475: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.616 ms
+seq 476: tcp response from planetlab3.rutgers.edu [open]  37.692 ms
+seq 478: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.024 ms
+seq 479: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.700 ms
+seq 477: no response (timeout)
+seq 480: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.994 ms
+seq 481: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.584 ms
+seq 482: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.072 ms
+seq 483: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.698 ms
+seq 484: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.576 ms
+seq 485: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.153 ms
+seq 486: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.097 ms
+seq 487: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.642 ms
+seq 488: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.187 ms
+seq 489: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.440 ms
+seq 490: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.298 ms
+seq 491: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.100 ms
+seq 492: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.091 ms
+seq 493: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.510 ms
+seq 494: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.793 ms
+seq 495: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.712 ms
+seq 496: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.432 ms
+seq 497: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.771 ms
+seq 498: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.438 ms
+seq 499: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.505 ms
+seq 500: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.499 ms
+seq 501: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.430 ms
+seq 502: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.888 ms
+seq 503: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.642 ms
+seq 504: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.251 ms
+seq 505: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.540 ms
+seq 506: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.596 ms
+seq 507: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.606 ms
+seq 508: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.461 ms
+seq 509: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.995 ms
+seq 510: tcp response from 165.230.49.118 [open]  38.852 ms
+seq 511: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.476 ms
+seq 512: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.862 ms
+seq 513: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.881 ms
+seq 514: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.690 ms
+seq 515: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.368 ms
+seq 516: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.959 ms
+seq 517: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.690 ms
+seq 518: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.179 ms
+seq 519: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.830 ms
+seq 520: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.215 ms
+seq 521: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.258 ms
+seq 522: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.229 ms
+seq 523: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.869 ms
+seq 524: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.420 ms
+seq 525: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.729 ms
+seq 526: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.618 ms
+seq 527: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.275 ms
+seq 528: tcp response from planetlab3.rutgers.edu [open]  36.743 ms
+seq 529: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.127 ms
+seq 530: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.415 ms
+seq 531: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.620 ms
+seq 532: tcp response from planetlab3.rutgers.edu [open]  38.139 ms
+seq 533: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.672 ms
+seq 534: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.233 ms
+seq 535: tcp response from 165.230.49.118 (165.230.49.118) [open]  39.471 ms
+seq 536: tcp response from planetlab3.rutgers.edu [open]  37.710 ms
+seq 537: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.117 ms
+seq 538: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.513 ms
+seq 539: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.519 ms
+seq 540: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.817 ms
+seq 541: tcp response from planetlab3.rutgers.edu [open]  37.700 ms
+seq 542: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.084 ms
+seq 543: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.301 ms
+seq 544: tcp response from planetlab3.rutgers.edu [open]  38.081 ms
+seq 545: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.894 ms
+seq 546: tcp response from 165.230.49.118 [open]  37.013 ms
+seq 547: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.873 ms
+seq 548: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.308 ms
+seq 549: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.729 ms
+seq 550: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.519 ms
+seq 551: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.076 ms
+seq 552: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.265 ms
+seq 553: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.721 ms
+seq 554: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.671 ms
+seq 555: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.390 ms
+seq 556: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.716 ms
+seq 557: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.361 ms
+seq 558: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.796 ms
+seq 559: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.740 ms
+seq 560: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.561 ms
+seq 561: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.933 ms
+seq 562: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.247 ms
+seq 563: tcp response from planetlab3.rutgers.edu [open]  39.295 ms
+seq 564: tcp response from planetlab3.rutgers.edu [open]  37.776 ms
+seq 565: tcp response from planetlab3.rutgers.edu [open]  38.415 ms
+seq 566: tcp response from planetlab3.rutgers.edu [open]  37.792 ms
+seq 567: tcp response from planetlab3.rutgers.edu [open]  39.003 ms
+seq 568: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.300 ms
+seq 569: tcp response from planetlab3.rutgers.edu [open]  38.650 ms
+seq 570: tcp response from planetlab3.rutgers.edu [open]  37.354 ms
+seq 571: tcp response from 165.230.49.118 (165.230.49.118) [open]  39.072 ms
+seq 572: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.913 ms
+seq 573: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.180 ms
+seq 574: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.798 ms
+seq 575: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.772 ms
+seq 576: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.326 ms
+seq 577: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.866 ms
+seq 578: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.803 ms
+seq 579: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.800 ms
+seq 580: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.228 ms
+seq 581: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.140 ms
+seq 582: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.889 ms
+seq 583: tcp response from 165.230.49.118 [open]  38.272 ms
+seq 584: tcp response from 165.230.49.118 [open]  38.119 ms
+seq 585: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.113 ms
+seq 586: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.048 ms
+seq 587: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.538 ms
+seq 588: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.294 ms
+seq 589: tcp response from planetlab3.rutgers.edu [open]  36.635 ms
+seq 590: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.969 ms
+seq 591: tcp response from planetlab3.rutgers.edu [open]  37.750 ms
+seq 592: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.455 ms
+seq 593: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.490 ms
+seq 594: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.840 ms
+seq 595: tcp response from planetlab3.rutgers.edu [open]  38.765 ms
+seq 596: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.939 ms
+seq 597: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.563 ms
+seq 598: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.667 ms
+seq 599: tcp response from planetlab3.rutgers.edu [open]  38.549 ms
+seq 600: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.827 ms
+seq 601: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.603 ms
+seq 602: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.442 ms
+seq 603: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.580 ms
+seq 604: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.374 ms
+seq 605: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.725 ms
+seq 606: tcp response from planetlab3.rutgers.edu [open]  39.039 ms
+seq 607: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.924 ms
+seq 608: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.938 ms
+seq 609: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.152 ms
+seq 610: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.538 ms
+seq 611: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.681 ms
+seq 612: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.941 ms
+seq 613: tcp response from planetlab3.rutgers.edu [open]  38.302 ms
+seq 615: tcp response from 165.230.49.118 [open]  36.857 ms
+seq 616: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.010 ms
+seq 614: no response (timeout)
+seq 618: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.258 ms
+seq 619: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.124 ms
+seq 617: no response (timeout)
+seq 620: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.036 ms
+seq 621: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.446 ms
+seq 622: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.775 ms
+seq 623: tcp response from planetlab3.rutgers.edu [open]  38.120 ms
+seq 624: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.711 ms
+seq 625: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.754 ms
+seq 626: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.583 ms
+seq 627: tcp response from planetlab3.rutgers.edu [open]  38.692 ms
+seq 628: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.465 ms
+seq 629: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.552 ms
+seq 630: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.576 ms
+seq 631: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.197 ms
+seq 632: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.479 ms
+seq 633: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.688 ms
+seq 634: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.433 ms
+seq 635: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.493 ms
+seq 636: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  40.146 ms
+seq 637: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.055 ms
+seq 638: tcp response from planetlab3.rutgers.edu [open]  38.280 ms
+seq 639: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.690 ms
+seq 640: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.842 ms
+seq 641: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.298 ms
+seq 642: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.059 ms
+seq 643: tcp response from planetlab3.rutgers.edu [open]  37.838 ms
+seq 644: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.928 ms
+seq 645: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.702 ms
+seq 646: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.954 ms
+seq 647: tcp response from planetlab3.rutgers.edu [open]  37.688 ms
+seq 648: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.457 ms
+seq 649: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.313 ms
+seq 650: tcp response from planetlab3.rutgers.edu [open]  38.044 ms
+seq 651: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.336 ms
+seq 652: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.166 ms
+seq 653: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.692 ms
+seq 654: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.340 ms
+seq 655: tcp response from 165.230.49.118 (165.230.49.118) [open]  39.831 ms
+seq 656: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  40.909 ms
+seq 657: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.084 ms
+seq 658: tcp response from planetlab3.rutgers.edu [open]  37.657 ms
+seq 659: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.732 ms
+seq 660: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.602 ms
+seq 661: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.176 ms
+seq 662: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.764 ms
+seq 663: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.437 ms
+seq 664: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.368 ms
+seq 665: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.402 ms
+seq 666: tcp response from 165.230.49.118 [open]  38.970 ms
+seq 667: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.673 ms
+seq 668: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.035 ms
+seq 669: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.101 ms
+seq 670: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.802 ms
+seq 671: tcp response from 165.230.49.118 (165.230.49.118) [open]  39.519 ms
+seq 672: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.640 ms
+seq 673: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.374 ms
+seq 674: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.656 ms
+seq 675: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.787 ms
+seq 676: tcp response from planetlab3.rutgers.edu [open]  36.956 ms
+seq 677: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.225 ms
+seq 678: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.632 ms
+seq 679: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.761 ms
+seq 680: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.704 ms
+seq 681: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.662 ms
+seq 682: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.255 ms
+seq 683: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.312 ms
+seq 684: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.693 ms
+seq 685: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.928 ms
+seq 686: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.097 ms
+seq 687: tcp response from planetlab3.rutgers.edu [open]  38.062 ms
+seq 688: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.854 ms
+seq 689: tcp response from planetlab3.rutgers.edu [open]  37.802 ms
+seq 690: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.209 ms
+seq 691: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.544 ms
+seq 692: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.515 ms
+seq 693: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.195 ms
+seq 694: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.091 ms
+seq 695: tcp response from planetlab3.rutgers.edu [open]  37.980 ms
+seq 696: tcp response from planetlab3.rutgers.edu [open]  38.622 ms
+seq 697: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.040 ms
+seq 698: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.570 ms
+seq 699: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.736 ms
+seq 700: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.812 ms
+seq 701: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.024 ms
+seq 702: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.707 ms
+seq 703: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.868 ms
+seq 704: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.683 ms
+seq 705: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.288 ms
+seq 706: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.217 ms
+seq 708: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.846 ms
+seq 709: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.139 ms
+seq 707: no response (timeout)
+seq 710: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.823 ms
+seq 711: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.403 ms
+seq 712: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.284 ms
+seq 713: tcp response from planetlab3.rutgers.edu [open]  37.923 ms
+seq 714: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.356 ms
+seq 715: tcp response from 165.230.49.118 [open]  37.754 ms
+seq 716: tcp response from planetlab3.rutgers.edu [open]  37.805 ms
+seq 717: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.663 ms
+seq 718: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.301 ms
+seq 720: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.021 ms
+seq 721: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.445 ms
+seq 719: no response (timeout)
+seq 722: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.556 ms
+seq 723: tcp response from planetlab3.rutgers.edu [open]  37.986 ms
+seq 724: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.804 ms
+seq 725: tcp response from planetlab3.rutgers.edu [open]  37.462 ms
+seq 726: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.708 ms
+seq 727: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.261 ms
+seq 728: tcp response from planetlab3.rutgers.edu [open]  39.014 ms
+seq 729: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.009 ms
+seq 730: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.916 ms
+seq 731: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.688 ms
+seq 732: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.811 ms
+seq 733: tcp response from planetlab3.rutgers.edu [open]  39.282 ms
+seq 734: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.656 ms
+seq 735: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.524 ms
+seq 736: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.290 ms
+seq 737: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  40.984 ms
+seq 738: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.435 ms
+seq 739: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.963 ms
+seq 740: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.144 ms
+seq 741: tcp response from planetlab3.rutgers.edu [open]  59.197 ms
+seq 742: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.015 ms
+seq 743: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.942 ms
+seq 744: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.040 ms
+seq 746: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.014 ms
+seq 747: tcp response from 165.230.49.118 [open]  38.405 ms
+seq 748: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.767 ms
+seq 745: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.818 ms
+seq 749: tcp response from planetlab3.rutgers.edu [open]  37.545 ms
+seq 751: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.447 ms
+seq 752: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.753 ms
+seq 750: no response (timeout)
+seq 754: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.516 ms
+seq 755: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.825 ms
+seq 753: no response (timeout)
+seq 756: tcp response from planetlab3.rutgers.edu [open]  37.261 ms
+seq 757: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.678 ms
+seq 758: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.521 ms
+seq 759: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.809 ms
+seq 760: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.436 ms
+seq 761: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.836 ms
+seq 762: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.972 ms
+seq 763: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.249 ms
+seq 764: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.112 ms
+seq 765: tcp response from planetlab3.rutgers.edu [open]  38.375 ms
+seq 766: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.361 ms
+seq 767: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.828 ms
+seq 768: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.997 ms
+seq 769: tcp response from planetlab3.rutgers.edu [open]  37.428 ms
+seq 770: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.131 ms
+seq 771: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.119 ms
+seq 772: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.680 ms
+seq 773: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.866 ms
+seq 774: tcp response from 165.230.49.118 (165.230.49.118) [open]  39.476 ms
+seq 775: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.469 ms
+seq 776: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.996 ms
+seq 777: tcp response from planetlab3.rutgers.edu [open]  37.781 ms
+seq 778: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.448 ms
+seq 779: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.645 ms
+seq 780: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.516 ms
+seq 781: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.173 ms
+seq 782: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.686 ms
+seq 783: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.278 ms
+seq 784: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.856 ms
+seq 785: tcp response from 165.230.49.118 [open]  38.204 ms
+seq 786: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.973 ms
+seq 787: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.014 ms
+seq 788: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.454 ms
+seq 789: tcp response from planetlab3.rutgers.edu [open]  37.584 ms
+seq 790: tcp response from planetlab3.rutgers.edu [open]  38.069 ms
+seq 791: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.725 ms
+seq 792: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.957 ms
+seq 793: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.585 ms
+seq 794: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.381 ms
+seq 795: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.101 ms
+seq 796: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.720 ms
+seq 797: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.062 ms
+seq 798: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.696 ms
+seq 799: tcp response from planetlab3.rutgers.edu [open]  39.539 ms
+seq 800: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.299 ms
+seq 801: tcp response from planetlab3.rutgers.edu [open]  38.478 ms
+seq 802: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.883 ms
+seq 803: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.994 ms
+seq 804: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.302 ms
+seq 805: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.759 ms
+seq 806: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.021 ms
+seq 807: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.707 ms
+seq 808: tcp response from planetlab3.rutgers.edu [open]  38.296 ms
+seq 809: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.839 ms
+seq 810: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.561 ms
+seq 811: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.633 ms
+seq 812: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.053 ms
+seq 813: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.799 ms
+seq 814: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.569 ms
+seq 815: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.857 ms
+seq 816: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.588 ms
+seq 817: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.164 ms
+seq 818: tcp response from planetlab3.rutgers.edu [open]  37.541 ms
+seq 819: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.478 ms
+seq 820: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.858 ms
+seq 821: tcp response from planetlab3.rutgers.edu [open]  37.805 ms
+seq 822: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.140 ms
+seq 823: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.616 ms
+seq 824: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.771 ms
+seq 825: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.548 ms
+seq 826: tcp response from planetlab3.rutgers.edu [open]  37.681 ms
+seq 827: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.867 ms
+seq 828: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.478 ms
+seq 829: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.997 ms
+seq 830: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.484 ms
+seq 831: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  44.312 ms
+seq 832: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.892 ms
+seq 833: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.125 ms
+seq 834: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.531 ms
+seq 835: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.508 ms
+seq 836: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.873 ms
+seq 837: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.362 ms
+seq 838: tcp response from planetlab3.rutgers.edu [open]  38.039 ms
+seq 839: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.618 ms
+seq 841: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.844 ms
+seq 842: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.431 ms
+seq 840: no response (timeout)
+seq 844: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.681 ms
+seq 845: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.756 ms
+seq 843: no response (timeout)
+seq 846: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.693 ms
+seq 847: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.654 ms
+seq 848: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.472 ms
+seq 849: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.419 ms
+seq 850: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.119 ms
+seq 851: tcp response from planetlab3.rutgers.edu [open]  37.531 ms
+seq 852: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.111 ms
+seq 853: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.229 ms
+seq 854: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.608 ms
+seq 855: tcp response from planetlab3.rutgers.edu [open]  38.572 ms
+seq 856: tcp response from planetlab3.rutgers.edu [open]  37.448 ms
+seq 857: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.611 ms
+seq 858: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.857 ms
+seq 859: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.537 ms
+seq 860: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.562 ms
+seq 861: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.965 ms
+seq 862: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.583 ms
+seq 863: tcp response from planetlab3.rutgers.edu [open]  36.873 ms
+seq 864: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.671 ms
+seq 865: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.119 ms
+seq 866: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.415 ms
+seq 867: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.020 ms
+seq 868: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.844 ms
+seq 869: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.744 ms
+seq 871: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.323 ms
+seq 872: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.633 ms
+seq 870: no response (timeout)
+seq 873: tcp response from planetlab3.rutgers.edu [open]  37.968 ms
+seq 874: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.650 ms
+seq 875: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.369 ms
+seq 876: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.054 ms
+seq 877: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.701 ms
+seq 878: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.486 ms
+seq 879: tcp response from planetlab3.rutgers.edu [open]  38.744 ms
+seq 880: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.527 ms
+seq 881: tcp response from planetlab3.rutgers.edu [open]  39.119 ms
+seq 882: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.669 ms
+seq 883: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.795 ms
+seq 884: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.481 ms
+seq 886: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.447 ms
+seq 887: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.896 ms
+seq 885: no response (timeout)
+seq 888: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.616 ms
+seq 889: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.639 ms
+seq 890: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.210 ms
+seq 891: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.132 ms
+seq 892: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.474 ms
+seq 893: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.950 ms
+seq 894: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.244 ms
+seq 895: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.624 ms
+seq 896: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.039 ms
+seq 897: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.685 ms
+seq 898: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.755 ms
+seq 899: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.957 ms
+seq 900: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.775 ms
+seq 901: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.679 ms
+seq 902: tcp response from planetlab3.rutgers.edu [open]  38.022 ms
+seq 903: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.052 ms
+seq 904: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.985 ms
+seq 905: tcp response from 165.230.49.118 (165.230.49.118) [open]  36.787 ms
+seq 906: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.572 ms
+seq 907: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.549 ms
+seq 908: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.913 ms
+seq 909: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.268 ms
+seq 910: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.063 ms
+seq 911: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.012 ms
+seq 912: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.077 ms
+seq 913: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.868 ms
+seq 914: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.970 ms
+seq 915: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.590 ms
+seq 916: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.744 ms
+seq 917: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.347 ms
+seq 918: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.408 ms
+seq 919: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.707 ms
+seq 920: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.829 ms
+seq 921: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.652 ms
+seq 922: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.727 ms
+seq 923: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.837 ms
+seq 924: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.738 ms
+seq 925: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.102 ms
+seq 926: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.380 ms
+seq 927: tcp response from 165.230.49.118 [open]  37.783 ms
+seq 928: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.289 ms
+seq 929: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.116 ms
+seq 931: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.432 ms
+seq 932: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.983 ms
+seq 930: no response (timeout)
+seq 934: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.532 ms
+seq 935: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.820 ms
+seq 933: no response (timeout)
+seq 936: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.634 ms
+seq 937: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.121 ms
+seq 938: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.067 ms
+seq 939: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.585 ms
+seq 940: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  44.247 ms
+seq 941: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.531 ms
+seq 942: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.983 ms
+seq 943: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  44.775 ms
+seq 944: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.234 ms
+seq 945: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.189 ms
+seq 946: tcp response from planetlab3.rutgers.edu [open]  38.285 ms
+seq 947: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.411 ms
+seq 948: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.577 ms
+seq 949: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.387 ms
+seq 950: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.479 ms
+seq 951: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.481 ms
+seq 952: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.738 ms
+seq 953: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.808 ms
+seq 954: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.121 ms
+seq 955: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.756 ms
+seq 956: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.850 ms
+seq 957: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.684 ms
+seq 958: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.628 ms
+seq 959: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.767 ms
+seq 960: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.131 ms
+seq 961: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.046 ms
+seq 962: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.332 ms
+seq 963: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  39.170 ms
+seq 964: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.440 ms
+seq 965: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.187 ms
+seq 966: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.406 ms
+seq 967: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.847 ms
+seq 968: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.449 ms
+seq 969: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.523 ms
+seq 970: tcp response from planetlab3.rutgers.edu [open]  37.733 ms
+seq 971: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.675 ms
+seq 972: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.233 ms
+seq 973: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.040 ms
+seq 974: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.652 ms
+seq 975: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.722 ms
+seq 976: tcp response from 165.230.49.118 (165.230.49.118) [open]  37.492 ms
+seq 977: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.393 ms
+seq 978: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  40.475 ms
+seq 979: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.411 ms
+seq 980: tcp response from planetlab3.rutgers.edu [open]  37.598 ms
+seq 981: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.765 ms
+seq 982: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.135 ms
+seq 983: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.219 ms
+seq 984: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.188 ms
+seq 985: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.761 ms
+seq 986: tcp response from 165.230.49.118 (165.230.49.118) [open]  38.172 ms
+seq 987: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.486 ms
+seq 988: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.334 ms
+seq 989: tcp response from planetlab3.rutgers.edu [open]  39.242 ms
+seq 990: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.272 ms
+seq 991: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.352 ms
+seq 992: tcp response from planetlab3.rutgers.edu [open]  36.235 ms
+seq 993: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.133 ms
+seq 995: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  37.964 ms
+seq 996: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  36.592 ms
+seq 994: no response (timeout)
+seq 997: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.014 ms
+seq 998: tcp response from planetlab3.rutgers.edu (165.230.49.118) [open]  38.034 ms

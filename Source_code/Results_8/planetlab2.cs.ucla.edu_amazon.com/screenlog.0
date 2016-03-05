@@ -1,0 +1,5 @@
+PING amazon.com (54.239.17.7) 56(84) bytes of data.
+
+--- amazon.com ping statistics ---
+1000 packets transmitted, 0 received, 100% packet loss, time 1003401ms
+
