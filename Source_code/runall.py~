@@ -2,7 +2,7 @@ import sys
 import socket
 import os
 from Ping_experiments import Pinger
-def run(direc,duration,expno,pinger):
+def run(direc,duration,expno):
 	pinger.run_dc_ping(direc,duration,expno,open('DC_list','r'),'active_nodes')
 	pinger.run_dc_ping(direc,duration,expno,open('DC_list','r'),'Servers')
 	pinger.run_pl_ping(direc,duration,expno,open('node_pairs','r'),'Servers')
@@ -14,7 +14,7 @@ def main():
     pinger.get_files(direc,10,'Results')
   else:
 #  pinger.install_libs()
-   run(direc,3600,11,pinger)
+    run(direc,3600,11)
 
 
 main()
