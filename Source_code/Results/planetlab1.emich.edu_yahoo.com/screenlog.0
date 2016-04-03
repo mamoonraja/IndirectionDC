@@ -1,0 +1,25 @@
+PING yahoo.com (98.139.183.24) 56(84) bytes of data.
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=1 ttl=51 time=29.5 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=2 ttl=51 time=29.3 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=3 ttl=51 time=30.9 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=4 ttl=51 time=29.5 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=5 ttl=51 time=29.3 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=6 ttl=51 time=29.2 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=7 ttl=51 time=29.5 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=8 ttl=51 time=31.4 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=9 ttl=51 time=31.2 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=10 ttl=51 time=29.5 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=610 ttl=51 time=29.3 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=611 ttl=51 time=29.4 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=612 ttl=51 time=29.6 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=613 ttl=51 time=29.3 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=614 ttl=51 time=31.1 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=615 ttl=51 time=29.2 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=616 ttl=51 time=29.5 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=617 ttl=51 time=29.3 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=618 ttl=51 time=29.3 ms
+64 bytes from ir2.fp.vip.bf1.yahoo.com (98.139.183.24): icmp_seq=619 ttl=51 time=31.2 ms
+
+--- yahoo.com ping statistics ---
+1000 packets transmitted, 20 received, 98% packet loss, time 1000030ms
+rtt min/avg/max/mdev = 29.265/29.872/31.406/0.793 ms

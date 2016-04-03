@@ -56,6 +56,7 @@ class Helpers(object): # Helper
 		
 	def installer(self,node_file):
 		for node in node_file:
+			print node
 			self.do_ssh(node.split(',')[0],'mkdir Mamoon')
 			self.do_scp(node.split(',')[0],'install_libraries','~/Mamoon/')
 			self.do_ssh(node.split(',')[0],'chmod 755 ~/Mamoon/install_libraries')

@@ -1,0 +1,4 @@
+cd /usr/bin
+sudo wget http://www.vdberg.org/~richard/tcpping
+sudo chmod 755 tcpping
+sudo chmod +x tcpping
