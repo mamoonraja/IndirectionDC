@@ -1,0 +1,713 @@
+seq 0: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.216 ms
+seq 1: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.864 ms
+seq 2: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.844 ms
+seq 3: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.984 ms
+seq 4: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.781 ms
+seq 5: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.433 ms
+seq 6: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.625 ms
+seq 7: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.588 ms
+seq 8: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.993 ms
+seq 9: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.479 ms
+seq 10: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.675 ms
+seq 11: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.972 ms
+seq 12: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.637 ms
+seq 13: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.728 ms
+seq 14: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.869 ms
+seq 15: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.273 ms
+seq 16: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.710 ms
+seq 17: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.822 ms
+seq 18: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.017 ms
+seq 19: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.478 ms
+seq 20: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.989 ms
+seq 21: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.898 ms
+seq 23: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  90.043 ms
+seq 24: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  90.282 ms
+seq 22: no response (timeout)
+seq 25: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.408 ms
+seq 26: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  116.248 ms
+seq 29: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.221 ms
+seq 27: no response (timeout)
+seq 30: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.167 ms
+seq 28: no response (timeout)
+seq 31: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.235 ms
+seq 32: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.007 ms
+seq 35: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.300 ms
+seq 36: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  104.663 ms
+seq 33: no response (timeout)
+seq 34: no response (timeout)
+seq 37: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.130 ms
+seq 38: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.750 ms
+seq 39: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.179 ms
+seq 40: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.158 ms
+seq 42: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.567 ms
+seq 41: no response (timeout)
+seq 43: no response (timeout)
+seq 46: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  85.446 ms
+seq 44: no response (timeout)
+seq 45: no response (timeout)
+seq 47: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  90.133 ms
+seq 48: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.737 ms
+seq 49: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.220 ms
+seq 50: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.024 ms
+seq 51: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.909 ms
+seq 53: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.957 ms
+seq 52: no response (timeout)
+seq 54: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.315 ms
+seq 55: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.378 ms
+seq 57: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.526 ms
+seq 58: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.130 ms
+seq 56: no response (timeout)
+seq 60: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  95.223 ms
+seq 61: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.897 ms
+seq 59: no response (timeout)
+seq 63: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.842 ms
+seq 62: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.238 ms
+seq 64: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  98.285 ms
+seq 65: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.194 ms
+seq 67: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  97.485 ms
+seq 66: no response (timeout)
+seq 70: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.873 ms
+seq 68: no response (timeout)
+seq 69: no response (timeout)
+seq 71: no response (timeout)
+seq 72: no response (timeout)
+seq 73: no response (timeout)
+seq 76: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  92.790 ms
+seq 74: no response (timeout)
+seq 75: no response (timeout)
+seq 77: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  975.853 ms
+seq 78: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  95.816 ms
+seq 80: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.886 ms
+seq 81: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.809 ms
+seq 79: no response (timeout)
+seq 82: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.375 ms
+seq 83: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.409 ms
+seq 85: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.611 ms
+seq 84: no response (timeout)
+seq 86: no response (timeout)
+seq 89: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.133 ms
+seq 87: no response (timeout)
+seq 90: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.995 ms
+seq 88: no response (timeout)
+seq 91: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.791 ms
+seq 94: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.557 ms
+seq 93: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.121 ms
+seq 95: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  96.653 ms
+seq 92: no response (timeout)
+seq 98: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.207 ms
+seq 96: no response (timeout)
+seq 97: no response (timeout)
+seq 101: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  107.725 ms
+seq 99: no response (timeout)
+seq 100: no response (timeout)
+seq 103: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.333 ms
+seq 104: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.994 ms
+seq 102: no response (timeout)
+seq 105: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  85.149 ms
+seq 106: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.330 ms
+seq 107: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  127.262 ms
+seq 110: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.596 ms
+seq 108: no response (timeout)
+seq 111: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.864 ms
+seq 109: no response (timeout)
+seq 115: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.232 ms
+seq 112: no response (timeout)
+seq 113: no response (timeout)
+seq 114: no response (timeout)
+seq 116: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  102.497 ms
+seq 118: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.734 ms
+seq 119: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  109.243 ms
+seq 117: no response (timeout)
+seq 120: no response (timeout)
+seq 121: no response (timeout)
+seq 122: no response (timeout)
+seq 124: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.696 ms
+seq 123: no response (timeout)
+seq 125: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.341 ms
+seq 126: no response (timeout)
+seq 128: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.502 ms
+seq 127: no response (timeout)
+seq 131: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.870 ms
+seq 129: no response (timeout)
+seq 130: no response (timeout)
+seq 132: no response (timeout)
+seq 135: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.737 ms
+seq 133: no response (timeout)
+seq 136: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  98.865 ms
+seq 134: no response (timeout)
+seq 137: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.195 ms
+seq 138: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.110 ms
+seq 141: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.903 ms
+seq 139: no response (timeout)
+seq 142: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.997 ms
+seq 140: no response (timeout)
+seq 143: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.182 ms
+seq 144: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  92.266 ms
+seq 145: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  105.707 ms
+seq 146: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.608 ms
+seq 149: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  102.542 ms
+seq 147: no response (timeout)
+seq 148: no response (timeout)
+seq 151: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.756 ms
+seq 150: no response (timeout)
+seq 152: no response (timeout)
+seq 153: no response (timeout)
+seq 154: no response (timeout)
+seq 155: no response (timeout)
+seq 157: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  103.082 ms
+seq 156: no response (timeout)
+seq 159: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.142 ms
+seq 158: no response (timeout)
+seq 161: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.485 ms
+seq 160: no response (timeout)
+seq 162: no response (timeout)
+seq 163: no response (timeout)
+seq 164: no response (timeout)
+seq 165: no response (timeout)
+seq 167: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  107.230 ms
+seq 166: no response (timeout)
+seq 169: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.277 ms
+seq 168: no response (timeout)
+seq 171: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  94.802 ms
+seq 170: no response (timeout)
+seq 174: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  94.841 ms
+seq 172: no response (timeout)
+seq 173: no response (timeout)
+seq 175: no response (timeout)
+seq 178: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.043 ms
+seq 176: no response (timeout)
+seq 177: no response (timeout)
+seq 181: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.657 ms
+seq 179: no response (timeout)
+seq 180: no response (timeout)
+seq 182: no response (timeout)
+seq 184: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.222 ms
+seq 183: no response (timeout)
+seq 186: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  100.319 ms
+seq 187: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.452 ms
+seq 185: no response (timeout)
+seq 189: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.430 ms
+seq 190: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.809 ms
+seq 188: no response (timeout)
+seq 192: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.709 ms
+seq 193: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.973 ms
+seq 191: no response (timeout)
+seq 196: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.282 ms
+seq 194: no response (timeout)
+seq 195: no response (timeout)
+seq 197: no response (timeout)
+seq 198: no response (timeout)
+seq 199: no response (timeout)
+seq 201: no response (timeout)
+seq 200: no response (timeout)
+seq 202: no response (timeout)
+seq 205: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  116.716 ms
+seq 203: no response (timeout)
+seq 204: no response (timeout)
+seq 206: no response (timeout)
+seq 207: no response (timeout)
+seq 208: no response (timeout)
+seq 209: no response (timeout)
+seq 210: no response (timeout)
+seq 211: no response (timeout)
+seq 212: no response (timeout)
+seq 213: no response (timeout)
+seq 215: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.014 ms
+seq 214: no response (timeout)
+seq 217: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.473 ms
+seq 218: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.071 ms
+seq 216: no response (timeout)
+seq 221: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.750 ms
+seq 219: no response (timeout)
+seq 220: no response (timeout)
+seq 224: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.975 ms
+seq 222: no response (timeout)
+seq 225: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.941 ms
+seq 223: no response (timeout)
+seq 226: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.995 ms
+seq 227: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.737 ms
+seq 230: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  85.071 ms
+seq 228: no response (timeout)
+seq 231: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.734 ms
+seq 229: no response (timeout)
+seq 232: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.906 ms
+seq 233: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.604 ms
+seq 235: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  96.594 ms
+seq 234: no response (timeout)
+seq 236: no response (timeout)
+seq 237: no response (timeout)
+seq 238: no response (timeout)
+seq 239: no response (timeout)
+seq 240: no response (timeout)
+seq 243: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.255 ms
+seq 241: no response (timeout)
+seq 242: no response (timeout)
+seq 245: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.882 ms
+seq 246: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.330 ms
+seq 244: no response (timeout)
+seq 247: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  92.374 ms
+seq 248: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  90.609 ms
+seq 250: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.518 ms
+seq 251: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.576 ms
+seq 249: no response (timeout)
+seq 252: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.957 ms
+seq 254: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.057 ms
+seq 255: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  91.568 ms
+seq 253: no response (timeout)
+seq 258: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.780 ms
+seq 256: no response (timeout)
+seq 257: no response (timeout)
+seq 260: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.864 ms
+seq 259: no response (timeout)
+seq 261: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  256.929 ms
+seq 263: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.366 ms
+seq 262: no response (timeout)
+seq 266: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.017 ms
+seq 264: no response (timeout)
+seq 265: no response (timeout)
+seq 267: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  105.290 ms
+seq 270: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  98.710 ms
+seq 268: no response (timeout)
+seq 269: no response (timeout)
+seq 272: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  94.179 ms
+seq 271: no response (timeout)
+seq 273: no response (timeout)
+seq 274: no response (timeout)
+seq 275: no response (timeout)
+seq 276: no response (timeout)
+seq 277: no response (timeout)
+seq 278: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.603 ms
+seq 281: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.256 ms
+seq 280: no response (timeout)
+seq 282: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.419 ms
+seq 283: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [closed]  78.544 ms
+seq 284: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [closed]  84.063 ms
+seq 279: no response (timeout)
+seq 288: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.850 ms
+seq 285: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.626 ms
+seq 287: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.728 ms
+seq 289: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  98.048 ms
+seq 292: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.059 ms
+seq 293: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.292 ms
+seq 286: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  100.435 ms
+seq 296: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  93.695 ms
+seq 294: no response (timeout)
+seq 295: no response (timeout)
+seq 297: no response (timeout)
+seq 290: no response (timeout)
+seq 298: no response (timeout)
+seq 291: no response (timeout)
+seq 299: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  98.186 ms
+seq 303: no response (timeout)
+seq 301: no response (timeout)
+seq 300: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.537 ms
+seq 308: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.779 ms
+seq 304: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.537 ms
+seq 302: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.055 ms
+seq 306: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.895 ms
+seq 305: no response (timeout)
+seq 310: no response (timeout)
+seq 309: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.388 ms
+seq 307: no response (timeout)
+seq 313: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.114 ms
+seq 311: no response (timeout)
+seq 314: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.481 ms
+seq 315: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  85.651 ms
+seq 317: no response (timeout)
+seq 318: no response (timeout)
+seq 312: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.674 ms
+seq 316: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.714 ms
+seq 319: no response (timeout)
+seq 323: no response (timeout)
+seq 324: no response (timeout)
+seq 320: no response (timeout)
+seq 321: no response (timeout)
+seq 326: no response (timeout)
+seq 329: no response (timeout)
+seq 331: no response (timeout)
+seq 327: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.821 ms
+seq 322: no response (timeout)
+seq 330: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.851 ms
+seq 328: no response (timeout)
+seq 332: no response (timeout)
+seq 334: no response (timeout)
+seq 333: no response (timeout)
+seq 337: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.742 ms
+seq 325: no response (timeout)
+seq 335: no response (timeout)
+seq 336: no response (timeout)
+seq 338: no response (timeout)
+seq 341: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.336 ms
+seq 339: no response (timeout)
+seq 340: no response (timeout)
+seq 342: no response (timeout)
+seq 343: no response (timeout)
+seq 346: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.790 ms
+seq 344: no response (timeout)
+seq 348: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.214 ms
+seq 347: no response (timeout)
+seq 349: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.884 ms
+seq 352: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.863 ms
+seq 345: no response (timeout)
+seq 351: no response (timeout)
+seq 350: no response (timeout)
+seq 353: no response (timeout)
+seq 355: no response (timeout)
+seq 354: no response (timeout)
+seq 357: no response (timeout)
+seq 359: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.746 ms
+seq 361: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.105 ms
+seq 360: no response (timeout)
+seq 356: no response (timeout)
+seq 358: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  93.186 ms
+seq 363: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.926 ms
+seq 362: no response (timeout)
+seq 364: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.334 ms
+seq 365: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.028 ms
+seq 366: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.890 ms
+seq 367: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.033 ms
+seq 368: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.738 ms
+seq 371: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  95.114 ms
+seq 369: no response (timeout)
+seq 374: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.313 ms
+seq 375: no response (timeout)
+seq 373: no response (timeout)
+seq 372: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.618 ms
+seq 377: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.013 ms
+seq 379: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.794 ms
+seq 376: no response (timeout)
+seq 370: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.134 ms
+seq 378: no response (timeout)
+seq 384: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.633 ms
+seq 380: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.017 ms
+seq 381: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.027 ms
+seq 382: no response (timeout)
+seq 383: no response (timeout)
+seq 385: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.828 ms
+seq 386: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.182 ms
+seq 389: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.907 ms
+seq 387: no response (timeout)
+seq 388: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.177 ms
+seq 390: no response (timeout)
+seq 391: no response (timeout)
+seq 394: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.861 ms
+seq 393: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  109.935 ms
+seq 392: no response (timeout)
+seq 399: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  97.380 ms
+seq 397: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  92.097 ms
+seq 401: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  135.331 ms
+seq 400: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.300 ms
+seq 395: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.994 ms
+seq 403: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.369 ms
+seq 396: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.203 ms
+seq 405: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  110.555 ms
+seq 406: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.511 ms
+seq 411: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.097 ms
+seq 408: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.536 ms
+seq 407: no response (timeout)
+seq 409: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  107.853 ms
+seq 414: no response (timeout)
+seq 398: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  105.627 ms
+seq 413: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.476 ms
+seq 412: no response (timeout)
+seq 410: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.806 ms
+seq 415: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.664 ms
+seq 416: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.562 ms
+seq 419: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  85.997 ms
+seq 417: no response (timeout)
+seq 420: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  139.695 ms
+seq 422: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.993 ms
+seq 402: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.610 ms
+seq 421: no response (timeout)
+seq 418: no response (timeout)
+seq 425: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.215 ms
+seq 424: no response (timeout)
+seq 426: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  92.050 ms
+seq 404: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.235 ms
+seq 423: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.046 ms
+seq 433: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.517 ms
+seq 431: no response (timeout)
+seq 432: no response (timeout)
+seq 430: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  99.666 ms
+seq 428: no response (timeout)
+seq 434: no response (timeout)
+seq 436: no response (timeout)
+seq 437: no response (timeout)
+seq 435: no response (timeout)
+seq 440: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.764 ms
+seq 429: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.526 ms
+seq 441: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.956 ms
+seq 427: no response (timeout)
+seq 438: no response (timeout)
+seq 447: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.687 ms
+seq 448: no response (timeout)
+seq 451: no response (timeout)
+seq 452: no response (timeout)
+seq 454: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.032 ms
+seq 442: no response (timeout)
+seq 443: no response (timeout)
+seq 439: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.605 ms
+seq 450: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  90.465 ms
+seq 457: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  99.570 ms
+seq 458: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.096 ms
+seq 459: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  94.020 ms
+seq 449: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  563.609 ms
+seq 453: no response (timeout)
+seq 444: no response (timeout)
+seq 446: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.099 ms
+seq 445: no response (timeout)
+seq 455: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.015 ms
+seq 460: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.029 ms
+seq 456: no response (timeout)
+seq 465: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.523 ms
+seq 464: no response (timeout)
+seq 461: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.028 ms
+seq 462: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.893 ms
+seq 463: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.183 ms
+seq 466: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.502 ms
+seq 470: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.858 ms
+seq 468: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.498 ms
+seq 474: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.171 ms
+seq 471: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.788 ms
+seq 476: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.982 ms
+seq 472: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.962 ms
+seq 477: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.898 ms
+seq 478: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.234 ms
+seq 469: no response (timeout)
+seq 473: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.591 ms
+seq 475: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.035 ms
+seq 467: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.559 ms
+seq 479: no response (timeout)
+seq 481: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  96.405 ms
+seq 480: no response (timeout)
+seq 483: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.321 ms
+seq 482: no response (timeout)
+seq 484: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.386 ms
+seq 485: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.270 ms
+seq 488: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.488 ms
+seq 487: no response (timeout)
+seq 491: no response (timeout)
+seq 486: no response (timeout)
+seq 494: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.805 ms
+seq 489: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.984 ms
+seq 496: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  105.578 ms
+seq 495: no response (timeout)
+seq 498: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.065 ms
+seq 497: no response (timeout)
+seq 492: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  93.921 ms
+seq 503: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.895 ms
+seq 499: no response (timeout)
+seq 500: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.390 ms
+seq 506: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.947 ms
+seq 493: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.141 ms
+seq 504: no response (timeout)
+seq 505: no response (timeout)
+seq 510: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.100 ms
+seq 511: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.870 ms
+seq 509: no response (timeout)
+seq 512: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  102.729 ms
+seq 513: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.544 ms
+seq 514: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  102.295 ms
+seq 507: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.505 ms
+seq 515: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  92.017 ms
+seq 508: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.837 ms
+seq 501: no response (timeout)
+seq 517: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.400 ms
+seq 502: no response (timeout)
+seq 518: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  95.228 ms
+seq 490: no response (timeout)
+seq 516: no response (timeout)
+seq 519: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  85.658 ms
+seq 522: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.561 ms
+seq 521: no response (timeout)
+seq 524: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.569 ms
+seq 525: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.940 ms
+seq 526: no response (timeout)
+seq 520: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  94.302 ms
+seq 529: no response (timeout)
+seq 528: no response (timeout)
+seq 535: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.326 ms
+seq 523: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  92.935 ms
+seq 531: no response (timeout)
+seq 538: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.808 ms
+seq 530: no response (timeout)
+seq 539: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.284 ms
+seq 534: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.719 ms
+seq 532: no response (timeout)
+seq 533: no response (timeout)
+seq 527: no response (timeout)
+seq 544: no response (timeout)
+seq 536: no response (timeout)
+seq 543: no response (timeout)
+seq 537: no response (timeout)
+seq 542: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.907 ms
+seq 541: no response (timeout)
+seq 540: no response (timeout)
+seq 545: no response (timeout)
+seq 546: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.173 ms
+seq 547: no response (timeout)
+seq 548: no response (timeout)
+seq 549: no response (timeout)
+seq 553: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.548 ms
+seq 552: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.870 ms
+seq 551: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.889 ms
+seq 555: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  99.608 ms
+seq 554: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.314 ms
+seq 556: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.169 ms
+seq 550: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  85.891 ms
+seq 558: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  104.294 ms
+seq 559: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  253.212 ms
+seq 561: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.040 ms
+seq 557: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.806 ms
+seq 560: no response (timeout)
+seq 563: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.193 ms
+seq 562: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.435 ms
+seq 565: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  101.304 ms
+seq 568: no response (timeout)
+seq 571: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  110.443 ms
+seq 572: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.246 ms
+seq 566: no response (timeout)
+seq 564: no response (timeout)
+seq 577: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.894 ms
+seq 578: no response (timeout)
+seq 567: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.795 ms
+seq 574: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.560 ms
+seq 573: no response (timeout)
+seq 570: no response (timeout)
+seq 569: no response (timeout)
+seq 576: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  101.789 ms
+seq 579: no response (timeout)
+seq 575: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.162 ms
+seq 581: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.707 ms
+seq 580: no response (timeout)
+seq 586: no response (timeout)
+seq 585: no response (timeout)
+seq 583: no response (timeout)
+seq 582: no response (timeout)
+seq 584: no response (timeout)
+seq 593: no response (timeout)
+seq 588: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.007 ms
+seq 589: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.462 ms
+seq 591: no response (timeout)
+seq 587: no response (timeout)
+seq 594: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  95.081 ms
+seq 592: no response (timeout)
+seq 600: no response (timeout)
+seq 598: no response (timeout)
+seq 590: no response (timeout)
+seq 602: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.721 ms
+seq 601: no response (timeout)
+seq 595: no response (timeout)
+seq 603: no response (timeout)
+seq 597: no response (timeout)
+seq 596: no response (timeout)
+seq 604: no response (timeout)
+seq 599: no response (timeout)
+seq 605: no response (timeout)
+seq 606: no response (timeout)
+seq 608: no response (timeout)
+seq 607: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  121.273 ms
+seq 609: no response (timeout)
+seq 610: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.941 ms
+seq 611: no response (timeout)
+seq 615: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.248 ms
+seq 619: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.677 ms
+seq 621: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.121 ms
+seq 613: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.372 ms
+seq 617: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.989 ms
+seq 616: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.940 ms
+seq 612: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.281 ms
+seq 614: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.752 ms
+seq 618: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.725 ms
+seq 620: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  92.275 ms
+seq 625: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.797 ms
+seq 626: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.041 ms
+seq 622: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.657 ms
+seq 624: no response (timeout)
+seq 627: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  100.821 ms
+seq 623: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.629 ms
+seq 629: no response (timeout)
+seq 634: no response (timeout)
+seq 633: no response (timeout)
+seq 632: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.488 ms
+seq 628: no response (timeout)
+seq 636: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.359 ms
+seq 635: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.063 ms
+seq 630: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.159 ms
+seq 637: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.321 ms
+seq 638: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.496 ms
+seq 631: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.437 ms
+seq 640: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.134 ms
+seq 642: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.209 ms
+seq 643: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  114.468 ms
+seq 644: no response (timeout)
+seq 639: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.362 ms
+seq 641: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.007 ms
+seq 645: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.374 ms
+seq 648: no response (timeout)
+seq 649: no response (timeout)
+seq 654: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  117.951 ms
+seq 655: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  78.959 ms
+seq 653: no response (timeout)
+seq 647: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  104.270 ms
+seq 651: no response (timeout)
+seq 646: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  97.825 ms
+seq 650: no response (timeout)
+seq 652: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.721 ms
+seq 658: no response (timeout)
+seq 664: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.154 ms
+seq 662: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.920 ms
+seq 659: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.754 ms
+seq 660: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.462 ms
+seq 669: no response (timeout)
+seq 666: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.930 ms
+seq 661: no response (timeout)
+seq 671: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.592 ms
+seq 672: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  89.578 ms
+seq 665: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.939 ms
+seq 657: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.514 ms
+seq 667: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  197.088 ms
+seq 668: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.383 ms
+seq 670: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.219 ms
+seq 673: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  86.243 ms
+seq 674: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  99.262 ms
+seq 675: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  91.514 ms
+seq 676: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.068 ms
+seq 677: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.099 ms
+seq 656: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  81.360 ms
+seq 663: no response (timeout)
+seq 679: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  88.972 ms
+seq 678: no response (timeout)
+seq 682: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  82.100 ms
+seq 681: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.845 ms
+seq 680: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.697 ms
+seq 684: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  93.770 ms
+seq 683: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  85.266 ms
+seq 685: no response (timeout)
+seq 686: no response (timeout)
+seq 688: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.327 ms
+seq 689: no response (timeout)
+seq 690: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  83.849 ms
+seq 687: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.255 ms
+seq 692: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  100.814 ms
+seq 694: no response (timeout)
+seq 693: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  84.073 ms
+seq 695: no response (timeout)
+seq 701: no response (timeout)
+seq 700: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  102.220 ms
+seq 691: no response (timeout)
+seq 702: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  87.231 ms
+seq 696: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.022 ms
+seq 703: no response (timeout)
+seq 699: no response (timeout)
+seq 705: no response (timeout)
+seq 704: no response (timeout)
+seq 706: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.520 ms
+seq 708: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  91.426 ms
+seq 714: no response (timeout)
+seq 713: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  76.625 ms
+seq 716: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  91.432 ms
+seq 718: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  75.789 ms
+seq 717: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  79.297 ms
+seq 715: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  80.957 ms
+seq 698: tcp response from planetlab2.acis.ufl.edu (128.227.150.12) [open]  77.683 ms

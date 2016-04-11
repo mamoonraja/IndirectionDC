@@ -1,0 +1,1972 @@
+seq 1: tcp response from 65.216.231.147 [open]  40.303 ms
+seq 2: tcp response from 65.216.231.192 [open]  41.556 ms
+seq 4: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.660 ms
+seq 6: tcp response from 65.216.231.192 [open]  40.682 ms
+seq 8: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.977 ms
+seq 5: tcp response from 65.216.231.147 [open]  40.737 ms
+seq 0: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.395 ms
+seq 9: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  40.468 ms
+seq 7: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  42.215 ms
+seq 10: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.590 ms
+seq 11: tcp response from 192.204.3.104 [open]  35.121 ms
+seq 12: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.244 ms
+seq 13: tcp response from 65.216.231.192 [open]  40.891 ms
+seq 15: tcp response from 65.216.231.147 [open]  40.636 ms
+seq 17: tcp response from 65.216.231.147 [open]  41.139 ms
+seq 14: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.341 ms
+seq 16: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.760 ms
+seq 3: tcp response from 65.216.231.147 [open]  40.830 ms
+seq 20: tcp response from 192.204.3.104 [open]  36.189 ms
+seq 19: tcp response from 65.216.231.192 [open]  40.885 ms
+seq 21: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.313 ms
+seq 22: tcp response from 65.216.231.192 [open]  40.775 ms
+seq 18: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.257 ms
+seq 23: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.580 ms
+seq 25: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.482 ms
+seq 24: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.066 ms
+seq 27: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.579 ms
+seq 26: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.754 ms
+seq 28: tcp response from 65.216.231.147 [open]  40.790 ms
+seq 29: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.847 ms
+seq 32: tcp response from 65.216.231.192 [open]  41.360 ms
+seq 33: tcp response from 65.216.231.192 [open]  40.483 ms
+seq 31: tcp response from 65.216.231.147 [open]  41.354 ms
+seq 30: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.603 ms
+seq 35: tcp response from 65.216.231.192 [open]  40.813 ms
+seq 37: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.786 ms
+seq 34: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.410 ms
+seq 36: tcp response from 65.216.231.192 [open]  41.941 ms
+seq 38: tcp response from 65.216.231.147 [open]  41.440 ms
+seq 41: tcp response from 65.216.231.147 [open]  41.855 ms
+seq 42: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.378 ms
+seq 43: tcp response from 65.216.231.147 [open]  40.921 ms
+seq 44: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.891 ms
+seq 39: tcp response from 65.216.231.147 [open]  41.653 ms
+seq 40: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.243 ms
+seq 46: tcp response from 65.216.231.192 [open]  41.059 ms
+seq 49: tcp response from 65.216.231.147 [open]  41.113 ms
+seq 50: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  42.982 ms
+seq 45: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.053 ms
+seq 47: tcp response from 65.216.231.192 [open]  40.879 ms
+seq 48: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.841 ms
+seq 51: tcp response from 65.216.231.147 [open]  42.070 ms
+seq 53: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.892 ms
+seq 52: tcp response from 65.216.231.147 [open]  41.080 ms
+seq 55: tcp response from 65.216.231.192 [open]  41.559 ms
+seq 57: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.440 ms
+seq 54: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.590 ms
+seq 58: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.888 ms
+seq 59: tcp response from 192.204.3.97 [open]  35.931 ms
+seq 60: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.716 ms
+seq 56: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.677 ms
+seq 62: tcp response from 65.216.231.147 [open]  41.291 ms
+seq 61: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.559 ms
+seq 63: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.421 ms
+seq 64: tcp response from 192.204.3.97 [open]  36.010 ms
+seq 65: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  46.309 ms
+seq 66: tcp response from 192.204.3.104 [open]  34.612 ms
+seq 67: tcp response from 65.216.231.192 [open]  40.624 ms
+seq 69: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  41.432 ms
+seq 72: tcp response from 65.216.231.192 [open]  41.258 ms
+seq 75: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.118 ms
+seq 76: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.526 ms
+seq 68: tcp response from 65.216.231.192 [open]  41.825 ms
+seq 70: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.301 ms
+seq 73: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.513 ms
+seq 74: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.498 ms
+seq 79: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  40.738 ms
+seq 77: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.858 ms
+seq 78: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.193 ms
+seq 81: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.803 ms
+seq 71: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.879 ms
+seq 82: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.063 ms
+seq 83: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.546 ms
+seq 85: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.150 ms
+seq 87: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  46.666 ms
+seq 90: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.755 ms
+seq 84: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.519 ms
+seq 80: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.736 ms
+seq 91: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.087 ms
+seq 86: tcp response from 192.204.3.104 [open]  35.958 ms
+seq 92: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.565 ms
+seq 93: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.543 ms
+seq 94: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.410 ms
+seq 88: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.975 ms
+seq 89: tcp response from 192.204.3.97 [open]  35.658 ms
+seq 100: tcp response from 65.216.231.147 [open]  41.256 ms
+seq 97: tcp response from 65.216.231.192 [open]  41.533 ms
+seq 96: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.774 ms
+seq 98: tcp response from 65.216.231.147 [open]  41.702 ms
+seq 103: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.119 ms
+seq 104: tcp response from 65.216.231.147 [open]  40.658 ms
+seq 99: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.742 ms
+seq 101: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.687 ms
+seq 106: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.478 ms
+seq 102: tcp response from 65.216.231.192 [open]  40.939 ms
+seq 109: tcp response from 65.216.231.192 [open]  40.614 ms
+seq 108: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.790 ms
+seq 95: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.685 ms
+seq 105: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.072 ms
+seq 107: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.799 ms
+seq 111: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  40.335 ms
+seq 110: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.465 ms
+seq 113: tcp response from 65.216.231.192 [open]  40.439 ms
+seq 116: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.979 ms
+seq 115: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.719 ms
+seq 114: tcp response from 65.216.231.192 [open]  41.204 ms
+seq 112: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.407 ms
+seq 117: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.302 ms
+seq 120: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.900 ms
+seq 124: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.121 ms
+seq 122: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.840 ms
+seq 123: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.424 ms
+seq 126: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.202 ms
+seq 119: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.452 ms
+seq 118: tcp response from 65.216.231.147 [open]  40.562 ms
+seq 121: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.537 ms
+seq 127: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.823 ms
+seq 125: tcp response from 192.204.3.104 [open]  34.604 ms
+seq 128: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.832 ms
+seq 130: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.071 ms
+seq 132: tcp response from 65.216.231.147 [open]  41.374 ms
+seq 129: tcp response from 65.216.231.192 [open]  41.510 ms
+seq 131: tcp response from 65.216.231.192 [open]  40.719 ms
+seq 133: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.160 ms
+seq 135: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.443 ms
+seq 137: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.176 ms
+seq 138: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.536 ms
+seq 134: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.567 ms
+seq 139: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.517 ms
+seq 136: tcp response from 65.216.231.192 [open]  40.941 ms
+seq 141: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  112.566 ms
+seq 140: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.576 ms
+seq 143: tcp response from 65.216.231.192 [open]  40.820 ms
+seq 142: tcp response from 65.216.231.192 [open]  41.020 ms
+seq 144: tcp response from 65.216.231.192 [open]  41.199 ms
+seq 145: tcp response from 65.216.231.147 [open]  41.196 ms
+seq 146: tcp response from 65.216.231.147 [open]  40.782 ms
+seq 147: tcp response from 65.216.231.192 [open]  41.551 ms
+seq 149: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  38.671 ms
+seq 148: tcp response from 65.216.231.192 [open]  41.397 ms
+seq 150: tcp response from 65.216.231.147 [open]  41.221 ms
+seq 155: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.527 ms
+seq 154: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  40.232 ms
+seq 152: tcp response from 65.216.231.192 [open]  41.407 ms
+seq 151: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.384 ms
+seq 157: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  64.714 ms
+seq 156: tcp response from 65.216.231.147 [open]  40.467 ms
+seq 159: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.197 ms
+seq 158: tcp response from 65.216.231.147 [open]  40.739 ms
+seq 160: tcp response from 65.216.231.147 [open]  40.838 ms
+seq 161: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.185 ms
+seq 162: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.082 ms
+seq 153: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  84.384 ms
+seq 163: tcp response from 65.216.231.192 [open]  41.288 ms
+seq 164: tcp response from 65.216.231.147 [open]  40.661 ms
+seq 167: tcp response from 65.216.231.192 [open]  40.816 ms
+seq 168: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.085 ms
+seq 165: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.004 ms
+seq 166: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.727 ms
+seq 169: tcp response from 65.216.231.192 [open]  41.566 ms
+seq 170: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.442 ms
+seq 172: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.421 ms
+seq 173: tcp response from 65.172.31.33 [open]  74.252 ms
+seq 171: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  85.149 ms
+seq 174: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.483 ms
+seq 175: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  375.349 ms
+seq 176: tcp response from 65.216.231.147 [open]  40.328 ms
+seq 177: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.559 ms
+seq 181: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.472 ms
+seq 179: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  43.225 ms
+seq 180: tcp response from 65.216.231.147 [open]  41.853 ms
+seq 178: no response (timeout)
+seq 182: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.034 ms
+seq 184: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.177 ms
+seq 185: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.100 ms
+seq 187: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.503 ms
+seq 186: tcp response from 65.216.231.192 [open]  47.881 ms
+seq 188: tcp response from 65.216.231.147 [open]  41.191 ms
+seq 183: tcp response from 65.216.231.192 [open]  41.063 ms
+seq 192: tcp response from 65.172.31.33 [open]  26.078 ms
+seq 189: tcp response from 65.172.31.33 [open]  417.449 ms
+seq 194: tcp response from 65.172.31.26 [open]  26.891 ms
+seq 190: tcp response from 65.216.231.192 [open]  40.581 ms
+seq 191: tcp response from 65.172.31.26 [open]  25.808 ms
+seq 193: tcp response from 65.216.231.147 [open]  41.155 ms
+seq 196: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.360 ms
+seq 195: tcp response from 65.172.31.33 [open]  67.974 ms
+seq 197: tcp response from 65.216.231.192 [open]  41.328 ms
+seq 198: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  112.232 ms
+seq 199: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.307 ms
+seq 202: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.915 ms
+seq 200: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.214 ms
+seq 201: tcp response from 65.216.231.192 [open]  40.551 ms
+seq 203: tcp response from 65.216.231.147 [open]  40.582 ms
+seq 204: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.457 ms
+seq 207: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.204 ms
+seq 205: tcp response from 65.216.231.192 [open]  41.281 ms
+seq 209: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  81.085 ms
+seq 213: tcp response from 65.216.231.147 [open]  41.752 ms
+seq 206: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.818 ms
+seq 208: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.458 ms
+seq 214: tcp response from 65.216.231.192 [open]  42.247 ms
+seq 215: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.923 ms
+seq 217: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.426 ms
+seq 219: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.966 ms
+seq 211: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.392 ms
+seq 210: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.977 ms
+seq 216: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.653 ms
+seq 212: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.459 ms
+seq 221: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.345 ms
+seq 222: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.806 ms
+seq 225: tcp response from 65.216.231.147 [open]  41.140 ms
+seq 220: tcp response from 65.216.231.192 [open]  40.855 ms
+seq 218: tcp response from 65.216.231.147 [open]  41.351 ms
+seq 224: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.963 ms
+seq 223: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.734 ms
+seq 226: tcp response from 65.216.231.147 [open]  41.279 ms
+seq 228: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.201 ms
+seq 227: tcp response from 65.216.231.192 [open]  42.130 ms
+seq 229: tcp response from 192.204.3.97 [open]  34.203 ms
+seq 233: tcp response from 65.216.231.147 [open]  42.068 ms
+seq 232: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.868 ms
+seq 234: tcp response from 65.216.231.147 [open]  41.065 ms
+seq 235: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  112.467 ms
+seq 230: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.482 ms
+seq 236: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.103 ms
+seq 240: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.617 ms
+seq 231: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.570 ms
+seq 238: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.262 ms
+seq 241: tcp response from 65.216.231.147 [open]  41.231 ms
+seq 244: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.026 ms
+seq 245: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  41.662 ms
+seq 237: tcp response from 65.216.231.147 [open]  1115.500 ms
+seq 242: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.898 ms
+seq 243: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.811 ms
+seq 246: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.527 ms
+seq 239: tcp response from 65.216.231.192 [open]  41.322 ms
+seq 247: tcp response from 65.216.231.192 [open]  40.871 ms
+seq 248: tcp response from 65.216.231.192 [open]  40.911 ms
+seq 249: tcp response from 65.216.231.147 [open]  40.693 ms
+seq 251: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.165 ms
+seq 252: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.308 ms
+seq 250: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.529 ms
+seq 253: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.194 ms
+seq 255: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  53.383 ms
+seq 254: tcp response from 65.216.231.192 [open]  41.048 ms
+seq 256: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.551 ms
+seq 257: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.828 ms
+seq 258: tcp response from 65.216.231.147 [open]  40.864 ms
+seq 260: tcp response from 65.216.231.192 [open]  40.659 ms
+seq 261: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.454 ms
+seq 262: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.150 ms
+seq 264: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.038 ms
+seq 259: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.186 ms
+seq 265: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.339 ms
+seq 263: tcp response from 65.216.231.192 [open]  41.201 ms
+seq 266: tcp response from 65.216.231.147 [open]  41.226 ms
+seq 267: tcp response from 65.216.231.192 [open]  53.969 ms
+seq 268: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.567 ms
+seq 269: tcp response from 65.216.231.192 [open]  41.096 ms
+seq 270: tcp response from 65.216.231.147 [open]  40.852 ms
+seq 271: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.894 ms
+seq 272: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.043 ms
+seq 274: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.398 ms
+seq 275: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  61.585 ms
+seq 276: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.977 ms
+seq 277: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.396 ms
+seq 280: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.401 ms
+seq 281: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.366 ms
+seq 273: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.633 ms
+seq 283: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.717 ms
+seq 282: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.777 ms
+seq 284: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.084 ms
+seq 285: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.590 ms
+seq 278: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.152 ms
+seq 279: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.221 ms
+seq 286: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  82.736 ms
+seq 287: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.709 ms
+seq 290: tcp response from 192.204.3.97 [open]  36.729 ms
+seq 291: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.503 ms
+seq 292: tcp response from 65.216.231.192 [open]  41.887 ms
+seq 293: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.062 ms
+seq 294: tcp response from 65.216.231.192 [open]  42.189 ms
+seq 296: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.705 ms
+seq 295: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  46.282 ms
+seq 289: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  41.410 ms
+seq 288: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  46.827 ms
+seq 298: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.898 ms
+seq 297: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  40.359 ms
+seq 299: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.923 ms
+seq 300: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.439 ms
+seq 301: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.427 ms
+seq 302: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.538 ms
+seq 304: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.827 ms
+seq 305: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  48.696 ms
+seq 303: tcp response from 65.216.231.192 [open]  41.513 ms
+seq 306: tcp response from 65.216.231.147 [open]  41.917 ms
+seq 308: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.655 ms
+seq 311: tcp response from 65.216.231.147 [open]  41.749 ms
+seq 313: tcp response from 65.216.231.192 [open]  41.937 ms
+seq 312: tcp response from 65.216.231.192 [open]  41.628 ms
+seq 307: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.782 ms
+seq 309: tcp response from 65.216.231.192 [open]  40.356 ms
+seq 310: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.350 ms
+seq 315: tcp response from 65.216.231.147 [open]  41.715 ms
+seq 314: tcp response from 65.216.231.147 [open]  40.711 ms
+seq 316: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.627 ms
+seq 317: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.016 ms
+seq 320: tcp response from 65.216.231.192 [open]  41.199 ms
+seq 321: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.132 ms
+seq 322: tcp response from 65.216.231.147 [open]  41.640 ms
+seq 323: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.105 ms
+seq 318: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.430 ms
+seq 319: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.556 ms
+seq 326: tcp response from 65.216.231.192 [open]  41.931 ms
+seq 324: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.437 ms
+seq 327: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.955 ms
+seq 325: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.428 ms
+seq 330: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.487 ms
+seq 331: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  47.880 ms
+seq 328: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.296 ms
+seq 329: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.564 ms
+seq 337: tcp response from 65.216.231.147 [open]  40.674 ms
+seq 333: tcp response from 65.216.231.147 [open]  41.072 ms
+seq 338: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.453 ms
+seq 334: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.839 ms
+seq 339: tcp response from 65.216.231.192 [open]  41.131 ms
+seq 336: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.641 ms
+seq 332: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.093 ms
+seq 340: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.554 ms
+seq 335: tcp response from 65.216.231.192 [open]  41.675 ms
+seq 342: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.938 ms
+seq 343: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  42.469 ms
+seq 344: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.214 ms
+seq 346: tcp response from 65.216.231.147 [open]  40.975 ms
+seq 341: tcp response from 65.216.231.192 [open]  41.005 ms
+seq 347: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.489 ms
+seq 345: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.930 ms
+seq 348: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.779 ms
+seq 353: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  40.603 ms
+seq 352: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.119 ms
+seq 357: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.166 ms
+seq 356: tcp response from 65.216.231.192 [open]  40.801 ms
+seq 361: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.680 ms
+seq 358: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.411 ms
+seq 359: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.232 ms
+seq 351: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.648 ms
+seq 362: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  49.854 ms
+seq 355: tcp response from 65.216.231.147 [open]  40.456 ms
+seq 349: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.544 ms
+seq 365: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  41.621 ms
+seq 366: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.745 ms
+seq 367: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.122 ms
+seq 360: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.944 ms
+seq 364: tcp response from 65.216.231.147 [open]  41.163 ms
+seq 372: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  48.912 ms
+seq 354: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.997 ms
+seq 350: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.727 ms
+seq 368: tcp response from 65.216.231.192 [open]  40.402 ms
+seq 370: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.733 ms
+seq 373: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.185 ms
+seq 369: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.754 ms
+seq 363: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.301 ms
+seq 375: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.369 ms
+seq 376: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.590 ms
+seq 371: tcp response from 65.216.231.147 [open]  40.393 ms
+seq 374: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  107.797 ms
+seq 378: tcp response from 65.216.231.192 [open]  40.329 ms
+seq 377: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  40.587 ms
+seq 379: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.684 ms
+seq 380: tcp response from 65.216.231.192 [open]  40.851 ms
+seq 381: tcp response from 65.216.231.192 [open]  41.247 ms
+seq 384: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  50.284 ms
+seq 382: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  112.906 ms
+seq 383: tcp response from 65.216.231.147 [open]  41.313 ms
+seq 386: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.496 ms
+seq 387: tcp response from 65.216.231.192 [open]  40.893 ms
+seq 385: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.846 ms
+seq 388: tcp response from 65.216.231.147 [open]  41.187 ms
+seq 390: tcp response from 65.216.231.192 [open]  41.084 ms
+seq 391: tcp response from 65.216.231.192 [open]  41.341 ms
+seq 394: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.171 ms
+seq 393: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.339 ms
+seq 389: tcp response from 65.216.231.147 [open]  40.393 ms
+seq 396: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.484 ms
+seq 397: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  61.431 ms
+seq 395: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.576 ms
+seq 392: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.381 ms
+seq 398: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.523 ms
+seq 399: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.260 ms
+seq 400: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.757 ms
+seq 404: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.595 ms
+seq 405: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.314 ms
+seq 402: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  41.938 ms
+seq 401: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.656 ms
+seq 403: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.598 ms
+seq 407: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.128 ms
+seq 408: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.556 ms
+seq 410: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.974 ms
+seq 411: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.955 ms
+seq 406: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.481 ms
+seq 409: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.683 ms
+seq 413: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.912 ms
+seq 412: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.434 ms
+seq 415: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.097 ms
+seq 418: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.056 ms
+seq 414: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.271 ms
+seq 416: tcp response from 65.216.231.147 [open]  40.497 ms
+seq 417: tcp response from 65.216.231.192 [open]  40.638 ms
+seq 419: tcp response from 65.216.231.147 [open]  40.494 ms
+seq 420: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  113.339 ms
+seq 423: tcp response from 65.216.231.147 [open]  40.395 ms
+seq 425: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.389 ms
+seq 428: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.490 ms
+seq 421: tcp response from 65.216.231.192 [open]  41.553 ms
+seq 430: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  42.032 ms
+seq 432: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.248 ms
+seq 427: tcp response from 65.216.231.147 [open]  41.179 ms
+seq 424: tcp response from 65.216.231.192 [open]  41.182 ms
+seq 429: tcp response from 65.216.231.192 [open]  40.957 ms
+seq 431: tcp response from 65.216.231.192 [open]  40.665 ms
+seq 433: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.922 ms
+seq 422: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.438 ms
+seq 426: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.171 ms
+seq 435: tcp response from 65.216.231.192 [open]  41.759 ms
+seq 434: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  41.598 ms
+seq 436: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  40.002 ms
+seq 439: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  41.001 ms
+seq 440: tcp response from 65.216.231.147 [open]  41.352 ms
+seq 441: tcp response from 65.216.231.192 [open]  41.985 ms
+seq 437: tcp response from 65.216.231.192 [open]  42.650 ms
+seq 443: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.271 ms
+seq 444: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.006 ms
+seq 445: tcp response from 65.216.231.192 [open]  41.207 ms
+seq 447: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.365 ms
+seq 442: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.322 ms
+seq 450: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.579 ms
+seq 448: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.213 ms
+seq 449: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.238 ms
+seq 438: tcp response from 65.216.231.147 [open]  41.229 ms
+seq 446: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.510 ms
+seq 451: tcp response from 65.216.231.192 [open]  42.600 ms
+seq 452: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.154 ms
+seq 453: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  41.508 ms
+seq 454: tcp response from 65.216.231.192 [open]  41.673 ms
+seq 455: tcp response from 65.216.231.147 [open]  40.917 ms
+seq 456: tcp response from 65.216.231.147 [open]  40.566 ms
+seq 459: tcp response from 65.216.231.147 [open]  41.253 ms
+seq 458: tcp response from 65.216.231.192 [open]  41.992 ms
+seq 460: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.173 ms
+seq 462: tcp response from 192.204.3.97 [open]  34.027 ms
+seq 464: tcp response from 65.216.231.192 [open]  41.694 ms
+seq 467: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  41.168 ms
+seq 461: tcp response from a23-62-236-105.deploy.static.akamaitechnologies.com (23.62.236.105) [open]  42.468 ms
+seq 468: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.584 ms
+seq 466: tcp response from a23-62-236-80.deploy.static.akamaitechnologies.com (23.62.236.80) [open]  39.507 ms
+seq 469: tcp response from 157.238.91.24 [open]  47.329 ms
+seq 463: tcp response from 65.216.231.147 [open]  41.061 ms
+seq 457: tcp response from 65.216.231.192 [open]  41.586 ms
+seq 470: tcp response from 157.238.91.27 [open]  46.617 ms
+seq 465: tcp response from 65.216.231.192 [open]  41.681 ms
+seq 474: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.298 ms
+seq 473: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.760 ms
+seq 472: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.695 ms
+seq 471: tcp response from 65.216.231.192 [open]  41.493 ms
+seq 475: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.914 ms
+seq 477: tcp response from 192.204.3.104 [open]  34.111 ms
+seq 479: tcp response from 65.216.231.192 [open]  40.742 ms
+seq 480: tcp response from 65.216.231.147 [open]  40.929 ms
+seq 482: tcp response from 65.216.231.192 [open]  41.469 ms
+seq 481: tcp response from 65.216.231.192 [open]  40.468 ms
+seq 478: tcp response from 157.238.91.24 [open]  49.046 ms
+seq 476: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.065 ms
+seq 483: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.988 ms
+seq 484: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.504 ms
+seq 485: tcp response from 157.238.91.24 [open]  51.543 ms
+seq 487: tcp response from 157.238.91.24 [open]  46.842 ms
+seq 486: tcp response from 65.216.231.192 [open]  41.121 ms
+seq 489: tcp response from 157.238.91.24 [open]  47.467 ms
+seq 490: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.473 ms
+seq 488: tcp response from 157.238.91.27 [open]  50.270 ms
+seq 491: tcp response from 157.238.91.24 [open]  50.315 ms
+seq 492: tcp response from 157.238.91.24 [open]  47.149 ms
+seq 493: tcp response from 65.216.231.192 [open]  41.291 ms
+seq 495: tcp response from 65.216.231.147 [open]  41.312 ms
+seq 494: tcp response from 157.238.91.27 [open]  47.750 ms
+seq 496: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.595 ms
+seq 497: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.751 ms
+seq 498: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.551 ms
+seq 499: tcp response from 65.216.231.192 [open]  41.502 ms
+seq 501: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.894 ms
+seq 502: tcp response from 69.31.132.26 [open]  36.817 ms
+seq 503: tcp response from 69.31.132.51 [open]  36.822 ms
+seq 500: tcp response from 157.238.91.27 [open]  50.133 ms
+seq 504: tcp response from 157.238.91.24 [open]  46.465 ms
+seq 506: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.406 ms
+seq 507: tcp response from 157.238.91.27 [open]  50.472 ms
+seq 505: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.076 ms
+seq 508: tcp response from 69.31.132.26 [open]  36.464 ms
+seq 509: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.286 ms
+seq 512: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.826 ms
+seq 511: tcp response from 65.216.231.192 [open]  41.688 ms
+seq 513: tcp response from 157.238.91.27 [open]  52.035 ms
+seq 510: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.745 ms
+seq 515: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.488 ms
+seq 516: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.214 ms
+seq 514: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.014 ms
+seq 517: tcp response from 65.216.231.192 [open]  40.841 ms
+seq 518: tcp response from 65.216.231.192 [open]  41.263 ms
+seq 519: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.327 ms
+seq 520: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.828 ms
+seq 521: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.432 ms
+seq 522: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.037 ms
+seq 523: tcp response from 65.216.231.147 [open]  42.540 ms
+seq 525: tcp response from 69.31.132.51 [open]  36.225 ms
+seq 524: tcp response from 69.31.132.26 [open]  36.042 ms
+seq 527: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  40.754 ms
+seq 528: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.451 ms
+seq 526: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  40.589 ms
+seq 529: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.473 ms
+seq 531: tcp response from 157.238.91.27 [open]  47.000 ms
+seq 530: tcp response from 157.238.91.27 [open]  47.076 ms
+seq 532: tcp response from 69.31.132.26 [open]  35.734 ms
+seq 533: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.868 ms
+seq 534: tcp response from 65.216.231.192 [open]  41.714 ms
+seq 538: tcp response from 65.216.231.147 [open]  40.734 ms
+seq 535: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.268 ms
+seq 539: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.192 ms
+seq 544: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.098 ms
+seq 541: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.049 ms
+seq 540: tcp response from 157.238.91.27 [open]  46.549 ms
+seq 537: tcp response from 157.238.91.24 [open]  46.962 ms
+seq 545: tcp response from 157.238.91.24 [open]  50.129 ms
+seq 548: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.522 ms
+seq 536: tcp response from 65.216.231.192 [open]  41.586 ms
+seq 551: tcp response from 157.238.91.24 [open]  46.659 ms
+seq 542: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.754 ms
+seq 546: tcp response from 157.238.91.27 [open]  47.115 ms
+seq 552: tcp response from 157.238.91.27 [open]  50.808 ms
+seq 553: tcp response from 157.238.91.27 [open]  46.916 ms
+seq 550: tcp response from 157.238.91.24 [open]  50.120 ms
+seq 554: tcp response from 157.238.91.24 [open]  47.305 ms
+seq 555: tcp response from 65.216.231.192 [open]  40.852 ms
+seq 549: tcp response from 69.31.132.26 [open]  36.330 ms
+seq 543: tcp response from 65.216.231.147 [open]  40.946 ms
+seq 547: tcp response from 157.238.91.24 [open]  50.285 ms
+seq 556: tcp response from 69.31.132.26 [open]  36.014 ms
+seq 558: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.807 ms
+seq 559: tcp response from 69.31.132.51 [open]  38.616 ms
+seq 560: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.550 ms
+seq 561: tcp response from 65.216.231.147 [open]  40.822 ms
+seq 562: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.577 ms
+seq 563: tcp response from 157.238.91.24 [open]  50.130 ms
+seq 564: tcp response from 65.216.231.192 [open]  40.381 ms
+seq 565: tcp response from 69.31.132.26 [open]  36.318 ms
+seq 566: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.076 ms
+seq 568: tcp response from 69.31.132.51 [open]  35.882 ms
+seq 569: tcp response from 157.238.91.24 [open]  46.421 ms
+seq 571: tcp response from 157.238.91.24 [open]  46.940 ms
+seq 570: tcp response from 157.238.91.27 [open]  50.645 ms
+seq 572: tcp response from 157.238.91.27 [open]  50.931 ms
+seq 576: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.678 ms
+seq 574: tcp response from 157.238.91.24 [open]  52.752 ms
+seq 578: tcp response from 157.238.91.24 [open]  47.259 ms
+seq 573: tcp response from 69.31.132.26 [open]  36.951 ms
+seq 577: tcp response from 157.238.91.24 [open]  50.943 ms
+seq 579: tcp response from 157.238.91.27 [open]  50.161 ms
+seq 575: tcp response from 157.238.91.27 [open]  46.565 ms
+seq 567: tcp response from 157.238.91.24 [open]  46.856 ms
+seq 581: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.783 ms
+seq 557: tcp response from 157.238.91.27 [open]  51.079 ms
+seq 582: tcp response from 65.216.231.147 [open]  40.741 ms
+seq 585: tcp response from 65.216.231.192 [open]  42.030 ms
+seq 580: tcp response from 65.216.231.192 [open]  41.079 ms
+seq 586: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  42.021 ms
+seq 584: tcp response from 65.216.231.192 [open]  40.501 ms
+seq 583: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.383 ms
+seq 587: tcp response from 65.216.231.147 [open]  40.819 ms
+seq 588: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.391 ms
+seq 589: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.968 ms
+seq 591: tcp response from 65.216.231.192 [open]  40.841 ms
+seq 590: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.040 ms
+seq 592: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.351 ms
+seq 593: tcp response from 65.216.231.192 [open]  41.850 ms
+seq 594: tcp response from 157.238.91.27 [open]  48.535 ms
+seq 595: tcp response from 157.238.91.24 [open]  46.985 ms
+seq 596: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.716 ms
+seq 600: tcp response from 65.216.231.147 [open]  40.738 ms
+seq 597: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.373 ms
+seq 601: tcp response from 157.238.91.24 [open]  46.534 ms
+seq 598: tcp response from 65.216.231.147 [open]  41.942 ms
+seq 599: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  39.952 ms
+seq 602: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  112.428 ms
+seq 603: tcp response from 69.31.132.51 [open]  35.620 ms
+seq 604: tcp response from 157.238.91.27 [open]  48.054 ms
+seq 605: tcp response from 157.238.91.24 [open]  52.121 ms
+seq 607: tcp response from 157.238.91.24 [open]  46.477 ms
+seq 606: tcp response from 157.238.91.27 [open]  50.118 ms
+seq 608: tcp response from 157.238.91.24 [open]  46.806 ms
+seq 609: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.566 ms
+seq 610: tcp response from 65.216.231.147 [open]  41.077 ms
+seq 612: tcp response from 65.216.231.192 [open]  40.858 ms
+seq 614: tcp response from 65.216.231.147 [open]  41.776 ms
+seq 611: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.618 ms
+seq 615: tcp response from 157.238.91.27 [open]  51.247 ms
+seq 617: tcp response from 65.216.231.192 [open]  41.392 ms
+seq 616: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.626 ms
+seq 613: tcp response from 157.238.91.27 [open]  46.528 ms
+seq 618: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.421 ms
+seq 619: tcp response from 65.216.231.147 [open]  41.197 ms
+seq 620: tcp response from 157.238.91.27 [open]  50.000 ms
+seq 621: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.973 ms
+seq 623: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.669 ms
+seq 624: tcp response from 65.216.231.147 [open]  42.190 ms
+seq 628: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.684 ms
+seq 622: tcp response from 65.216.231.192 [open]  41.635 ms
+seq 625: tcp response from 157.238.91.27 [open]  50.402 ms
+seq 626: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.173 ms
+seq 629: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.446 ms
+seq 630: tcp response from 65.216.231.147 [open]  42.238 ms
+seq 633: tcp response from 65.216.231.147 [open]  41.785 ms
+seq 634: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.978 ms
+seq 635: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.798 ms
+seq 631: tcp response from 65.216.231.147 [open]  41.016 ms
+seq 632: tcp response from 65.216.231.147 [open]  41.843 ms
+seq 627: tcp response from 65.216.231.147 [open]  40.865 ms
+seq 637: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.104 ms
+seq 638: tcp response from 65.216.231.147 [open]  40.505 ms
+seq 640: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.000 ms
+seq 643: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.520 ms
+seq 641: tcp response from 65.216.231.147 [open]  40.422 ms
+seq 636: tcp response from 157.238.91.27 [open]  47.236 ms
+seq 639: tcp response from 157.238.91.24 [open]  50.532 ms
+seq 642: tcp response from 157.238.91.27 [open]  46.743 ms
+seq 645: tcp response from 192.204.3.104 [open]  35.878 ms
+seq 647: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.985 ms
+seq 648: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  41.150 ms
+seq 649: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.373 ms
+seq 650: tcp response from 65.216.231.192 [open]  41.491 ms
+seq 646: tcp response from 157.238.91.27 [open]  47.026 ms
+seq 644: tcp response from 157.238.91.24 [open]  50.274 ms
+seq 651: tcp response from 157.238.91.27 [open]  50.821 ms
+seq 652: tcp response from 157.238.91.27 [open]  50.795 ms
+seq 653: tcp response from 65.216.231.147 [open]  41.070 ms
+seq 656: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.171 ms
+seq 657: tcp response from 157.238.91.24 [open]  50.686 ms
+seq 655: tcp response from 192.204.3.104 [open]  34.686 ms
+seq 654: tcp response from 157.238.91.24 [open]  46.701 ms
+seq 658: tcp response from 65.216.231.147 [open]  41.500 ms
+seq 659: tcp response from 65.216.231.192 [open]  40.882 ms
+seq 661: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.830 ms
+seq 662: tcp response from 65.216.231.192 [open]  40.914 ms
+seq 660: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.542 ms
+seq 667: tcp response from 157.238.91.24 [open]  46.989 ms
+seq 664: tcp response from 65.216.231.147 [open]  40.456 ms
+seq 663: tcp response from 65.216.231.192 [open]  41.405 ms
+seq 669: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  132.873 ms
+seq 666: tcp response from 65.216.231.192 [open]  40.998 ms
+seq 672: tcp response from 65.216.231.192 [open]  40.548 ms
+seq 671: tcp response from 157.238.91.27 [open]  50.526 ms
+seq 668: tcp response from 65.216.231.147 [open]  41.455 ms
+seq 676: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.228 ms
+seq 674: tcp response from 157.238.91.24 [open]  49.543 ms
+seq 665: tcp response from 157.238.91.27 [open]  50.320 ms
+seq 675: tcp response from 157.238.91.27 [open]  52.193 ms
+seq 679: tcp response from 157.238.91.27 [open]  50.255 ms
+seq 673: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.684 ms
+seq 678: tcp response from 157.238.91.27 [open]  51.515 ms
+seq 680: tcp response from 157.238.91.24 [open]  50.178 ms
+seq 677: tcp response from 192.204.3.104 [open]  33.984 ms
+seq 670: tcp response from 192.204.3.97 [open]  33.952 ms
+seq 682: tcp response from 165.254.244.155 [open]  240.524 ms
+seq 684: tcp response from 65.216.231.147 [open]  41.746 ms
+seq 683: tcp response from 157.238.91.27 [open]  46.880 ms
+seq 686: tcp response from 165.254.244.153 [open]  34.126 ms
+seq 687: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.857 ms
+seq 685: tcp response from 65.216.231.192 [open]  41.116 ms
+seq 688: tcp response from 65.216.231.147 [open]  41.535 ms
+seq 681: tcp response from 192.204.3.97 [open]  34.486 ms
+seq 690: tcp response from 65.216.231.147 [open]  41.526 ms
+seq 692: tcp response from a96-17-197-24.deploy.akamaitechnologies.com (96.17.197.24) [open]  39.933 ms
+seq 693: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.624 ms
+seq 689: tcp response from 65.216.231.192 [open]  40.943 ms
+seq 695: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.620 ms
+seq 696: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.857 ms
+seq 699: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.274 ms
+seq 702: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.104 ms
+seq 704: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  47.344 ms
+seq 705: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.054 ms
+seq 698: tcp response from 165.254.244.153 [open]  36.599 ms
+seq 707: tcp response from 65.216.231.192 [open]  41.751 ms
+seq 700: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  48.127 ms
+seq 694: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.277 ms
+seq 701: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.936 ms
+seq 691: tcp response from 65.216.231.192 [open]  40.768 ms
+seq 697: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.068 ms
+seq 708: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.846 ms
+seq 711: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  46.769 ms
+seq 703: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  51.915 ms
+seq 709: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  52.711 ms
+seq 710: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.765 ms
+seq 706: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.258 ms
+seq 713: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  50.257 ms
+seq 715: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  46.789 ms
+seq 712: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  50.967 ms
+seq 714: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  47.109 ms
+seq 720: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  52.172 ms
+seq 717: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.751 ms
+seq 722: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  73.677 ms
+seq 723: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.888 ms
+seq 724: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.652 ms
+seq 719: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  50.625 ms
+seq 727: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.228 ms
+seq 729: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.153 ms
+seq 728: tcp response from 65.216.231.147 [open]  41.022 ms
+seq 730: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.125 ms
+seq 731: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.739 ms
+seq 721: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.359 ms
+seq 718: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.851 ms
+seq 732: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.975 ms
+seq 725: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.588 ms
+seq 726: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  51.463 ms
+seq 716: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  107.990 ms
+seq 733: tcp response from 65.216.231.192 [open]  41.088 ms
+seq 734: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.482 ms
+seq 735: tcp response from 65.216.231.147 [open]  40.947 ms
+seq 736: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.484 ms
+seq 737: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.401 ms
+seq 738: tcp response from 65.216.231.192 [open]  40.859 ms
+seq 740: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  49.698 ms
+seq 739: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.063 ms
+seq 741: tcp response from 65.216.231.147 [open]  40.451 ms
+seq 743: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.795 ms
+seq 742: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.935 ms
+seq 745: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  46.950 ms
+seq 746: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  50.177 ms
+seq 747: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.624 ms
+seq 744: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  47.840 ms
+seq 749: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.670 ms
+seq 751: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.911 ms
+seq 752: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.895 ms
+seq 755: tcp response from 165.254.244.155 [open]  34.363 ms
+seq 750: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  47.441 ms
+seq 748: tcp response from 65.216.231.192 [open]  40.358 ms
+seq 757: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.125 ms
+seq 753: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  51.669 ms
+seq 759: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.807 ms
+seq 760: tcp response from 65.216.231.192 [open]  40.798 ms
+seq 754: tcp response from 65.216.231.192 [open]  41.371 ms
+seq 756: tcp response from 165.254.244.153 [open]  34.183 ms
+seq 761: tcp response from 65.216.231.192 [open]  40.929 ms
+seq 765: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.293 ms
+seq 764: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.857 ms
+seq 766: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  50.200 ms
+seq 758: tcp response from 65.216.231.147 [open]  41.656 ms
+seq 762: tcp response from 65.216.231.147 [open]  41.302 ms
+seq 767: tcp response from 65.216.231.147 [open]  40.696 ms
+seq 763: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.222 ms
+seq 768: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  47.948 ms
+seq 769: tcp response from 65.216.231.147 [open]  40.929 ms
+seq 771: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.568 ms
+seq 773: tcp response from a96-17-197-24.deploy.akamaitechnologies.com (96.17.197.24) [open]  40.358 ms
+seq 774: tcp response from 65.216.231.192 [open]  42.660 ms
+seq 775: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  107.919 ms
+seq 772: tcp response from 65.216.231.192 [open]  40.864 ms
+seq 779: tcp response from 65.216.231.192 [open]  41.362 ms
+seq 776: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  50.172 ms
+seq 781: tcp response from 65.216.231.147 [open]  40.872 ms
+seq 777: tcp response from 65.216.231.147 [open]  42.041 ms
+seq 778: tcp response from 65.216.231.192 [open]  41.102 ms
+seq 770: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  47.508 ms
+seq 782: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.821 ms
+seq 783: tcp response from 65.216.231.147 [open]  41.413 ms
+seq 784: tcp response from 165.254.244.153 [open]  63.298 ms
+seq 780: tcp response from 65.216.231.192 [open]  41.379 ms
+seq 786: tcp response from 65.216.231.192 [open]  41.128 ms
+seq 785: tcp response from 65.216.231.147 [open]  40.961 ms
+seq 788: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  51.007 ms
+seq 789: tcp response from 165.254.244.155 [open]  36.561 ms
+seq 787: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  51.198 ms
+seq 791: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.164 ms
+seq 792: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.457 ms
+seq 793: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.011 ms
+seq 794: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.338 ms
+seq 790: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.616 ms
+seq 795: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.162 ms
+seq 797: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.211 ms
+seq 796: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.062 ms
+seq 798: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.732 ms
+seq 799: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.939 ms
+seq 800: tcp response from 165.254.244.153 [open]  34.699 ms
+seq 803: tcp response from 165.254.244.155 [open]  42.778 ms
+seq 802: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.566 ms
+seq 801: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.561 ms
+seq 805: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.022 ms
+seq 804: tcp response from 65.216.231.192 [open]  41.348 ms
+seq 806: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  47.827 ms
+seq 810: tcp response from 65.216.231.147 [open]  41.830 ms
+seq 808: tcp response from 65.216.231.147 [open]  41.696 ms
+seq 807: tcp response from 65.216.231.192 [open]  40.823 ms
+seq 812: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.745 ms
+seq 809: tcp response from 65.216.231.192 [open]  42.185 ms
+seq 811: tcp response from 65.216.231.147 [open]  42.081 ms
+seq 813: tcp response from 65.216.231.192 [open]  40.665 ms
+seq 814: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.136 ms
+seq 815: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.638 ms
+seq 816: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.692 ms
+seq 817: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.347 ms
+seq 819: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.005 ms
+seq 823: tcp response from 65.216.231.192 [open]  41.395 ms
+seq 818: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.509 ms
+seq 821: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  51.159 ms
+seq 822: tcp response from 65.216.231.147 [open]  41.937 ms
+seq 824: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.571 ms
+seq 820: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.695 ms
+seq 826: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.499 ms
+seq 825: tcp response from 65.216.231.192 [open]  41.408 ms
+seq 827: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  51.234 ms
+seq 831: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  66.534 ms
+seq 828: tcp response from 65.216.231.147 [open]  40.830 ms
+seq 829: tcp response from 165.254.244.153 [open]  36.426 ms
+seq 830: tcp response from 65.216.231.192 [open]  40.900 ms
+seq 833: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.619 ms
+seq 832: tcp response from 65.216.231.192 [open]  41.113 ms
+seq 837: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.512 ms
+seq 834: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.868 ms
+seq 838: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.464 ms
+seq 836: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.343 ms
+seq 839: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  50.544 ms
+seq 835: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.631 ms
+seq 840: tcp response from 65.216.231.192 [open]  41.006 ms
+seq 841: tcp response from 65.216.231.147 [open]  40.687 ms
+seq 844: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  48.531 ms
+seq 842: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  51.490 ms
+seq 843: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.692 ms
+seq 846: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.514 ms
+seq 847: tcp response from 165.254.244.153 [open]  35.097 ms
+seq 848: tcp response from 65.216.231.192 [open]  41.545 ms
+seq 849: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.606 ms
+seq 845: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.405 ms
+seq 850: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.565 ms
+seq 851: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.431 ms
+seq 853: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  52.164 ms
+seq 852: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.007 ms
+seq 856: tcp response from 165.254.244.153 [open]  34.497 ms
+seq 855: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.685 ms
+seq 858: tcp response from 65.216.231.192 [open]  41.127 ms
+seq 859: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.034 ms
+seq 854: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  39.945 ms
+seq 862: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.065 ms
+seq 857: tcp response from 65.216.231.192 [open]  41.024 ms
+seq 861: tcp response from 65.216.231.147 [open]  40.400 ms
+seq 863: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.629 ms
+seq 864: tcp response from 165.254.244.155 [open]  35.970 ms
+seq 865: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.866 ms
+seq 860: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.334 ms
+seq 867: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.781 ms
+seq 868: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.188 ms
+seq 866: tcp response from 165.254.244.155 [open]  35.158 ms
+seq 869: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.533 ms
+seq 870: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.746 ms
+seq 873: tcp response from 65.216.231.192 [open]  40.948 ms
+seq 872: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.972 ms
+seq 871: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  48.583 ms
+seq 874: tcp response from 165.254.244.153 [open]  35.187 ms
+seq 875: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  47.551 ms
+seq 876: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  47.231 ms
+seq 877: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.970 ms
+seq 878: tcp response from 65.216.231.192 [open]  40.779 ms
+seq 880: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.080 ms
+seq 882: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.625 ms
+seq 885: tcp response from d3-5-1-0-23-0.a03.nycmny01.us.ra.verio.net (165.254.204.89) [open]  50.254 ms
+seq 879: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  112.073 ms
+seq 881: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.236 ms
+seq 883: tcp response from 165.254.244.153 [open]  35.795 ms
+seq 888: tcp response from 157.238.91.24 [open]  48.232 ms
+seq 884: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.926 ms
+seq 891: tcp response from 65.216.231.192 [open]  42.143 ms
+seq 887: tcp response from 65.216.231.147 [open]  41.115 ms
+seq 894: tcp response from 157.238.91.27 [open]  48.568 ms
+seq 895: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.873 ms
+seq 899: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.805 ms
+seq 892: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.703 ms
+seq 886: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  46.628 ms
+seq 898: tcp response from 65.216.231.147 [open]  41.319 ms
+seq 890: tcp response from 157.238.91.27 [open]  50.838 ms
+seq 889: tcp response from d3-5-1-1-5-0.a03.nycmny01.us.ra.verio.net (165.254.204.145) [open]  47.181 ms
+seq 893: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.391 ms
+seq 901: tcp response from 157.238.91.27 [open]  46.465 ms
+seq 902: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.661 ms
+seq 896: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.270 ms
+seq 903: tcp response from 65.216.231.192 [open]  47.717 ms
+seq 904: tcp response from 157.238.91.24 [open]  47.585 ms
+seq 897: tcp response from 157.238.91.27 [open]  51.033 ms
+seq 900: tcp response from 65.216.231.147 [open]  42.365 ms
+seq 905: tcp response from 157.238.91.24 [open]  47.810 ms
+seq 909: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.621 ms
+seq 907: tcp response from 157.238.91.24 [open]  51.165 ms
+seq 908: tcp response from 69.31.132.26 [open]  36.234 ms
+seq 910: tcp response from 69.31.132.26 [open]  35.920 ms
+seq 911: tcp response from 65.216.231.192 [open]  40.848 ms
+seq 906: tcp response from 157.238.91.24 [open]  46.756 ms
+seq 914: tcp response from 65.216.231.192 [open]  41.682 ms
+seq 915: tcp response from 157.238.91.24 [open]  47.727 ms
+seq 912: tcp response from 65.216.231.192 [open]  40.854 ms
+seq 916: tcp response from 157.238.91.27 [open]  50.109 ms
+seq 917: tcp response from 65.216.231.147 [open]  42.009 ms
+seq 918: tcp response from 157.238.91.27 [open]  46.682 ms
+seq 913: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.013 ms
+seq 919: tcp response from 157.238.91.27 [open]  46.846 ms
+seq 920: tcp response from 157.238.91.24 [open]  46.578 ms
+seq 921: tcp response from 65.216.231.192 [open]  41.645 ms
+seq 924: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.978 ms
+seq 922: tcp response from 65.216.231.147 [open]  41.426 ms
+seq 923: tcp response from 69.31.132.26 [open]  36.433 ms
+seq 926: tcp response from 65.216.231.147 [open]  41.263 ms
+seq 927: tcp response from 65.216.231.147 [open]  41.053 ms
+seq 928: tcp response from 157.238.91.27 [open]  46.512 ms
+seq 925: tcp response from 69.31.132.26 [open]  35.528 ms
+seq 929: tcp response from 65.216.231.192 [open]  41.411 ms
+seq 930: tcp response from 69.31.132.26 [open]  35.658 ms
+seq 931: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.143 ms
+seq 932: tcp response from 65.216.231.192 [open]  40.719 ms
+seq 933: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.087 ms
+seq 934: tcp response from 157.238.91.24 [open]  46.678 ms
+seq 935: tcp response from 65.216.231.147 [open]  41.372 ms
+seq 936: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.899 ms
+seq 938: tcp response from 65.216.231.147 [open]  40.502 ms
+seq 939: tcp response from 65.216.231.192 [open]  41.367 ms
+seq 940: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  114.192 ms
+seq 941: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.706 ms
+seq 937: tcp response from 65.216.231.192 [open]  40.810 ms
+seq 943: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.180 ms
+seq 942: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.685 ms
+seq 944: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.871 ms
+seq 945: tcp response from 157.238.91.24 [open]  46.829 ms
+seq 946: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.773 ms
+seq 947: tcp response from 69.31.132.26 [open]  35.874 ms
+seq 948: tcp response from 65.216.231.192 [open]  40.698 ms
+seq 949: tcp response from 157.238.91.27 [open]  51.112 ms
+seq 950: tcp response from 69.31.132.51 [open]  36.032 ms
+seq 951: tcp response from 157.238.91.27 [open]  51.480 ms
+seq 954: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.284 ms
+seq 955: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.015 ms
+seq 952: tcp response from 157.238.91.24 [open]  47.414 ms
+seq 953: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.828 ms
+seq 956: tcp response from 157.238.91.27 [open]  47.249 ms
+seq 959: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.283 ms
+seq 961: tcp response from 65.216.231.147 [open]  40.783 ms
+seq 957: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.088 ms
+seq 958: tcp response from 65.216.231.192 [open]  42.004 ms
+seq 960: tcp response from 65.216.231.147 [open]  40.860 ms
+seq 962: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.146 ms
+seq 966: tcp response from 65.216.231.147 [open]  40.948 ms
+seq 963: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.282 ms
+seq 969: tcp response from 65.216.231.192 [open]  41.460 ms
+seq 964: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.569 ms
+seq 965: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.753 ms
+seq 968: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  107.961 ms
+seq 967: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.299 ms
+seq 971: tcp response from 157.238.91.24 [open]  50.323 ms
+seq 970: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.095 ms
+seq 972: tcp response from 157.238.91.27 [open]  46.500 ms
+seq 974: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.148 ms
+seq 973: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.772 ms
+seq 978: tcp response from 157.238.91.24 [open]  48.130 ms
+seq 979: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.899 ms
+seq 977: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.566 ms
+seq 980: tcp response from 157.238.91.27 [open]  47.579 ms
+seq 975: tcp response from 157.238.91.27 [open]  51.344 ms
+seq 982: tcp response from 69.31.132.51 [open]  36.318 ms
+seq 984: tcp response from 157.238.91.27 [open]  46.861 ms
+seq 985: tcp response from 65.216.231.147 [open]  41.020 ms
+seq 976: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.291 ms
+seq 988: tcp response from 157.238.91.24 [open]  50.311 ms
+seq 981: tcp response from 65.216.231.147 [open]  40.405 ms
+seq 990: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  41.252 ms
+seq 991: tcp response from 65.216.231.147 [open]  41.320 ms
+seq 986: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.404 ms
+seq 992: tcp response from 65.216.231.192 [open]  41.195 ms
+seq 994: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.462 ms
+seq 995: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.009 ms
+seq 997: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.697 ms
+seq 999: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  41.091 ms
+seq 983: tcp response from 65.216.231.147 [open]  40.892 ms
+seq 987: tcp response from 65.216.231.192 [open]  40.776 ms
+seq 996: tcp response from 157.238.91.27 [open]  46.992 ms
+seq 989: tcp response from 157.238.91.27 [open]  46.550 ms
+seq 998: tcp response from 65.216.231.192 [open]  40.822 ms
+seq 993: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.980 ms
+seq 1002: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.619 ms
+seq 1003: tcp response from 157.238.91.24 [open]  50.125 ms
+seq 1000: tcp response from 157.238.91.24 [open]  46.511 ms
+seq 1001: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.751 ms
+seq 1004: tcp response from 157.238.91.24 [open]  50.519 ms
+seq 1005: tcp response from 157.238.91.27 [open]  50.132 ms
+seq 1006: tcp response from 65.216.231.147 [open]  40.361 ms
+seq 1008: tcp response from 157.238.91.27 [open]  47.103 ms
+seq 1010: tcp response from 157.238.91.24 [open]  50.381 ms
+seq 1013: tcp response from 65.216.231.192 [open]  42.293 ms
+seq 1014: tcp response from 157.238.91.24 [open]  46.909 ms
+seq 1007: tcp response from 65.216.231.147 [open]  40.789 ms
+seq 1009: tcp response from 65.216.231.192 [open]  42.186 ms
+seq 1016: tcp response from 157.238.91.27 [open]  50.627 ms
+seq 1015: tcp response from 65.216.231.147 [open]  42.824 ms
+seq 1011: tcp response from 157.238.91.24 [open]  50.931 ms
+seq 1018: tcp response from 65.216.231.192 [open]  41.510 ms
+seq 1017: tcp response from 157.238.91.27 [open]  46.861 ms
+seq 1019: tcp response from 65.216.231.192 [open]  41.368 ms
+seq 1021: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.164 ms
+seq 1012: tcp response from 157.238.91.27 [open]  46.773 ms
+seq 1022: tcp response from 65.216.231.192 [open]  42.669 ms
+seq 1020: tcp response from 65.216.231.147 [open]  41.121 ms
+seq 1023: tcp response from 65.216.231.147 [open]  42.621 ms
+seq 1024: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.202 ms
+seq 1025: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.451 ms
+seq 1026: tcp response from 157.238.91.27 [open]  50.218 ms
+seq 1027: tcp response from 157.238.91.27 [open]  46.962 ms
+seq 1029: tcp response from 65.216.231.192 [open]  40.924 ms
+seq 1031: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.830 ms
+seq 1032: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.974 ms
+seq 1033: tcp response from 157.238.91.24 [open]  50.621 ms
+seq 1028: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.482 ms
+seq 1034: tcp response from 157.238.91.24 [open]  50.200 ms
+seq 1030: tcp response from 157.238.91.24 [open]  50.421 ms
+seq 1036: tcp response from 65.216.231.147 [open]  40.778 ms
+seq 1037: tcp response from 65.216.231.192 [open]  41.844 ms
+seq 1040: tcp response from 157.238.91.24 [open]  46.709 ms
+seq 1041: tcp response from 157.238.91.27 [open]  50.874 ms
+seq 1039: tcp response from 69.31.132.51 [open]  35.580 ms
+seq 1035: tcp response from 69.31.132.26 [open]  35.676 ms
+seq 1038: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.149 ms
+seq 1043: tcp response from 157.238.91.27 [open]  50.374 ms
+seq 1045: tcp response from 157.238.91.24 [open]  47.164 ms
+seq 1042: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.913 ms
+seq 1049: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.059 ms
+seq 1048: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.565 ms
+seq 1050: tcp response from 157.238.91.27 [open]  50.349 ms
+seq 1051: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.235 ms
+seq 1046: tcp response from 69.31.132.51 [open]  35.534 ms
+seq 1052: tcp response from 65.216.231.192 [open]  40.491 ms
+seq 1047: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.430 ms
+seq 1053: tcp response from 157.238.91.27 [open]  46.647 ms
+seq 1044: tcp response from 157.238.91.24 [open]  46.448 ms
+seq 1054: tcp response from 65.216.231.147 [open]  40.385 ms
+seq 1057: tcp response from 157.238.91.24 [open]  47.752 ms
+seq 1055: tcp response from 65.216.231.192 [open]  40.355 ms
+seq 1056: tcp response from 157.238.91.24 [open]  47.774 ms
+seq 1058: tcp response from 157.238.91.24 [open]  46.614 ms
+seq 1059: tcp response from 157.238.91.27 [open]  51.165 ms
+seq 1061: tcp response from 65.216.231.147 [open]  40.698 ms
+seq 1063: tcp response from 65.216.231.192 [open]  42.153 ms
+seq 1060: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.080 ms
+seq 1062: tcp response from 157.238.91.27 [open]  46.701 ms
+seq 1065: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.759 ms
+seq 1066: tcp response from 65.216.231.192 [open]  40.674 ms
+seq 1067: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.868 ms
+seq 1068: tcp response from 65.216.231.147 [open]  41.469 ms
+seq 1064: tcp response from 65.216.231.147 [open]  42.016 ms
+seq 1069: tcp response from 65.216.231.147 [open]  40.415 ms
+seq 1070: tcp response from 65.216.231.192 [open]  40.734 ms
+seq 1071: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.494 ms
+seq 1072: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.853 ms
+seq 1073: tcp response from 65.216.231.192 [open]  40.980 ms
+seq 1074: tcp response from 65.216.231.192 [open]  40.974 ms
+seq 1075: tcp response from 157.238.91.27 [open]  50.106 ms
+seq 1076: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.686 ms
+seq 1077: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  304.876 ms
+seq 1078: tcp response from 157.238.91.27 [open]  50.180 ms
+seq 1079: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.527 ms
+seq 1080: tcp response from 65.216.231.192 [open]  40.449 ms
+seq 1081: tcp response from 157.238.91.27 [open]  46.807 ms
+seq 1082: tcp response from 65.216.231.147 [open]  41.787 ms
+seq 1084: tcp response from 65.216.231.147 [open]  41.329 ms
+seq 1083: tcp response from 65.216.231.192 [open]  41.335 ms
+seq 1085: tcp response from 69.31.132.26 [open]  35.747 ms
+seq 1087: tcp response from 65.216.231.192 [open]  41.187 ms
+seq 1086: tcp response from 65.216.231.192 [open]  41.269 ms
+seq 1088: tcp response from 157.238.91.24 [open]  47.478 ms
+seq 1089: tcp response from 65.216.231.147 [open]  41.852 ms
+seq 1090: tcp response from 65.216.231.147 [open]  41.246 ms
+seq 1091: tcp response from 157.238.91.27 [open]  51.275 ms
+seq 1092: tcp response from 65.216.231.147 [open]  40.372 ms
+seq 1093: tcp response from 65.216.231.192 [open]  40.851 ms
+seq 1094: tcp response from 65.216.231.192 [open]  41.311 ms
+seq 1095: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.694 ms
+seq 1096: tcp response from 65.216.231.192 [open]  40.835 ms
+seq 1097: tcp response from 157.238.91.24 [open]  51.503 ms
+seq 1098: tcp response from 65.216.231.192 [open]  40.913 ms
+seq 1099: tcp response from 65.216.231.192 [open]  41.269 ms
+seq 1100: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.855 ms
+seq 1101: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.502 ms
+seq 1102: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.353 ms
+seq 1103: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  112.093 ms
+seq 1104: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.200 ms
+seq 1105: tcp response from 65.216.231.147 [open]  40.778 ms
+seq 1106: tcp response from 65.216.231.147 [open]  40.752 ms
+seq 1107: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.076 ms
+seq 1108: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.579 ms
+seq 1109: tcp response from 65.216.231.147 [open]  40.401 ms
+seq 1110: tcp response from 65.216.231.147 [open]  42.531 ms
+seq 1111: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.406 ms
+seq 1112: tcp response from 65.216.231.192 [open]  40.930 ms
+seq 1113: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  42.500 ms
+seq 1114: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.243 ms
+seq 1115: tcp response from 65.216.231.147 [open]  42.192 ms
+seq 1116: tcp response from 65.216.231.147 [open]  42.877 ms
+seq 1117: tcp response from 65.216.231.192 [open]  42.070 ms
+seq 1118: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.591 ms
+seq 1119: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.061 ms
+seq 1120: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  122.405 ms
+seq 1121: tcp response from 65.216.231.147 [open]  40.553 ms
+seq 1122: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.175 ms
+seq 1123: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.050 ms
+seq 1124: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  240.244 ms
+seq 1125: tcp response from 65.216.231.192 [open]  40.747 ms
+seq 1126: tcp response from 69.31.132.26 [open]  36.667 ms
+seq 1127: tcp response from 65.216.231.147 [open]  40.336 ms
+seq 1128: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.663 ms
+seq 1129: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.661 ms
+seq 1130: tcp response from 69.31.132.51 [open]  36.157 ms
+seq 1131: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.150 ms
+seq 1132: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.814 ms
+seq 1133: tcp response from 65.216.231.192 [open]  41.268 ms
+seq 1134: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.803 ms
+seq 1135: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.565 ms
+seq 1136: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.163 ms
+seq 1137: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.764 ms
+seq 1138: tcp response from 65.216.231.147 [open]  40.344 ms
+seq 1141: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.690 ms
+seq 1139: tcp response from 65.216.231.192 [open]  40.642 ms
+seq 1140: tcp response from 65.216.231.147 [open]  41.034 ms
+seq 1142: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  41.129 ms
+seq 1143: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.445 ms
+seq 1144: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.543 ms
+seq 1145: tcp response from 65.216.231.147 [open]  40.887 ms
+seq 1146: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.158 ms
+seq 1147: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  144.348 ms
+seq 1148: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.208 ms
+seq 1149: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.025 ms
+seq 1150: tcp response from 65.216.231.147 [open]  40.712 ms
+seq 1151: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.233 ms
+seq 1152: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.307 ms
+seq 1153: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.625 ms
+seq 1154: tcp response from 65.216.231.192 [open]  41.227 ms
+seq 1155: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  53.473 ms
+seq 1156: tcp response from 65.216.231.147 [open]  40.616 ms
+seq 1157: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.694 ms
+seq 1158: tcp response from 69.31.132.26 [open]  36.818 ms
+seq 1159: tcp response from 65.216.231.192 [open]  41.124 ms
+seq 1160: tcp response from 65.216.231.192 [open]  40.673 ms
+seq 1161: tcp response from 65.216.231.147 [open]  42.514 ms
+seq 1162: tcp response from 65.216.231.147 [open]  40.926 ms
+seq 1163: tcp response from 65.216.231.147 [open]  42.758 ms
+seq 1164: tcp response from 65.216.231.192 [open]  40.780 ms
+seq 1165: tcp response from 65.216.231.192 [open]  42.340 ms
+seq 1166: tcp response from 65.216.231.147 [open]  40.800 ms
+seq 1167: tcp response from 65.216.231.192 [open]  40.714 ms
+seq 1168: tcp response from 65.216.231.192 [open]  40.497 ms
+seq 1169: tcp response from 69.31.132.51 [open]  36.340 ms
+seq 1170: tcp response from 69.31.132.26 [open]  36.239 ms
+seq 1172: tcp response from 69.31.132.51 [open]  35.700 ms
+seq 1171: tcp response from 65.216.231.147 [open]  40.779 ms
+seq 1173: tcp response from 65.216.231.147 [open]  41.548 ms
+seq 1174: tcp response from 65.216.231.192 [open]  41.198 ms
+seq 1175: tcp response from 65.216.231.192 [open]  40.883 ms
+seq 1176: tcp response from 65.216.231.192 [open]  41.419 ms
+seq 1177: tcp response from 69.31.132.26 [open]  36.070 ms
+seq 1178: tcp response from 69.31.132.51 [open]  35.530 ms
+seq 1179: tcp response from 65.216.231.147 [open]  40.738 ms
+seq 1180: tcp response from 65.216.231.192 [open]  40.883 ms
+seq 1181: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.686 ms
+seq 1182: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  50.195 ms
+seq 1183: tcp response from 69.31.132.51 [open]  35.835 ms
+seq 1184: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  82.572 ms
+seq 1185: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.366 ms
+seq 1186: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.356 ms
+seq 1187: tcp response from 65.216.231.147 [open]  41.172 ms
+seq 1188: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.768 ms
+seq 1189: tcp response from 69.31.132.26 [open]  35.988 ms
+seq 1190: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.731 ms
+seq 1191: tcp response from 65.216.231.147 [open]  40.803 ms
+seq 1192: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.477 ms
+seq 1193: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  42.855 ms
+seq 1194: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.785 ms
+seq 1195: tcp response from 65.216.231.192 [open]  42.156 ms
+seq 1196: tcp response from 65.216.231.192 [open]  40.883 ms
+seq 1197: tcp response from 65.216.231.147 [open]  41.582 ms
+seq 1198: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.257 ms
+seq 1199: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.900 ms
+seq 1200: tcp response from 69.31.132.26 [open]  35.786 ms
+seq 1201: tcp response from 65.216.231.192 [open]  41.138 ms
+seq 1202: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.521 ms
+seq 1203: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.132 ms
+seq 1204: tcp response from 65.216.231.147 [open]  41.718 ms
+seq 1205: tcp response from 65.216.231.147 [open]  41.454 ms
+seq 1206: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  184.479 ms
+seq 1207: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.294 ms
+seq 1208: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  48.873 ms
+seq 1209: tcp response from 65.216.231.147 [open]  41.438 ms
+seq 1210: tcp response from 65.216.231.192 [open]  40.764 ms
+seq 1211: tcp response from 65.216.231.147 [open]  40.739 ms
+seq 1212: tcp response from 65.216.231.147 [open]  40.664 ms
+seq 1213: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.576 ms
+seq 1214: tcp response from 65.216.231.192 [open]  41.040 ms
+seq 1215: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.237 ms
+seq 1216: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.893 ms
+seq 1217: tcp response from 65.216.231.192 [open]  40.455 ms
+seq 1218: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.916 ms
+seq 1219: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.744 ms
+seq 1220: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.274 ms
+seq 1221: tcp response from 65.216.231.147 [open]  40.674 ms
+seq 1222: tcp response from 65.216.231.192 [open]  41.059 ms
+seq 1223: tcp response from 65.216.231.192 [open]  41.074 ms
+seq 1224: tcp response from 65.216.231.192 [open]  42.123 ms
+seq 1225: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.440 ms
+seq 1226: tcp response from 65.216.231.147 [open]  40.796 ms
+seq 1227: tcp response from 65.216.231.147 [open]  40.710 ms
+seq 1228: tcp response from 65.216.231.192 [open]  41.680 ms
+seq 1229: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.457 ms
+seq 1230: tcp response from 65.216.231.147 [open]  40.588 ms
+seq 1231: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.486 ms
+seq 1232: tcp response from 65.216.231.147 [open]  41.648 ms
+seq 1233: tcp response from 65.216.231.192 [open]  40.907 ms
+seq 1234: tcp response from 65.216.231.192 [open]  50.090 ms
+seq 1235: tcp response from 65.216.231.192 [open]  40.966 ms
+seq 1236: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.122 ms
+seq 1237: tcp response from 65.216.231.192 [open]  41.085 ms
+seq 1238: tcp response from 65.216.231.147 [open]  43.715 ms
+seq 1239: tcp response from 65.216.231.147 [open]  41.195 ms
+seq 1240: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.032 ms
+seq 1241: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  66.730 ms
+seq 1242: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.626 ms
+seq 1243: tcp response from 65.216.231.147 [open]  40.891 ms
+seq 1244: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.408 ms
+seq 1245: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.835 ms
+seq 1246: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.340 ms
+seq 1247: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.849 ms
+seq 1248: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.735 ms
+seq 1249: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  42.472 ms
+seq 1250: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.638 ms
+seq 1251: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.102 ms
+seq 1252: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.886 ms
+seq 1253: tcp response from 65.216.231.147 [open]  40.779 ms
+seq 1255: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.383 ms
+seq 1254: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  59.074 ms
+seq 1256: tcp response from 69.31.132.26 [open]  179.844 ms
+seq 1257: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.099 ms
+seq 1258: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.044 ms
+seq 1259: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.539 ms
+seq 1260: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.918 ms
+seq 1261: tcp response from 69.31.132.51 [open]  36.118 ms
+seq 1262: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.364 ms
+seq 1263: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.985 ms
+seq 1264: tcp response from 69.31.132.26 [open]  177.550 ms
+seq 1266: tcp response from 65.216.231.192 [open]  41.212 ms
+seq 1267: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.136 ms
+seq 1265: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.246 ms
+seq 1268: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  50.019 ms
+seq 1269: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.518 ms
+seq 1270: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.633 ms
+seq 1271: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.826 ms
+seq 1272: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.290 ms
+seq 1273: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.797 ms
+seq 1274: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.208 ms
+seq 1275: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.489 ms
+seq 1276: tcp response from 69.31.132.51 [open]  36.622 ms
+seq 1277: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.468 ms
+seq 1278: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.692 ms
+seq 1279: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.417 ms
+seq 1280: tcp response from 65.216.231.147 [open]  40.711 ms
+seq 1281: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.622 ms
+seq 1282: tcp response from 69.31.132.26 [open]  180.388 ms
+seq 1283: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.542 ms
+seq 1284: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.531 ms
+seq 1285: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  61.235 ms
+seq 1286: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.064 ms
+seq 1287: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.060 ms
+seq 1288: tcp response from 65.216.231.192 [open]  40.578 ms
+seq 1289: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.279 ms
+seq 1290: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.122 ms
+seq 1291: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  112.215 ms
+seq 1292: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.823 ms
+seq 1293: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.822 ms
+seq 1294: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  107.941 ms
+seq 1295: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.296 ms
+seq 1296: tcp response from 69.31.132.51 [open]  35.813 ms
+seq 1297: tcp response from 69.31.132.26 [open]  35.820 ms
+seq 1298: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.682 ms
+seq 1299: tcp response from 65.216.231.192 [open]  40.759 ms
+seq 1300: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.254 ms
+seq 1301: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.596 ms
+seq 1302: tcp response from 69.31.132.51 [open]  36.233 ms
+seq 1303: tcp response from 65.216.231.147 [open]  41.651 ms
+seq 1304: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.217 ms
+seq 1305: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  46.049 ms
+seq 1306: tcp response from 69.31.132.51 [open]  51.084 ms
+seq 1307: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.973 ms
+seq 1308: tcp response from 69.31.132.26 [open]  35.521 ms
+seq 1309: tcp response from 69.31.132.26 [open]  35.476 ms
+seq 1310: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.199 ms
+seq 1311: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  53.414 ms
+seq 1312: tcp response from 69.31.132.51 [open]  36.461 ms
+seq 1313: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.786 ms
+seq 1314: tcp response from 69.31.132.51 [open]  48.753 ms
+seq 1315: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.379 ms
+seq 1316: tcp response from 65.216.231.192 [open]  40.912 ms
+seq 1317: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.133 ms
+seq 1318: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.931 ms
+seq 1319: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.000 ms
+seq 1320: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  50.072 ms
+seq 1321: tcp response from 65.216.231.192 [open]  42.090 ms
+seq 1322: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  53.069 ms
+seq 1324: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.189 ms
+seq 1323: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.866 ms
+seq 1325: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.678 ms
+seq 1326: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.330 ms
+seq 1327: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.637 ms
+seq 1328: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.940 ms
+seq 1329: tcp response from 65.216.231.147 [open]  40.452 ms
+seq 1330: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.987 ms
+seq 1331: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.801 ms
+seq 1332: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.722 ms
+seq 1333: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.686 ms
+seq 1334: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.513 ms
+seq 1335: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.884 ms
+seq 1336: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.895 ms
+seq 1337: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.381 ms
+seq 1338: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.001 ms
+seq 1339: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  39.792 ms
+seq 1340: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.442 ms
+seq 1341: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.521 ms
+seq 1342: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.258 ms
+seq 1343: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.879 ms
+seq 1344: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.239 ms
+seq 1345: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.978 ms
+seq 1346: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.211 ms
+seq 1347: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.944 ms
+seq 1348: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.236 ms
+seq 1349: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.290 ms
+seq 1350: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.478 ms
+seq 1351: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.980 ms
+seq 1352: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.731 ms
+seq 1353: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.679 ms
+seq 1354: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.198 ms
+seq 1355: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.736 ms
+seq 1356: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.386 ms
+seq 1357: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.386 ms
+seq 1358: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.462 ms
+seq 1359: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.587 ms
+seq 1360: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.965 ms
+seq 1361: tcp response from 165.254.244.155 [open]  36.684 ms
+seq 1362: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.464 ms
+seq 1363: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.608 ms
+seq 1364: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.815 ms
+seq 1365: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.308 ms
+seq 1366: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.040 ms
+seq 1367: tcp response from 165.254.244.153 [open]  35.067 ms
+seq 1368: tcp response from 165.254.244.155 [open]  35.746 ms
+seq 1369: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  139.518 ms
+seq 1370: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.830 ms
+seq 1372: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.635 ms
+seq 1371: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.568 ms
+seq 1373: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.565 ms
+seq 1374: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.688 ms
+seq 1375: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.889 ms
+seq 1376: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.656 ms
+seq 1377: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.217 ms
+seq 1378: tcp response from 165.254.244.155 [open]  36.340 ms
+seq 1379: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.913 ms
+seq 1380: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.831 ms
+seq 1381: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.056 ms
+seq 1382: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  136.528 ms
+seq 1383: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.997 ms
+seq 1384: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.625 ms
+seq 1385: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.716 ms
+seq 1386: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.611 ms
+seq 1387: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.572 ms
+seq 1388: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.356 ms
+seq 1389: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.790 ms
+seq 1390: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.548 ms
+seq 1391: tcp response from 65.216.231.147 [open]  40.480 ms
+seq 1392: tcp response from 65.216.231.192 [open]  40.636 ms
+seq 1393: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.356 ms
+seq 1394: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.110 ms
+seq 1395: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.260 ms
+seq 1396: tcp response from 65.216.231.147 [open]  42.533 ms
+seq 1397: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.465 ms
+seq 1398: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.300 ms
+seq 1399: tcp response from 65.216.231.192 [open]  40.980 ms
+seq 1400: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.931 ms
+seq 1401: tcp response from 65.216.231.192 [open]  40.752 ms
+seq 1402: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.496 ms
+seq 1403: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.650 ms
+seq 1404: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.509 ms
+seq 1405: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.204 ms
+seq 1406: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.929 ms
+seq 1407: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.056 ms
+seq 1408: tcp response from 65.216.231.147 [open]  41.222 ms
+seq 1409: tcp response from 65.216.231.147 [open]  40.795 ms
+seq 1410: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.730 ms
+seq 1411: tcp response from 65.216.231.147 [open]  41.081 ms
+seq 1412: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.316 ms
+seq 1413: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  39.893 ms
+seq 1414: tcp response from 65.216.231.192 [open]  41.803 ms
+seq 1415: tcp response from 65.216.231.147 [open]  40.946 ms
+seq 1416: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.485 ms
+seq 1417: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.730 ms
+seq 1418: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.366 ms
+seq 1419: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.838 ms
+seq 1420: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.595 ms
+seq 1421: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  185.675 ms
+seq 1422: tcp response from 65.216.231.192 [open]  41.687 ms
+seq 1423: tcp response from 69.31.132.51 [open]  35.782 ms
+seq 1424: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.663 ms
+seq 1425: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.645 ms
+seq 1426: tcp response from 69.31.132.26 [open]  36.043 ms
+seq 1427: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.869 ms
+seq 1428: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.535 ms
+seq 1429: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.436 ms
+seq 1430: tcp response from 69.31.132.51 [open]  35.653 ms
+seq 1432: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.843 ms
+seq 1431: tcp response from 65.216.231.147 [open]  40.865 ms
+seq 1433: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.286 ms
+seq 1434: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.810 ms
+seq 1435: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.649 ms
+seq 1436: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.775 ms
+seq 1437: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.207 ms
+seq 1438: tcp response from 65.216.231.147 [open]  40.561 ms
+seq 1439: tcp response from 65.216.231.192 [open]  40.787 ms
+seq 1440: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.908 ms
+seq 1442: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.845 ms
+seq 1441: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.169 ms
+seq 1443: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.459 ms
+seq 1444: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.081 ms
+seq 1445: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.325 ms
+seq 1446: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.348 ms
+seq 1447: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.379 ms
+seq 1448: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.865 ms
+seq 1449: tcp response from 65.216.231.147 [open]  40.440 ms
+seq 1450: tcp response from 65.216.231.192 [open]  40.390 ms
+seq 1451: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.173 ms
+seq 1452: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  40.243 ms
+seq 1453: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.546 ms
+seq 1454: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.626 ms
+seq 1455: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.300 ms
+seq 1456: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.726 ms
+seq 1457: tcp response from 69.31.132.51 [open]  36.294 ms
+seq 1458: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.612 ms
+seq 1459: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.309 ms
+seq 1460: tcp response from 65.216.231.147 [open]  41.778 ms
+seq 1461: tcp response from 65.216.231.192 [open]  41.158 ms
+seq 1462: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.913 ms
+seq 1463: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.573 ms
+seq 1464: tcp response from 65.216.231.147 [open]  41.824 ms
+seq 1465: tcp response from 65.216.231.192 [open]  40.543 ms
+seq 1466: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.395 ms
+seq 1467: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.904 ms
+seq 1469: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.401 ms
+seq 1468: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.593 ms
+seq 1471: tcp response from 69.31.132.26 [open]  35.732 ms
+seq 1470: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.853 ms
+seq 1472: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.170 ms
+seq 1473: tcp response from 65.216.231.192 [open]  40.789 ms
+seq 1474: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.466 ms
+seq 1475: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.809 ms
+seq 1476: tcp response from 65.216.231.192 [open]  66.356 ms
+seq 1477: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.187 ms
+seq 1478: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.995 ms
+seq 1479: tcp response from 65.216.231.147 [open]  41.367 ms
+seq 1480: tcp response from 65.216.231.192 [open]  40.928 ms
+seq 1481: tcp response from 65.216.231.147 [open]  41.386 ms
+seq 1482: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.759 ms
+seq 1483: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.698 ms
+seq 1484: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.008 ms
+seq 1485: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.937 ms
+seq 1486: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.194 ms
+seq 1487: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.667 ms
+seq 1488: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.706 ms
+seq 1489: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.393 ms
+seq 1490: tcp response from 65.216.231.192 [open]  42.606 ms
+seq 1491: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.982 ms
+seq 1492: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.384 ms
+seq 1493: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.079 ms
+seq 1494: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.186 ms
+seq 1495: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.594 ms
+seq 1496: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.992 ms
+seq 1497: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.262 ms
+seq 1498: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.334 ms
+seq 1499: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.927 ms
+seq 1500: tcp response from 65.216.231.192 [open]  41.402 ms
+seq 1501: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.552 ms
+seq 1502: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.547 ms
+seq 1503: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.236 ms
+seq 1504: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  112.004 ms
+seq 1505: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.942 ms
+seq 1506: tcp response from 69.31.132.26 [open]  36.412 ms
+seq 1507: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.062 ms
+seq 1508: tcp response from 69.31.132.51 [open]  35.499 ms
+seq 1509: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.497 ms
+seq 1510: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.107 ms
+seq 1511: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.460 ms
+seq 1512: tcp response from 65.216.231.147 [open]  40.802 ms
+seq 1513: tcp response from 69.31.132.26 [open]  35.703 ms
+seq 1515: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  41.119 ms
+seq 1514: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.538 ms
+seq 1516: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.875 ms
+seq 1517: tcp response from 69.31.132.51 [open]  36.044 ms
+seq 1518: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.099 ms
+seq 1519: tcp response from 69.31.132.26 [open]  35.877 ms
+seq 1520: tcp response from 65.216.231.147 [open]  40.369 ms
+seq 1521: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.705 ms
+seq 1522: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.846 ms
+seq 1523: tcp response from 65.216.231.192 [open]  41.821 ms
+seq 1524: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  41.687 ms
+seq 1525: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  50.303 ms
+seq 1526: tcp response from 65.216.231.192 [open]  41.293 ms
+seq 1527: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.776 ms
+seq 1528: tcp response from 65.216.231.147 [open]  41.019 ms
+seq 1529: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  50.354 ms
+seq 1530: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.842 ms
+seq 1531: tcp response from 65.216.231.192 [open]  41.500 ms
+seq 1532: tcp response from 65.216.231.147 [open]  40.852 ms
+seq 1533: tcp response from 69.31.132.51 [open]  36.140 ms
+seq 1534: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.042 ms
+seq 1535: tcp response from 69.31.132.26 [open]  36.536 ms
+seq 1536: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.845 ms
+seq 1537: tcp response from 65.216.231.192 [open]  40.827 ms
+seq 1538: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.228 ms
+seq 1539: tcp response from 69.31.132.26 [open]  36.495 ms
+seq 1540: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.626 ms
+seq 1541: tcp response from 65.216.231.192 [open]  40.724 ms
+seq 1542: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  53.242 ms
+seq 1543: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.830 ms
+seq 1544: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.448 ms
+seq 1545: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.192 ms
+seq 1546: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.298 ms
+seq 1547: tcp response from 65.216.231.147 [open]  41.065 ms
+seq 1548: tcp response from 69.31.132.26 [open]  35.971 ms
+seq 1549: tcp response from 65.216.231.147 [open]  40.484 ms
+seq 1550: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.820 ms
+seq 1551: tcp response from 69.31.132.51 [open]  35.763 ms
+seq 1553: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.948 ms
+seq 1554: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.415 ms
+seq 1552: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  112.245 ms
+seq 1555: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.744 ms
+seq 1556: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.784 ms
+seq 1557: tcp response from 65.216.231.192 [open]  40.437 ms
+seq 1558: tcp response from 65.216.231.192 [open]  41.030 ms
+seq 1559: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.615 ms
+seq 1560: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.772 ms
+seq 1561: tcp response from 65.216.231.147 [open]  47.723 ms
+seq 1562: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.326 ms
+seq 1563: tcp response from 65.216.231.147 [open]  40.575 ms
+seq 1564: tcp response from 69.31.132.51 [open]  35.946 ms
+seq 1565: tcp response from 69.31.132.26 [open]  35.669 ms
+seq 1566: tcp response from 69.31.132.51 [open]  35.412 ms
+seq 1567: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.604 ms
+seq 1568: tcp response from 69.31.132.26 [open]  38.027 ms
+seq 1569: tcp response from 65.216.231.147 [open]  40.772 ms
+seq 1570: tcp response from 65.216.231.192 [open]  40.826 ms
+seq 1571: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.407 ms
+seq 1572: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.755 ms
+seq 1573: tcp response from 69.31.132.51 [open]  35.977 ms
+seq 1574: tcp response from 65.216.231.147 [open]  41.443 ms
+seq 1575: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.354 ms
+seq 1576: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  40.527 ms
+seq 1577: tcp response from 65.216.231.192 [open]  40.861 ms
+seq 1578: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.360 ms
+seq 1580: tcp response from 69.31.132.51 [open]  35.712 ms
+seq 1582: tcp response from 65.216.231.192 [open]  40.891 ms
+seq 1581: tcp response from 65.216.231.147 [open]  41.355 ms
+seq 1579: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.089 ms
+seq 1583: tcp response from 65.216.231.147 [open]  41.052 ms
+seq 1584: tcp response from 65.216.231.147 [open]  41.047 ms
+seq 1585: tcp response from 69.31.132.26 [open]  40.685 ms
+seq 1586: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.085 ms
+seq 1587: tcp response from 65.216.231.147 [open]  41.171 ms
+seq 1588: tcp response from 65.216.231.192 [open]  40.822 ms
+seq 1589: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.708 ms
+seq 1590: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.391 ms
+seq 1591: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.693 ms
+seq 1592: tcp response from 65.216.231.192 [open]  42.905 ms
+seq 1593: tcp response from 65.216.231.147 [open]  40.948 ms
+seq 1594: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.230 ms
+seq 1595: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.799 ms
+seq 1596: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.574 ms
+seq 1597: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.916 ms
+seq 1598: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.616 ms
+seq 1599: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.131 ms
+seq 1600: tcp response from 69.31.132.51 [open]  36.462 ms
+seq 1601: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.022 ms
+seq 1602: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  39.949 ms
+seq 1603: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  50.118 ms
+seq 1604: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.523 ms
+seq 1605: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  40.884 ms
+seq 1606: tcp response from 65.216.231.147 [open]  62.632 ms
+seq 1607: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.456 ms
+seq 1608: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.272 ms
+seq 1609: tcp response from 65.216.231.192 [open]  40.609 ms
+seq 1610: tcp response from 65.216.231.147 [open]  41.831 ms
+seq 1611: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  40.350 ms
+seq 1612: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.195 ms
+seq 1613: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.812 ms
+seq 1614: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  113.534 ms
+seq 1615: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.444 ms
+seq 1616: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.357 ms
+seq 1617: tcp response from 65.216.231.192 [open]  41.698 ms
+seq 1618: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.707 ms
+seq 1619: tcp response from 65.216.231.192 [open]  41.279 ms
+seq 1620: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.141 ms
+seq 1621: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.912 ms
+seq 1622: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.702 ms
+seq 1623: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.317 ms
+seq 1624: tcp response from 65.216.231.147 [open]  41.700 ms
+seq 1625: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  50.119 ms
+seq 1626: tcp response from 65.216.231.147 [open]  40.937 ms
+seq 1627: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.368 ms
+seq 1628: tcp response from 65.216.231.192 [open]  41.396 ms
+seq 1629: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.790 ms
+seq 1630: tcp response from 65.216.231.147 [open]  40.511 ms
+seq 1631: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.774 ms
+seq 1632: tcp response from 65.216.231.192 [open]  41.033 ms
+seq 1633: tcp response from 69.31.132.51 [open]  35.944 ms
+seq 1634: tcp response from 65.216.231.147 [open]  41.535 ms
+seq 1635: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.560 ms
+seq 1636: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.632 ms
+seq 1637: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.948 ms
+seq 1638: tcp response from 65.216.231.147 [open]  41.516 ms
+seq 1639: tcp response from 65.216.231.192 [open]  41.388 ms
+seq 1640: tcp response from 69.31.132.26 [open]  35.676 ms
+seq 1641: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.727 ms
+seq 1642: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.157 ms
+seq 1643: tcp response from 65.216.231.192 [open]  40.875 ms
+seq 1644: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.574 ms
+seq 1645: tcp response from 65.216.231.192 [open]  41.225 ms
+seq 1646: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.198 ms
+seq 1647: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.212 ms
+seq 1648: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  53.062 ms
+seq 1649: tcp response from 65.216.231.147 [open]  42.512 ms
+seq 1650: tcp response from 65.216.231.192 [open]  45.980 ms
+seq 1651: tcp response from 65.216.231.147 [open]  41.718 ms
+seq 1652: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.463 ms
+seq 1653: tcp response from 65.216.231.192 [open]  41.274 ms
+seq 1654: tcp response from 65.216.231.147 [open]  41.700 ms
+seq 1655: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  53.201 ms
+seq 1656: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.333 ms
+seq 1657: tcp response from 65.216.231.147 [open]  40.738 ms
+seq 1658: tcp response from 65.216.231.147 [open]  41.084 ms
+seq 1659: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.989 ms
+seq 1660: tcp response from 69.31.132.51 [open]  36.620 ms
+seq 1661: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.655 ms
+seq 1662: tcp response from 65.216.231.192 [open]  41.022 ms
+seq 1663: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.692 ms
+seq 1664: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.087 ms
+seq 1665: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  54.588 ms
+seq 1666: tcp response from 69.31.132.26 [open]  35.667 ms
+seq 1667: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.453 ms
+seq 1668: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.587 ms
+seq 1669: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.690 ms
+seq 1670: tcp response from 69.31.132.51 [open]  36.062 ms
+seq 1671: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.636 ms
+seq 1672: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.269 ms
+seq 1673: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.699 ms
+seq 1674: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.465 ms
+seq 1675: tcp response from 65.216.231.147 [open]  41.944 ms
+seq 1676: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.918 ms
+seq 1677: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.365 ms
+seq 1678: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.520 ms
+seq 1679: tcp response from 65.216.231.192 [open]  41.521 ms
+seq 1680: tcp response from 69.31.132.51 [open]  36.128 ms
+seq 1681: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.890 ms
+seq 1682: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.712 ms
+seq 1683: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.642 ms
+seq 1684: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  39.122 ms
+seq 1686: tcp response from 65.216.231.147 [open]  40.438 ms
+seq 1685: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.697 ms
+seq 1687: tcp response from 65.216.231.192 [open]  40.795 ms
+seq 1688: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.141 ms
+seq 1689: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.536 ms
+seq 1690: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  42.021 ms
+seq 1691: tcp response from 65.216.231.147 [open]  40.986 ms
+seq 1692: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.813 ms
+seq 1693: tcp response from 65.216.231.192 [open]  41.121 ms
+seq 1694: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.195 ms
+seq 1695: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.585 ms
+seq 1696: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.551 ms
+seq 1697: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.015 ms
+seq 1698: tcp response from 65.216.231.192 [open]  40.865 ms
+seq 1699: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.117 ms
+seq 1700: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.323 ms
+seq 1701: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  48.557 ms
+seq 1702: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.489 ms
+seq 1703: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.664 ms
+seq 1704: tcp response from 65.216.231.147 [open]  41.152 ms
+seq 1705: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.760 ms
+seq 1706: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.108 ms
+seq 1707: tcp response from 65.216.231.147 [open]  40.530 ms
+seq 1708: tcp response from 65.216.231.192 [open]  41.561 ms
+seq 1709: tcp response from 65.216.231.192 [open]  40.385 ms
+seq 1710: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.272 ms
+seq 1711: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.726 ms
+seq 1712: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.107 ms
+seq 1713: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.739 ms
+seq 1714: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.350 ms
+seq 1715: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.168 ms
+seq 1716: tcp response from 65.216.231.147 [open]  42.249 ms
+seq 1717: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.733 ms
+seq 1718: tcp response from 65.216.231.192 [open]  40.851 ms
+seq 1719: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.365 ms
+seq 1720: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  40.296 ms
+seq 1721: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  50.167 ms
+seq 1722: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.124 ms
+seq 1723: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  112.296 ms
+seq 1724: tcp response from 65.216.231.192 [open]  41.275 ms
+seq 1725: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.033 ms
+seq 1726: tcp response from 65.216.231.147 [open]  40.347 ms
+seq 1727: tcp response from 65.216.231.192 [open]  40.619 ms
+seq 1728: tcp response from 65.216.231.192 [open]  40.602 ms
+seq 1729: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.262 ms
+seq 1730: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  41.377 ms
+seq 1731: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.294 ms
+seq 1732: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.861 ms
+seq 1733: tcp response from 65.216.231.147 [open]  40.527 ms
+seq 1734: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.365 ms
+seq 1735: tcp response from 65.216.231.147 [open]  40.700 ms
+seq 1736: tcp response from 69.31.132.51 [open]  35.670 ms
+seq 1737: tcp response from 69.31.132.26 [open]  36.787 ms
+seq 1738: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.900 ms
+seq 1739: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.961 ms
+seq 1740: tcp response from 69.31.132.26 [open]  35.773 ms
+seq 1741: tcp response from 65.216.231.192 [open]  40.754 ms
+seq 1742: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.943 ms
+seq 1743: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.736 ms
+seq 1744: tcp response from 69.31.132.51 [open]  36.670 ms
+seq 1745: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.743 ms
+seq 1746: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.855 ms
+seq 1747: tcp response from 69.31.132.26 [open]  35.574 ms
+seq 1748: tcp response from 69.31.132.51 [open]  36.389 ms
+seq 1749: tcp response from 69.31.132.26 [open]  36.131 ms
+seq 1751: tcp response from 69.31.132.51 [open]  35.609 ms
+seq 1752: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.229 ms
+seq 1753: tcp response from 69.31.132.26 [open]  36.486 ms
+seq 1754: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.972 ms
+seq 1750: tcp response from 69.31.132.51 [open]  35.798 ms
+seq 1755: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.161 ms
+seq 1756: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.407 ms
+seq 1758: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.840 ms
+seq 1757: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.671 ms
+seq 1759: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.658 ms
+seq 1760: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.418 ms
+seq 1761: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  50.271 ms
+seq 1762: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.514 ms
+seq 1763: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.108 ms
+seq 1764: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.332 ms
+seq 1765: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.274 ms
+seq 1766: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.178 ms
+seq 1767: tcp response from a23-66-231-8.deploy.static.akamaitechnologies.com (23.66.231.8) [open]  40.471 ms
+seq 1768: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.515 ms
+seq 1769: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.293 ms
+seq 1770: tcp response from 69.31.132.51 [open]  36.014 ms
+seq 1771: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.974 ms
+seq 1772: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.766 ms
+seq 1773: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.601 ms
+seq 1774: tcp response from 69.31.132.26 [open]  36.407 ms
+seq 1775: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.638 ms
+seq 1776: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.847 ms
+seq 1777: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.145 ms
+seq 1778: tcp response from 69.31.132.51 [open]  35.388 ms
+seq 1779: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.512 ms
+seq 1780: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.196 ms
+seq 1781: tcp response from a23-66-231-16.deploy.static.akamaitechnologies.com (23.66.231.16) [open]  38.712 ms
+seq 1782: tcp response from 65.216.231.192 [open]  41.570 ms
+seq 1783: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.174 ms
+seq 1784: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.193 ms
+seq 1785: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.696 ms
+seq 1786: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.190 ms
+seq 1787: tcp response from 65.216.231.147 [open]  41.126 ms
+seq 1788: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  41.133 ms
+seq 1789: tcp response from 65.172.31.33 [open]  26.986 ms
+seq 1790: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.133 ms
+seq 1791: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.241 ms
+seq 1792: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.683 ms
+seq 1793: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.101 ms
+seq 1794: tcp response from 65.172.31.26 [open]  26.658 ms
+seq 1795: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.707 ms
+seq 1796: tcp response from 65.216.231.147 [open]  40.624 ms
+seq 1797: tcp response from 65.216.231.192 [open]  40.324 ms
+seq 1798: tcp response from 65.216.231.192 [open]  40.954 ms
+seq 1799: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.356 ms
+seq 1800: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.074 ms
+seq 1801: tcp response from 65.216.231.147 [open]  57.859 ms
+seq 1802: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.452 ms
+seq 1803: tcp response from 65.172.31.33 [open]  25.886 ms
+seq 1804: tcp response from 65.172.31.26 [open]  26.282 ms
+seq 1805: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.710 ms
+seq 1806: tcp response from 65.172.31.33 [open]  26.885 ms
+seq 1807: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.343 ms
+seq 1808: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.680 ms
+seq 1809: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.526 ms
+seq 1810: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  57.790 ms
+seq 1811: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.123 ms
+seq 1812: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.661 ms
+seq 1813: tcp response from 65.216.231.192 [open]  47.341 ms
+seq 1814: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.280 ms
+seq 1815: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.843 ms
+seq 1816: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  63.895 ms
+seq 1817: tcp response from 65.216.231.147 [open]  40.417 ms
+seq 1818: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.594 ms
+seq 1819: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  62.537 ms
+seq 1820: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.149 ms
+seq 1821: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.775 ms
+seq 1822: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.405 ms
+seq 1823: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.509 ms
+seq 1824: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.833 ms
+seq 1825: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.236 ms
+seq 1826: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.679 ms
+seq 1827: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.627 ms
+seq 1828: tcp response from 65.172.31.33 [open]  27.081 ms
+seq 1829: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.000 ms
+seq 1830: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.793 ms
+seq 1831: tcp response from 65.172.31.26 [open]  26.757 ms
+seq 1832: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  112.076 ms
+seq 1833: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.751 ms
+seq 1834: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.758 ms
+seq 1835: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.294 ms
+seq 1836: tcp response from 65.216.231.147 [open]  40.708 ms
+seq 1837: tcp response from 65.216.231.192 [open]  40.913 ms
+seq 1838: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.706 ms
+seq 1839: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.769 ms
+seq 1840: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.284 ms
+seq 1841: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  112.373 ms
+seq 1842: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.134 ms
+seq 1843: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.076 ms
+seq 1844: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.757 ms
+seq 1845: tcp response from 65.216.231.192 [open]  40.860 ms
+seq 1846: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  111.888 ms
+seq 1847: tcp response from 65.216.231.147 [open]  40.601 ms
+seq 1848: tcp response from 65.216.231.147 [open]  40.728 ms
+seq 1849: tcp response from 65.172.31.33 [open]  26.040 ms
+seq 1850: tcp response from 65.216.231.147 [open]  40.867 ms
+seq 1851: tcp response from 65.172.31.26 [open]  26.710 ms
+seq 1852: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  107.823 ms
+seq 1853: tcp response from 65.216.231.192 [open]  40.820 ms
+seq 1854: tcp response from 65.216.231.192 [open]  40.656 ms
+seq 1855: tcp response from 65.216.231.147 [open]  40.522 ms
+seq 1856: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.890 ms
+seq 1857: tcp response from 65.216.231.147 [open]  40.590 ms
+seq 1858: tcp response from 65.172.31.33 [open]  26.806 ms
+seq 1859: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.273 ms
+seq 1860: tcp response from 65.216.231.192 [open]  41.447 ms
+seq 1861: tcp response from 65.216.231.192 [open]  40.743 ms
+seq 1862: tcp response from 65.216.231.192 [open]  40.489 ms
+seq 1863: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  48.635 ms
+seq 1864: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.184 ms
+seq 1865: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.588 ms
+seq 1866: tcp response from 65.172.31.26 [open]  26.516 ms
+seq 1867: tcp response from 65.216.231.192 [open]  40.972 ms
+seq 1868: tcp response from 65.216.231.147 [open]  41.947 ms
+seq 1869: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  48.870 ms
+seq 1870: tcp response from 65.216.231.192 [open]  41.120 ms
+seq 1871: tcp response from 65.216.231.147 [open]  42.609 ms
+seq 1872: tcp response from 65.216.231.147 [open]  41.189 ms
+seq 1873: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.908 ms
+seq 1874: tcp response from 65.216.231.192 [open]  40.519 ms
+seq 1875: tcp response from 65.216.231.192 [open]  41.409 ms
+seq 1876: tcp response from 65.216.231.147 [open]  42.217 ms
+seq 1877: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.145 ms
+seq 1878: tcp response from 65.216.231.192 [open]  40.838 ms
+seq 1879: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.715 ms
+seq 1880: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.693 ms
+seq 1881: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.646 ms
+seq 1882: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.770 ms
+seq 1883: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.752 ms
+seq 1884: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.686 ms
+seq 1885: tcp response from 65.216.231.147 [open]  40.955 ms
+seq 1886: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.466 ms
+seq 1887: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.727 ms
+seq 1888: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.006 ms
+seq 1889: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  40.287 ms
+seq 1890: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  39.737 ms
+seq 1891: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  49.382 ms
+seq 1892: tcp response from 65.216.231.147 [open]  40.594 ms
+seq 1893: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.093 ms
+seq 1894: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  110.915 ms
+seq 1895: tcp response from 65.172.31.33 [open]  26.725 ms
+seq 1896: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.684 ms
+seq 1897: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.658 ms
+seq 1898: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.711 ms
+seq 1899: tcp response from 65.216.231.192 [open]  41.006 ms
+seq 1900: tcp response from 65.172.31.26 [open]  44.481 ms
+seq 1901: tcp response from 65.216.231.147 [open]  41.107 ms
+seq 1902: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.576 ms
+seq 1903: tcp response from 65.172.31.33 [open]  25.641 ms
+seq 1904: tcp response from 65.216.231.192 [open]  40.752 ms
+seq 1905: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  48.836 ms
+seq 1906: tcp response from 65.216.231.192 [open]  41.144 ms
+seq 1907: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.904 ms
+seq 1908: tcp response from 65.172.31.26 [open]  25.666 ms
+seq 1909: tcp response from 65.172.31.26 [open]  56.745 ms
+seq 1910: tcp response from 65.216.231.147 [open]  40.372 ms
+seq 1911: tcp response from 65.172.31.33 [open]  27.280 ms
+seq 1912: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.968 ms
+seq 1913: tcp response from 65.216.231.147 [open]  41.072 ms
+seq 1914: tcp response from 65.216.231.192 [open]  42.977 ms
+seq 1915: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.547 ms
+seq 1916: tcp response from 65.216.231.147 [open]  40.818 ms
+seq 1917: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.985 ms
+seq 1918: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.797 ms
+seq 1919: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.661 ms
+seq 1920: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.946 ms
+seq 1921: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.850 ms
+seq 1922: tcp response from 65.216.231.192 [open]  40.641 ms
+seq 1923: tcp response from 65.216.231.147 [open]  41.499 ms
+seq 1924: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  108.119 ms
+seq 1925: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  48.750 ms
+seq 1926: tcp response from 65.172.31.26 [open]  26.760 ms
+seq 1927: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  52.466 ms
+seq 1928: tcp response from 65.216.231.192 [open]  41.439 ms
+seq 1929: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.916 ms
+seq 1930: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.214 ms
+seq 1931: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.541 ms
+seq 1932: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  52.204 ms
+seq 1933: tcp response from 65.172.31.33 [open]  26.627 ms
+seq 1934: tcp response from 65.172.31.33 [open]  25.911 ms
+seq 1935: tcp response from 65.172.31.26 [open]  25.717 ms
+seq 1936: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  49.229 ms
+seq 1937: tcp response from 65.216.231.192 [open]  41.121 ms
+seq 1938: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.090 ms
+seq 1939: tcp response from 65.216.231.147 [open]  42.136 ms
+seq 1940: tcp response from 65.216.231.192 [open]  40.920 ms
+seq 1941: tcp response from 65.216.231.192 [open]  40.752 ms
+seq 1942: tcp response from 65.172.31.26 [open]  25.754 ms
+seq 1943: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.767 ms
+seq 1944: tcp response from 65.216.231.147 [open]  42.113 ms
+seq 1945: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  51.682 ms
+seq 1946: tcp response from 65.216.231.147 [open]  41.196 ms
+seq 1947: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  43.259 ms
+seq 1948: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  107.903 ms
+seq 1949: tcp response from 65.216.231.147 [open]  40.407 ms
+seq 1950: tcp response from 65.216.231.192 [open]  40.820 ms
+seq 1951: tcp response from 65.172.31.33 [open]  26.690 ms
+seq 1952: tcp response from 65.172.31.26 [open]  27.098 ms
+seq 1953: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  108.349 ms
+seq 1954: tcp response from 65.216.231.147 [open]  41.523 ms
+seq 1955: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.804 ms
+seq 1956: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.411 ms
+seq 1957: tcp response from 65.216.231.192 [open]  40.719 ms
+seq 1958: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  109.788 ms
+seq 1959: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.382 ms
+seq 1960: tcp response from a23-15-5-198.deploy.static.akamaitechnologies.com (23.15.5.198) [open]  48.690 ms
+seq 1961: tcp response from 65.216.231.192 [open]  40.904 ms
+seq 1962: tcp response from a23-63-99-112.deploy.static.akamaitechnologies.com (23.63.99.112) [open]  110.328 ms
+seq 1963: tcp response from 65.172.31.26 [open]  26.609 ms
+seq 1964: tcp response from 65.216.231.147 [open]  40.758 ms
+seq 1965: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  51.233 ms
+seq 1966: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  107.933 ms
+seq 1967: tcp response from a23-15-5-197.deploy.static.akamaitechnologies.com (23.15.5.197) [open]  54.159 ms
+seq 1968: tcp response from a72-247-9-208.deploy.akamaitechnologies.com (72.247.9.208) [open]  40.688 ms
+seq 1969: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  109.016 ms
+seq 1970: tcp response from a72-247-10-51.deploy.akamaitechnologies.com (72.247.10.51) [open]  39.984 ms
+seq 1971: tcp response from a23-63-99-184.deploy.static.akamaitechnologies.com (23.63.99.184) [open]  111.444 ms

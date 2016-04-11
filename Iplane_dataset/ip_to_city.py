@@ -16,7 +16,10 @@ class IP_to_Loc(object):
 			return None
 
 	def in_US(self,webadr): # takes hostname, converts to ip and return True if in US
-		addr = socket.gethostbyname(webadr)
+		try:
+			addr = socket.gethostbyname(webadr)
+		except:
+			return False
 		reader = geoip2.database.Reader('GeoLite2-City.mmdb')
 		try:
 			response = reader.city(addr)

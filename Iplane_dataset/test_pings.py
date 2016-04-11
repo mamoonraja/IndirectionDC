@@ -1,6 +1,6 @@
 import os
 import time
-
+import paramiko
 class Test_pings(object):
 	def check_output_tcpping(self,ftcp):
 		f2=open(ftcp,'r')
@@ -18,7 +18,21 @@ class Test_pings(object):
 	    response = os.system("ping -c 1 -W 1 " + hostname)
 	    print response
 	    if response == 0:
-	        print "true"
 	        return True
 	    else:
 	        return False
+
+	def check_ssh(self,hostname,user,key_file):
+		print hostname
+		import socket
+		ip = socket.gethostbyname(hostname)
+		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+		try:
+			s.connect((ip, 22))
+			s.close()
+			print "yes"
+			return True
+		except socket.error as e:
+			print "error"
+			s.close()
+			return False

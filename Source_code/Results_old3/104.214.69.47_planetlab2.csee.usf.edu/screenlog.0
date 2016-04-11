@@ -1,0 +1,1392 @@
+seq 0: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  96.551 ms
+seq 1: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  164.075 ms
+seq 2: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  223.837 ms
+seq 3: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  592.592 ms
+seq 4: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  186.898 ms
+seq 5: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  413.829 ms
+seq 6: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  594.482 ms
+seq 7: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  179.879 ms
+seq 8: no response (timeout)
+seq 9: no response (timeout)
+seq 10: no response (timeout)
+seq 11: no response (timeout)
+seq 12: no response (timeout)
+seq 14: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  774.444 ms
+seq 13: no response (timeout)
+seq 15: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  742.824 ms
+seq 16: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  615.797 ms
+seq 17: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  697.874 ms
+seq 18: no response (timeout)
+seq 19: no response (timeout)
+seq 20: no response (timeout)
+seq 21: no response (timeout)
+seq 22: no response (timeout)
+seq 23: no response (timeout)
+seq 24: no response (timeout)
+seq 25: no response (timeout)
+seq 26: no response (timeout)
+seq 29: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [closed]  573.700 ms
+seq 27: no response (timeout)
+seq 28: no response (timeout)
+seq 30: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [closed]  404.615 ms
+seq 31: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [closed]  271.115 ms
+seq 32: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [closed]  250.960 ms
+seq 33: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [closed]  104.798 ms
+seq 34: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  141.920 ms
+seq 35: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  374.249 ms
+seq 36: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  613.667 ms
+seq 37: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  343.358 ms
+seq 38: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  246.365 ms
+seq 39: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  151.205 ms
+seq 40: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  214.843 ms
+seq 41: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  162.869 ms
+seq 42: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  187.002 ms
+seq 43: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  73.489 ms
+seq 44: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  273.354 ms
+seq 45: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  121.619 ms
+seq 46: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  247.817 ms
+seq 47: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  242.280 ms
+seq 49: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  195.273 ms
+seq 50: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  140.077 ms
+seq 48: no response (timeout)
+seq 51: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  140.009 ms
+seq 52: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  158.342 ms
+seq 53: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  187.481 ms
+seq 54: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  71.290 ms
+seq 55: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  193.001 ms
+seq 56: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  268.480 ms
+seq 57: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  321.289 ms
+seq 58: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  138.802 ms
+seq 59: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  163.165 ms
+seq 60: no response (timeout)
+seq 61: no response (timeout)
+seq 62: no response (timeout)
+seq 63: no response (timeout)
+seq 66: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  307.161 ms
+seq 64: no response (timeout)
+seq 65: no response (timeout)
+seq 68: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  108.470 ms
+seq 69: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  289.640 ms
+seq 67: no response (timeout)
+seq 70: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  585.390 ms
+seq 71: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  600.918 ms
+seq 72: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  744.913 ms
+seq 73: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  994.196 ms
+seq 74: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  857.880 ms
+seq 75: no response (timeout)
+seq 78: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  361.658 ms
+seq 76: no response (timeout)
+seq 77: no response (timeout)
+seq 79: no response (timeout)
+seq 80: no response (timeout)
+seq 81: no response (timeout)
+seq 82: no response (timeout)
+seq 83: no response (timeout)
+seq 86: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  741.148 ms
+seq 84: no response (timeout)
+seq 85: no response (timeout)
+seq 87: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1511.711 ms
+seq 88: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2092.453 ms
+seq 89: no response (timeout)
+seq 90: no response (timeout)
+seq 91: no response (timeout)
+seq 92: no response (timeout)
+seq 93: no response (timeout)
+seq 94: no response (timeout)
+seq 97: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  430.820 ms
+seq 95: no response (timeout)
+seq 96: no response (timeout)
+seq 98: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  958.112 ms
+seq 99: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1384.598 ms
+seq 100: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1605.766 ms
+seq 101: no response (timeout)
+seq 102: no response (timeout)
+seq 103: no response (timeout)
+seq 104: no response (timeout)
+seq 106: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  108.519 ms
+seq 107: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  400.357 ms
+seq 105: no response (timeout)
+seq 108: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  584.824 ms
+seq 109: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  717.969 ms
+seq 110: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  942.196 ms
+seq 111: no response (timeout)
+seq 112: no response (timeout)
+seq 113: no response (timeout)
+seq 114: no response (timeout)
+seq 115: no response (timeout)
+seq 116: no response (timeout)
+seq 117: no response (timeout)
+seq 118: no response (timeout)
+seq 119: no response (timeout)
+seq 120: no response (timeout)
+seq 121: no response (timeout)
+seq 122: no response (timeout)
+seq 125: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  389.137 ms
+seq 123: no response (timeout)
+seq 124: no response (timeout)
+seq 126: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1251.186 ms
+seq 128: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1026.871 ms
+seq 127: no response (timeout)
+seq 129: no response (timeout)
+seq 130: no response (timeout)
+seq 131: no response (timeout)
+seq 132: no response (timeout)
+seq 133: no response (timeout)
+seq 134: no response (timeout)
+seq 135: no response (timeout)
+seq 136: no response (timeout)
+seq 137: no response (timeout)
+seq 138: no response (timeout)
+seq 141: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  128.419 ms
+seq 139: no response (timeout)
+seq 140: no response (timeout)
+seq 143: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  125.770 ms
+seq 142: no response (timeout)
+seq 145: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  256.567 ms
+seq 144: no response (timeout)
+seq 147: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  363.104 ms
+seq 148: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  780.580 ms
+seq 146: no response (timeout)
+seq 149: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1065.864 ms
+seq 150: no response (timeout)
+seq 151: no response (timeout)
+seq 152: no response (timeout)
+seq 155: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  108.464 ms
+seq 153: no response (timeout)
+seq 154: no response (timeout)
+seq 156: no response (timeout)
+seq 159: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  137.655 ms
+seq 157: no response (timeout)
+seq 158: no response (timeout)
+seq 160: no response (timeout)
+seq 162: no response (timeout)
+seq 163: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  592.848 ms
+seq 161: no response (timeout)
+seq 164: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1218.874 ms
+seq 165: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1018.933 ms
+seq 166: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  917.947 ms
+seq 167: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  861.715 ms
+seq 168: no response (timeout)
+seq 169: no response (timeout)
+seq 170: no response (timeout)
+seq 171: no response (timeout)
+seq 172: no response (timeout)
+seq 175: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  112.712 ms
+seq 173: no response (timeout)
+seq 174: no response (timeout)
+seq 176: no response (timeout)
+seq 177: no response (timeout)
+seq 178: no response (timeout)
+seq 179: no response (timeout)
+seq 182: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  211.592 ms
+seq 180: no response (timeout)
+seq 181: no response (timeout)
+seq 185: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  177.955 ms
+seq 183: no response (timeout)
+seq 184: no response (timeout)
+seq 186: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  744.732 ms
+seq 187: no response (timeout)
+seq 188: no response (timeout)
+seq 189: no response (timeout)
+seq 190: no response (timeout)
+seq 191: no response (timeout)
+seq 192: no response (timeout)
+seq 195: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  114.063 ms
+seq 193: no response (timeout)
+seq 194: no response (timeout)
+seq 196: no response (timeout)
+seq 199: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  190.025 ms
+seq 197: no response (timeout)
+seq 198: no response (timeout)
+seq 201: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  281.737 ms
+seq 200: no response (timeout)
+seq 202: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1004.597 ms
+seq 203: no response (timeout)
+seq 204: no response (timeout)
+seq 205: no response (timeout)
+seq 206: no response (timeout)
+seq 207: no response (timeout)
+seq 208: no response (timeout)
+seq 211: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  168.101 ms
+seq 209: no response (timeout)
+seq 210: no response (timeout)
+seq 213: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1336.298 ms
+seq 214: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1390.331 ms
+seq 212: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  669.496 ms
+seq 217: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  891.132 ms
+seq 215: no response (timeout)
+seq 216: no response (timeout)
+seq 218: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1552.462 ms
+seq 219: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1589.165 ms
+seq 220: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1373.275 ms
+seq 221: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1075.290 ms
+seq 222: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1600.491 ms
+seq 223: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1729.733 ms
+seq 224: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1230.882 ms
+seq 225: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1314.436 ms
+seq 226: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1152.963 ms
+seq 227: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1354.170 ms
+seq 228: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2376.685 ms
+seq 229: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2859.860 ms
+seq 230: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2900.436 ms
+seq 231: no response (timeout)
+seq 232: no response (timeout)
+seq 233: no response (timeout)
+seq 234: no response (timeout)
+seq 237: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  173.318 ms
+seq 235: no response (timeout)
+seq 236: no response (timeout)
+seq 238: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  495.077 ms
+seq 239: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  401.237 ms
+seq 240: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  547.784 ms
+seq 241: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [unknown, ACK]  781.572 ms
+seq 242: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1406.573 ms
+seq 243: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1523.360 ms
+seq 244: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2360.511 ms
+seq 245: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2586.674 ms
+seq 246: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2564.352 ms
+seq 247: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2745.683 ms
+seq 248: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2862.497 ms
+seq 249: no response (timeout)
+seq 250: no response (timeout)
+seq 251: no response (timeout)
+seq 252: no response (timeout)
+seq 253: no response (timeout)
+seq 254: no response (timeout)
+seq 255: no response (timeout)
+seq 256: no response (timeout)
+seq 259: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  286.668 ms
+seq 257: no response (timeout)
+seq 258: no response (timeout)
+seq 261: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  798.777 ms
+seq 262: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1055.462 ms
+seq 260: no response (timeout)
+seq 263: no response (timeout)
+seq 264: no response (timeout)
+seq 266: no response (timeout)
+seq 265: no response (timeout)
+seq 267: no response (timeout)
+seq 268: no response (timeout)
+seq 269: no response (timeout)
+seq 272: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  412.531 ms
+seq 270: no response (timeout)
+seq 271: no response (timeout)
+seq 273: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  590.428 ms
+seq 274: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  129.401 ms
+seq 275: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  469.100 ms
+seq 276: no response (timeout)
+seq 277: no response (timeout)
+seq 278: no response (timeout)
+seq 279: no response (timeout)
+seq 281: no response (timeout)
+seq 280: no response (timeout)
+seq 282: no response (timeout)
+seq 283: no response (timeout)
+seq 284: no response (timeout)
+seq 287: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  166.358 ms
+seq 285: no response (timeout)
+seq 286: no response (timeout)
+seq 288: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  817.010 ms
+seq 289: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1657.166 ms
+seq 290: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2284.660 ms
+seq 291: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  2343.905 ms
+seq 292: no response (timeout)
+seq 293: no response (timeout)
+seq 294: no response (timeout)
+seq 295: no response (timeout)
+seq 296: no response (timeout)
+seq 297: no response (timeout)
+seq 298: no response (timeout)
+seq 299: no response (timeout)
+seq 302: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  492.584 ms
+seq 300: no response (timeout)
+seq 301: no response (timeout)
+seq 303: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1150.260 ms
+seq 304: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  890.836 ms
+seq 305: no response (timeout)
+seq 306: no response (timeout)
+seq 307: no response (timeout)
+seq 308: no response (timeout)
+seq 309: no response (timeout)
+seq 310: no response (timeout)
+seq 311: no response (timeout)
+seq 312: no response (timeout)
+seq 313: no response (timeout)
+seq 314: no response (timeout)
+seq 315: no response (timeout)
+seq 316: no response (timeout)
+seq 317: no response (timeout)
+seq 318: no response (timeout)
+seq 321: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  208.998 ms
+seq 319: no response (timeout)
+seq 320: no response (timeout)
+seq 322: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1056.157 ms
+seq 323: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1175.694 ms
+seq 324: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1760.737 ms
+seq 325: no response (timeout)
+seq 326: no response (timeout)
+seq 327: no response (timeout)
+seq 328: no response (timeout)
+seq 329: no response (timeout)
+seq 332: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  149.918 ms
+seq 330: no response (timeout)
+seq 331: no response (timeout)
+seq 333: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  636.715 ms
+seq 334: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  865.079 ms
+seq 335: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1183.280 ms
+seq 336: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1319.407 ms
+seq 337: no response (timeout)
+seq 338: no response (timeout)
+seq 339: no response (timeout)
+seq 340: no response (timeout)
+seq 341: no response (timeout)
+seq 342: no response (timeout)
+seq 343: no response (timeout)
+seq 344: no response (timeout)
+seq 345: no response (timeout)
+seq 346: no response (timeout)
+seq 347: no response (timeout)
+seq 349: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  236.491 ms
+seq 348: no response (timeout)
+seq 351: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1087.054 ms
+seq 350: no response (timeout)
+seq 352: no response (timeout)
+seq 353: no response (timeout)
+seq 354: no response (timeout)
+seq 355: no response (timeout)
+seq 356: no response (timeout)
+seq 357: no response (timeout)
+seq 358: no response (timeout)
+seq 359: no response (timeout)
+seq 360: no response (timeout)
+seq 363: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  105.893 ms
+seq 361: no response (timeout)
+seq 362: no response (timeout)
+seq 365: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  202.983 ms
+seq 366: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  143.753 ms
+seq 364: no response (timeout)
+seq 367: no response (timeout)
+seq 368: no response (timeout)
+seq 369: no response (timeout)
+seq 370: no response (timeout)
+seq 371: no response (timeout)
+seq 372: no response (timeout)
+seq 373: no response (timeout)
+seq 374: no response (timeout)
+seq 377: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  225.043 ms
+seq 375: no response (timeout)
+seq 376: no response (timeout)
+seq 378: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  159.314 ms
+seq 379: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  419.836 ms
+seq 380: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  568.676 ms
+seq 381: no response (timeout)
+seq 382: no response (timeout)
+seq 383: no response (timeout)
+seq 384: no response (timeout)
+seq 385: no response (timeout)
+seq 388: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  306.938 ms
+seq 386: no response (timeout)
+seq 387: no response (timeout)
+seq 389: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  122.532 ms
+seq 390: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  390.931 ms
+seq 391: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  333.430 ms
+seq 392: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  122.107 ms
+seq 393: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  457.495 ms
+seq 394: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  119.142 ms
+seq 395: no response (timeout)
+seq 396: no response (timeout)
+seq 397: no response (timeout)
+seq 398: no response (timeout)
+seq 399: no response (timeout)
+seq 400: no response (timeout)
+seq 401: no response (timeout)
+seq 403: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  455.207 ms
+seq 402: no response (timeout)
+seq 405: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  656.850 ms
+seq 406: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  595.230 ms
+seq 404: no response (timeout)
+seq 407: no response (timeout)
+seq 408: no response (timeout)
+seq 409: no response (timeout)
+seq 410: no response (timeout)
+seq 411: no response (timeout)
+seq 414: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  501.726 ms
+seq 412: no response (timeout)
+seq 413: no response (timeout)
+seq 416: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  856.411 ms
+seq 415: no response (timeout)
+seq 417: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1048.253 ms
+seq 418: no response (timeout)
+seq 421: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  171.117 ms
+seq 419: no response (timeout)
+seq 420: no response (timeout)
+seq 422: no response (timeout)
+seq 423: no response (timeout)
+seq 426: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  525.622 ms
+seq 424: no response (timeout)
+seq 425: no response (timeout)
+seq 427: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  940.571 ms
+seq 428: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  978.557 ms
+seq 429: no response (timeout)
+seq 430: no response (timeout)
+seq 431: no response (timeout)
+seq 432: no response (timeout)
+seq 433: no response (timeout)
+seq 434: no response (timeout)
+seq 435: no response (timeout)
+seq 438: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  178.406 ms
+seq 436: no response (timeout)
+seq 437: no response (timeout)
+seq 439: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  174.938 ms
+seq 441: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  139.733 ms
+seq 442: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  131.535 ms
+seq 440: no response (timeout)
+seq 443: no response (timeout)
+seq 444: no response (timeout)
+seq 445: no response (timeout)
+seq 446: no response (timeout)
+seq 448: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  226.070 ms
+seq 447: no response (timeout)
+seq 450: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  149.359 ms
+seq 449: no response (timeout)
+seq 452: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  296.331 ms
+seq 451: no response (timeout)
+seq 455: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  463.390 ms
+seq 454: no response (timeout)
+seq 453: no response (timeout)
+seq 456: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  170.068 ms
+seq 458: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  368.890 ms
+seq 457: no response (timeout)
+seq 459: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  158.636 ms
+seq 460: no response (timeout)
+seq 461: no response (timeout)
+seq 462: no response (timeout)
+seq 463: no response (timeout)
+seq 464: no response (timeout)
+seq 466: no response (timeout)
+seq 465: no response (timeout)
+seq 468: no response (timeout)
+seq 469: no response (timeout)
+seq 470: no response (timeout)
+seq 471: no response (timeout)
+seq 467: no response (timeout)
+seq 474: no response (timeout)
+seq 475: no response (timeout)
+seq 473: no response (timeout)
+seq 472: no response (timeout)
+seq 477: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  108.851 ms
+seq 476: no response (timeout)
+seq 478: no response (timeout)
+seq 479: no response (timeout)
+seq 480: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  334.543 ms
+seq 482: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  270.819 ms
+seq 481: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  325.782 ms
+seq 485: no response (timeout)
+seq 486: no response (timeout)
+seq 484: no response (timeout)
+seq 487: no response (timeout)
+seq 483: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  162.653 ms
+seq 488: no response (timeout)
+seq 490: no response (timeout)
+seq 491: no response (timeout)
+seq 492: no response (timeout)
+seq 489: no response (timeout)
+seq 497: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1103.510 ms
+seq 498: no response (timeout)
+seq 493: no response (timeout)
+seq 500: no response (timeout)
+seq 499: no response (timeout)
+seq 494: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  165.298 ms
+seq 496: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  659.555 ms
+seq 502: no response (timeout)
+seq 495: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  485.357 ms
+seq 501: no response (timeout)
+seq 509: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  520.564 ms
+seq 505: no response (timeout)
+seq 507: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  108.326 ms
+seq 506: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  175.746 ms
+seq 503: no response (timeout)
+seq 504: no response (timeout)
+seq 508: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  147.184 ms
+seq 511: no response (timeout)
+seq 514: no response (timeout)
+seq 515: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  212.621 ms
+seq 510: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  351.292 ms
+seq 512: no response (timeout)
+seq 513: no response (timeout)
+seq 521: no response (timeout)
+seq 522: no response (timeout)
+seq 526: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  116.113 ms
+seq 525: no response (timeout)
+seq 516: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  195.497 ms
+seq 517: no response (timeout)
+seq 519: no response (timeout)
+seq 530: no response (timeout)
+seq 528: no response (timeout)
+seq 523: no response (timeout)
+seq 531: no response (timeout)
+seq 524: no response (timeout)
+seq 518: no response (timeout)
+seq 527: no response (timeout)
+seq 533: no response (timeout)
+seq 529: no response (timeout)
+seq 535: no response (timeout)
+seq 520: no response (timeout)
+seq 534: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  199.164 ms
+seq 536: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  167.359 ms
+seq 532: no response (timeout)
+seq 537: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  167.326 ms
+seq 544: no response (timeout)
+seq 543: no response (timeout)
+seq 542: no response (timeout)
+seq 539: no response (timeout)
+seq 538: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  150.628 ms
+seq 541: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  165.546 ms
+seq 547: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  862.835 ms
+seq 540: no response (timeout)
+seq 548: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  946.351 ms
+seq 550: no response (timeout)
+seq 545: no response (timeout)
+seq 555: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  122.722 ms
+seq 557: no response (timeout)
+seq 549: no response (timeout)
+seq 546: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  882.208 ms
+seq 552: no response (timeout)
+seq 559: no response (timeout)
+seq 563: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  947.089 ms
+seq 565: no response (timeout)
+seq 562: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  113.854 ms
+seq 558: no response (timeout)
+seq 551: no response (timeout)
+seq 553: no response (timeout)
+seq 561: no response (timeout)
+seq 564: no response (timeout)
+seq 560: no response (timeout)
+seq 566: no response (timeout)
+seq 569: no response (timeout)
+seq 570: no response (timeout)
+seq 568: no response (timeout)
+seq 571: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  171.827 ms
+seq 556: no response (timeout)
+seq 554: no response (timeout)
+seq 567: no response (timeout)
+seq 572: no response (timeout)
+seq 574: no response (timeout)
+seq 573: no response (timeout)
+seq 575: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  254.717 ms
+seq 576: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  825.654 ms
+seq 577: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1069.500 ms
+seq 578: no response (timeout)
+seq 580: no response (timeout)
+seq 582: no response (timeout)
+seq 583: no response (timeout)
+seq 581: no response (timeout)
+seq 579: no response (timeout)
+seq 584: no response (timeout)
+seq 586: no response (timeout)
+seq 585: no response (timeout)
+seq 587: no response (timeout)
+seq 589: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  158.209 ms
+seq 588: no response (timeout)
+seq 592: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  644.798 ms
+seq 593: no response (timeout)
+seq 590: no response (timeout)
+seq 594: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  150.953 ms
+seq 595: no response (timeout)
+seq 591: no response (timeout)
+seq 597: no response (timeout)
+seq 596: no response (timeout)
+seq 598: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  165.410 ms
+seq 607: no response (timeout)
+seq 600: no response (timeout)
+seq 605: no response (timeout)
+seq 604: no response (timeout)
+seq 603: no response (timeout)
+seq 602: no response (timeout)
+seq 601: no response (timeout)
+seq 606: no response (timeout)
+seq 599: no response (timeout)
+seq 612: no response (timeout)
+seq 613: no response (timeout)
+seq 611: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  164.628 ms
+seq 614: no response (timeout)
+seq 615: no response (timeout)
+seq 616: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  109.992 ms
+seq 617: no response (timeout)
+seq 618: no response (timeout)
+seq 619: no response (timeout)
+seq 620: no response (timeout)
+seq 621: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  438.655 ms
+seq 622: no response (timeout)
+seq 623: no response (timeout)
+seq 624: no response (timeout)
+seq 625: no response (timeout)
+seq 627: no response (timeout)
+seq 626: no response (timeout)
+seq 610: no response (timeout)
+seq 628: no response (timeout)
+seq 609: no response (timeout)
+seq 636: no response (timeout)
+seq 633: no response (timeout)
+seq 632: no response (timeout)
+seq 631: no response (timeout)
+seq 640: no response (timeout)
+seq 630: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  157.742 ms
+seq 639: no response (timeout)
+seq 642: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  130.323 ms
+seq 637: no response (timeout)
+seq 629: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  208.449 ms
+seq 634: no response (timeout)
+seq 641: no response (timeout)
+seq 644: no response (timeout)
+seq 645: no response (timeout)
+seq 646: no response (timeout)
+seq 647: no response (timeout)
+seq 650: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  206.675 ms
+seq 648: no response (timeout)
+seq 649: no response (timeout)
+seq 653: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  246.238 ms
+seq 651: no response (timeout)
+seq 654: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  505.595 ms
+seq 652: no response (timeout)
+seq 655: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  562.193 ms
+seq 656: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  564.140 ms
+seq 657: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  526.544 ms
+seq 658: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  671.741 ms
+seq 659: no response (timeout)
+seq 660: no response (timeout)
+seq 661: no response (timeout)
+seq 635: no response (timeout)
+seq 608: no response (timeout)
+seq 662: no response (timeout)
+seq 663: no response (timeout)
+seq 664: no response (timeout)
+seq 643: no response (timeout)
+seq 638: no response (timeout)
+seq 665: no response (timeout)
+seq 666: no response (timeout)
+seq 667: no response (timeout)
+seq 668: no response (timeout)
+seq 669: no response (timeout)
+seq 670: no response (timeout)
+seq 671: no response (timeout)
+seq 672: no response (timeout)
+seq 673: no response (timeout)
+seq 674: no response (timeout)
+seq 675: no response (timeout)
+seq 676: no response (timeout)
+seq 677: no response (timeout)
+seq 680: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  158.982 ms
+seq 678: no response (timeout)
+seq 679: no response (timeout)
+seq 681: no response (timeout)
+seq 684: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  147.700 ms
+seq 682: no response (timeout)
+seq 685: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  172.500 ms
+seq 683: no response (timeout)
+seq 686: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  946.194 ms
+seq 687: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  899.582 ms
+seq 688: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1223.664 ms
+seq 689: no response (timeout)
+seq 690: no response (timeout)
+seq 691: no response (timeout)
+seq 692: no response (timeout)
+seq 693: no response (timeout)
+seq 694: no response (timeout)
+seq 695: no response (timeout)
+seq 696: no response (timeout)
+seq 699: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  165.319 ms
+seq 697: no response (timeout)
+seq 698: no response (timeout)
+seq 700: no response (timeout)
+seq 701: no response (timeout)
+seq 704: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  153.634 ms
+seq 702: no response (timeout)
+seq 703: no response (timeout)
+seq 707: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  116.697 ms
+seq 705: no response (timeout)
+seq 708: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  76.834 ms
+seq 706: no response (timeout)
+seq 709: no response (timeout)
+seq 712: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  129.577 ms
+seq 710: no response (timeout)
+seq 711: no response (timeout)
+seq 715: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  232.174 ms
+seq 713: no response (timeout)
+seq 716: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  168.758 ms
+seq 714: no response (timeout)
+seq 717: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  223.581 ms
+seq 718: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  379.371 ms
+seq 719: no response (timeout)
+seq 722: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  118.424 ms
+seq 720: no response (timeout)
+seq 721: no response (timeout)
+seq 723: no response (timeout)
+seq 726: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  78.688 ms
+seq 724: no response (timeout)
+seq 727: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  221.798 ms
+seq 725: no response (timeout)
+seq 728: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  80.433 ms
+seq 729: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  80.123 ms
+seq 730: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  217.955 ms
+seq 731: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  109.123 ms
+seq 732: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  143.832 ms
+seq 733: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  78.923 ms
+seq 734: no response (timeout)
+seq 735: no response (timeout)
+seq 736: no response (timeout)
+seq 737: no response (timeout)
+seq 738: no response (timeout)
+seq 739: no response (timeout)
+seq 740: no response (timeout)
+seq 743: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  209.501 ms
+seq 741: no response (timeout)
+seq 744: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  217.519 ms
+seq 742: no response (timeout)
+seq 745: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  348.499 ms
+seq 746: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  264.875 ms
+seq 747: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  311.438 ms
+seq 748: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  629.177 ms
+seq 749: no response (timeout)
+seq 750: no response (timeout)
+seq 753: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  174.172 ms
+seq 751: no response (timeout)
+seq 754: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  139.081 ms
+seq 752: no response (timeout)
+seq 755: no response (timeout)
+seq 756: no response (timeout)
+seq 757: no response (timeout)
+seq 758: no response (timeout)
+seq 759: no response (timeout)
+seq 760: no response (timeout)
+seq 761: no response (timeout)
+seq 764: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  208.550 ms
+seq 762: no response (timeout)
+seq 765: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  265.674 ms
+seq 763: no response (timeout)
+seq 766: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  244.217 ms
+seq 767: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  475.831 ms
+seq 768: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  635.051 ms
+seq 769: no response (timeout)
+seq 770: no response (timeout)
+seq 771: no response (timeout)
+seq 774: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  116.064 ms
+seq 772: no response (timeout)
+seq 773: no response (timeout)
+seq 775: no response (timeout)
+seq 776: no response (timeout)
+seq 777: no response (timeout)
+seq 778: no response (timeout)
+seq 779: no response (timeout)
+seq 780: no response (timeout)
+seq 781: no response (timeout)
+seq 782: no response (timeout)
+seq 785: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  169.375 ms
+seq 783: no response (timeout)
+seq 786: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  390.103 ms
+seq 784: no response (timeout)
+seq 787: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  238.563 ms
+seq 788: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  419.286 ms
+seq 789: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  229.796 ms
+seq 790: no response (timeout)
+seq 791: no response (timeout)
+seq 794: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  109.781 ms
+seq 792: no response (timeout)
+seq 793: no response (timeout)
+seq 795: no response (timeout)
+seq 796: no response (timeout)
+seq 799: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  384.829 ms
+seq 797: no response (timeout)
+seq 800: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  842.479 ms
+seq 798: no response (timeout)
+seq 801: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1299.089 ms
+seq 802: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1178.435 ms
+seq 803: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  947.993 ms
+seq 804: no response (timeout)
+seq 805: no response (timeout)
+seq 806: no response (timeout)
+seq 807: no response (timeout)
+seq 808: no response (timeout)
+seq 809: no response (timeout)
+seq 810: no response (timeout)
+seq 811: no response (timeout)
+seq 812: no response (timeout)
+seq 813: no response (timeout)
+seq 814: no response (timeout)
+seq 817: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  223.916 ms
+seq 815: no response (timeout)
+seq 818: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  517.885 ms
+seq 816: no response (timeout)
+seq 819: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  680.089 ms
+seq 820: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1273.493 ms
+seq 821: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1159.448 ms
+seq 822: no response (timeout)
+seq 823: no response (timeout)
+seq 824: no response (timeout)
+seq 825: no response (timeout)
+seq 826: no response (timeout)
+seq 827: no response (timeout)
+seq 830: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  123.790 ms
+seq 828: no response (timeout)
+seq 831: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  466.877 ms
+seq 829: no response (timeout)
+seq 832: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  722.649 ms
+seq 833: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  793.207 ms
+seq 834: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  603.912 ms
+seq 835: no response (timeout)
+seq 836: no response (timeout)
+seq 839: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  153.669 ms
+seq 837: no response (timeout)
+seq 840: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  132.027 ms
+seq 838: no response (timeout)
+seq 841: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  198.007 ms
+seq 842: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  170.790 ms
+seq 843: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  236.340 ms
+seq 844: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  319.745 ms
+seq 845: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  210.447 ms
+seq 846: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  240.988 ms
+seq 847: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  207.636 ms
+seq 848: no response (timeout)
+seq 849: no response (timeout)
+seq 850: no response (timeout)
+seq 851: no response (timeout)
+seq 852: no response (timeout)
+seq 853: no response (timeout)
+seq 854: no response (timeout)
+seq 855: no response (timeout)
+seq 856: no response (timeout)
+seq 857: no response (timeout)
+seq 858: no response (timeout)
+seq 859: no response (timeout)
+seq 860: no response (timeout)
+seq 861: no response (timeout)
+seq 864: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  167.457 ms
+seq 862: no response (timeout)
+seq 865: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  143.897 ms
+seq 863: no response (timeout)
+seq 866: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  687.058 ms
+seq 867: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1464.351 ms
+seq 868: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1147.309 ms
+seq 869: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  876.380 ms
+seq 870: no response (timeout)
+seq 871: no response (timeout)
+seq 872: no response (timeout)
+seq 873: no response (timeout)
+seq 874: no response (timeout)
+seq 875: no response (timeout)
+seq 876: no response (timeout)
+seq 877: no response (timeout)
+seq 878: no response (timeout)
+seq 879: no response (timeout)
+seq 880: no response (timeout)
+seq 881: no response (timeout)
+seq 882: no response (timeout)
+seq 883: no response (timeout)
+seq 884: no response (timeout)
+seq 887: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  370.659 ms
+seq 885: no response (timeout)
+seq 886: no response (timeout)
+seq 888: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  832.678 ms
+seq 889: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  920.676 ms
+seq 890: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  579.682 ms
+seq 891: no response (timeout)
+seq 892: no response (timeout)
+seq 893: no response (timeout)
+seq 894: no response (timeout)
+seq 895: no response (timeout)
+seq 896: no response (timeout)
+seq 897: no response (timeout)
+seq 898: no response (timeout)
+seq 899: no response (timeout)
+seq 900: no response (timeout)
+seq 901: no response (timeout)
+seq 904: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  160.190 ms
+seq 902: no response (timeout)
+seq 905: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  119.412 ms
+seq 903: no response (timeout)
+seq 906: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  134.977 ms
+seq 907: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  191.528 ms
+seq 908: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  420.222 ms
+seq 909: no response (timeout)
+seq 912: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  148.363 ms
+seq 910: no response (timeout)
+seq 911: no response (timeout)
+seq 913: no response (timeout)
+seq 914: no response (timeout)
+seq 917: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  346.448 ms
+seq 915: no response (timeout)
+seq 918: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  172.758 ms
+seq 916: no response (timeout)
+seq 919: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  159.113 ms
+seq 920: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  382.835 ms
+seq 921: no response (timeout)
+seq 922: no response (timeout)
+seq 923: no response (timeout)
+seq 926: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  116.888 ms
+seq 924: no response (timeout)
+seq 925: no response (timeout)
+seq 927: no response (timeout)
+seq 928: no response (timeout)
+seq 929: no response (timeout)
+seq 932: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  116.028 ms
+seq 930: no response (timeout)
+seq 933: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  201.951 ms
+seq 931: no response (timeout)
+seq 934: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  280.951 ms
+seq 935: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  793.386 ms
+seq 936: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  827.628 ms
+seq 937: no response (timeout)
+seq 938: no response (timeout)
+seq 939: no response (timeout)
+seq 940: no response (timeout)
+seq 941: no response (timeout)
+seq 942: no response (timeout)
+seq 943: no response (timeout)
+seq 944: no response (timeout)
+seq 945: no response (timeout)
+seq 948: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  598.967 ms
+seq 946: no response (timeout)
+seq 949: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  181.313 ms
+seq 947: no response (timeout)
+seq 950: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  134.291 ms
+seq 951: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  155.001 ms
+seq 952: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  93.035 ms
+seq 953: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  135.046 ms
+seq 954: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  84.951 ms
+seq 955: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  115.817 ms
+seq 956: no response (timeout)
+seq 957: no response (timeout)
+seq 960: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  189.703 ms
+seq 958: no response (timeout)
+seq 959: no response (timeout)
+seq 961: no response (timeout)
+seq 962: no response (timeout)
+seq 963: no response (timeout)
+seq 966: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  241.243 ms
+seq 964: no response (timeout)
+seq 967: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  118.093 ms
+seq 965: no response (timeout)
+seq 968: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  92.035 ms
+seq 969: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  70.207 ms
+seq 970: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  72.585 ms
+seq 971: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  259.950 ms
+seq 972: no response (timeout)
+seq 975: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  97.350 ms
+seq 973: no response (timeout)
+seq 974: no response (timeout)
+seq 976: no response (timeout)
+seq 977: no response (timeout)
+seq 978: no response (timeout)
+seq 979: no response (timeout)
+seq 982: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  201.329 ms
+seq 980: no response (timeout)
+seq 983: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  565.019 ms
+seq 981: no response (timeout)
+seq 984: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  671.284 ms
+seq 985: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  303.919 ms
+seq 986: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  122.400 ms
+seq 987: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  103.749 ms
+seq 988: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  239.258 ms
+seq 989: no response (timeout)
+seq 990: no response (timeout)
+seq 991: no response (timeout)
+seq 992: no response (timeout)
+seq 993: no response (timeout)
+seq 994: no response (timeout)
+seq 997: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  314.445 ms
+seq 995: no response (timeout)
+seq 996: no response (timeout)
+seq 998: no response (timeout)
+seq 1001: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  112.372 ms
+seq 999: no response (timeout)
+seq 1002: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  166.982 ms
+seq 1000: no response (timeout)
+seq 1003: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  553.646 ms
+seq 1004: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  68.633 ms
+seq 1005: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  73.445 ms
+seq 1006: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  81.452 ms
+seq 1007: no response (timeout)
+seq 1010: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  132.836 ms
+seq 1008: no response (timeout)
+seq 1011: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [closed]  174.436 ms
+seq 1009: no response (timeout)
+seq 1012: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [closed]  163.251 ms
+seq 1013: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [closed]  207.009 ms
+seq 1014: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  81.861 ms
+seq 1015: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  103.198 ms
+seq 1016: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  186.997 ms
+seq 1017: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  123.551 ms
+seq 1018: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  209.218 ms
+seq 1019: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  196.062 ms
+seq 1020: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  100.954 ms
+seq 1021: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  186.379 ms
+seq 1022: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  126.664 ms
+seq 1023: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  205.943 ms
+seq 1024: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  344.351 ms
+seq 1025: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  189.235 ms
+seq 1026: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  175.688 ms
+seq 1027: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  201.908 ms
+seq 1028: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  191.894 ms
+seq 1029: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  135.999 ms
+seq 1030: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  128.602 ms
+seq 1031: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  65.994 ms
+seq 1032: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  172.245 ms
+seq 1033: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  235.807 ms
+seq 1034: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  107.217 ms
+seq 1035: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  86.136 ms
+seq 1036: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  159.334 ms
+seq 1037: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  161.401 ms
+seq 1038: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  242.140 ms
+seq 1039: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  148.584 ms
+seq 1040: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  131.304 ms
+seq 1041: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  195.783 ms
+seq 1042: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  277.256 ms
+seq 1043: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  106.407 ms
+seq 1044: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  165.969 ms
+seq 1045: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  150.400 ms
+seq 1046: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  152.858 ms
+seq 1047: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  130.654 ms
+seq 1048: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  149.577 ms
+seq 1049: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  119.477 ms
+seq 1050: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  101.006 ms
+seq 1051: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  143.514 ms
+seq 1052: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  120.813 ms
+seq 1053: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  121.802 ms
+seq 1054: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  176.239 ms
+seq 1055: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  673.441 ms
+seq 1056: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  262.990 ms
+seq 1057: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  111.287 ms
+seq 1058: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  105.828 ms
+seq 1059: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  133.504 ms
+seq 1060: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  145.057 ms
+seq 1061: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  173.320 ms
+seq 1062: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  128.201 ms
+seq 1063: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  162.777 ms
+seq 1064: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  153.401 ms
+seq 1065: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  148.088 ms
+seq 1066: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  163.520 ms
+seq 1067: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  264.411 ms
+seq 1068: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  266.798 ms
+seq 1069: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  205.959 ms
+seq 1070: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  182.148 ms
+seq 1071: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  183.059 ms
+seq 1072: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  275.830 ms
+seq 1073: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  109.860 ms
+seq 1074: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  223.383 ms
+seq 1075: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  128.995 ms
+seq 1076: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  185.805 ms
+seq 1077: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  179.705 ms
+seq 1078: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  182.981 ms
+seq 1079: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  167.344 ms
+seq 1080: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  189.376 ms
+seq 1081: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  299.065 ms
+seq 1082: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  151.975 ms
+seq 1083: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  149.610 ms
+seq 1084: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  220.242 ms
+seq 1085: no response (timeout)
+seq 1086: no response (timeout)
+seq 1087: no response (timeout)
+seq 1088: no response (timeout)
+seq 1091: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  139.609 ms
+seq 1089: no response (timeout)
+seq 1092: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  154.607 ms
+seq 1090: no response (timeout)
+seq 1093: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  143.674 ms
+seq 1094: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  201.293 ms
+seq 1095: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  331.971 ms
+seq 1096: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  160.433 ms
+seq 1097: no response (timeout)
+seq 1098: no response (timeout)
+seq 1099: no response (timeout)
+seq 1100: no response (timeout)
+seq 1101: no response (timeout)
+seq 1102: no response (timeout)
+seq 1103: no response (timeout)
+seq 1104: no response (timeout)
+seq 1105: no response (timeout)
+seq 1106: no response (timeout)
+seq 1107: no response (timeout)
+seq 1108: no response (timeout)
+seq 1111: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  134.852 ms
+seq 1109: no response (timeout)
+seq 1112: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  223.117 ms
+seq 1110: no response (timeout)
+seq 1113: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  354.951 ms
+seq 1114: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  469.043 ms
+seq 1115: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  576.378 ms
+seq 1116: no response (timeout)
+seq 1117: no response (timeout)
+seq 1118: no response (timeout)
+seq 1119: no response (timeout)
+seq 1120: no response (timeout)
+seq 1121: no response (timeout)
+seq 1122: no response (timeout)
+seq 1123: no response (timeout)
+seq 1124: no response (timeout)
+seq 1125: no response (timeout)
+seq 1126: no response (timeout)
+seq 1127: no response (timeout)
+seq 1130: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  409.598 ms
+seq 1128: no response (timeout)
+seq 1131: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  470.330 ms
+seq 1129: no response (timeout)
+seq 1132: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  885.753 ms
+seq 1133: no response (timeout)
+seq 1134: no response (timeout)
+seq 1135: no response (timeout)
+seq 1138: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  164.620 ms
+seq 1136: no response (timeout)
+seq 1139: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  138.065 ms
+seq 1137: no response (timeout)
+seq 1140: no response (timeout)
+seq 1141: no response (timeout)
+seq 1142: no response (timeout)
+seq 1143: no response (timeout)
+seq 1144: no response (timeout)
+seq 1147: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  236.953 ms
+seq 1145: no response (timeout)
+seq 1148: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  246.673 ms
+seq 1146: no response (timeout)
+seq 1149: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  283.707 ms
+seq 1150: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  593.780 ms
+seq 1151: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  471.824 ms
+seq 1152: no response (timeout)
+seq 1153: no response (timeout)
+seq 1156: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  136.054 ms
+seq 1154: no response (timeout)
+seq 1155: no response (timeout)
+seq 1157: no response (timeout)
+seq 1158: no response (timeout)
+seq 1159: no response (timeout)
+seq 1160: no response (timeout)
+seq 1161: no response (timeout)
+seq 1164: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  204.375 ms
+seq 1162: no response (timeout)
+seq 1165: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  110.354 ms
+seq 1163: no response (timeout)
+seq 1166: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  221.077 ms
+seq 1167: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  179.184 ms
+seq 1168: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  212.657 ms
+seq 1169: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  139.108 ms
+seq 1170: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  137.646 ms
+seq 1171: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  101.619 ms
+seq 1172: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  214.724 ms
+seq 1173: no response (timeout)
+seq 1176: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  138.924 ms
+seq 1174: no response (timeout)
+seq 1175: no response (timeout)
+seq 1177: no response (timeout)
+seq 1178: no response (timeout)
+seq 1179: no response (timeout)
+seq 1182: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  202.289 ms
+seq 1180: no response (timeout)
+seq 1183: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  282.521 ms
+seq 1181: no response (timeout)
+seq 1184: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  474.654 ms
+seq 1185: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  545.747 ms
+seq 1186: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  174.734 ms
+seq 1187: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  155.839 ms
+seq 1188: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  115.042 ms
+seq 1189: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  221.514 ms
+seq 1190: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  150.400 ms
+seq 1191: no response (timeout)
+seq 1194: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  110.412 ms
+seq 1192: no response (timeout)
+seq 1193: no response (timeout)
+seq 1195: no response (timeout)
+seq 1196: no response (timeout)
+seq 1197: no response (timeout)
+seq 1200: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  290.084 ms
+seq 1198: no response (timeout)
+seq 1199: no response (timeout)
+seq 1201: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  292.432 ms
+seq 1202: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  142.380 ms
+seq 1203: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  184.189 ms
+seq 1204: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  154.620 ms
+seq 1205: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  193.398 ms
+seq 1206: no response (timeout)
+seq 1207: no response (timeout)
+seq 1208: no response (timeout)
+seq 1209: no response (timeout)
+seq 1210: no response (timeout)
+seq 1211: no response (timeout)
+seq 1214: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  541.856 ms
+seq 1212: no response (timeout)
+seq 1215: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  515.970 ms
+seq 1213: no response (timeout)
+seq 1216: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  438.044 ms
+seq 1217: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  258.672 ms
+seq 1218: no response (timeout)
+seq 1219: no response (timeout)
+seq 1220: no response (timeout)
+seq 1221: no response (timeout)
+seq 1222: no response (timeout)
+seq 1223: no response (timeout)
+seq 1224: no response (timeout)
+seq 1225: no response (timeout)
+seq 1226: no response (timeout)
+seq 1227: no response (timeout)
+seq 1228: no response (timeout)
+seq 1229: no response (timeout)
+seq 1232: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  572.845 ms
+seq 1230: no response (timeout)
+seq 1233: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  908.421 ms
+seq 1231: no response (timeout)
+seq 1234: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1136.171 ms
+seq 1235: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1331.034 ms
+seq 1236: no response (timeout)
+seq 1237: no response (timeout)
+seq 1238: no response (timeout)
+seq 1241: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  182.987 ms
+seq 1239: no response (timeout)
+seq 1240: no response (timeout)
+seq 1242: no response (timeout)
+seq 1243: no response (timeout)
+seq 1244: no response (timeout)
+seq 1245: no response (timeout)
+seq 1246: no response (timeout)
+seq 1247: no response (timeout)
+seq 1248: no response (timeout)
+seq 1249: no response (timeout)
+seq 1252: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  276.402 ms
+seq 1250: no response (timeout)
+seq 1251: no response (timeout)
+seq 1253: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1296.038 ms
+seq 1254: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1070.230 ms
+seq 1255: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1429.796 ms
+seq 1256: no response (timeout)
+seq 1257: no response (timeout)
+seq 1258: no response (timeout)
+seq 1259: no response (timeout)
+seq 1260: no response (timeout)
+seq 1261: no response (timeout)
+seq 1262: no response (timeout)
+seq 1263: no response (timeout)
+seq 1264: no response (timeout)
+seq 1267: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  332.042 ms
+seq 1265: no response (timeout)
+seq 1266: no response (timeout)
+seq 1268: no response (timeout)
+seq 1269: no response (timeout)
+seq 1272: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  152.338 ms
+seq 1270: no response (timeout)
+seq 1271: no response (timeout)
+seq 1275: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  450.153 ms
+seq 1273: no response (timeout)
+seq 1276: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  454.706 ms
+seq 1274: no response (timeout)
+seq 1277: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  826.588 ms
+seq 1278: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  1066.203 ms
+seq 1279: no response (timeout)
+seq 1280: no response (timeout)
+seq 1281: no response (timeout)
+seq 1282: no response (timeout)
+seq 1283: no response (timeout)
+seq 1284: no response (timeout)
+seq 1285: no response (timeout)
+seq 1286: no response (timeout)
+seq 1289: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  457.891 ms
+seq 1287: no response (timeout)
+seq 1290: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  337.684 ms
+seq 1288: no response (timeout)
+seq 1291: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  633.715 ms
+seq 1292: no response (timeout)
+seq 1293: no response (timeout)
+seq 1294: no response (timeout)
+seq 1295: no response (timeout)
+seq 1296: no response (timeout)
+seq 1299: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  179.483 ms
+seq 1297: no response (timeout)
+seq 1300: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  96.984 ms
+seq 1298: no response (timeout)
+seq 1301: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  161.723 ms
+seq 1302: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  156.879 ms
+seq 1303: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  226.455 ms
+seq 1304: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  352.797 ms
+seq 1305: no response (timeout)
+seq 1306: no response (timeout)
+seq 1307: no response (timeout)
+seq 1308: no response (timeout)
+seq 1309: no response (timeout)
+seq 1312: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  162.815 ms
+seq 1310: no response (timeout)
+seq 1311: no response (timeout)
+seq 1313: no response (timeout)
+seq 1314: no response (timeout)
+seq 1315: no response (timeout)
+seq 1316: no response (timeout)
+seq 1319: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  280.405 ms
+seq 1317: no response (timeout)
+seq 1320: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  319.198 ms
+seq 1318: no response (timeout)
+seq 1321: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  326.530 ms
+seq 1322: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  171.389 ms
+seq 1323: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  213.523 ms
+seq 1324: no response (timeout)
+seq 1325: no response (timeout)
+seq 1326: no response (timeout)
+seq 1327: no response (timeout)
+seq 1328: no response (timeout)
+seq 1329: no response (timeout)
+seq 1330: no response (timeout)
+seq 1331: no response (timeout)
+seq 1332: no response (timeout)
+seq 1333: no response (timeout)
+seq 1334: no response (timeout)
+seq 1335: no response (timeout)
+seq 1336: no response (timeout)
+seq 1337: no response (timeout)
+seq 1338: no response (timeout)
+seq 1341: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  142.728 ms
+seq 1339: no response (timeout)
+seq 1342: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  110.971 ms
+seq 1340: no response (timeout)
+seq 1343: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  138.431 ms
+seq 1345: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  134.983 ms
+seq 1346: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  218.218 ms
+seq 1344: no response (timeout)
+seq 1347: no response (timeout)
+seq 1348: no response (timeout)
+seq 1351: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  408.730 ms
+seq 1349: no response (timeout)
+seq 1352: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  209.529 ms
+seq 1350: no response (timeout)
+seq 1353: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  101.887 ms
+seq 1354: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  170.316 ms
+seq 1355: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  249.908 ms
+seq 1356: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  270.934 ms
+seq 1357: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  237.530 ms
+seq 1358: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  169.068 ms
+seq 1359: no response (timeout)
+seq 1360: no response (timeout)
+seq 1363: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  427.592 ms
+seq 1361: no response (timeout)
+seq 1364: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  252.871 ms
+seq 1362: no response (timeout)
+seq 1365: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  178.553 ms
+seq 1366: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  84.250 ms
+seq 1367: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  336.419 ms
+seq 1368: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  152.877 ms
+seq 1369: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  192.399 ms
+seq 1370: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  190.549 ms
+seq 1371: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  116.663 ms
+seq 1372: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  189.281 ms
+seq 1373: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  118.916 ms
+seq 1374: no response (timeout)
+seq 1375: no response (timeout)
+seq 1376: no response (timeout)
+seq 1379: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  118.912 ms
+seq 1377: no response (timeout)
+seq 1380: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  214.492 ms
+seq 1378: no response (timeout)
+seq 1381: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  298.577 ms
+seq 1382: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  585.659 ms
+seq 1383: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  218.059 ms
+seq 1384: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  203.222 ms
+seq 1385: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  220.985 ms
+seq 1386: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  120.235 ms
+seq 1387: no response (timeout)
+seq 1390: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  109.667 ms
+seq 1388: no response (timeout)
+seq 1389: no response (timeout)
+seq 1393: tcp response from planetlab2.csee.usf.edu (131.247.2.242) [open]  147.918 ms

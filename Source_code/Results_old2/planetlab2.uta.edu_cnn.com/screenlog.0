@@ -1,0 +1,5 @@
+PING cnn.com (157.166.226.26) 56(84) bytes of data.
+
+--- cnn.com ping statistics ---
+3600 packets transmitted, 0 received, 100% packet loss, time 3599149ms
+

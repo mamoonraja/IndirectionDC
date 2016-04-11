@@ -1,0 +1,8 @@
+type,node,server,direct_path,node_to_dc,DC_to_server,stretch
+IndirectionDC,planetlab3.rutgers.edu,newegg.com,0.674,38.7427691331,16.2614043506,81.6085659996
+IndirectionDC,planetlab3.eecs.umich.edu,google.co.jp,0.601,22.7278739981,15.8319961929,64.1595177887
+IndirectionDC,planetlab3.eecs.umich.edu,doubleclick.net,0.559,22.7278739981,15.9967245223,69.2747737395
+IndirectionDC,planetlab2.uta.edu,popads.net,1.204,27.509307227,35.0907461783,51.9933998383
+IndirectionDC,planetlab2.uta.edu,newegg.com,0.916,27.509307227,16.2614043506,47.7846196262
+IndirectionDC,planetlab2.utdallas.edu,popads.net,0.842,11.202964055,29.9393475336,48.8626028368
+IndirectionDC,planetlab2.utdallas.edu,weather.com,0.834,11.202964055,23.4801692219,41.5864907397
