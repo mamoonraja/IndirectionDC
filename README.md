@@ -1,16 +1,21 @@
-# Indirection
-Source files contains scripts we will use for measurement study for the project,overhead of using Data centers as indirection point. 
-Scripts are not final yet. 
+# Indirection,
 
-fetch_node_list.py  used to get required node from dpip-city dataset
-Ping_experiments.py modules to run different kind of ping experiments defined here
-fetch_results.py    to fetch results of ping experiments
-helpers.py   has helper functions used in the process of running experiments
-runall.py    will run different experiments
+Below is the file structure for now, More details inside directories and modules
 
-//still need to be updated based on results, not final
-udp_send.py  will send packet directly to destination and also to nearest datacenter, discovery of neearest data center is automated now.
-udp_rec.py   will listen on specified port and log entries
-udp_dc.py    will act as indirection point # change logging method here, 
+./
+---Source_core/ 		  Main codes to run experiments and get results and parse them reside here
+------main.py 			  runs different experiments defined by command line arguments
+------Ping_experiments.py modules to run different kind of ping experiments defined here
+------fetch_results.py    to fetch results of ping experiments and plot cdfs
+------helpers.py          has helper functions used in the process of running experiments
+------batch_ping.py       usually ran at remote host, and run pings to servers in input file
 
-//next step: one big experiment to latency benefits using approx 200 nodes, using zmap or king 
+---data_files/          Data files to be used in different experiments are generated here
+------ip_to_city.py 	module used to get location for IP address
+------parse_links.py    Parser for iplane
+------test_pings.py     module used to test different kind of pings and ssh
+
+---misc/  
+------top1m.csv        contains top 1m servers list by alexa
+
+---Experments/         Contains results and plots for different experiments

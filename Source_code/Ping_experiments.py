@@ -15,8 +15,8 @@ class Pinger(object):
 		f=open(fname,'r')
 		for node in f:
 			print node
-			self.plab.do_ssh(node.split(',')[0].strip('\n\r'),'sudo apt-get install '+toinstall)
-			self.plab.do_ssh(node.split(',')[0].strip('\n\r'),'sudo yum install '+toinstall)
+#			self.plab.do_ssh(node.split(',')[0].strip('\n\r'),'sudo apt-get install '+toinstall) #automate this, decide ase on os			
+			self.plab.do_ssh(node.split(',')[0].strip('\n\r'),'sudo yum update ; sudo yum  -y -t --nogpgcheck install '+toinstall)
 
 	def get_files(self,direc,expnum,copyto,f1,f2):
 		self.dcs.copy_from(direc,expnum,open(f1,'r'),copyto)

@@ -1,0 +1,45 @@
+PING planetlab3.eecs.umich.edu (141.212.113.178) 56(84) bytes of data.
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=1 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=2 ttl=55 time=22.1 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=3 ttl=55 time=22.1 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=4 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=5 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=6 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=7 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=8 ttl=55 time=22.4 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=9 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=10 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=11 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=12 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=13 ttl=55 time=22.1 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=14 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=15 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=16 ttl=55 time=22.1 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=17 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=18 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=19 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=20 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=21 ttl=55 time=22.1 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=22 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=23 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=24 ttl=55 time=22.1 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=25 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=26 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=27 ttl=55 time=22.1 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=28 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=29 ttl=55 time=22.1 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=30 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=31 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=32 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=33 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=34 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=35 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=36 ttl=55 time=22.3 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=37 ttl=55 time=22.0 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=38 ttl=55 time=22.2 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=39 ttl=55 time=22.4 ms
+64 bytes from planetlab3.eecs.umich.edu (141.212.113.178): icmp_seq=40 ttl=55 time=22.3 ms
+
+--- planetlab3.eecs.umich.edu ping statistics ---
+3600 packets transmitted, 40 received, 98% packet loss, time 3600477ms
+rtt min/avg/max/mdev = 22.025/22.265/22.474/0.172 ms

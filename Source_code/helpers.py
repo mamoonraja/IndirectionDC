@@ -57,11 +57,12 @@ class Helpers(object): # Helper
 	def installer(self,node_file):
 		for node in node_file:
 			print node
-			self.do_ssh(node.split(',')[0],'mkdir Mamoon')
-			self.do_scp(node.split(',')[0],'install_libraries','~/Mamoon/')
-			self.do_ssh(node.split(',')[0],'chmod 755 ~/Mamoon/install_libraries')
-			self.do_ssh(node.split(',')[0],'~/Mamoon/install_libraries')
+			node=node.split(',')[0].strip('\n\r')
+			self.do_ssh(node,'mkdir Mamoon')
+			self.do_scp(node,'install_libraries','~/Mamoon/')
+			self.do_ssh(node,'chmod 755 ~/Mamoon/install_libraries')
+			self.do_ssh(node,'~/Mamoon/install_libraries')
 
 	def copy_from(self,direc,expnum,f_disc,copyto):
 		for node in f_disc:
-			self.get_scp(node.split(',')[0],direc+str(expnum)+'/*',copyto)
+			self.get_scp(node.split(',')[0].strip('\n\r'),direc+str(expnum)+'/*',copyto)

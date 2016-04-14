@@ -1,0 +1,5 @@
+PING planetlab1.cs.uoregon.edu (128.223.8.111) 56(84) bytes of data.
+
+--- planetlab1.cs.uoregon.edu ping statistics ---
+3600 packets transmitted, 0 received, 100% packet loss, time 3601065ms
+

@@ -1,0 +1,2 @@
+type,node,server,direct_path,node_to_dc,DC_to_server,stretch
+IndirectionDC,planetlab3.eecs.umich.edu,planetlab2.emich.edu,1.061,21.151774993,21.4281709354,40.1319000268
