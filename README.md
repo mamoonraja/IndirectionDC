@@ -1,4 +1,4 @@
-# Indirection,
+# Using Datacenter as Indirection point in mobility scenario  
 
 How to make it work:
 - to run experiments run 'python main.py 1 exptype expnum'
@@ -6,7 +6,7 @@ How to make it work:
 - to parse results run 'python main.py 2 exptype expnum'
 
 
-Below is the file structure for now, More details inside directories and modules.  
+Below is the file structure for project, More details inside directories and modules.  
 
 ./
 README.md
