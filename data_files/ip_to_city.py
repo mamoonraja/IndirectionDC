@@ -1,9 +1,13 @@
 import geoip2.database
 import socket
 
+'''
+   used to conevrt IP to location
+'''
+db_file='GeoLite_db_file/GeoLite2-City.mmdb'
 class IP_to_Loc(object):
-	def get_ip_to_city(self,ip): # for eery ip returns city name if city is in US, None if not in US or can not resole ip to city
-		reader = geoip2.database.Reader('GeoLite2-City.mmdb')
+	def get_ip_to_city(self,ip): # for any ip returns city name if city is in US, None if not in US or can not resole ip to city
+		reader = geoip2.database.Reader(db_file)
 		try:
 			response = reader.city(ip)
 		except:
@@ -15,23 +19,26 @@ class IP_to_Loc(object):
 		else:
 			return None
 
-	def in_US(self,webadr): # takes hostname, converts to ip and return True if in US
-		try:
-			addr = socket.gethostbyname(webadr)
-		except:
-			return False
-		reader = geoip2.database.Reader('GeoLite2-City.mmdb')
-		try:
-			response = reader.city(addr)
-		except:
+	def in_US(self,webadr,Flag): # takes hostname, converts to ip and return True if in US, if flag is false no need to check for US
+		if Flag:
+			try:
+				addr = socket.gethostbyname(webadr)
+			except:
+				return False
+			reader = geoip2.database.Reader(db_file)
+			try:
+				response = reader.city(addr)
+			except:
+				reader.close()
+				return False
 			reader.close()
-			return False
-		reader.close()
-		print response.country.name		
-		if response.country.name == 'United States':
-			return True
+			print response.country.name		
+			if response.country.name == 'United States':
+				return True
+			else:
+				return False
 		else:
-			return False
+			return True
 
 	def test_get_city(self,testfile): # testing ip_to_city
 		f=open(testfile,'r')

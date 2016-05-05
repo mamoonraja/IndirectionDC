@@ -1,0 +1,2698 @@
+seq 0: tcp response from 103.25.22.169 [open]  212.173 ms
+seq 1: tcp response from 103.25.22.169 [open]  196.863 ms
+seq 2: tcp response from 103.25.22.168 [open]  178.021 ms
+seq 3: tcp response from 103.25.22.168 [open]  172.868 ms
+seq 4: tcp response from 103.25.22.168 [open]  172.766 ms
+seq 5: tcp response from 103.25.22.169 [open]  279.448 ms
+seq 6: tcp response from 103.25.22.169 [open]  281.168 ms
+seq 7: tcp response from 103.25.22.168 [open]  178.084 ms
+seq 10: tcp response from 103.25.22.168 [open]  172.769 ms
+seq 11: tcp response from 103.25.22.169 [open]  258.239 ms
+seq 9: no response (timeout)
+seq 8: no response (timeout)
+seq 12: tcp response from 103.25.22.169 [open]  1669.052 ms
+seq 13: tcp response from 103.25.22.168 [open]  181.465 ms
+seq 14: tcp response from 103.25.22.169 [open]  258.675 ms
+seq 16: tcp response from 103.25.22.168 [open]  171.744 ms
+seq 15: no response (timeout)
+seq 18: tcp response from 103.25.22.168 [open]  177.278 ms
+seq 17: tcp response from 103.25.22.169 [open]  1507.834 ms
+seq 19: tcp response from 103.25.22.168 [open]  178.361 ms
+seq 20: tcp response from 103.25.22.168 [open]  173.076 ms
+seq 21: tcp response from 103.25.22.168 [open]  176.481 ms
+seq 23: tcp response from 103.25.22.168 [open]  180.191 ms
+seq 22: tcp response from 103.25.22.169 [open]  277.211 ms
+seq 24: tcp response from 103.25.22.169 [open]  287.760 ms
+seq 25: tcp response from 103.25.22.168 [open]  172.246 ms
+seq 27: tcp response from 103.25.22.169 [open]  267.730 ms
+seq 28: tcp response from 103.25.22.169 [open]  260.299 ms
+seq 29: tcp response from 103.25.22.168 [open]  176.903 ms
+seq 26: no response (timeout)
+seq 30: tcp response from 103.25.22.168 [open]  171.798 ms
+seq 31: tcp response from 103.25.22.169 [open]  411.957 ms
+seq 32: tcp response from 103.25.22.169 [open]  418.369 ms
+seq 33: tcp response from 103.25.22.168 [open]  179.184 ms
+seq 35: tcp response from 103.25.22.168 [open]  177.769 ms
+seq 36: tcp response from 103.25.22.168 [open]  178.258 ms
+seq 37: tcp response from 103.25.22.168 [open]  170.374 ms
+seq 34: no response (timeout)
+seq 38: tcp response from 103.25.22.168 [open]  175.756 ms
+seq 40: tcp response from 103.25.22.169 [open]  199.320 ms
+seq 39: no response (timeout)
+seq 41: tcp response from 103.25.22.169 [open]  1586.829 ms
+seq 42: tcp response from 103.25.22.169 [open]  203.455 ms
+seq 44: tcp response from 103.25.22.168 [open]  176.878 ms
+seq 43: no response (timeout)
+seq 46: tcp response from 103.25.22.168 [open]  175.689 ms
+seq 45: no response (timeout)
+seq 49: tcp response from 103.25.22.169 [open]  197.855 ms
+seq 50: tcp response from 103.25.22.169 [open]  423.802 ms
+seq 48: no response (timeout)
+seq 52: tcp response from 103.25.22.168 [open]  178.095 ms
+seq 51: tcp response from 103.25.22.168 [open]  178.215 ms
+seq 47: no response (timeout)
+seq 53: tcp response from 103.25.22.168 [open]  172.392 ms
+seq 54: tcp response from 103.25.22.168 [open]  177.787 ms
+seq 55: tcp response from 103.25.22.169 [open]  201.854 ms
+seq 56: tcp response from 103.25.22.169 [open]  208.683 ms
+seq 58: tcp response from 103.25.22.168 [open]  179.859 ms
+seq 59: tcp response from 103.25.22.168 [open]  172.436 ms
+seq 57: tcp response from 103.25.22.169 [open]  197.917 ms
+seq 61: tcp response from 103.25.22.168 [open]  172.061 ms
+seq 62: tcp response from 103.25.22.169 [open]  201.007 ms
+seq 60: no response (timeout)
+seq 64: tcp response from 103.25.22.168 [open]  179.433 ms
+seq 65: tcp response from 103.25.22.169 [open]  216.978 ms
+seq 63: no response (timeout)
+seq 66: tcp response from 103.25.22.169 [open]  1550.192 ms
+seq 67: tcp response from 103.25.22.168 [open]  178.257 ms
+seq 69: tcp response from 103.25.22.169 [open]  203.378 ms
+seq 70: tcp response from 103.25.22.168 [open]  172.789 ms
+seq 68: no response (timeout)
+seq 73: tcp response from 103.25.22.169 [open]  239.330 ms
+seq 71: no response (timeout)
+seq 72: no response (timeout)
+seq 74: tcp response from 103.25.22.168 [open]  177.644 ms
+seq 75: tcp response from 103.25.22.168 [open]  171.634 ms
+seq 78: tcp response from 103.25.22.168 [open]  172.523 ms
+seq 76: no response (timeout)
+seq 79: tcp response from 103.25.22.169 [open]  198.688 ms
+seq 80: tcp response from 103.25.22.169 [open]  202.763 ms
+seq 81: tcp response from 103.25.22.168 [open]  177.273 ms
+seq 77: no response (timeout)
+seq 84: tcp response from 103.25.22.169 [open]  203.800 ms
+seq 82: no response (timeout)
+seq 85: tcp response from 103.25.22.168 [open]  177.235 ms
+seq 83: no response (timeout)
+seq 86: tcp response from 103.25.22.168 [open]  171.566 ms
+seq 87: tcp response from 103.25.22.169 [open]  197.631 ms
+seq 90: tcp response from 103.25.22.168 [open]  170.675 ms
+seq 89: tcp response from 103.25.22.168 [open]  177.668 ms
+seq 88: no response (timeout)
+seq 91: tcp response from 103.25.22.168 [open]  173.105 ms
+seq 92: tcp response from 103.25.22.168 [open]  177.142 ms
+seq 93: tcp response from 103.25.22.169 [open]  200.180 ms
+seq 94: tcp response from 103.25.22.168 [open]  176.344 ms
+seq 95: tcp response from 103.25.22.169 [open]  196.177 ms
+seq 97: tcp response from 103.25.22.168 [open]  170.780 ms
+seq 98: tcp response from 103.25.22.168 [open]  171.814 ms
+seq 96: no response (timeout)
+seq 101: tcp response from 103.25.22.168 [open]  172.550 ms
+seq 99: no response (timeout)
+seq 100: no response (timeout)
+seq 102: tcp response from 103.25.22.169 [open]  197.146 ms
+seq 104: tcp response from 103.25.22.169 [open]  428.429 ms
+seq 105: tcp response from 103.25.22.169 [open]  193.461 ms
+seq 106: tcp response from 103.25.22.168 [open]  177.841 ms
+seq 103: no response (timeout)
+seq 107: tcp response from 103.25.22.168 [open]  171.700 ms
+seq 108: tcp response from 103.25.22.168 [open]  170.982 ms
+seq 109: tcp response from 103.25.22.169 [open]  415.383 ms
+seq 110: tcp response from 103.25.22.169 [open]  200.554 ms
+seq 112: tcp response from 103.25.22.169 [open]  413.650 ms
+seq 113: tcp response from 103.25.22.169 [open]  201.278 ms
+seq 114: tcp response from 103.25.22.168 [open]  176.209 ms
+seq 111: no response (timeout)
+seq 116: tcp response from 103.25.22.168 [open]  177.323 ms
+seq 115: tcp response from 103.25.22.168 [open]  177.360 ms
+seq 117: tcp response from 103.25.22.169 [open]  199.206 ms
+seq 118: tcp response from 103.25.22.169 [open]  201.107 ms
+seq 119: tcp response from 103.25.22.168 [open]  178.029 ms
+seq 120: tcp response from 103.25.22.169 [open]  203.707 ms
+seq 121: tcp response from 103.25.22.169 [open]  196.495 ms
+seq 122: tcp response from 103.25.22.168 [open]  170.825 ms
+seq 124: tcp response from 103.25.22.168 [open]  170.962 ms
+seq 125: tcp response from 103.25.22.169 [open]  434.115 ms
+seq 123: no response (timeout)
+seq 126: tcp response from 103.25.22.168 [open]  177.667 ms
+seq 128: tcp response from 103.25.22.168 [open]  176.759 ms
+seq 129: tcp response from 103.25.22.168 [open]  175.484 ms
+seq 127: no response (timeout)
+seq 132: tcp response from 103.25.22.169 [open]  198.730 ms
+seq 130: tcp response from 103.25.22.169 [open]  194.076 ms
+seq 133: tcp response from 103.25.22.168 [open]  173.517 ms
+seq 131: tcp response from 103.25.22.169 [open]  198.822 ms
+seq 135: tcp response from 103.25.22.168 [open]  170.074 ms
+seq 134: tcp response from 103.25.22.168 [open]  171.080 ms
+seq 136: tcp response from 103.25.22.168 [open]  178.851 ms
+seq 137: tcp response from 103.25.22.169 [open]  198.765 ms
+seq 138: tcp response from 103.25.22.168 [open]  177.734 ms
+seq 139: tcp response from 103.25.22.168 [open]  175.856 ms
+seq 140: tcp response from 103.25.22.169 [open]  199.335 ms
+seq 141: tcp response from 103.25.22.169 [open]  426.263 ms
+seq 142: tcp response from 103.25.22.168 [open]  250.668 ms
+seq 143: tcp response from 103.25.22.168 [open]  172.528 ms
+seq 144: tcp response from 103.25.22.168 [open]  173.919 ms
+seq 145: tcp response from 103.25.22.169 [open]  227.208 ms
+seq 146: tcp response from 103.25.22.169 [open]  197.121 ms
+seq 147: tcp response from 103.25.22.169 [open]  437.395 ms
+seq 148: tcp response from 103.25.22.169 [open]  194.766 ms
+seq 149: tcp response from 103.25.22.168 [open]  172.200 ms
+seq 151: tcp response from 103.25.22.169 [open]  426.897 ms
+seq 150: no response (timeout)
+seq 154: tcp response from 103.25.22.168 [open]  172.156 ms
+seq 155: tcp response from 103.25.22.168 [open]  171.533 ms
+seq 153: tcp response from 103.25.22.168 [open]  176.574 ms
+seq 152: no response (timeout)
+seq 157: tcp response from 103.25.22.169 [open]  250.074 ms
+seq 158: tcp response from 103.25.22.168 [open]  172.602 ms
+seq 156: tcp response from 103.25.22.169 [open]  203.141 ms
+seq 161: tcp response from 103.25.22.168 [open]  177.369 ms
+seq 159: no response (timeout)
+seq 162: tcp response from 103.25.22.169 [open]  195.634 ms
+seq 163: tcp response from 103.25.22.168 [open]  178.291 ms
+seq 160: no response (timeout)
+seq 165: tcp response from 103.25.22.169 [open]  195.660 ms
+seq 164: tcp response from 103.25.22.169 [open]  198.341 ms
+seq 166: tcp response from 103.25.22.168 [open]  170.952 ms
+seq 167: tcp response from 103.25.22.168 [open]  170.643 ms
+seq 169: tcp response from 103.25.22.169 [open]  442.296 ms
+seq 168: tcp response from 103.25.22.168 [open]  172.344 ms
+seq 170: tcp response from 103.25.22.169 [open]  201.388 ms
+seq 171: tcp response from 103.25.22.168 [open]  176.141 ms
+seq 172: tcp response from 103.25.22.169 [open]  197.475 ms
+seq 173: tcp response from 103.25.22.168 [open]  177.888 ms
+seq 174: tcp response from 103.25.22.168 [open]  170.116 ms
+seq 176: tcp response from 103.25.22.168 [open]  171.029 ms
+seq 177: tcp response from 103.25.22.168 [open]  171.658 ms
+seq 175: no response (timeout)
+seq 178: tcp response from 103.25.22.169 [open]  195.767 ms
+seq 179: tcp response from 103.25.22.168 [open]  171.486 ms
+seq 180: tcp response from 103.25.22.168 [open]  172.093 ms
+seq 181: tcp response from 103.25.22.169 [open]  198.881 ms
+seq 183: tcp response from 103.25.22.169 [open]  195.057 ms
+seq 184: tcp response from 103.25.22.168 [open]  171.985 ms
+seq 185: tcp response from 103.25.22.168 [open]  170.487 ms
+seq 182: tcp response from 103.25.22.169 [open]  469.175 ms
+seq 187: tcp response from 103.25.22.169 [open]  195.711 ms
+seq 188: tcp response from 103.25.22.168 [open]  171.398 ms
+seq 186: no response (timeout)
+seq 190: tcp response from 103.25.22.168 [open]  172.270 ms
+seq 191: tcp response from 103.25.22.168 [open]  171.494 ms
+seq 189: no response (timeout)
+seq 194: tcp response from 103.25.22.168 [open]  171.884 ms
+seq 195: tcp response from 103.25.22.168 [open]  172.828 ms
+seq 192: no response (timeout)
+seq 193: no response (timeout)
+seq 197: tcp response from 103.25.22.169 [open]  197.793 ms
+seq 198: tcp response from 103.25.22.168 [open]  170.000 ms
+seq 196: no response (timeout)
+seq 200: tcp response from 103.25.22.169 [open]  201.659 ms
+seq 201: tcp response from 103.25.22.169 [open]  430.662 ms
+seq 199: no response (timeout)
+seq 202: tcp response from 103.25.22.168 [open]  171.585 ms
+seq 203: tcp response from 103.25.22.168 [open]  172.305 ms
+seq 204: tcp response from 103.25.22.168 [open]  173.982 ms
+seq 205: tcp response from 103.25.22.169 [open]  198.160 ms
+seq 206: tcp response from 103.25.22.168 [open]  172.570 ms
+seq 207: tcp response from 103.25.22.169 [open]  201.917 ms
+seq 209: tcp response from 103.25.22.168 [open]  172.044 ms
+seq 208: tcp response from 103.25.22.168 [open]  178.870 ms
+seq 210: tcp response from 103.25.22.169 [open]  197.866 ms
+seq 211: tcp response from 103.25.22.169 [open]  203.277 ms
+seq 212: tcp response from 103.25.22.169 [open]  198.817 ms
+seq 213: tcp response from 103.25.22.169 [open]  198.915 ms
+seq 214: tcp response from 103.25.22.169 [open]  196.858 ms
+seq 215: tcp response from 103.25.22.168 [open]  173.214 ms
+seq 216: tcp response from 103.25.22.168 [open]  170.817 ms
+seq 218: tcp response from 103.25.22.168 [open]  171.984 ms
+seq 219: tcp response from 103.25.22.168 [open]  171.389 ms
+seq 217: tcp response from 103.25.22.168 [open]  173.295 ms
+seq 220: tcp response from 103.25.22.168 [open]  170.490 ms
+seq 222: tcp response from 103.25.22.169 [open]  193.182 ms
+seq 221: tcp response from 103.25.22.169 [open]  419.454 ms
+seq 223: tcp response from 103.25.22.168 [open]  170.567 ms
+seq 224: tcp response from 103.25.22.169 [open]  198.258 ms
+seq 226: tcp response from 103.25.22.169 [open]  199.277 ms
+seq 227: tcp response from 103.25.22.168 [open]  173.588 ms
+seq 225: tcp response from 103.25.22.168 [open]  172.086 ms
+seq 228: tcp response from 103.25.22.168 [open]  172.695 ms
+seq 229: tcp response from 103.25.22.168 [open]  172.501 ms
+seq 232: tcp response from 103.25.22.169 [open]  196.521 ms
+seq 233: tcp response from 103.25.22.169 [open]  440.515 ms
+seq 231: tcp response from 103.25.22.168 [open]  171.679 ms
+seq 234: tcp response from 103.25.22.169 [open]  194.582 ms
+seq 235: tcp response from 103.25.22.168 [open]  170.036 ms
+seq 238: tcp response from 103.25.22.169 [open]  196.606 ms
+seq 237: tcp response from 103.25.22.169 [open]  424.723 ms
+seq 230: tcp response from 103.25.22.169 [open]  197.846 ms
+seq 239: tcp response from 103.25.22.168 [open]  186.087 ms
+seq 240: tcp response from 103.25.22.168 [open]  170.338 ms
+seq 236: no response (timeout)
+seq 241: tcp response from 103.25.22.168 [open]  171.584 ms
+seq 243: tcp response from 103.25.22.168 [open]  170.266 ms
+seq 244: tcp response from 103.25.22.168 [open]  172.663 ms
+seq 242: no response (timeout)
+seq 246: tcp response from 103.25.22.169 [open]  198.778 ms
+seq 245: no response (timeout)
+seq 248: tcp response from 103.25.22.168 [open]  172.076 ms
+seq 247: no response (timeout)
+seq 249: tcp response from 103.25.22.168 [open]  171.610 ms
+seq 250: tcp response from 103.25.22.169 [open]  199.874 ms
+seq 252: tcp response from 103.25.22.168 [open]  171.095 ms
+seq 251: tcp response from 103.25.22.168 [open]  172.406 ms
+seq 253: tcp response from 103.25.22.169 [open]  200.039 ms
+seq 254: tcp response from 103.25.22.169 [open]  197.168 ms
+seq 255: tcp response from 103.25.22.169 [open]  197.652 ms
+seq 256: tcp response from 103.25.22.168 [open]  170.040 ms
+seq 257: tcp response from 103.25.22.168 [open]  171.196 ms
+seq 258: tcp response from 103.25.22.168 [open]  171.646 ms
+seq 259: tcp response from 103.25.22.168 [open]  172.746 ms
+seq 260: tcp response from 103.25.22.168 [open]  171.501 ms
+seq 261: tcp response from 103.25.22.169 [open]  195.586 ms
+seq 262: tcp response from 103.25.22.169 [open]  195.414 ms
+seq 263: tcp response from 103.25.22.169 [open]  440.248 ms
+seq 264: tcp response from 103.25.22.168 [open]  172.404 ms
+seq 265: tcp response from 103.25.22.168 [open]  171.950 ms
+seq 266: tcp response from 103.25.22.169 [open]  197.714 ms
+seq 267: tcp response from 103.25.22.168 [open]  173.189 ms
+seq 269: tcp response from 103.25.22.168 [open]  172.083 ms
+seq 268: tcp response from 103.25.22.168 [open]  172.508 ms
+seq 270: tcp response from 103.25.22.169 [open]  197.363 ms
+seq 271: tcp response from 103.25.22.168 [open]  170.528 ms
+seq 273: tcp response from 103.25.22.168 [open]  172.108 ms
+seq 274: tcp response from 103.25.22.169 [open]  197.243 ms
+seq 272: tcp response from 103.25.22.168 [open]  172.643 ms
+seq 275: tcp response from 103.25.22.168 [open]  170.805 ms
+seq 276: tcp response from 103.25.22.169 [open]  195.966 ms
+seq 277: tcp response from 103.25.22.168 [open]  172.522 ms
+seq 278: tcp response from 103.25.22.169 [open]  199.187 ms
+seq 282: tcp response from 103.25.22.168 [open]  171.425 ms
+seq 283: tcp response from 103.25.22.169 [open]  198.183 ms
+seq 280: tcp response from 103.25.22.168 [open]  224.700 ms
+seq 281: tcp response from 103.25.22.168 [open]  170.470 ms
+seq 279: tcp response from 103.25.22.169 [open]  197.478 ms
+seq 284: tcp response from 103.25.22.168 [open]  172.359 ms
+seq 287: tcp response from 103.25.22.168 [open]  170.697 ms
+seq 285: tcp response from 103.25.22.169 [open]  446.895 ms
+seq 288: tcp response from 103.25.22.169 [open]  198.163 ms
+seq 286: tcp response from 103.25.22.169 [open]  199.020 ms
+seq 290: tcp response from 103.25.22.169 [open]  435.201 ms
+seq 291: tcp response from 103.25.22.169 [open]  213.662 ms
+seq 289: no response (timeout)
+seq 293: tcp response from 103.25.22.168 [open]  172.511 ms
+seq 294: tcp response from 103.25.22.168 [open]  171.247 ms
+seq 292: no response (timeout)
+seq 295: tcp response from 103.25.22.168 [open]  170.784 ms
+seq 296: tcp response from 103.25.22.168 [open]  172.377 ms
+seq 297: tcp response from 103.25.22.168 [open]  171.858 ms
+seq 298: tcp response from 103.25.22.169 [open]  199.702 ms
+seq 300: tcp response from 103.25.22.169 [open]  210.176 ms
+seq 301: tcp response from 103.25.22.169 [open]  223.743 ms
+seq 302: tcp response from 103.25.22.168 [open]  172.009 ms
+seq 299: tcp response from 103.25.22.169 [open]  224.374 ms
+seq 304: tcp response from 103.25.22.168 [open]  170.252 ms
+seq 305: tcp response from 103.25.22.168 [open]  172.188 ms
+seq 306: tcp response from 103.25.22.168 [open]  172.284 ms
+seq 303: tcp response from 103.25.22.168 [open]  169.970 ms
+seq 308: tcp response from 103.25.22.169 [open]  442.952 ms
+seq 307: tcp response from 103.25.22.168 [open]  171.508 ms
+seq 309: tcp response from 103.25.22.169 [open]  240.977 ms
+seq 310: tcp response from 103.25.22.169 [open]  217.317 ms
+seq 311: tcp response from 103.25.22.168 [open]  172.565 ms
+seq 313: tcp response from 103.25.22.169 [open]  200.327 ms
+seq 314: tcp response from 103.25.22.168 [open]  171.356 ms
+seq 312: tcp response from 103.25.22.168 [open]  170.524 ms
+seq 315: tcp response from 103.25.22.169 [open]  198.407 ms
+seq 316: tcp response from 103.25.22.168 [open]  172.364 ms
+seq 318: tcp response from 103.25.22.168 [open]  171.718 ms
+seq 319: tcp response from 103.25.22.168 [open]  171.914 ms
+seq 317: no response (timeout)
+seq 322: tcp response from 103.25.22.168 [open]  170.272 ms
+seq 320: no response (timeout)
+seq 321: no response (timeout)
+seq 323: tcp response from 103.25.22.168 [open]  172.224 ms
+seq 324: tcp response from 103.25.22.168 [open]  171.949 ms
+seq 325: tcp response from 103.25.22.168 [open]  172.122 ms
+seq 327: tcp response from 103.25.22.169 [open]  250.759 ms
+seq 328: tcp response from 103.25.22.169 [open]  198.619 ms
+seq 326: no response (timeout)
+seq 331: tcp response from 103.25.22.169 [open]  199.630 ms
+seq 329: no response (timeout)
+seq 332: tcp response from 103.25.22.168 [open]  169.966 ms
+seq 330: tcp response from 103.25.22.168 [open]  170.636 ms
+seq 333: tcp response from 103.25.22.168 [open]  171.669 ms
+seq 334: tcp response from 103.25.22.168 [open]  170.159 ms
+seq 335: tcp response from 103.25.22.168 [open]  170.678 ms
+seq 337: tcp response from 103.25.22.168 [open]  171.919 ms
+seq 338: tcp response from 103.25.22.168 [open]  172.031 ms
+seq 339: tcp response from 103.25.22.169 [open]  200.378 ms
+seq 336: no response (timeout)
+seq 341: tcp response from 103.25.22.168 [open]  172.043 ms
+seq 342: tcp response from 103.25.22.168 [open]  170.406 ms
+seq 340: no response (timeout)
+seq 345: tcp response from 103.25.22.168 [open]  178.073 ms
+seq 343: no response (timeout)
+seq 344: no response (timeout)
+seq 347: tcp response from 103.25.22.168 [open]  181.173 ms
+seq 346: no response (timeout)
+seq 349: tcp response from 103.25.22.168 [open]  172.106 ms
+seq 350: tcp response from 103.25.22.168 [open]  172.600 ms
+seq 348: tcp response from 103.25.22.168 [open]  170.044 ms
+seq 351: tcp response from 103.25.22.169 [open]  197.933 ms
+seq 352: tcp response from 103.25.22.168 [open]  171.502 ms
+seq 353: tcp response from 103.25.22.168 [open]  172.347 ms
+seq 354: tcp response from 103.25.22.169 [open]  197.822 ms
+seq 355: tcp response from 103.25.22.169 [open]  197.677 ms
+seq 356: tcp response from 103.25.22.169 [open]  410.573 ms
+seq 357: tcp response from 103.25.22.168 [open]  172.246 ms
+seq 358: tcp response from 103.25.22.169 [open]  197.738 ms
+seq 359: tcp response from 103.25.22.169 [open]  196.744 ms
+seq 360: tcp response from 103.25.22.169 [open]  198.978 ms
+seq 361: tcp response from 103.25.22.168 [open]  171.291 ms
+seq 362: tcp response from 103.25.22.169 [open]  197.158 ms
+seq 363: tcp response from 103.25.22.168 [open]  172.499 ms
+seq 364: tcp response from 103.25.22.169 [open]  195.837 ms
+seq 365: tcp response from 103.25.22.169 [open]  198.853 ms
+seq 366: tcp response from 103.25.22.169 [open]  198.867 ms
+seq 367: tcp response from 103.25.22.169 [open]  432.365 ms
+seq 369: tcp response from 103.25.22.169 [open]  198.207 ms
+seq 368: tcp response from 103.25.22.168 [open]  172.330 ms
+seq 370: tcp response from 103.25.22.168 [open]  170.680 ms
+seq 371: tcp response from 103.25.22.169 [open]  201.747 ms
+seq 373: tcp response from 103.25.22.169 [open]  197.618 ms
+seq 372: tcp response from 103.25.22.169 [open]  197.231 ms
+seq 374: tcp response from 103.25.22.168 [open]  170.071 ms
+seq 375: tcp response from 103.25.22.168 [open]  171.649 ms
+seq 376: tcp response from 103.25.22.169 [open]  198.240 ms
+seq 377: tcp response from 103.25.22.168 [open]  170.476 ms
+seq 378: tcp response from 103.25.22.169 [open]  197.719 ms
+seq 379: tcp response from 103.25.22.168 [open]  172.208 ms
+seq 380: tcp response from 103.25.22.168 [open]  170.384 ms
+seq 381: tcp response from 103.25.22.168 [open]  171.588 ms
+seq 382: tcp response from 103.25.22.169 [open]  454.603 ms
+seq 384: tcp response from 103.25.22.168 [open]  172.281 ms
+seq 385: tcp response from 103.25.22.168 [open]  171.238 ms
+seq 383: no response (timeout)
+seq 386: tcp response from 103.25.22.168 [open]  172.057 ms
+seq 387: tcp response from 103.25.22.169 [open]  199.195 ms
+seq 388: tcp response from 103.25.22.168 [open]  174.422 ms
+seq 389: tcp response from 103.25.22.168 [open]  171.907 ms
+seq 390: tcp response from 103.25.22.169 [open]  197.747 ms
+seq 391: tcp response from 103.25.22.168 [open]  170.981 ms
+seq 392: tcp response from 103.25.22.169 [open]  197.524 ms
+seq 393: tcp response from 103.25.22.169 [open]  197.178 ms
+seq 395: tcp response from 103.25.22.169 [open]  198.336 ms
+seq 394: tcp response from 103.25.22.168 [open]  171.737 ms
+seq 396: tcp response from 103.25.22.169 [open]  196.430 ms
+seq 397: tcp response from 103.25.22.168 [open]  171.330 ms
+seq 398: tcp response from 103.25.22.168 [open]  172.718 ms
+seq 399: tcp response from 103.25.22.169 [open]  451.269 ms
+seq 400: tcp response from 103.25.22.169 [open]  201.380 ms
+seq 401: tcp response from 103.25.22.168 [open]  170.247 ms
+seq 402: tcp response from 103.25.22.169 [open]  197.867 ms
+seq 403: tcp response from 103.25.22.169 [open]  198.206 ms
+seq 405: tcp response from 103.25.22.169 [open]  197.692 ms
+seq 406: tcp response from 103.25.22.168 [open]  172.874 ms
+seq 404: no response (timeout)
+seq 408: tcp response from 103.25.22.169 [open]  196.912 ms
+seq 410: tcp response from 103.25.22.168 [open]  172.193 ms
+seq 409: tcp response from 103.25.22.168 [open]  169.976 ms
+seq 407: no response (timeout)
+seq 411: tcp response from 103.25.22.168 [open]  170.339 ms
+seq 412: tcp response from 103.25.22.168 [open]  171.969 ms
+seq 413: tcp response from 103.25.22.169 [open]  196.005 ms
+seq 414: tcp response from 103.25.22.168 [open]  171.841 ms
+seq 416: tcp response from 103.25.22.169 [open]  197.466 ms
+seq 415: no response (timeout)
+seq 418: tcp response from 103.25.22.168 [open]  172.004 ms
+seq 417: tcp response from 103.25.22.168 [open]  171.230 ms
+seq 419: tcp response from 103.25.22.169 [open]  198.130 ms
+seq 421: tcp response from 103.25.22.169 [open]  197.545 ms
+seq 420: tcp response from 103.25.22.169 [open]  1753.784 ms
+seq 422: tcp response from 103.25.22.169 [open]  518.097 ms
+seq 424: tcp response from 103.25.22.169 [open]  197.681 ms
+seq 426: tcp response from 103.25.22.169 [open]  196.374 ms
+seq 425: tcp response from 103.25.22.168 [open]  171.956 ms
+seq 423: tcp response from 103.25.22.168 [open]  171.637 ms
+seq 428: tcp response from 103.25.22.169 [open]  198.233 ms
+seq 427: tcp response from 103.25.22.168 [open]  171.140 ms
+seq 431: tcp response from 103.25.22.168 [open]  170.817 ms
+seq 429: no response (timeout)
+seq 432: tcp response from 103.25.22.169 [open]  197.477 ms
+seq 430: no response (timeout)
+seq 433: tcp response from 103.25.22.168 [open]  171.857 ms
+seq 435: tcp response from 103.25.22.168 [open]  171.666 ms
+seq 434: tcp response from 103.25.22.168 [open]  170.621 ms
+seq 436: tcp response from 103.25.22.168 [open]  171.973 ms
+seq 438: tcp response from 103.25.22.169 [open]  198.539 ms
+seq 439: tcp response from 103.25.22.169 [open]  453.208 ms
+seq 437: no response (timeout)
+seq 441: tcp response from 103.25.22.169 [open]  192.791 ms
+seq 442: tcp response from 103.25.22.168 [open]  171.963 ms
+seq 440: no response (timeout)
+seq 443: tcp response from 103.25.22.169 [open]  198.909 ms
+seq 444: tcp response from 103.25.22.168 [open]  172.317 ms
+seq 445: tcp response from 103.25.22.168 [open]  170.162 ms
+seq 447: tcp response from 103.25.22.169 [open]  197.369 ms
+seq 446: no response (timeout)
+seq 448: tcp response from 103.25.22.169 [open]  425.718 ms
+seq 451: tcp response from 103.25.22.168 [open]  170.225 ms
+seq 449: no response (timeout)
+seq 450: no response (timeout)
+seq 452: tcp response from 103.25.22.168 [open]  171.849 ms
+seq 453: tcp response from 103.25.22.168 [open]  170.450 ms
+seq 455: tcp response from 103.25.22.168 [open]  172.929 ms
+seq 454: tcp response from 103.25.22.169 [open]  197.818 ms
+seq 456: tcp response from 103.25.22.168 [open]  172.143 ms
+seq 457: tcp response from 103.25.22.168 [open]  170.708 ms
+seq 461: tcp response from 103.25.22.169 [open]  198.115 ms
+seq 459: tcp response from 103.25.22.169 [open]  196.547 ms
+seq 458: no response (timeout)
+seq 460: tcp response from 103.25.22.168 [open]  213.640 ms
+seq 462: tcp response from 103.25.22.168 [open]  173.289 ms
+seq 463: tcp response from 103.25.22.168 [open]  172.442 ms
+seq 465: tcp response from 103.25.22.168 [open]  170.099 ms
+seq 464: tcp response from 103.25.22.169 [open]  195.877 ms
+seq 466: tcp response from 103.25.22.168 [open]  171.310 ms
+seq 468: tcp response from 103.25.22.169 [open]  201.720 ms
+seq 469: tcp response from 103.25.22.169 [open]  448.821 ms
+seq 470: tcp response from 103.25.22.168 [open]  170.043 ms
+seq 467: tcp response from 103.25.22.169 [open]  196.084 ms
+seq 472: tcp response from 103.25.22.168 [open]  172.015 ms
+seq 473: tcp response from 103.25.22.168 [open]  172.091 ms
+seq 471: tcp response from 103.25.22.168 [open]  170.244 ms
+seq 475: tcp response from 103.25.22.169 [open]  198.097 ms
+seq 474: tcp response from 103.25.22.169 [open]  1429.695 ms
+seq 476: tcp response from 103.25.22.168 [open]  174.423 ms
+seq 478: tcp response from 103.25.22.168 [open]  170.202 ms
+seq 479: tcp response from 103.25.22.168 [open]  172.306 ms
+seq 480: tcp response from 103.25.22.169 [open]  198.056 ms
+seq 477: no response (timeout)
+seq 481: tcp response from 103.25.22.169 [open]  198.982 ms
+seq 483: tcp response from 103.25.22.169 [open]  198.871 ms
+seq 482: tcp response from 103.25.22.169 [open]  405.549 ms
+seq 485: tcp response from 103.25.22.168 [open]  170.115 ms
+seq 486: tcp response from 103.25.22.169 [open]  197.448 ms
+seq 484: no response (timeout)
+seq 487: tcp response from 103.25.22.168 [open]  172.207 ms
+seq 488: tcp response from 103.25.22.168 [open]  171.438 ms
+seq 489: tcp response from 103.25.22.168 [open]  172.334 ms
+seq 490: tcp response from 103.25.22.168 [open]  170.793 ms
+seq 491: tcp response from 103.25.22.168 [open]  170.501 ms
+seq 492: tcp response from 103.25.22.169 [open]  198.037 ms
+seq 493: tcp response from 103.25.22.168 [open]  172.341 ms
+seq 494: tcp response from 103.25.22.168 [open]  172.676 ms
+seq 495: tcp response from 103.25.22.169 [open]  197.987 ms
+seq 496: tcp response from 103.25.22.169 [open]  197.554 ms
+seq 497: tcp response from 103.25.22.169 [open]  197.378 ms
+seq 499: tcp response from 103.25.22.168 [open]  169.992 ms
+seq 500: tcp response from 103.25.22.168 [open]  172.121 ms
+seq 501: tcp response from 103.25.22.168 [open]  171.009 ms
+seq 498: no response (timeout)
+seq 503: tcp response from 103.25.22.169 [open]  196.319 ms
+seq 504: tcp response from 103.25.22.168 [open]  170.468 ms
+seq 502: tcp response from 103.25.22.169 [open]  197.832 ms
+seq 505: tcp response from 103.25.22.168 [open]  171.724 ms
+seq 506: tcp response from 103.25.22.169 [open]  198.140 ms
+seq 507: tcp response from 103.25.22.169 [open]  197.641 ms
+seq 508: tcp response from 103.25.22.169 [open]  198.030 ms
+seq 509: tcp response from 103.25.22.169 [open]  195.427 ms
+seq 510: tcp response from 103.25.22.168 [open]  172.088 ms
+seq 512: tcp response from 103.25.22.168 [open]  171.008 ms
+seq 513: tcp response from 103.25.22.168 [open]  170.626 ms
+seq 511: no response (timeout)
+seq 514: tcp response from 103.25.22.168 [open]  171.240 ms
+seq 515: tcp response from 103.25.22.169 [open]  1622.375 ms
+seq 516: tcp response from 103.25.22.169 [open]  199.890 ms
+seq 517: tcp response from 103.25.22.168 [open]  174.325 ms
+seq 519: tcp response from 103.25.22.168 [open]  170.406 ms
+seq 520: tcp response from 103.25.22.169 [open]  197.866 ms
+seq 518: no response (timeout)
+seq 521: tcp response from 103.25.22.169 [open]  195.835 ms
+seq 522: tcp response from 103.25.22.168 [open]  171.476 ms
+seq 523: tcp response from 103.25.22.169 [open]  195.933 ms
+seq 525: tcp response from 103.25.22.169 [open]  196.852 ms
+seq 524: tcp response from 103.25.22.169 [open]  1502.428 ms
+seq 526: tcp response from 103.25.22.168 [open]  170.969 ms
+seq 528: tcp response from 103.25.22.168 [open]  170.724 ms
+seq 529: tcp response from 103.25.22.169 [open]  197.311 ms
+seq 530: tcp response from 103.25.22.169 [open]  206.512 ms
+seq 532: tcp response from 103.25.22.169 [open]  197.886 ms
+seq 527: no response (timeout)
+seq 533: tcp response from 103.25.22.168 [open]  173.014 ms
+seq 531: no response (timeout)
+seq 534: tcp response from 103.25.22.168 [open]  170.313 ms
+seq 535: tcp response from 103.25.22.168 [open]  171.283 ms
+seq 536: tcp response from 103.25.22.168 [open]  172.685 ms
+seq 537: tcp response from 103.25.22.169 [open]  197.877 ms
+seq 538: tcp response from 103.25.22.168 [open]  170.357 ms
+seq 540: tcp response from 103.25.22.169 [open]  195.994 ms
+seq 539: tcp response from 103.25.22.169 [open]  423.198 ms
+seq 542: tcp response from 103.25.22.168 [open]  172.316 ms
+seq 541: no response (timeout)
+seq 544: tcp response from 103.25.22.169 [open]  197.359 ms
+seq 546: tcp response from 103.25.22.168 [open]  173.547 ms
+seq 547: tcp response from 103.25.22.168 [open]  170.427 ms
+seq 543: no response (timeout)
+seq 548: tcp response from 103.25.22.168 [open]  171.698 ms
+seq 545: tcp response from 103.25.22.169 [open]  195.702 ms
+seq 549: tcp response from 103.25.22.169 [open]  197.979 ms
+seq 550: tcp response from 103.25.22.168 [open]  172.668 ms
+seq 551: tcp response from 103.25.22.169 [open]  196.130 ms
+seq 552: tcp response from 103.25.22.168 [open]  171.004 ms
+seq 555: tcp response from 103.25.22.169 [open]  196.387 ms
+seq 554: tcp response from 103.25.22.169 [open]  197.058 ms
+seq 556: tcp response from 103.25.22.168 [open]  172.377 ms
+seq 553: no response (timeout)
+seq 557: tcp response from 103.25.22.168 [open]  171.032 ms
+seq 560: tcp response from 103.25.22.169 [open]  198.973 ms
+seq 559: no response (timeout)
+seq 562: tcp response from 103.25.22.169 [open]  197.542 ms
+seq 558: tcp response from 103.25.22.168 [open]  172.342 ms
+seq 564: tcp response from 103.25.22.168 [open]  170.606 ms
+seq 563: tcp response from 103.25.22.169 [open]  197.636 ms
+seq 561: no response (timeout)
+seq 565: tcp response from 103.25.22.168 [open]  170.074 ms
+seq 566: tcp response from 103.25.22.168 [open]  171.606 ms
+seq 567: tcp response from 103.25.22.169 [open]  195.998 ms
+seq 568: tcp response from 103.25.22.169 [open]  196.438 ms
+seq 569: tcp response from 103.25.22.168 [open]  172.111 ms
+seq 570: tcp response from 103.25.22.169 [open]  440.499 ms
+seq 572: tcp response from 103.25.22.168 [open]  172.082 ms
+seq 573: tcp response from 103.25.22.169 [open]  192.680 ms
+seq 574: tcp response from 103.25.22.169 [open]  197.214 ms
+seq 571: no response (timeout)
+seq 575: tcp response from 103.25.22.168 [open]  170.357 ms
+seq 576: tcp response from 103.25.22.168 [open]  171.587 ms
+seq 577: tcp response from 103.25.22.169 [open]  197.725 ms
+seq 579: tcp response from 103.25.22.169 [open]  427.576 ms
+seq 580: tcp response from 103.25.22.168 [open]  171.590 ms
+seq 578: tcp response from 103.25.22.169 [open]  239.229 ms
+seq 581: tcp response from 103.25.22.169 [open]  197.451 ms
+seq 582: tcp response from 103.25.22.168 [open]  172.242 ms
+seq 583: tcp response from 103.25.22.168 [open]  170.080 ms
+seq 584: tcp response from 103.25.22.168 [open]  170.862 ms
+seq 585: tcp response from 103.25.22.169 [open]  435.714 ms
+seq 586: tcp response from 103.25.22.168 [open]  170.460 ms
+seq 587: tcp response from 103.25.22.169 [open]  193.012 ms
+seq 588: tcp response from 103.25.22.169 [open]  204.589 ms
+seq 589: tcp response from 103.25.22.168 [open]  170.975 ms
+seq 590: tcp response from 103.25.22.169 [open]  200.182 ms
+seq 592: tcp response from 103.25.22.168 [open]  170.194 ms
+seq 593: tcp response from 103.25.22.169 [open]  240.361 ms
+seq 591: no response (timeout)
+seq 594: tcp response from 103.25.22.168 [open]  172.905 ms
+seq 595: tcp response from 103.25.22.168 [open]  171.068 ms
+seq 597: tcp response from 103.25.22.169 [open]  199.729 ms
+seq 596: no response (timeout)
+seq 600: tcp response from 103.25.22.168 [open]  171.546 ms
+seq 598: no response (timeout)
+seq 601: tcp response from 103.25.22.168 [open]  171.828 ms
+seq 602: tcp response from 103.25.22.168 [open]  342.783 ms
+seq 599: no response (timeout)
+seq 603: tcp response from 103.25.22.168 [open]  172.088 ms
+seq 605: tcp response from 103.25.22.168 [open]  171.234 ms
+seq 606: tcp response from 103.25.22.168 [open]  171.751 ms
+seq 604: no response (timeout)
+seq 608: tcp response from 103.25.22.168 [open]  172.185 ms
+seq 609: tcp response from 103.25.22.168 [open]  169.982 ms
+seq 607: no response (timeout)
+seq 611: tcp response from 103.25.22.169 [open]  196.573 ms
+seq 610: no response (timeout)
+seq 612: tcp response from 103.25.22.168 [open]  211.378 ms
+seq 614: tcp response from 103.25.22.168 [open]  171.286 ms
+seq 615: tcp response from 103.25.22.168 [open]  170.258 ms
+seq 613: no response (timeout)
+seq 617: tcp response from 103.25.22.169 [open]  197.856 ms
+seq 618: tcp response from 103.25.22.168 [open]  171.679 ms
+seq 616: tcp response from 103.25.22.168 [open]  172.910 ms
+seq 619: tcp response from 103.25.22.169 [open]  197.791 ms
+seq 620: tcp response from 103.25.22.168 [open]  171.970 ms
+seq 621: tcp response from 103.25.22.169 [open]  199.478 ms
+seq 622: tcp response from 103.25.22.169 [open]  215.113 ms
+seq 623: tcp response from 103.25.22.169 [open]  408.059 ms
+seq 625: tcp response from 103.25.22.169 [open]  197.841 ms
+seq 626: tcp response from 103.25.22.168 [open]  172.046 ms
+seq 624: no response (timeout)
+seq 627: tcp response from 103.25.22.168 [open]  172.981 ms
+seq 629: tcp response from 103.25.22.168 [open]  170.283 ms
+seq 628: tcp response from 103.25.22.169 [open]  196.506 ms
+seq 630: tcp response from 103.25.22.168 [open]  173.534 ms
+seq 633: tcp response from 103.25.22.168 [open]  171.879 ms
+seq 631: no response (timeout)
+seq 634: tcp response from 103.25.22.168 [open]  170.117 ms
+seq 632: no response (timeout)
+seq 635: tcp response from 103.25.22.169 [open]  194.764 ms
+seq 636: tcp response from 103.25.22.169 [open]  197.512 ms
+seq 637: tcp response from 103.25.22.168 [open]  170.262 ms
+seq 638: tcp response from 103.25.22.169 [open]  201.817 ms
+seq 639: tcp response from 103.25.22.169 [open]  198.469 ms
+seq 641: tcp response from 103.25.22.168 [open]  173.152 ms
+seq 640: no response (timeout)
+seq 645: tcp response from 103.25.22.168 [open]  170.046 ms
+seq 642: tcp response from 103.25.22.169 [open]  197.064 ms
+seq 643: no response (timeout)
+seq 646: tcp response from 103.25.22.168 [open]  170.074 ms
+seq 644: no response (timeout)
+seq 648: tcp response from 103.25.22.168 [open]  172.038 ms
+seq 647: tcp response from 103.25.22.168 [open]  169.953 ms
+seq 649: tcp response from 103.25.22.168 [open]  172.165 ms
+seq 650: tcp response from 103.25.22.168 [open]  170.057 ms
+seq 653: tcp response from 103.25.22.168 [open]  173.157 ms
+seq 651: tcp response from 103.25.22.169 [open]  195.442 ms
+seq 652: no response (timeout)
+seq 655: tcp response from 103.25.22.169 [open]  199.207 ms
+seq 656: tcp response from 103.25.22.169 [open]  196.825 ms
+seq 657: tcp response from 103.25.22.168 [open]  172.169 ms
+seq 658: tcp response from 103.25.22.168 [open]  170.144 ms
+seq 659: tcp response from 103.25.22.169 [open]  197.102 ms
+seq 654: tcp response from 103.25.22.168 [open]  172.380 ms
+seq 660: tcp response from 103.25.22.168 [open]  170.145 ms
+seq 661: tcp response from 103.25.22.168 [open]  171.812 ms
+seq 663: tcp response from 103.25.22.168 [open]  172.534 ms
+seq 664: tcp response from 103.25.22.169 [open]  198.145 ms
+seq 662: no response (timeout)
+seq 665: tcp response from 103.25.22.168 [open]  173.393 ms
+seq 667: tcp response from 103.25.22.169 [open]  421.034 ms
+seq 666: no response (timeout)
+seq 669: tcp response from 103.25.22.168 [open]  173.718 ms
+seq 668: no response (timeout)
+seq 670: tcp response from 103.25.22.168 [open]  172.041 ms
+seq 672: tcp response from 103.25.22.169 [open]  196.657 ms
+seq 673: tcp response from 103.25.22.168 [open]  169.930 ms
+seq 671: no response (timeout)
+seq 674: tcp response from 103.25.22.168 [open]  172.473 ms
+seq 675: tcp response from 103.25.22.168 [open]  170.180 ms
+seq 678: tcp response from 103.25.22.169 [open]  198.415 ms
+seq 677: tcp response from 103.25.22.169 [open]  231.196 ms
+seq 679: tcp response from 103.25.22.169 [open]  197.899 ms
+seq 676: tcp response from 103.25.22.169 [open]  1752.741 ms
+seq 681: tcp response from 103.25.22.168 [open]  172.303 ms
+seq 680: tcp response from 103.25.22.169 [open]  198.196 ms
+seq 682: tcp response from 103.25.22.169 [open]  195.905 ms
+seq 684: tcp response from 103.25.22.168 [open]  171.171 ms
+seq 685: tcp response from 103.25.22.168 [open]  171.086 ms
+seq 686: tcp response from 103.25.22.168 [open]  169.907 ms
+seq 683: tcp response from 103.25.22.168 [open]  170.766 ms
+seq 687: tcp response from 103.25.22.169 [open]  199.689 ms
+seq 688: tcp response from 103.25.22.169 [open]  197.064 ms
+seq 690: tcp response from 103.25.22.169 [open]  434.715 ms
+seq 691: tcp response from 103.25.22.169 [open]  194.709 ms
+seq 689: no response (timeout)
+seq 693: tcp response from 103.25.22.169 [open]  421.722 ms
+seq 694: tcp response from 103.25.22.168 [open]  169.963 ms
+seq 692: no response (timeout)
+seq 695: tcp response from 103.25.22.168 [open]  171.995 ms
+seq 696: tcp response from 103.25.22.169 [open]  197.554 ms
+seq 699: tcp response from 103.25.22.168 [open]  171.793 ms
+seq 697: no response (timeout)
+seq 700: tcp response from 103.25.22.168 [open]  171.987 ms
+seq 698: no response (timeout)
+seq 702: tcp response from 103.25.22.169 [open]  196.808 ms
+seq 704: tcp response from 103.25.22.169 [open]  196.738 ms
+seq 705: tcp response from 103.25.22.168 [open]  170.385 ms
+seq 701: no response (timeout)
+seq 706: tcp response from 103.25.22.169 [open]  430.377 ms
+seq 708: tcp response from 103.25.22.169 [open]  196.920 ms
+seq 707: no response (timeout)
+seq 711: tcp response from 103.25.22.169 [open]  198.372 ms
+seq 703: no response (timeout)
+seq 712: tcp response from 103.25.22.168 [open]  172.223 ms
+seq 713: tcp response from 103.25.22.169 [open]  226.912 ms
+seq 710: tcp response from 103.25.22.168 [open]  170.180 ms
+seq 709: no response (timeout)
+seq 714: tcp response from 103.25.22.168 [open]  172.624 ms
+seq 715: tcp response from 103.25.22.168 [open]  170.207 ms
+seq 716: tcp response from 103.25.22.169 [open]  201.861 ms
+seq 717: tcp response from 103.25.22.168 [open]  172.664 ms
+seq 718: tcp response from 103.25.22.169 [open]  198.916 ms
+seq 719: tcp response from 103.25.22.169 [open]  414.410 ms
+seq 721: tcp response from 103.25.22.168 [open]  172.083 ms
+seq 722: tcp response from 103.25.22.168 [open]  171.959 ms
+seq 720: no response (timeout)
+seq 723: tcp response from 103.25.22.168 [open]  170.561 ms
+seq 725: tcp response from 103.25.22.169 [open]  217.433 ms
+seq 726: tcp response from 103.25.22.168 [open]  170.597 ms
+seq 724: tcp response from 103.25.22.168 [open]  172.020 ms
+seq 728: tcp response from 103.25.22.169 [open]  198.385 ms
+seq 727: tcp response from 103.25.22.169 [open]  199.653 ms
+seq 730: tcp response from 103.25.22.169 [open]  197.868 ms
+seq 729: no response (timeout)
+seq 731: tcp response from 103.25.22.168 [open]  170.495 ms
+seq 732: tcp response from 103.25.22.169 [open]  201.750 ms
+seq 734: tcp response from 103.25.22.168 [open]  170.892 ms
+seq 735: tcp response from 103.25.22.168 [open]  171.277 ms
+seq 737: tcp response from 103.25.22.169 [open]  195.388 ms
+seq 733: tcp response from 103.25.22.168 [open]  171.498 ms
+seq 736: no response (timeout)
+seq 741: tcp response from 103.25.22.169 [open]  434.590 ms
+seq 739: tcp response from 103.25.22.168 [open]  172.262 ms
+seq 742: tcp response from 103.25.22.169 [open]  198.145 ms
+seq 738: tcp response from 103.25.22.168 [open]  172.155 ms
+seq 740: tcp response from 103.25.22.168 [open]  171.648 ms
+seq 743: tcp response from 103.25.22.168 [open]  172.009 ms
+seq 745: tcp response from 103.25.22.168 [open]  172.396 ms
+seq 746: tcp response from 103.25.22.168 [open]  172.262 ms
+seq 744: no response (timeout)
+seq 747: tcp response from 103.25.22.169 [open]  197.227 ms
+seq 748: tcp response from 103.25.22.168 [open]  171.285 ms
+seq 749: tcp response from 103.25.22.168 [open]  171.755 ms
+seq 750: tcp response from 103.25.22.169 [open]  457.972 ms
+seq 751: tcp response from 103.25.22.169 [open]  196.014 ms
+seq 754: tcp response from 103.25.22.168 [open]  170.994 ms
+seq 753: tcp response from 103.25.22.169 [open]  196.403 ms
+seq 752: tcp response from 103.25.22.168 [open]  171.017 ms
+seq 756: tcp response from 103.25.22.168 [open]  173.052 ms
+seq 757: tcp response from 103.25.22.169 [open]  198.626 ms
+seq 755: no response (timeout)
+seq 758: tcp response from 103.25.22.169 [open]  197.740 ms
+seq 760: tcp response from 103.25.22.168 [open]  170.099 ms
+seq 761: tcp response from 103.25.22.168 [open]  171.324 ms
+seq 759: no response (timeout)
+seq 764: tcp response from 103.25.22.169 [open]  195.870 ms
+seq 763: tcp response from 103.25.22.169 [open]  1722.630 ms
+seq 762: no response (timeout)
+seq 766: tcp response from 103.25.22.169 [open]  194.004 ms
+seq 768: tcp response from 103.25.22.168 [open]  171.625 ms
+seq 765: no response (timeout)
+seq 767: no response (timeout)
+seq 771: tcp response from 103.25.22.169 [open]  196.327 ms
+seq 769: no response (timeout)
+seq 772: tcp response from 103.25.22.168 [open]  172.040 ms
+seq 770: no response (timeout)
+seq 775: tcp response from 103.25.22.168 [open]  170.388 ms
+seq 773: no response (timeout)
+seq 774: no response (timeout)
+seq 777: tcp response from 103.25.22.169 [open]  427.722 ms
+seq 778: tcp response from 103.25.22.168 [open]  170.372 ms
+seq 779: tcp response from 103.25.22.168 [open]  171.665 ms
+seq 776: tcp response from 103.25.22.168 [open]  170.611 ms
+seq 781: tcp response from 103.25.22.168 [open]  172.311 ms
+seq 782: tcp response from 103.25.22.168 [open]  170.265 ms
+seq 780: no response (timeout)
+seq 783: tcp response from 103.25.22.168 [open]  171.045 ms
+seq 784: tcp response from 103.25.22.169 [open]  195.638 ms
+seq 786: tcp response from 103.25.22.168 [open]  197.233 ms
+seq 787: tcp response from 103.25.22.169 [open]  195.834 ms
+seq 785: no response (timeout)
+seq 788: tcp response from 103.25.22.168 [open]  170.535 ms
+seq 789: tcp response from 103.25.22.168 [open]  171.421 ms
+seq 791: tcp response from 103.25.22.169 [open]  197.325 ms
+seq 792: tcp response from 103.25.22.168 [open]  171.823 ms
+seq 790: no response (timeout)
+seq 794: tcp response from 103.25.22.168 [open]  172.025 ms
+seq 796: tcp response from 103.25.22.168 [open]  172.861 ms
+seq 797: tcp response from 103.25.22.169 [open]  410.750 ms
+seq 795: no response (timeout)
+seq 793: tcp response from 103.25.22.169 [open]  197.625 ms
+seq 798: no response (timeout)
+seq 801: tcp response from 103.25.22.168 [open]  170.228 ms
+seq 799: no response (timeout)
+seq 800: no response (timeout)
+seq 803: tcp response from 103.25.22.168 [open]  170.148 ms
+seq 802: no response (timeout)
+seq 804: tcp response from 103.25.22.169 [open]  421.872 ms
+seq 805: tcp response from 103.25.22.169 [open]  196.103 ms
+seq 806: tcp response from 103.25.22.168 [open]  172.035 ms
+seq 807: tcp response from 103.25.22.168 [open]  170.421 ms
+seq 808: tcp response from 103.25.22.168 [open]  171.559 ms
+seq 810: tcp response from 103.25.22.169 [open]  197.524 ms
+seq 811: tcp response from 103.25.22.169 [open]  197.912 ms
+seq 809: tcp response from 103.25.22.168 [open]  197.987 ms
+seq 812: tcp response from 103.25.22.169 [open]  199.951 ms
+seq 813: tcp response from 103.25.22.168 [open]  170.028 ms
+seq 814: tcp response from 103.25.22.169 [open]  198.249 ms
+seq 815: tcp response from 103.25.22.168 [open]  172.490 ms
+seq 817: tcp response from 103.25.22.168 [open]  172.193 ms
+seq 816: tcp response from 103.25.22.168 [open]  173.673 ms
+seq 818: tcp response from 103.25.22.169 [open]  415.746 ms
+seq 819: tcp response from 103.25.22.169 [open]  197.332 ms
+seq 821: tcp response from 103.25.22.169 [open]  446.850 ms
+seq 820: no response (timeout)
+seq 822: tcp response from 103.25.22.168 [open]  171.384 ms
+seq 824: tcp response from 103.25.22.168 [open]  172.776 ms
+seq 825: tcp response from 103.25.22.168 [open]  172.124 ms
+seq 823: no response (timeout)
+seq 826: tcp response from 103.25.22.168 [open]  171.020 ms
+seq 827: tcp response from 103.25.22.168 [open]  170.625 ms
+seq 828: tcp response from 103.25.22.168 [open]  170.607 ms
+seq 829: tcp response from 103.25.22.169 [open]  1528.145 ms
+seq 830: tcp response from 103.25.22.168 [open]  170.482 ms
+seq 831: tcp response from 103.25.22.169 [open]  194.536 ms
+seq 832: tcp response from 103.25.22.168 [open]  172.551 ms
+seq 833: tcp response from 103.25.22.168 [open]  170.506 ms
+seq 834: tcp response from 103.25.22.169 [open]  196.570 ms
+seq 835: tcp response from 103.25.22.169 [open]  197.542 ms
+seq 837: tcp response from 103.25.22.168 [open]  172.397 ms
+seq 836: tcp response from 103.25.22.168 [open]  170.066 ms
+seq 838: tcp response from 103.25.22.168 [open]  172.470 ms
+seq 839: tcp response from 103.25.22.168 [open]  172.678 ms
+seq 842: tcp response from 103.25.22.169 [open]  199.698 ms
+seq 841: tcp response from 103.25.22.169 [open]  1722.059 ms
+seq 840: no response (timeout)
+seq 843: tcp response from 103.25.22.168 [open]  172.627 ms
+seq 844: tcp response from 103.25.22.168 [open]  172.038 ms
+seq 845: tcp response from 103.25.22.169 [open]  196.515 ms
+seq 846: tcp response from 103.25.22.168 [open]  171.626 ms
+seq 847: tcp response from 103.25.22.169 [open]  198.593 ms
+seq 848: tcp response from 103.25.22.168 [open]  170.353 ms
+seq 849: tcp response from 103.25.22.168 [open]  172.603 ms
+seq 850: tcp response from 103.25.22.168 [open]  172.437 ms
+seq 851: tcp response from 103.25.22.168 [open]  171.469 ms
+seq 852: tcp response from 103.25.22.169 [open]  198.479 ms
+seq 853: tcp response from 103.25.22.169 [open]  195.734 ms
+seq 855: tcp response from 103.25.22.168 [open]  169.872 ms
+seq 854: tcp response from 103.25.22.169 [open]  1585.903 ms
+seq 856: tcp response from 103.25.22.169 [open]  415.370 ms
+seq 857: tcp response from 103.25.22.169 [open]  196.429 ms
+seq 858: tcp response from 103.25.22.168 [open]  173.021 ms
+seq 859: tcp response from 103.25.22.169 [open]  198.780 ms
+seq 861: tcp response from 103.25.22.168 [open]  173.600 ms
+seq 860: tcp response from 103.25.22.169 [open]  197.282 ms
+seq 862: tcp response from 103.25.22.169 [open]  196.158 ms
+seq 863: tcp response from 103.25.22.169 [open]  195.510 ms
+seq 865: tcp response from 103.25.22.169 [open]  203.540 ms
+seq 866: tcp response from 103.25.22.168 [open]  173.430 ms
+seq 864: no response (timeout)
+seq 868: tcp response from 103.25.22.169 [open]  442.083 ms
+seq 869: tcp response from 103.25.22.168 [open]  170.455 ms
+seq 867: no response (timeout)
+seq 870: tcp response from 103.25.22.168 [open]  170.944 ms
+seq 871: tcp response from 103.25.22.168 [open]  171.894 ms
+seq 873: tcp response from 103.25.22.169 [open]  197.547 ms
+seq 872: no response (timeout)
+seq 875: tcp response from 103.25.22.169 [open]  195.842 ms
+seq 876: tcp response from 103.25.22.169 [open]  195.622 ms
+seq 874: tcp response from 103.25.22.169 [open]  196.926 ms
+seq 878: tcp response from 103.25.22.168 [open]  171.472 ms
+seq 879: tcp response from 103.25.22.168 [open]  182.011 ms
+seq 877: no response (timeout)
+seq 881: tcp response from 103.25.22.169 [open]  200.570 ms
+seq 880: no response (timeout)
+seq 883: tcp response from 103.25.22.168 [open]  170.073 ms
+seq 882: tcp response from 103.25.22.169 [open]  1528.916 ms
+seq 884: tcp response from 103.25.22.168 [open]  171.914 ms
+seq 885: tcp response from 103.25.22.168 [open]  172.599 ms
+seq 887: tcp response from 103.25.22.168 [open]  173.702 ms
+seq 888: tcp response from 103.25.22.168 [open]  172.122 ms
+seq 886: no response (timeout)
+seq 889: tcp response from 103.25.22.168 [open]  172.214 ms
+seq 892: tcp response from 103.25.22.169 [open]  195.835 ms
+seq 890: no response (timeout)
+seq 891: no response (timeout)
+seq 894: tcp response from 103.25.22.168 [open]  171.585 ms
+seq 893: no response (timeout)
+seq 896: tcp response from 103.25.22.168 [open]  170.160 ms
+seq 897: tcp response from 103.25.22.168 [open]  171.613 ms
+seq 895: no response (timeout)
+seq 898: tcp response from 103.25.22.168 [open]  171.760 ms
+seq 899: tcp response from 103.25.22.169 [open]  423.329 ms
+seq 900: tcp response from 103.25.22.169 [open]  197.884 ms
+seq 901: tcp response from 103.25.22.168 [open]  170.168 ms
+seq 902: tcp response from 103.25.22.168 [open]  171.741 ms
+seq 903: tcp response from 103.25.22.168 [open]  172.582 ms
+seq 904: tcp response from 103.25.22.169 [open]  197.334 ms
+seq 905: tcp response from 103.25.22.168 [open]  172.358 ms
+seq 906: tcp response from 103.25.22.168 [open]  170.933 ms
+seq 907: tcp response from 103.25.22.169 [open]  195.925 ms
+seq 909: tcp response from 103.25.22.168 [open]  172.484 ms
+seq 908: tcp response from 103.25.22.168 [open]  170.685 ms
+seq 910: tcp response from 103.25.22.169 [open]  197.860 ms
+seq 911: tcp response from 103.25.22.168 [open]  170.604 ms
+seq 912: tcp response from 103.25.22.168 [open]  173.723 ms
+seq 913: tcp response from 103.25.22.169 [open]  196.880 ms
+seq 914: tcp response from 103.25.22.168 [open]  171.520 ms
+seq 915: tcp response from 103.25.22.169 [open]  198.322 ms
+seq 916: tcp response from 103.25.22.168 [open]  171.903 ms
+seq 918: tcp response from 103.25.22.168 [open]  172.511 ms
+seq 919: tcp response from 103.25.22.168 [open]  171.374 ms
+seq 920: tcp response from 103.25.22.169 [open]  197.394 ms
+seq 917: no response (timeout)
+seq 921: tcp response from 103.25.22.169 [open]  197.423 ms
+seq 924: tcp response from 103.25.22.169 [open]  235.611 ms
+seq 923: tcp response from 103.25.22.169 [open]  198.628 ms
+seq 922: no response (timeout)
+seq 925: tcp response from 103.25.22.168 [open]  171.425 ms
+seq 926: tcp response from 103.25.22.169 [open]  403.601 ms
+seq 927: tcp response from 103.25.22.168 [open]  172.978 ms
+seq 928: tcp response from 103.25.22.168 [open]  170.586 ms
+seq 929: tcp response from 103.25.22.168 [open]  171.720 ms
+seq 931: tcp response from 103.25.22.168 [open]  172.622 ms
+seq 932: tcp response from 103.25.22.169 [open]  196.616 ms
+seq 930: no response (timeout)
+seq 934: tcp response from 103.25.22.168 [open]  171.762 ms
+seq 933: no response (timeout)
+seq 936: tcp response from 103.25.22.168 [open]  170.762 ms
+seq 935: tcp response from 103.25.22.169 [open]  1436.846 ms
+seq 938: tcp response from 103.25.22.169 [open]  193.429 ms
+seq 940: tcp response from 103.25.22.168 [open]  170.328 ms
+seq 941: tcp response from 103.25.22.168 [open]  172.344 ms
+seq 937: no response (timeout)
+seq 939: tcp response from 103.25.22.168 [open]  170.360 ms
+seq 943: tcp response from 103.25.22.168 [open]  171.738 ms
+seq 942: no response (timeout)
+seq 946: tcp response from 103.25.22.168 [open]  172.527 ms
+seq 944: no response (timeout)
+seq 945: no response (timeout)
+seq 947: tcp response from 103.25.22.169 [open]  419.743 ms
+seq 948: tcp response from 103.25.22.168 [open]  172.569 ms
+seq 949: tcp response from 103.25.22.168 [open]  170.839 ms
+seq 950: tcp response from 103.25.22.169 [open]  195.549 ms
+seq 951: tcp response from 103.25.22.169 [open]  197.456 ms
+seq 954: tcp response from 103.25.22.169 [open]  200.935 ms
+seq 952: no response (timeout)
+seq 953: tcp response from 103.25.22.168 [open]  173.409 ms
+seq 955: tcp response from 103.25.22.169 [open]  196.580 ms
+seq 956: tcp response from 103.25.22.168 [open]  170.561 ms
+seq 957: tcp response from 103.25.22.168 [open]  170.484 ms
+seq 960: tcp response from 103.25.22.169 [open]  410.680 ms
+seq 958: no response (timeout)
+seq 961: tcp response from 103.25.22.169 [open]  199.396 ms
+seq 959: no response (timeout)
+seq 962: tcp response from 103.25.22.169 [open]  195.850 ms
+seq 965: tcp response from 103.25.22.168 [open]  170.893 ms
+seq 964: tcp response from 103.25.22.168 [open]  170.250 ms
+seq 966: tcp response from 103.25.22.169 [open]  196.927 ms
+seq 963: tcp response from 103.25.22.168 [open]  171.941 ms
+seq 968: tcp response from 103.25.22.168 [open]  170.565 ms
+seq 970: tcp response from 103.25.22.168 [open]  172.791 ms
+seq 967: no response (timeout)
+seq 969: no response (timeout)
+seq 971: tcp response from 103.25.22.168 [open]  172.932 ms
+seq 972: tcp response from 103.25.22.168 [open]  172.470 ms
+seq 973: tcp response from 103.25.22.168 [open]  172.245 ms
+seq 974: tcp response from 103.25.22.169 [open]  198.063 ms
+seq 975: tcp response from 103.25.22.169 [open]  199.463 ms
+seq 976: tcp response from 103.25.22.169 [open]  426.777 ms
+seq 977: tcp response from 103.25.22.168 [open]  173.154 ms
+seq 978: tcp response from 103.25.22.169 [open]  198.599 ms
+seq 979: tcp response from 103.25.22.168 [open]  170.820 ms
+seq 980: tcp response from 103.25.22.169 [open]  196.177 ms
+seq 981: tcp response from 103.25.22.169 [open]  233.140 ms
+seq 982: tcp response from 103.25.22.169 [open]  196.492 ms
+seq 983: tcp response from 103.25.22.169 [open]  443.492 ms
+seq 984: tcp response from 103.25.22.169 [open]  195.636 ms
+seq 985: tcp response from 103.25.22.168 [open]  172.929 ms
+seq 986: tcp response from 103.25.22.168 [open]  173.280 ms
+seq 987: tcp response from 103.25.22.168 [open]  172.409 ms
+seq 988: tcp response from 103.25.22.168 [open]  172.644 ms
+seq 989: tcp response from 103.25.22.169 [open]  197.964 ms
+seq 990: tcp response from 103.25.22.168 [open]  174.826 ms
+seq 991: tcp response from 103.25.22.168 [open]  172.345 ms
+seq 993: tcp response from 103.25.22.168 [open]  170.463 ms
+seq 996: tcp response from 103.25.22.168 [open]  172.451 ms
+seq 992: no response (timeout)
+seq 994: no response (timeout)
+seq 995: no response (timeout)
+seq 998: tcp response from 103.25.22.168 [open]  191.796 ms
+seq 997: no response (timeout)
+seq 1000: tcp response from 103.25.22.169 [open]  198.993 ms
+seq 999: no response (timeout)
+seq 1001: no response (timeout)
+seq 1004: tcp response from 103.25.22.169 [open]  196.403 ms
+seq 1002: no response (timeout)
+seq 1003: no response (timeout)
+seq 1006: tcp response from 103.25.22.169 [open]  198.001 ms
+seq 1005: tcp response from 103.25.22.168 [open]  172.454 ms
+seq 1007: tcp response from 103.25.22.168 [open]  170.978 ms
+seq 1010: tcp response from 103.25.22.168 [open]  172.191 ms
+seq 1011: tcp response from 103.25.22.168 [open]  172.271 ms
+seq 1009: tcp response from 103.25.22.169 [open]  198.176 ms
+seq 1008: tcp response from 103.25.22.168 [open]  171.808 ms
+seq 1012: tcp response from 103.25.22.168 [open]  170.161 ms
+seq 1014: tcp response from 103.25.22.169 [open]  200.721 ms
+seq 1013: tcp response from 103.25.22.168 [open]  171.665 ms
+seq 1016: tcp response from 103.25.22.168 [open]  175.355 ms
+seq 1015: tcp response from 103.25.22.168 [open]  171.690 ms
+seq 1017: tcp response from 103.25.22.169 [open]  196.622 ms
+seq 1018: tcp response from 103.25.22.168 [open]  195.815 ms
+seq 1019: tcp response from 103.25.22.168 [open]  172.008 ms
+seq 1021: tcp response from 103.25.22.168 [open]  171.465 ms
+seq 1020: no response (timeout)
+seq 1023: tcp response from 103.25.22.169 [open]  199.974 ms
+seq 1024: tcp response from 103.25.22.169 [open]  200.754 ms
+seq 1022: no response (timeout)
+seq 1025: tcp response from 103.25.22.168 [open]  172.047 ms
+seq 1026: tcp response from 103.25.22.168 [open]  173.536 ms
+seq 1028: tcp response from 103.25.22.168 [open]  173.341 ms
+seq 1029: tcp response from 103.25.22.169 [open]  198.125 ms
+seq 1027: no response (timeout)
+seq 1031: tcp response from 103.25.22.168 [open]  170.159 ms
+seq 1030: no response (timeout)
+seq 1033: tcp response from 103.25.22.168 [open]  171.802 ms
+seq 1034: tcp response from 103.25.22.169 [open]  442.916 ms
+seq 1032: tcp response from 103.25.22.168 [open]  170.340 ms
+seq 1035: tcp response from 103.25.22.168 [open]  172.153 ms
+seq 1036: tcp response from 103.25.22.168 [open]  173.147 ms
+seq 1037: tcp response from 103.25.22.169 [open]  211.642 ms
+seq 1038: tcp response from 103.25.22.168 [open]  171.306 ms
+seq 1039: tcp response from 103.25.22.168 [open]  171.756 ms
+seq 1040: tcp response from 103.25.22.168 [open]  171.686 ms
+seq 1042: tcp response from 103.25.22.169 [open]  200.501 ms
+seq 1041: no response (timeout)
+seq 1045: tcp response from 103.25.22.168 [open]  233.135 ms
+seq 1043: no response (timeout)
+seq 1044: no response (timeout)
+seq 1047: tcp response from 103.25.22.169 [open]  197.954 ms
+seq 1046: no response (timeout)
+seq 1049: tcp response from 103.25.22.168 [open]  209.117 ms
+seq 1050: tcp response from 103.25.22.169 [open]  203.560 ms
+seq 1048: no response (timeout)
+seq 1051: tcp response from 103.25.22.169 [open]  201.516 ms
+seq 1052: tcp response from 103.25.22.169 [open]  417.627 ms
+seq 1053: tcp response from 103.25.22.168 [open]  239.272 ms
+seq 1054: tcp response from 103.25.22.168 [open]  240.557 ms
+seq 1055: tcp response from 103.25.22.168 [open]  210.609 ms
+seq 1056: tcp response from 103.25.22.169 [open]  196.808 ms
+seq 1058: tcp response from 103.25.22.169 [open]  196.753 ms
+seq 1057: tcp response from 103.25.22.168 [open]  203.266 ms
+seq 1059: tcp response from 103.25.22.168 [open]  210.236 ms
+seq 1060: tcp response from 103.25.22.169 [open]  437.509 ms
+seq 1061: tcp response from 103.25.22.169 [open]  195.035 ms
+seq 1062: tcp response from 103.25.22.168 [open]  206.326 ms
+seq 1063: tcp response from 103.25.22.168 [open]  177.251 ms
+seq 1066: tcp response from 103.25.22.168 [open]  172.139 ms
+seq 1067: tcp response from 103.25.22.168 [open]  173.535 ms
+seq 1064: no response (timeout)
+seq 1065: no response (timeout)
+seq 1068: tcp response from 103.25.22.168 [open]  170.596 ms
+seq 1069: tcp response from 103.25.22.168 [open]  173.709 ms
+seq 1070: tcp response from 103.25.22.169 [open]  203.210 ms
+seq 1072: tcp response from 103.25.22.169 [open]  198.985 ms
+seq 1073: tcp response from 103.25.22.169 [open]  200.074 ms
+seq 1071: no response (timeout)
+seq 1074: tcp response from 103.25.22.168 [open]  170.371 ms
+seq 1076: tcp response from 103.25.22.168 [open]  172.381 ms
+seq 1075: tcp response from 103.25.22.168 [open]  170.321 ms
+seq 1078: tcp response from 103.25.22.169 [open]  200.648 ms
+seq 1077: no response (timeout)
+seq 1080: tcp response from 103.25.22.169 [open]  416.399 ms
+seq 1081: tcp response from 103.25.22.168 [open]  170.792 ms
+seq 1079: no response (timeout)
+seq 1084: tcp response from 103.25.22.168 [open]  170.364 ms
+seq 1085: tcp response from 103.25.22.168 [open]  172.462 ms
+seq 1086: tcp response from 103.25.22.168 [open]  172.952 ms
+seq 1082: tcp response from 103.25.22.168 [open]  329.896 ms
+seq 1083: no response (timeout)
+seq 1087: tcp response from 103.25.22.168 [open]  173.985 ms
+seq 1090: tcp response from 103.25.22.169 [open]  195.699 ms
+seq 1088: tcp response from 103.25.22.168 [open]  171.111 ms
+seq 1089: tcp response from 103.25.22.169 [open]  196.417 ms
+seq 1091: tcp response from 103.25.22.168 [open]  171.784 ms
+seq 1092: tcp response from 103.25.22.168 [open]  172.161 ms
+seq 1093: tcp response from 103.25.22.169 [open]  198.828 ms
+seq 1094: tcp response from 103.25.22.169 [open]  436.964 ms
+seq 1095: tcp response from 103.25.22.168 [open]  171.817 ms
+seq 1096: tcp response from 103.25.22.169 [open]  195.342 ms
+seq 1098: tcp response from 103.25.22.169 [open]  423.735 ms
+seq 1097: tcp response from 103.25.22.169 [open]  193.300 ms
+seq 1099: tcp response from 103.25.22.168 [open]  172.304 ms
+seq 1100: tcp response from 103.25.22.168 [open]  172.831 ms
+seq 1102: tcp response from 103.25.22.168 [open]  170.370 ms
+seq 1103: tcp response from 103.25.22.168 [open]  196.215 ms
+seq 1101: no response (timeout)
+seq 1104: tcp response from 103.25.22.168 [open]  172.347 ms
+seq 1105: tcp response from 103.25.22.168 [open]  172.116 ms
+seq 1106: tcp response from 103.25.22.169 [open]  197.147 ms
+seq 1107: tcp response from 103.25.22.168 [open]  204.519 ms
+seq 1108: tcp response from 103.25.22.169 [open]  197.475 ms
+seq 1109: tcp response from 103.25.22.169 [open]  195.588 ms
+seq 1110: tcp response from 103.25.22.168 [open]  171.997 ms
+seq 1111: tcp response from 103.25.22.169 [open]  197.887 ms
+seq 1112: tcp response from 103.25.22.168 [open]  171.342 ms
+seq 1113: tcp response from 103.25.22.168 [open]  171.518 ms
+seq 1114: tcp response from 103.25.22.169 [open]  422.940 ms
+seq 1115: tcp response from 103.25.22.168 [open]  171.265 ms
+seq 1117: tcp response from 103.25.22.168 [open]  171.571 ms
+seq 1118: tcp response from 103.25.22.168 [open]  171.221 ms
+seq 1116: no response (timeout)
+seq 1119: tcp response from 103.25.22.168 [open]  173.183 ms
+seq 1120: tcp response from 103.25.22.169 [open]  197.586 ms
+seq 1122: tcp response from 103.25.22.168 [open]  171.620 ms
+seq 1123: tcp response from 103.25.22.169 [open]  200.059 ms
+seq 1121: tcp response from 103.25.22.169 [open]  196.315 ms
+seq 1124: tcp response from 103.25.22.168 [open]  170.818 ms
+seq 1125: tcp response from 103.25.22.169 [open]  195.918 ms
+seq 1126: tcp response from 103.25.22.168 [open]  172.096 ms
+seq 1127: tcp response from 103.25.22.169 [open]  197.749 ms
+seq 1128: tcp response from 103.25.22.168 [open]  171.912 ms
+seq 1129: tcp response from 103.25.22.168 [open]  172.043 ms
+seq 1130: tcp response from 103.25.22.169 [open]  211.875 ms
+seq 1132: tcp response from 103.25.22.168 [open]  171.332 ms
+seq 1131: no response (timeout)
+seq 1133: tcp response from 103.25.22.168 [open]  171.869 ms
+seq 1135: tcp response from 103.25.22.168 [open]  243.037 ms
+seq 1136: tcp response from 103.25.22.168 [open]  171.371 ms
+seq 1134: no response (timeout)
+seq 1137: tcp response from 103.25.22.168 [open]  172.242 ms
+seq 1138: tcp response from 103.25.22.169 [open]  229.575 ms
+seq 1139: tcp response from 103.25.22.169 [open]  246.607 ms
+seq 1141: tcp response from 103.25.22.168 [open]  171.820 ms
+seq 1142: tcp response from 103.25.22.169 [open]  255.260 ms
+seq 1140: no response (timeout)
+seq 1144: tcp response from 103.25.22.168 [open]  175.096 ms
+seq 1145: tcp response from 103.25.22.168 [open]  172.258 ms
+seq 1143: no response (timeout)
+seq 1146: tcp response from 103.25.22.168 [open]  172.480 ms
+seq 1149: tcp response from 103.25.22.168 [open]  171.156 ms
+seq 1147: no response (timeout)
+seq 1150: tcp response from 103.25.22.169 [open]  244.300 ms
+seq 1148: no response (timeout)
+seq 1151: tcp response from 103.25.22.169 [open]  236.005 ms
+seq 1152: tcp response from 103.25.22.169 [open]  244.996 ms
+seq 1153: tcp response from 103.25.22.168 [open]  172.749 ms
+seq 1154: tcp response from 103.25.22.168 [open]  170.570 ms
+seq 1156: tcp response from 103.25.22.168 [open]  175.427 ms
+seq 1157: tcp response from 103.25.22.169 [open]  203.090 ms
+seq 1155: no response (timeout)
+seq 1158: tcp response from 103.25.22.168 [open]  171.134 ms
+seq 1159: tcp response from 103.25.22.168 [open]  173.679 ms
+seq 1160: tcp response from 103.25.22.169 [open]  221.491 ms
+seq 1162: tcp response from 103.25.22.169 [open]  200.348 ms
+seq 1163: tcp response from 103.25.22.168 [open]  171.673 ms
+seq 1161: no response (timeout)
+seq 1164: tcp response from 103.25.22.169 [open]  211.613 ms
+seq 1165: tcp response from 103.25.22.168 [open]  172.323 ms
+seq 1168: tcp response from 103.25.22.169 [open]  208.115 ms
+seq 1167: tcp response from 103.25.22.169 [open]  419.603 ms
+seq 1166: no response (timeout)
+seq 1169: tcp response from 103.25.22.168 [open]  172.837 ms
+seq 1170: tcp response from 103.25.22.169 [open]  229.109 ms
+seq 1171: tcp response from 103.25.22.169 [open]  196.799 ms
+seq 1172: tcp response from 103.25.22.168 [open]  172.562 ms
+seq 1173: tcp response from 103.25.22.169 [open]  208.553 ms
+seq 1174: tcp response from 103.25.22.168 [open]  170.371 ms
+seq 1176: tcp response from 103.25.22.168 [open]  170.677 ms
+seq 1177: tcp response from 103.25.22.168 [open]  170.415 ms
+seq 1175: no response (timeout)
+seq 1179: tcp response from 103.25.22.168 [open]  171.535 ms
+seq 1178: tcp response from 103.25.22.168 [open]  171.476 ms
+seq 1180: tcp response from 103.25.22.169 [open]  198.302 ms
+seq 1182: tcp response from 103.25.22.169 [open]  196.774 ms
+seq 1183: tcp response from 103.25.22.168 [open]  170.725 ms
+seq 1181: no response (timeout)
+seq 1186: tcp response from 103.25.22.168 [open]  170.738 ms
+seq 1184: no response (timeout)
+seq 1185: no response (timeout)
+seq 1188: tcp response from 103.25.22.168 [open]  171.757 ms
+seq 1189: tcp response from 103.25.22.168 [open]  171.596 ms
+seq 1187: no response (timeout)
+seq 1191: tcp response from 103.25.22.168 [open]  171.119 ms
+seq 1192: tcp response from 103.25.22.168 [open]  171.667 ms
+seq 1190: no response (timeout)
+seq 1194: tcp response from 103.25.22.169 [open]  206.103 ms
+seq 1193: tcp response from 103.25.22.168 [open]  172.663 ms
+seq 1195: tcp response from 103.25.22.169 [open]  196.945 ms
+seq 1197: tcp response from 103.25.22.168 [open]  172.040 ms
+seq 1198: tcp response from 103.25.22.169 [open]  200.296 ms
+seq 1196: no response (timeout)
+seq 1199: tcp response from 103.25.22.168 [open]  171.219 ms
+seq 1201: tcp response from 103.25.22.169 [open]  199.900 ms
+seq 1202: tcp response from 103.25.22.169 [open]  200.854 ms
+seq 1200: no response (timeout)
+seq 1203: tcp response from 103.25.22.168 [open]  172.096 ms
+seq 1204: tcp response from 103.25.22.168 [open]  171.924 ms
+seq 1205: tcp response from 103.25.22.169 [open]  210.967 ms
+seq 1208: tcp response from 103.25.22.169 [open]  197.330 ms
+seq 1206: tcp response from 103.25.22.168 [open]  170.306 ms
+seq 1207: tcp response from 103.25.22.168 [open]  171.118 ms
+seq 1209: tcp response from 103.25.22.169 [open]  224.478 ms
+seq 1211: tcp response from 103.25.22.169 [open]  415.892 ms
+seq 1212: tcp response from 103.25.22.168 [open]  170.711 ms
+seq 1210: no response (timeout)
+seq 1214: tcp response from 103.25.22.168 [open]  183.778 ms
+seq 1216: tcp response from 103.25.22.168 [open]  172.121 ms
+seq 1213: no response (timeout)
+seq 1215: no response (timeout)
+seq 1219: tcp response from 103.25.22.169 [open]  197.366 ms
+seq 1217: no response (timeout)
+seq 1218: tcp response from 103.25.22.168 [open]  170.439 ms
+seq 1221: tcp response from 103.25.22.168 [open]  172.344 ms
+seq 1222: tcp response from 103.25.22.169 [open]  196.266 ms
+seq 1220: no response (timeout)
+seq 1223: tcp response from 103.25.22.169 [open]  195.631 ms
+seq 1225: tcp response from 103.25.22.168 [open]  169.916 ms
+seq 1224: tcp response from 103.25.22.169 [open]  1635.225 ms
+seq 1227: tcp response from 103.25.22.168 [open]  170.622 ms
+seq 1228: tcp response from 103.25.22.169 [open]  193.975 ms
+seq 1226: no response (timeout)
+seq 1229: tcp response from 103.25.22.168 [open]  171.652 ms
+seq 1230: tcp response from 103.25.22.168 [open]  173.662 ms
+seq 1231: tcp response from 103.25.22.168 [open]  172.757 ms
+seq 1232: tcp response from 103.25.22.169 [open]  202.705 ms
+seq 1234: tcp response from 103.25.22.169 [open]  195.710 ms
+seq 1233: tcp response from 103.25.22.169 [open]  1601.637 ms
+seq 1235: tcp response from 103.25.22.168 [open]  172.406 ms
+seq 1237: tcp response from 103.25.22.169 [open]  199.384 ms
+seq 1238: tcp response from 103.25.22.168 [open]  175.532 ms
+seq 1239: tcp response from 103.25.22.168 [open]  172.051 ms
+seq 1236: tcp response from 103.25.22.169 [open]  198.228 ms
+seq 1240: tcp response from 103.25.22.168 [open]  171.076 ms
+seq 1241: tcp response from 103.25.22.168 [open]  171.140 ms
+seq 1243: tcp response from 103.25.22.169 [open]  201.144 ms
+seq 1244: tcp response from 103.25.22.169 [open]  231.632 ms
+seq 1245: tcp response from 103.25.22.169 [open]  414.594 ms
+seq 1246: tcp response from 103.25.22.168 [open]  171.555 ms
+seq 1242: no response (timeout)
+seq 1247: tcp response from 103.25.22.168 [open]  170.056 ms
+seq 1248: tcp response from 103.25.22.168 [open]  211.818 ms
+seq 1250: tcp response from 103.25.22.169 [open]  198.492 ms
+seq 1249: no response (timeout)
+seq 1254: tcp response from 103.25.22.168 [open]  171.693 ms
+seq 1256: tcp response from 103.25.22.169 [open]  199.117 ms
+seq 1251: no response (timeout)
+seq 1255: tcp response from 103.25.22.169 [open]  199.554 ms
+seq 1252: tcp response from 103.25.22.168 [open]  172.236 ms
+seq 1253: no response (timeout)
+seq 1259: tcp response from 103.25.22.168 [open]  173.175 ms
+seq 1257: no response (timeout)
+seq 1258: no response (timeout)
+seq 1260: tcp response from 103.25.22.168 [open]  170.480 ms
+seq 1262: tcp response from 103.25.22.168 [open]  172.131 ms
+seq 1264: tcp response from 103.25.22.168 [open]  171.554 ms
+seq 1261: no response (timeout)
+seq 1263: no response (timeout)
+seq 1266: tcp response from 103.25.22.169 [open]  196.971 ms
+seq 1267: tcp response from 103.25.22.168 [open]  170.549 ms
+seq 1269: tcp response from 103.25.22.168 [open]  172.014 ms
+seq 1265: no response (timeout)
+seq 1268: tcp response from 103.25.22.169 [open]  429.170 ms
+seq 1270: tcp response from 103.25.22.168 [open]  172.650 ms
+seq 1271: tcp response from 103.25.22.169 [open]  414.479 ms
+seq 1272: tcp response from 103.25.22.169 [open]  198.341 ms
+seq 1273: tcp response from 103.25.22.169 [open]  196.791 ms
+seq 1274: tcp response from 103.25.22.168 [open]  171.596 ms
+seq 1275: tcp response from 103.25.22.168 [open]  172.373 ms
+seq 1276: tcp response from 103.25.22.168 [open]  172.677 ms
+seq 1277: tcp response from 103.25.22.169 [open]  197.899 ms
+seq 1278: tcp response from 103.25.22.169 [open]  199.083 ms
+seq 1281: tcp response from 103.25.22.169 [open]  584.482 ms
+seq 1280: no response (timeout)
+seq 1279: tcp response from 103.25.22.169 [open]  432.609 ms
+seq 1284: tcp response from 103.25.22.168 [open]  174.839 ms
+seq 1283: no response (timeout)
+seq 1286: tcp response from 103.25.22.168 [open]  170.904 ms
+seq 1282: no response (timeout)
+seq 1285: tcp response from 103.25.22.168 [open]  172.974 ms
+seq 1287: tcp response from 103.25.22.168 [open]  174.834 ms
+seq 1288: tcp response from 103.25.22.168 [open]  172.948 ms
+seq 1289: tcp response from 103.25.22.169 [open]  200.290 ms
+seq 1291: tcp response from 103.25.22.168 [open]  172.128 ms
+seq 1290: no response (timeout)
+seq 1292: tcp response from 103.25.22.169 [open]  198.430 ms
+seq 1293: tcp response from 103.25.22.168 [open]  170.922 ms
+seq 1294: tcp response from 103.25.22.168 [open]  172.417 ms
+seq 1295: tcp response from 103.25.22.168 [open]  171.477 ms
+seq 1296: tcp response from 103.25.22.169 [open]  205.822 ms
+seq 1297: tcp response from 103.25.22.168 [open]  172.671 ms
+seq 1298: tcp response from 103.25.22.168 [open]  172.609 ms
+seq 1299: tcp response from 103.25.22.168 [open]  174.116 ms
+seq 1300: tcp response from 103.25.22.169 [open]  199.161 ms
+seq 1302: tcp response from 103.25.22.168 [open]  170.367 ms
+seq 1301: tcp response from 103.25.22.169 [open]  213.980 ms
+seq 1305: tcp response from 103.25.22.168 [open]  171.706 ms
+seq 1303: no response (timeout)
+seq 1304: no response (timeout)
+seq 1306: tcp response from 103.25.22.168 [open]  170.030 ms
+seq 1307: tcp response from 103.25.22.168 [open]  170.265 ms
+seq 1309: tcp response from 103.25.22.169 [open]  436.709 ms
+seq 1308: no response (timeout)
+seq 1310: tcp response from 103.25.22.168 [open]  172.741 ms
+seq 1311: tcp response from 103.25.22.168 [open]  172.617 ms
+seq 1312: tcp response from 103.25.22.168 [open]  172.138 ms
+seq 1314: tcp response from 103.25.22.168 [open]  170.669 ms
+seq 1313: no response (timeout)
+seq 1315: tcp response from 103.25.22.169 [open]  199.897 ms
+seq 1317: tcp response from 103.25.22.168 [open]  170.360 ms
+seq 1318: tcp response from 103.25.22.168 [open]  174.325 ms
+seq 1316: no response (timeout)
+seq 1320: tcp response from 103.25.22.169 [open]  195.631 ms
+seq 1321: tcp response from 103.25.22.169 [open]  198.566 ms
+seq 1319: tcp response from 103.25.22.169 [open]  202.280 ms
+seq 1322: tcp response from 103.25.22.168 [open]  171.925 ms
+seq 1323: no response (timeout)
+seq 1326: tcp response from 103.25.22.169 [open]  436.509 ms
+seq 1325: tcp response from 103.25.22.169 [open]  199.052 ms
+seq 1327: tcp response from 103.25.22.168 [open]  171.115 ms
+seq 1324: no response (timeout)
+seq 1328: tcp response from 103.25.22.169 [open]  202.632 ms
+seq 1330: tcp response from 103.25.22.168 [open]  173.629 ms
+seq 1329: no response (timeout)
+seq 1332: tcp response from 103.25.22.168 [open]  172.003 ms
+seq 1333: tcp response from 103.25.22.168 [open]  170.225 ms
+seq 1331: no response (timeout)
+seq 1334: tcp response from 103.25.22.168 [open]  171.555 ms
+seq 1335: tcp response from 103.25.22.169 [open]  197.863 ms
+seq 1337: tcp response from 103.25.22.169 [open]  196.433 ms
+seq 1338: tcp response from 103.25.22.168 [open]  170.452 ms
+seq 1340: tcp response from 103.25.22.168 [open]  172.476 ms
+seq 1336: no response (timeout)
+seq 1339: no response (timeout)
+seq 1342: tcp response from 103.25.22.169 [open]  199.373 ms
+seq 1341: no response (timeout)
+seq 1343: tcp response from 103.25.22.168 [open]  172.827 ms
+seq 1344: tcp response from 103.25.22.169 [open]  423.419 ms
+seq 1345: tcp response from 103.25.22.168 [open]  171.046 ms
+seq 1347: tcp response from 103.25.22.168 [open]  170.485 ms
+seq 1346: no response (timeout)
+seq 1349: tcp response from 103.25.22.169 [open]  198.486 ms
+seq 1348: no response (timeout)
+seq 1350: tcp response from 103.25.22.169 [open]  425.391 ms
+seq 1351: tcp response from 103.25.22.168 [open]  172.311 ms
+seq 1353: tcp response from 103.25.22.168 [open]  172.198 ms
+seq 1354: tcp response from 103.25.22.169 [open]  197.636 ms
+seq 1352: no response (timeout)
+seq 1355: tcp response from 103.25.22.168 [open]  170.756 ms
+seq 1356: tcp response from 103.25.22.169 [open]  196.996 ms
+seq 1359: tcp response from 103.25.22.168 [open]  172.061 ms
+seq 1357: no response (timeout)
+seq 1361: tcp response from 103.25.22.168 [open]  172.549 ms
+seq 1358: tcp response from 103.25.22.168 [open]  170.811 ms
+seq 1362: tcp response from 103.25.22.168 [open]  171.686 ms
+seq 1360: tcp response from 103.25.22.168 [open]  170.433 ms
+seq 1363: tcp response from 103.25.22.168 [open]  171.679 ms
+seq 1364: tcp response from 103.25.22.168 [open]  171.365 ms
+seq 1366: tcp response from 103.25.22.169 [open]  197.669 ms
+seq 1365: no response (timeout)
+seq 1368: tcp response from 103.25.22.169 [open]  197.790 ms
+seq 1369: tcp response from 103.25.22.168 [open]  170.694 ms
+seq 1367: no response (timeout)
+seq 1372: tcp response from 103.25.22.168 [open]  172.707 ms
+seq 1371: tcp response from 103.25.22.169 [open]  423.956 ms
+seq 1370: no response (timeout)
+seq 1373: tcp response from 103.25.22.168 [open]  172.587 ms
+seq 1374: tcp response from 103.25.22.168 [open]  171.089 ms
+seq 1376: tcp response from 103.25.22.168 [open]  172.623 ms
+seq 1377: tcp response from 103.25.22.169 [open]  198.943 ms
+seq 1375: no response (timeout)
+seq 1379: tcp response from 103.25.22.168 [open]  171.911 ms
+seq 1378: no response (timeout)
+seq 1381: tcp response from 103.25.22.168 [open]  170.517 ms
+seq 1380: tcp response from 103.25.22.169 [open]  1461.751 ms
+seq 1385: tcp response from 103.25.22.169 [open]  421.621 ms
+seq 1384: no response (timeout)
+seq 1383: no response (timeout)
+seq 1382: no response (timeout)
+seq 1389: tcp response from 103.25.22.168 [open]  171.318 ms
+seq 1387: tcp response from 103.25.22.168 [open]  171.979 ms
+seq 1390: tcp response from 103.25.22.168 [open]  171.990 ms
+seq 1386: no response (timeout)
+seq 1388: no response (timeout)
+seq 1391: tcp response from 103.25.22.169 [open]  197.338 ms
+seq 1392: tcp response from 103.25.22.169 [open]  196.463 ms
+seq 1393: tcp response from 103.25.22.168 [open]  173.801 ms
+seq 1394: tcp response from 103.25.22.168 [open]  171.132 ms
+seq 1396: tcp response from 103.25.22.169 [open]  196.642 ms
+seq 1397: tcp response from 103.25.22.169 [open]  197.842 ms
+seq 1395: no response (timeout)
+seq 1398: tcp response from 103.25.22.168 [open]  171.886 ms
+seq 1399: tcp response from 103.25.22.168 [open]  172.886 ms
+seq 1400: tcp response from 103.25.22.168 [open]  170.248 ms
+seq 1402: tcp response from 103.25.22.168 [open]  172.322 ms
+seq 1403: tcp response from 103.25.22.168 [open]  175.213 ms
+seq 1401: no response (timeout)
+seq 1404: tcp response from 103.25.22.168 [open]  172.141 ms
+seq 1406: tcp response from 103.25.22.169 [open]  199.591 ms
+seq 1407: tcp response from 103.25.22.169 [open]  216.911 ms
+seq 1408: tcp response from 103.25.22.169 [open]  199.808 ms
+seq 1405: no response (timeout)
+seq 1410: tcp response from 103.25.22.168 [open]  172.183 ms
+seq 1409: no response (timeout)
+seq 1411: tcp response from 103.25.22.168 [open]  170.879 ms
+seq 1412: tcp response from 103.25.22.168 [open]  170.553 ms
+seq 1415: tcp response from 103.25.22.168 [open]  172.619 ms
+seq 1413: no response (timeout)
+seq 1414: no response (timeout)
+seq 1416: tcp response from 103.25.22.169 [open]  441.895 ms
+seq 1419: tcp response from 103.25.22.168 [open]  170.896 ms
+seq 1417: no response (timeout)
+seq 1421: tcp response from 103.25.22.168 [open]  171.916 ms
+seq 1420: tcp response from 103.25.22.168 [open]  172.673 ms
+seq 1418: no response (timeout)
+seq 1423: tcp response from 103.25.22.168 [open]  170.323 ms
+seq 1425: tcp response from 103.25.22.168 [open]  171.297 ms
+seq 1422: tcp response from 103.25.22.169 [open]  197.576 ms
+seq 1426: tcp response from 103.25.22.169 [open]  195.907 ms
+seq 1424: no response (timeout)
+seq 1427: tcp response from 103.25.22.168 [open]  201.144 ms
+seq 1430: tcp response from 103.25.22.169 [open]  199.209 ms
+seq 1431: tcp response from 103.25.22.168 [open]  171.887 ms
+seq 1428: no response (timeout)
+seq 1429: no response (timeout)
+seq 1432: tcp response from 103.25.22.169 [open]  197.100 ms
+seq 1433: tcp response from 103.25.22.168 [open]  172.658 ms
+seq 1434: tcp response from 103.25.22.169 [open]  494.742 ms
+seq 1435: tcp response from 103.25.22.168 [open]  170.177 ms
+seq 1436: tcp response from 103.25.22.168 [open]  170.744 ms
+seq 1437: tcp response from 103.25.22.169 [open]  195.917 ms
+seq 1438: tcp response from 103.25.22.168 [open]  172.217 ms
+seq 1439: tcp response from 103.25.22.168 [open]  171.916 ms
+seq 1441: tcp response from 103.25.22.168 [open]  172.095 ms
+seq 1440: tcp response from 103.25.22.169 [open]  197.701 ms
+seq 1442: tcp response from 103.25.22.168 [open]  170.747 ms
+seq 1443: tcp response from 103.25.22.168 [open]  170.296 ms
+seq 1444: tcp response from 103.25.22.169 [open]  423.073 ms
+seq 1445: tcp response from 103.25.22.169 [open]  198.080 ms
+seq 1446: tcp response from 103.25.22.169 [open]  197.711 ms
+seq 1447: tcp response from 103.25.22.168 [open]  171.118 ms
+seq 1448: tcp response from 103.25.22.169 [open]  196.228 ms
+seq 1449: tcp response from 103.25.22.168 [open]  173.195 ms
+seq 1450: tcp response from 103.25.22.169 [open]  197.469 ms
+seq 1451: tcp response from 103.25.22.169 [open]  439.262 ms
+seq 1452: tcp response from 103.25.22.168 [open]  171.078 ms
+seq 1453: tcp response from 103.25.22.168 [open]  170.544 ms
+seq 1454: tcp response from 103.25.22.169 [open]  259.954 ms
+seq 1456: tcp response from 103.25.22.169 [open]  265.124 ms
+seq 1455: tcp response from 103.25.22.168 [open]  171.347 ms
+seq 1457: tcp response from 103.25.22.169 [open]  427.583 ms
+seq 1458: tcp response from 103.25.22.168 [open]  173.218 ms
+seq 1459: tcp response from 103.25.22.168 [open]  172.332 ms
+seq 1461: tcp response from 103.25.22.169 [open]  279.670 ms
+seq 1460: tcp response from 103.25.22.168 [open]  173.535 ms
+seq 1463: tcp response from 103.25.22.169 [open]  197.046 ms
+seq 1466: tcp response from 103.25.22.168 [open]  171.611 ms
+seq 1467: tcp response from 103.25.22.168 [open]  169.981 ms
+seq 1469: tcp response from 103.25.22.169 [open]  196.083 ms
+seq 1468: tcp response from 103.25.22.169 [open]  441.177 ms
+seq 1464: tcp response from 103.25.22.169 [open]  280.203 ms
+seq 1462: tcp response from 103.25.22.169 [open]  196.100 ms
+seq 1465: tcp response from 103.25.22.169 [open]  195.641 ms
+seq 1471: tcp response from 103.25.22.168 [open]  171.233 ms
+seq 1472: tcp response from 103.25.22.168 [open]  173.903 ms
+seq 1473: tcp response from 103.25.22.169 [open]  200.749 ms
+seq 1474: tcp response from 103.25.22.169 [open]  196.783 ms
+seq 1475: tcp response from 103.25.22.169 [open]  199.663 ms
+seq 1476: tcp response from 103.25.22.169 [open]  196.290 ms
+seq 1470: tcp response from 103.25.22.168 [open]  170.902 ms
+seq 1477: tcp response from 103.25.22.169 [open]  197.843 ms
+seq 1478: tcp response from 103.25.22.168 [open]  170.825 ms
+seq 1479: no response (timeout)
+seq 1482: tcp response from 103.25.22.169 [open]  422.420 ms
+seq 1481: tcp response from 103.25.22.169 [open]  199.372 ms
+seq 1480: no response (timeout)
+seq 1483: tcp response from 103.25.22.168 [open]  172.845 ms
+seq 1484: tcp response from 103.25.22.168 [open]  172.892 ms
+seq 1485: tcp response from 103.25.22.168 [open]  170.395 ms
+seq 1486: tcp response from 103.25.22.168 [open]  171.900 ms
+seq 1488: tcp response from 103.25.22.168 [open]  172.441 ms
+seq 1489: tcp response from 103.25.22.168 [open]  172.198 ms
+seq 1490: tcp response from 103.25.22.169 [open]  420.448 ms
+seq 1491: tcp response from 103.25.22.168 [open]  170.654 ms
+seq 1487: no response (timeout)
+seq 1492: no response (timeout)
+seq 1493: no response (timeout)
+seq 1495: tcp response from 103.25.22.168 [open]  202.572 ms
+seq 1494: tcp response from 103.25.22.169 [open]  1803.446 ms
+seq 1496: tcp response from 103.25.22.168 [open]  170.741 ms
+seq 1497: tcp response from 103.25.22.168 [open]  171.933 ms
+seq 1498: tcp response from 103.25.22.168 [open]  175.257 ms
+seq 1499: tcp response from 103.25.22.168 [open]  172.665 ms
+seq 1500: tcp response from 103.25.22.169 [open]  198.631 ms
+seq 1501: tcp response from 103.25.22.168 [open]  172.548 ms
+seq 1502: tcp response from 103.25.22.168 [open]  171.926 ms
+seq 1504: tcp response from 103.25.22.168 [open]  172.314 ms
+seq 1503: no response (timeout)
+seq 1506: tcp response from 103.25.22.168 [open]  173.236 ms
+seq 1505: tcp response from 103.25.22.168 [open]  170.802 ms
+seq 1508: tcp response from 103.25.22.169 [open]  198.067 ms
+seq 1507: tcp response from 103.25.22.169 [open]  196.991 ms
+seq 1509: tcp response from 103.25.22.168 [open]  170.913 ms
+seq 1510: tcp response from 103.25.22.169 [open]  196.014 ms
+seq 1511: tcp response from 103.25.22.168 [open]  172.140 ms
+seq 1512: tcp response from 103.25.22.168 [open]  172.636 ms
+seq 1514: tcp response from 103.25.22.169 [open]  198.830 ms
+seq 1515: tcp response from 103.25.22.168 [open]  170.648 ms
+seq 1513: no response (timeout)
+seq 1518: tcp response from 103.25.22.169 [open]  196.502 ms
+seq 1517: no response (timeout)
+seq 1521: tcp response from 103.25.22.168 [open]  172.142 ms
+seq 1522: tcp response from 103.25.22.168 [open]  172.153 ms
+seq 1520: no response (timeout)
+seq 1519: tcp response from 103.25.22.168 [open]  172.635 ms
+seq 1516: no response (timeout)
+seq 1523: tcp response from 103.25.22.168 [open]  172.301 ms
+seq 1525: no response (timeout)
+seq 1524: no response (timeout)
+seq 1526: no response (timeout)
+seq 1527: tcp response from 103.25.22.169 [open]  197.821 ms
+seq 1528: tcp response from 103.25.22.169 [open]  197.888 ms
+seq 1530: tcp response from 103.25.22.168 [open]  170.141 ms
+seq 1529: tcp response from 103.25.22.168 [open]  171.942 ms
+seq 1532: tcp response from 103.25.22.168 [open]  172.750 ms
+seq 1533: tcp response from 103.25.22.168 [open]  171.043 ms
+seq 1535: tcp response from 103.25.22.168 [open]  170.753 ms
+seq 1531: no response (timeout)
+seq 1534: tcp response from 103.25.22.169 [open]  1510.339 ms
+seq 1536: tcp response from 103.25.22.169 [open]  194.516 ms
+seq 1537: tcp response from 103.25.22.169 [open]  196.093 ms
+seq 1538: tcp response from 103.25.22.168 [open]  172.260 ms
+seq 1541: tcp response from 103.25.22.168 [open]  170.433 ms
+seq 1539: tcp response from 103.25.22.169 [open]  197.182 ms
+seq 1540: no response (timeout)
+seq 1542: tcp response from 103.25.22.168 [open]  171.811 ms
+seq 1544: tcp response from 103.25.22.168 [open]  170.112 ms
+seq 1543: tcp response from 103.25.22.169 [open]  201.254 ms
+seq 1545: tcp response from 103.25.22.168 [open]  170.895 ms
+seq 1547: tcp response from 103.25.22.168 [open]  173.852 ms
+seq 1546: tcp response from 103.25.22.168 [open]  172.709 ms
+seq 1548: tcp response from 103.25.22.169 [open]  195.946 ms
+seq 1549: tcp response from 103.25.22.169 [open]  432.087 ms
+seq 1550: tcp response from 103.25.22.169 [open]  200.828 ms
+seq 1552: tcp response from 103.25.22.169 [open]  198.584 ms
+seq 1553: tcp response from 103.25.22.169 [open]  197.764 ms
+seq 1554: tcp response from 103.25.22.169 [open]  201.124 ms
+seq 1555: tcp response from 103.25.22.168 [open]  172.058 ms
+seq 1551: no response (timeout)
+seq 1556: tcp response from 103.25.22.168 [open]  170.739 ms
+seq 1557: tcp response from 103.25.22.169 [open]  206.989 ms
+seq 1558: tcp response from 103.25.22.169 [open]  197.975 ms
+seq 1559: tcp response from 103.25.22.168 [open]  171.858 ms
+seq 1561: tcp response from 103.25.22.168 [open]  170.478 ms
+seq 1562: tcp response from 103.25.22.168 [open]  172.761 ms
+seq 1560: tcp response from 103.25.22.169 [open]  198.311 ms
+seq 1563: tcp response from 103.25.22.169 [open]  425.631 ms
+seq 1564: tcp response from 103.25.22.168 [open]  171.755 ms
+seq 1565: tcp response from 103.25.22.168 [open]  171.915 ms
+seq 1566: tcp response from 103.25.22.169 [open]  197.939 ms
+seq 1567: tcp response from 103.25.22.169 [open]  197.846 ms
+seq 1568: tcp response from 103.25.22.169 [open]  200.464 ms
+seq 1569: tcp response from 103.25.22.168 [open]  173.133 ms
+seq 1570: tcp response from 103.25.22.169 [open]  198.992 ms
+seq 1571: tcp response from 103.25.22.168 [open]  173.099 ms
+seq 1572: tcp response from 103.25.22.168 [open]  186.369 ms
+seq 1574: tcp response from 103.25.22.169 [open]  196.158 ms
+seq 1575: tcp response from 103.25.22.168 [open]  172.746 ms
+seq 1573: no response (timeout)
+seq 1576: tcp response from 103.25.22.168 [open]  172.092 ms
+seq 1577: tcp response from 103.25.22.168 [open]  171.439 ms
+seq 1578: tcp response from 103.25.22.169 [open]  198.551 ms
+seq 1579: tcp response from 103.25.22.168 [open]  170.362 ms
+seq 1580: tcp response from 103.25.22.168 [open]  173.026 ms
+seq 1581: tcp response from 103.25.22.168 [open]  173.520 ms
+seq 1583: tcp response from 103.25.22.169 [open]  197.295 ms
+seq 1584: tcp response from 103.25.22.168 [open]  172.667 ms
+seq 1585: tcp response from 103.25.22.169 [open]  413.469 ms
+seq 1582: no response (timeout)
+seq 1587: tcp response from 103.25.22.168 [open]  172.733 ms
+seq 1588: tcp response from 103.25.22.168 [open]  170.235 ms
+seq 1590: tcp response from 103.25.22.169 [open]  196.787 ms
+seq 1586: tcp response from 103.25.22.169 [open]  198.186 ms
+seq 1589: no response (timeout)
+seq 1591: tcp response from 103.25.22.168 [open]  172.131 ms
+seq 1592: tcp response from 103.25.22.168 [open]  171.767 ms
+seq 1593: tcp response from 103.25.22.169 [open]  198.091 ms
+seq 1594: tcp response from 103.25.22.169 [open]  199.187 ms
+seq 1595: tcp response from 103.25.22.169 [open]  426.437 ms
+seq 1597: tcp response from 103.25.22.169 [open]  198.082 ms
+seq 1596: no response (timeout)
+seq 1599: tcp response from 103.25.22.169 [open]  195.897 ms
+seq 1600: tcp response from 103.25.22.169 [open]  196.924 ms
+seq 1601: tcp response from 103.25.22.168 [open]  172.615 ms
+seq 1598: no response (timeout)
+seq 1602: tcp response from 103.25.22.168 [open]  170.014 ms
+seq 1603: tcp response from 103.25.22.168 [open]  170.398 ms
+seq 1605: tcp response from 103.25.22.168 [open]  171.971 ms
+seq 1604: no response (timeout)
+seq 1608: tcp response from 103.25.22.168 [open]  172.367 ms
+seq 1606: no response (timeout)
+seq 1609: tcp response from 103.25.22.169 [open]  197.867 ms
+seq 1607: tcp response from 103.25.22.168 [open]  172.729 ms
+seq 1610: tcp response from 103.25.22.169 [open]  439.015 ms
+seq 1611: tcp response from 103.25.22.169 [open]  198.267 ms
+seq 1612: tcp response from 103.25.22.168 [open]  180.982 ms
+seq 1613: tcp response from 103.25.22.168 [open]  172.063 ms
+seq 1615: tcp response from 103.25.22.169 [open]  199.300 ms
+seq 1616: tcp response from 103.25.22.169 [open]  197.576 ms
+seq 1614: no response (timeout)
+seq 1617: tcp response from 103.25.22.168 [open]  171.534 ms
+seq 1618: tcp response from 103.25.22.168 [open]  172.083 ms
+seq 1619: tcp response from 103.25.22.169 [open]  196.140 ms
+seq 1621: tcp response from 103.25.22.168 [open]  173.037 ms
+seq 1622: tcp response from 103.25.22.168 [open]  170.095 ms
+seq 1623: tcp response from 103.25.22.169 [open]  198.643 ms
+seq 1620: tcp response from 103.25.22.168 [open]  172.319 ms
+seq 1625: tcp response from 103.25.22.168 [open]  172.348 ms
+seq 1626: tcp response from 103.25.22.169 [open]  196.169 ms
+seq 1624: no response (timeout)
+seq 1627: tcp response from 103.25.22.168 [open]  171.640 ms
+seq 1628: tcp response from 103.25.22.168 [open]  172.790 ms
+seq 1629: tcp response from 103.25.22.168 [open]  170.770 ms
+seq 1630: tcp response from 103.25.22.168 [open]  172.580 ms
+seq 1632: tcp response from 103.25.22.169 [open]  196.902 ms
+seq 1631: no response (timeout)
+seq 1633: no response (timeout)
+seq 1636: tcp response from 103.25.22.168 [open]  172.725 ms
+seq 1634: tcp response from 103.25.22.169 [open]  197.693 ms
+seq 1635: no response (timeout)
+seq 1637: tcp response from 103.25.22.168 [open]  170.451 ms
+seq 1638: tcp response from 103.25.22.168 [open]  170.747 ms
+seq 1639: no response (timeout)
+seq 1640: tcp response from 103.25.22.169 [open]  225.644 ms
+seq 1642: tcp response from 103.25.22.169 [open]  198.390 ms
+seq 1643: tcp response from 103.25.22.168 [open]  172.878 ms
+seq 1646: tcp response from 103.25.22.168 [open]  172.047 ms
+seq 1641: no response (timeout)
+seq 1644: no response (timeout)
+seq 1645: tcp response from 103.25.22.169 [open]  198.341 ms
+seq 1648: tcp response from 103.25.22.169 [open]  200.716 ms
+seq 1647: tcp response from 103.25.22.168 [open]  170.483 ms
+seq 1649: tcp response from 103.25.22.168 [open]  172.195 ms
+seq 1650: tcp response from 103.25.22.169 [open]  197.217 ms
+seq 1651: tcp response from 103.25.22.169 [open]  430.491 ms
+seq 1652: tcp response from 103.25.22.168 [open]  177.597 ms
+seq 1653: tcp response from 103.25.22.169 [open]  194.348 ms
+seq 1654: tcp response from 103.25.22.168 [open]  171.419 ms
+seq 1656: tcp response from 103.25.22.168 [open]  172.619 ms
+seq 1657: tcp response from 103.25.22.169 [open]  200.669 ms
+seq 1655: tcp response from 103.25.22.169 [open]  424.585 ms
+seq 1658: tcp response from 103.25.22.168 [open]  170.481 ms
+seq 1659: tcp response from 103.25.22.168 [open]  171.925 ms
+seq 1660: tcp response from 103.25.22.168 [open]  173.210 ms
+seq 1661: tcp response from 103.25.22.169 [open]  197.872 ms
+seq 1664: tcp response from 103.25.22.168 [open]  172.492 ms
+seq 1662: no response (timeout)
+seq 1663: no response (timeout)
+seq 1665: tcp response from 103.25.22.169 [open]  197.240 ms
+seq 1666: tcp response from 103.25.22.168 [open]  185.548 ms
+seq 1667: tcp response from 103.25.22.168 [open]  170.028 ms
+seq 1668: tcp response from 103.25.22.169 [open]  196.943 ms
+seq 1669: tcp response from 103.25.22.169 [open]  436.722 ms
+seq 1670: tcp response from 103.25.22.168 [open]  171.350 ms
+seq 1671: no response (timeout)
+seq 1673: tcp response from 103.25.22.169 [open]  1612.687 ms
+seq 1672: tcp response from 103.25.22.169 [open]  194.248 ms
+seq 1674: tcp response from 103.25.22.168 [open]  170.346 ms
+seq 1676: tcp response from 103.25.22.169 [open]  417.107 ms
+seq 1675: tcp response from 103.25.22.168 [open]  172.396 ms
+seq 1678: tcp response from 103.25.22.169 [open]  199.763 ms
+seq 1677: no response (timeout)
+seq 1681: tcp response from 103.25.22.168 [open]  171.546 ms
+seq 1680: tcp response from 103.25.22.168 [open]  170.605 ms
+seq 1679: no response (timeout)
+seq 1683: tcp response from 103.25.22.168 [open]  171.750 ms
+seq 1685: tcp response from 103.25.22.168 [open]  172.266 ms
+seq 1684: tcp response from 103.25.22.168 [open]  170.729 ms
+seq 1682: no response (timeout)
+seq 1686: tcp response from 103.25.22.169 [open]  198.890 ms
+seq 1687: tcp response from 103.25.22.168 [open]  174.815 ms
+seq 1689: tcp response from 103.25.22.169 [open]  197.644 ms
+seq 1688: no response (timeout)
+seq 1691: tcp response from 103.25.22.168 [open]  173.741 ms
+seq 1690: tcp response from 103.25.22.169 [open]  1682.573 ms
+seq 1692: tcp response from 103.25.22.169 [open]  198.365 ms
+seq 1693: tcp response from 103.25.22.169 [open]  196.781 ms
+seq 1694: tcp response from 103.25.22.168 [open]  171.858 ms
+seq 1695: tcp response from 103.25.22.168 [open]  173.921 ms
+seq 1696: tcp response from 103.25.22.168 [open]  171.456 ms
+seq 1698: tcp response from 103.25.22.168 [open]  171.806 ms
+seq 1699: tcp response from 103.25.22.168 [open]  171.377 ms
+seq 1697: no response (timeout)
+seq 1703: tcp response from 103.25.22.168 [open]  174.857 ms
+seq 1702: tcp response from 103.25.22.169 [open]  195.750 ms
+seq 1701: no response (timeout)
+seq 1700: tcp response from 103.25.22.169 [open]  196.637 ms
+seq 1704: tcp response from 103.25.22.168 [open]  170.566 ms
+seq 1706: tcp response from 103.25.22.168 [open]  171.133 ms
+seq 1707: tcp response from 103.25.22.169 [open]  196.090 ms
+seq 1705: no response (timeout)
+seq 1709: tcp response from 103.25.22.168 [open]  172.486 ms
+seq 1710: tcp response from 103.25.22.168 [open]  170.770 ms
+seq 1708: no response (timeout)
+seq 1712: tcp response from 103.25.22.168 [open]  173.969 ms
+seq 1711: no response (timeout)
+seq 1713: no response (timeout)
+seq 1714: tcp response from 103.25.22.168 [open]  171.987 ms
+seq 1715: tcp response from 103.25.22.168 [open]  172.931 ms
+seq 1716: tcp response from 103.25.22.168 [open]  173.612 ms
+seq 1717: tcp response from 103.25.22.168 [open]  173.027 ms
+seq 1719: tcp response from 103.25.22.168 [open]  171.015 ms
+seq 1720: tcp response from 103.25.22.168 [open]  172.338 ms
+seq 1718: tcp response from 103.25.22.169 [open]  200.083 ms
+seq 1723: tcp response from 103.25.22.169 [open]  200.110 ms
+seq 1722: tcp response from 103.25.22.169 [open]  414.069 ms
+seq 1721: no response (timeout)
+seq 1724: tcp response from 103.25.22.168 [open]  170.735 ms
+seq 1726: tcp response from 103.25.22.168 [open]  171.605 ms
+seq 1727: tcp response from 103.25.22.168 [open]  170.617 ms
+seq 1725: no response (timeout)
+seq 1729: tcp response from 103.25.22.168 [open]  174.366 ms
+seq 1730: tcp response from 103.25.22.168 [open]  170.388 ms
+seq 1731: tcp response from 103.25.22.168 [open]  171.388 ms
+seq 1728: no response (timeout)
+seq 1734: tcp response from 103.25.22.169 [open]  199.469 ms
+seq 1732: tcp response from 103.25.22.168 [open]  172.226 ms
+seq 1733: no response (timeout)
+seq 1735: tcp response from 103.25.22.169 [open]  1731.545 ms
+seq 1736: tcp response from 103.25.22.169 [open]  492.436 ms
+seq 1737: tcp response from 103.25.22.168 [open]  170.555 ms
+seq 1740: tcp response from 103.25.22.168 [open]  170.308 ms
+seq 1738: no response (timeout)
+seq 1739: tcp response from 103.25.22.169 [open]  198.537 ms
+seq 1741: tcp response from 103.25.22.169 [open]  197.170 ms
+seq 1742: tcp response from 103.25.22.168 [open]  172.294 ms
+seq 1743: tcp response from 103.25.22.169 [open]  200.664 ms
+seq 1744: tcp response from 103.25.22.169 [open]  434.326 ms
+seq 1747: tcp response from 103.25.22.168 [open]  171.050 ms
+seq 1745: no response (timeout)
+seq 1746: no response (timeout)
+seq 1748: tcp response from 103.25.22.169 [open]  426.661 ms
+seq 1750: tcp response from 103.25.22.168 [open]  172.007 ms
+seq 1751: tcp response from 103.25.22.168 [open]  171.876 ms
+seq 1749: no response (timeout)
+seq 1752: tcp response from 103.25.22.168 [open]  172.988 ms
+seq 1754: tcp response from 103.25.22.168 [open]  171.927 ms
+seq 1753: no response (timeout)
+seq 1756: tcp response from 103.25.22.168 [open]  170.756 ms
+seq 1755: no response (timeout)
+seq 1757: tcp response from 103.25.22.168 [open]  170.264 ms
+seq 1758: tcp response from 103.25.22.168 [open]  172.457 ms
+seq 1759: tcp response from 103.25.22.168 [open]  171.786 ms
+seq 1760: tcp response from 103.25.22.169 [open]  437.867 ms
+seq 1761: tcp response from 103.25.22.169 [open]  197.800 ms
+seq 1762: tcp response from 103.25.22.169 [open]  198.538 ms
+seq 1763: tcp response from 103.25.22.169 [open]  199.122 ms
+seq 1765: tcp response from 103.25.22.169 [open]  197.362 ms
+seq 1766: tcp response from 103.25.22.169 [open]  200.109 ms
+seq 1764: tcp response from 103.25.22.169 [open]  414.972 ms
+seq 1768: tcp response from 103.25.22.168 [open]  171.589 ms
+seq 1767: tcp response from 103.25.22.168 [open]  172.655 ms
+seq 1769: tcp response from 103.25.22.168 [open]  200.537 ms
+seq 1770: tcp response from 103.25.22.168 [open]  171.961 ms
+seq 1771: tcp response from 103.25.22.168 [open]  170.348 ms
+seq 1772: tcp response from 103.25.22.168 [open]  173.396 ms
+seq 1773: no response (timeout)
+seq 1775: tcp response from 103.25.22.168 [open]  172.038 ms
+seq 1774: no response (timeout)
+seq 1776: tcp response from 103.25.22.168 [open]  171.890 ms
+seq 1778: tcp response from 103.25.22.169 [open]  437.177 ms
+seq 1777: no response (timeout)
+seq 1779: tcp response from 103.25.22.168 [open]  170.691 ms
+seq 1782: tcp response from 103.25.22.169 [open]  199.588 ms
+seq 1780: no response (timeout)
+seq 1781: no response (timeout)
+seq 1783: tcp response from 103.25.22.168 [open]  170.456 ms
+seq 1785: tcp response from 103.25.22.168 [open]  267.326 ms
+seq 1786: tcp response from 103.25.22.169 [open]  197.859 ms
+seq 1784: no response (timeout)
+seq 1787: tcp response from 103.25.22.169 [open]  196.878 ms
+seq 1788: tcp response from 103.25.22.168 [open]  171.772 ms
+seq 1789: tcp response from 103.25.22.168 [open]  172.766 ms
+seq 1790: tcp response from 103.25.22.169 [open]  411.928 ms
+seq 1791: tcp response from 103.25.22.168 [open]  186.977 ms
+seq 1792: tcp response from 103.25.22.168 [open]  172.731 ms
+seq 1793: tcp response from 103.25.22.168 [open]  170.339 ms
+seq 1794: tcp response from 103.25.22.168 [open]  206.550 ms
+seq 1795: tcp response from 103.25.22.168 [open]  171.848 ms
+seq 1796: tcp response from 103.25.22.169 [open]  230.193 ms
+seq 1797: tcp response from 103.25.22.169 [open]  238.009 ms
+seq 1798: tcp response from 103.25.22.168 [open]  223.438 ms
+seq 1799: tcp response from 103.25.22.169 [open]  197.739 ms
+seq 1800: tcp response from 103.25.22.168 [open]  172.147 ms
+seq 1801: tcp response from 103.25.22.169 [open]  422.884 ms
+seq 1802: tcp response from 103.25.22.169 [open]  192.983 ms
+seq 1803: tcp response from 103.25.22.169 [open]  196.443 ms
+seq 1804: tcp response from 103.25.22.169 [open]  199.861 ms
+seq 1805: tcp response from 103.25.22.169 [open]  197.509 ms
+seq 1807: tcp response from 103.25.22.168 [open]  175.317 ms
+seq 1808: tcp response from 103.25.22.168 [open]  182.145 ms
+seq 1806: no response (timeout)
+seq 1810: tcp response from 103.25.22.169 [open]  422.069 ms
+seq 1811: tcp response from 103.25.22.169 [open]  197.333 ms
+seq 1809: no response (timeout)
+seq 1812: tcp response from 103.25.22.169 [open]  196.944 ms
+seq 1813: tcp response from 103.25.22.168 [open]  172.652 ms
+seq 1814: tcp response from 103.25.22.169 [open]  196.478 ms
+seq 1815: tcp response from 103.25.22.168 [open]  170.824 ms
+seq 1816: tcp response from 103.25.22.168 [open]  171.483 ms
+seq 1817: tcp response from 103.25.22.168 [open]  172.269 ms
+seq 1818: tcp response from 103.25.22.168 [open]  172.106 ms
+seq 1821: tcp response from 103.25.22.168 [open]  171.001 ms
+seq 1822: tcp response from 103.25.22.168 [open]  171.967 ms
+seq 1820: no response (timeout)
+seq 1819: no response (timeout)
+seq 1823: tcp response from 103.25.22.168 [open]  173.003 ms
+seq 1824: tcp response from 103.25.22.168 [open]  171.746 ms
+seq 1825: tcp response from 103.25.22.169 [open]  197.455 ms
+seq 1826: tcp response from 103.25.22.169 [open]  195.860 ms
+seq 1827: tcp response from 103.25.22.168 [open]  171.000 ms
+seq 1828: tcp response from 103.25.22.168 [open]  170.586 ms
+seq 1829: tcp response from 103.25.22.168 [open]  171.906 ms
+seq 1831: tcp response from 103.25.22.169 [open]  197.459 ms
+seq 1832: tcp response from 103.25.22.169 [open]  196.243 ms
+seq 1830: no response (timeout)
+seq 1833: tcp response from 103.25.22.168 [open]  172.514 ms
+seq 1835: tcp response from 103.25.22.168 [open]  169.945 ms
+seq 1834: no response (timeout)
+seq 1836: tcp response from 103.25.22.169 [open]  1981.418 ms
+seq 1838: tcp response from 103.25.22.168 [open]  170.347 ms
+seq 1839: tcp response from 103.25.22.169 [open]  194.596 ms
+seq 1837: no response (timeout)
+seq 1840: tcp response from 103.25.22.168 [open]  172.893 ms
+seq 1842: tcp response from 103.25.22.168 [open]  172.384 ms
+seq 1841: no response (timeout)
+seq 1843: tcp response from 103.25.22.169 [open]  197.754 ms
+seq 1844: tcp response from 103.25.22.168 [open]  170.559 ms
+seq 1845: tcp response from 103.25.22.168 [open]  172.459 ms
+seq 1846: tcp response from 103.25.22.168 [open]  170.433 ms
+seq 1847: tcp response from 103.25.22.169 [open]  195.853 ms
+seq 1849: tcp response from 103.25.22.169 [open]  197.967 ms
+seq 1850: tcp response from 103.25.22.168 [open]  172.686 ms
+seq 1851: tcp response from 103.25.22.169 [open]  197.750 ms
+seq 1852: tcp response from 103.25.22.168 [open]  170.653 ms
+seq 1853: tcp response from 103.25.22.169 [open]  196.966 ms
+seq 1854: tcp response from 103.25.22.169 [open]  195.920 ms
+seq 1848: no response (timeout)
+seq 1855: tcp response from 103.25.22.168 [open]  171.908 ms
+seq 1857: tcp response from 103.25.22.168 [open]  172.345 ms
+seq 1859: tcp response from 103.25.22.168 [open]  171.161 ms
+seq 1858: no response (timeout)
+seq 1856: tcp response from 103.25.22.169 [open]  196.488 ms
+seq 1860: tcp response from 103.25.22.169 [open]  443.133 ms
+seq 1863: tcp response from 103.25.22.169 [open]  193.041 ms
+seq 1864: tcp response from 103.25.22.168 [open]  170.356 ms
+seq 1865: tcp response from 103.25.22.168 [open]  254.100 ms
+seq 1861: tcp response from 103.25.22.168 [open]  170.401 ms
+seq 1862: tcp response from 103.25.22.169 [open]  420.647 ms
+seq 1868: tcp response from 103.25.22.169 [open]  198.057 ms
+seq 1867: tcp response from 103.25.22.168 [open]  1715.405 ms
+seq 1866: no response (timeout)
+seq 1870: tcp response from 103.25.22.168 [open]  252.873 ms
+seq 1871: tcp response from 103.25.22.169 [open]  197.963 ms
+seq 1869: no response (timeout)
+seq 1874: tcp response from 103.25.22.169 [open]  197.701 ms
+seq 1872: no response (timeout)
+seq 1873: tcp response from 103.25.22.169 [open]  1754.855 ms
+seq 1875: no response (timeout)
+seq 1878: tcp response from 103.25.22.169 [open]  198.779 ms
+seq 1876: tcp response from 103.25.22.168 [open]  253.884 ms
+seq 1877: no response (timeout)
+seq 1879: tcp response from 103.25.22.169 [open]  198.104 ms
+seq 1880: tcp response from 103.25.22.168 [open]  254.888 ms
+seq 1881: tcp response from 103.25.22.169 [open]  197.837 ms
+seq 1882: tcp response from 103.25.22.168 [open]  254.675 ms
+seq 1883: tcp response from 103.25.22.168 [open]  255.732 ms
+seq 1884: tcp response from 103.25.22.168 [open]  254.701 ms
+seq 1885: tcp response from 103.25.22.169 [open]  196.081 ms
+seq 1887: tcp response from 103.25.22.169 [open]  195.439 ms
+seq 1886: tcp response from 103.25.22.168 [open]  1601.460 ms
+seq 1889: tcp response from 103.25.22.168 [open]  253.643 ms
+seq 1890: tcp response from 103.25.22.169 [open]  450.925 ms
+seq 1888: no response (timeout)
+seq 1892: tcp response from 103.25.22.169 [open]  424.234 ms
+seq 1894: tcp response from 103.25.22.168 [open]  252.823 ms
+seq 1895: tcp response from 103.25.22.169 [open]  197.709 ms
+seq 1893: tcp response from 103.25.22.168 [open]  253.745 ms
+seq 1898: tcp response from 103.25.22.168 [open]  254.236 ms
+seq 1891: no response (timeout)
+seq 1896: no response (timeout)
+seq 1897: no response (timeout)
+seq 1901: tcp response from 103.25.22.169 [open]  197.155 ms
+seq 1899: no response (timeout)
+seq 1900: no response (timeout)
+seq 1903: tcp response from 103.25.22.169 [open]  426.623 ms
+seq 1902: tcp response from 103.25.22.168 [open]  170.842 ms
+seq 1904: tcp response from 103.25.22.168 [open]  173.454 ms
+seq 1905: tcp response from 103.25.22.168 [open]  170.167 ms
+seq 1907: tcp response from 103.25.22.168 [open]  170.341 ms
+seq 1906: no response (timeout)
+seq 1908: tcp response from 103.25.22.168 [open]  170.523 ms
+seq 1909: tcp response from 103.25.22.169 [open]  230.564 ms
+seq 1910: tcp response from 103.25.22.168 [open]  171.807 ms
+seq 1911: tcp response from 103.25.22.168 [open]  171.574 ms
+seq 1913: tcp response from 103.25.22.169 [open]  198.945 ms
+seq 1914: tcp response from 103.25.22.169 [open]  428.839 ms
+seq 1912: no response (timeout)
+seq 1916: tcp response from 103.25.22.168 [open]  170.225 ms
+seq 1915: tcp response from 103.25.22.169 [open]  426.843 ms
+seq 1917: tcp response from 103.25.22.169 [open]  193.682 ms
+seq 1918: tcp response from 103.25.22.169 [open]  198.803 ms
+seq 1919: tcp response from 103.25.22.168 [open]  174.090 ms
+seq 1920: tcp response from 103.25.22.169 [open]  197.698 ms
+seq 1921: tcp response from 103.25.22.168 [open]  206.356 ms
+seq 1922: tcp response from 103.25.22.168 [open]  171.434 ms
+seq 1923: tcp response from 103.25.22.168 [open]  182.540 ms
+seq 1924: tcp response from 103.25.22.169 [open]  197.563 ms
+seq 1925: tcp response from 103.25.22.168 [open]  364.174 ms
+seq 1927: tcp response from 103.25.22.169 [open]  198.465 ms
+seq 1928: tcp response from 103.25.22.169 [open]  196.078 ms
+seq 1926: no response (timeout)
+seq 1930: tcp response from 103.25.22.168 [open]  171.655 ms
+seq 1931: tcp response from 103.25.22.168 [open]  171.867 ms
+seq 1929: no response (timeout)
+seq 1932: tcp response from 103.25.22.168 [open]  172.283 ms
+seq 1933: tcp response from 103.25.22.169 [open]  198.649 ms
+seq 1934: tcp response from 103.25.22.169 [open]  197.389 ms
+seq 1935: tcp response from 103.25.22.169 [open]  428.256 ms
+seq 1936: tcp response from 103.25.22.168 [open]  173.006 ms
+seq 1937: tcp response from 103.25.22.169 [open]  196.571 ms
+seq 1938: tcp response from 103.25.22.168 [open]  171.607 ms
+seq 1939: tcp response from 103.25.22.169 [open]  195.677 ms
+seq 1940: tcp response from 103.25.22.169 [open]  442.891 ms
+seq 1941: tcp response from 103.25.22.168 [open]  172.021 ms
+seq 1942: tcp response from 103.25.22.169 [open]  430.895 ms
+seq 1944: tcp response from 103.25.22.168 [open]  171.472 ms
+seq 1945: tcp response from 103.25.22.169 [open]  196.968 ms
+seq 1943: no response (timeout)
+seq 1947: tcp response from 103.25.22.168 [open]  170.922 ms
+seq 1946: no response (timeout)
+seq 1948: tcp response from 103.25.22.168 [open]  171.664 ms
+seq 1949: tcp response from 103.25.22.169 [open]  198.354 ms
+seq 1950: tcp response from 103.25.22.169 [open]  196.163 ms
+seq 1951: tcp response from 103.25.22.168 [open]  254.641 ms
+seq 1952: tcp response from 103.25.22.169 [open]  195.902 ms
+seq 1954: tcp response from 103.25.22.168 [open]  252.770 ms
+seq 1956: tcp response from 103.25.22.169 [open]  439.853 ms
+seq 1953: no response (timeout)
+seq 1959: tcp response from 103.25.22.168 [open]  255.276 ms
+seq 1957: no response (timeout)
+seq 1955: tcp response from 103.25.22.168 [open]  1486.427 ms
+seq 1958: no response (timeout)
+seq 1960: tcp response from 103.25.22.169 [open]  475.502 ms
+seq 1962: tcp response from 103.25.22.168 [open]  254.677 ms
+seq 1963: tcp response from 103.25.22.168 [open]  256.752 ms
+seq 1961: no response (timeout)
+seq 1965: tcp response from 103.25.22.168 [open]  254.852 ms
+seq 1964: no response (timeout)
+seq 1967: tcp response from 103.25.22.168 [open]  254.188 ms
+seq 1966: tcp response from 103.25.22.168 [open]  255.396 ms
+seq 1968: tcp response from 103.25.22.168 [open]  252.850 ms
+seq 1969: tcp response from 103.25.22.169 [open]  197.152 ms
+seq 1970: tcp response from 103.25.22.169 [open]  197.795 ms
+seq 1972: tcp response from 103.25.22.168 [open]  254.168 ms
+seq 1973: tcp response from 103.25.22.168 [open]  252.359 ms
+seq 1971: no response (timeout)
+seq 1976: tcp response from 103.25.22.169 [open]  195.681 ms
+seq 1974: no response (timeout)
+seq 1975: no response (timeout)
+seq 1979: tcp response from 103.25.22.168 [open]  254.437 ms
+seq 1977: no response (timeout)
+seq 1978: tcp response from 103.25.22.169 [open]  196.851 ms
+seq 1980: tcp response from 103.25.22.169 [open]  198.137 ms
+seq 1983: tcp response from 103.25.22.169 [open]  197.115 ms
+seq 1982: tcp response from 103.25.22.168 [open]  1480.283 ms
+seq 1981: no response (timeout)
+seq 1985: tcp response from 103.25.22.169 [open]  413.170 ms
+seq 1986: tcp response from 103.25.22.168 [open]  171.671 ms
+seq 1984: no response (timeout)
+seq 1987: tcp response from 103.25.22.168 [open]  172.131 ms
+seq 1988: tcp response from 103.25.22.168 [open]  171.977 ms
+seq 1989: tcp response from 103.25.22.168 [open]  173.124 ms
+seq 1990: tcp response from 103.25.22.169 [open]  197.920 ms
+seq 1992: tcp response from 103.25.22.168 [open]  218.640 ms
+seq 1993: tcp response from 103.25.22.169 [open]  197.773 ms
+seq 1991: no response (timeout)
+seq 1994: tcp response from 103.25.22.168 [open]  171.008 ms
+seq 1995: tcp response from 103.25.22.168 [open]  173.988 ms
+seq 1996: tcp response from 103.25.22.169 [open]  197.098 ms
+seq 1997: tcp response from 103.25.22.169 [open]  196.735 ms
+seq 1998: tcp response from 103.25.22.169 [open]  197.278 ms
+seq 1999: tcp response from 103.25.22.168 [open]  172.338 ms
+seq 2001: tcp response from 103.25.22.168 [open]  170.885 ms
+seq 2000: no response (timeout)
+seq 2002: tcp response from 103.25.22.169 [open]  196.688 ms
+seq 2003: tcp response from 103.25.22.168 [open]  171.191 ms
+seq 2004: tcp response from 103.25.22.168 [open]  171.811 ms
+seq 2005: tcp response from 103.25.22.168 [open]  171.869 ms
+seq 2006: tcp response from 103.25.22.169 [open]  445.569 ms
+seq 2008: tcp response from 103.25.22.168 [open]  170.097 ms
+seq 2009: tcp response from 103.25.22.169 [open]  197.360 ms
+seq 2007: tcp response from 103.25.22.169 [open]  198.152 ms
+seq 2010: tcp response from 103.25.22.169 [open]  197.345 ms
+seq 2011: tcp response from 103.25.22.168 [open]  172.077 ms
+seq 2012: tcp response from 103.25.22.169 [open]  417.189 ms
+seq 2013: tcp response from 103.25.22.168 [open]  173.270 ms
+seq 2014: tcp response from 103.25.22.169 [open]  204.470 ms
+seq 2016: tcp response from 103.25.22.169 [open]  198.721 ms
+seq 2017: tcp response from 103.25.22.168 [open]  172.947 ms
+seq 2015: no response (timeout)
+seq 2019: tcp response from 103.25.22.169 [open]  197.164 ms
+seq 2020: tcp response from 103.25.22.169 [open]  198.051 ms
+seq 2018: tcp response from 103.25.22.169 [open]  468.117 ms
+seq 2021: tcp response from 103.25.22.168 [open]  170.539 ms
+seq 2022: tcp response from 103.25.22.169 [open]  195.506 ms
+seq 2023: tcp response from 103.25.22.168 [open]  170.432 ms
+seq 2024: tcp response from 103.25.22.168 [open]  172.823 ms
+seq 2025: tcp response from 103.25.22.168 [open]  170.245 ms
+seq 2026: tcp response from 103.25.22.168 [open]  170.814 ms
+seq 2027: tcp response from 103.25.22.168 [open]  172.619 ms
+seq 2028: tcp response from 103.25.22.168 [open]  170.764 ms
+seq 2029: tcp response from 103.25.22.169 [open]  430.319 ms
+seq 2030: tcp response from 103.25.22.169 [open]  197.096 ms
+seq 2031: tcp response from 103.25.22.168 [open]  172.305 ms
+seq 2033: tcp response from 103.25.22.169 [open]  197.475 ms
+seq 2032: tcp response from 103.25.22.169 [open]  233.613 ms
+seq 2034: tcp response from 103.25.22.169 [open]  195.834 ms
+seq 2035: tcp response from 103.25.22.168 [open]  171.402 ms
+seq 2038: tcp response from 103.25.22.168 [open]  174.720 ms
+seq 2036: no response (timeout)
+seq 2037: tcp response from 103.25.22.169 [open]  197.914 ms
+seq 2039: tcp response from 103.25.22.169 [open]  408.936 ms
+seq 2040: tcp response from 103.25.22.168 [open]  171.589 ms
+seq 2041: tcp response from 103.25.22.169 [open]  197.498 ms
+seq 2043: tcp response from 103.25.22.169 [open]  450.686 ms
+seq 2044: tcp response from 103.25.22.168 [open]  172.034 ms
+seq 2042: no response (timeout)
+seq 2045: tcp response from 103.25.22.168 [open]  171.371 ms
+seq 2046: tcp response from 103.25.22.168 [open]  169.934 ms
+seq 2048: tcp response from 103.25.22.169 [open]  196.024 ms
+seq 2049: tcp response from 103.25.22.168 [open]  172.237 ms
+seq 2047: no response (timeout)
+seq 2052: tcp response from 103.25.22.168 [open]  171.859 ms
+seq 2051: tcp response from 103.25.22.169 [open]  197.313 ms
+seq 2050: no response (timeout)
+seq 2053: tcp response from 103.25.22.169 [open]  196.983 ms
+seq 2054: tcp response from 103.25.22.169 [open]  197.417 ms
+seq 2055: tcp response from 103.25.22.168 [open]  171.755 ms
+seq 2056: tcp response from 103.25.22.168 [open]  172.758 ms
+seq 2058: tcp response from 103.25.22.168 [open]  171.703 ms
+seq 2059: tcp response from 103.25.22.169 [open]  197.677 ms
+seq 2060: tcp response from 103.25.22.169 [open]  200.275 ms
+seq 2057: tcp response from 103.25.22.168 [open]  170.794 ms
+seq 2062: tcp response from 103.25.22.168 [open]  171.739 ms
+seq 2063: tcp response from 103.25.22.169 [open]  196.907 ms
+seq 2065: tcp response from 103.25.22.169 [open]  194.400 ms
+seq 2061: tcp response from 103.25.22.168 [open]  171.661 ms
+seq 2066: tcp response from 103.25.22.169 [open]  199.199 ms
+seq 2067: tcp response from 103.25.22.168 [open]  170.823 ms
+seq 2064: no response (timeout)
+seq 2069: tcp response from 103.25.22.168 [open]  171.681 ms
+seq 2070: tcp response from 103.25.22.169 [open]  199.437 ms
+seq 2068: no response (timeout)
+seq 2071: tcp response from 103.25.22.169 [open]  412.019 ms
+seq 2072: tcp response from 103.25.22.168 [open]  172.292 ms
+seq 2073: tcp response from 103.25.22.168 [open]  172.171 ms
+seq 2074: tcp response from 103.25.22.168 [open]  172.179 ms
+seq 2075: tcp response from 103.25.22.168 [open]  170.999 ms
+seq 2076: tcp response from 103.25.22.169 [open]  197.803 ms
+seq 2077: tcp response from 103.25.22.169 [open]  195.897 ms
+seq 2078: tcp response from 103.25.22.169 [open]  430.386 ms
+seq 2079: tcp response from 103.25.22.168 [open]  172.143 ms
+seq 2080: tcp response from 103.25.22.168 [open]  170.624 ms
+seq 2081: tcp response from 103.25.22.168 [open]  170.913 ms
+seq 2082: tcp response from 103.25.22.168 [open]  170.488 ms
+seq 2083: tcp response from 103.25.22.169 [open]  417.010 ms
+seq 2084: tcp response from 103.25.22.169 [open]  193.101 ms
+seq 2087: tcp response from 103.25.22.169 [open]  198.664 ms
+seq 2085: tcp response from 103.25.22.169 [open]  197.365 ms
+seq 2088: tcp response from 103.25.22.168 [open]  170.582 ms
+seq 2086: no response (timeout)
+seq 2089: tcp response from 103.25.22.168 [open]  172.060 ms
+seq 2090: tcp response from 103.25.22.169 [open]  197.771 ms
+seq 2091: tcp response from 103.25.22.169 [open]  196.161 ms
+seq 2092: tcp response from 103.25.22.169 [open]  197.513 ms
+seq 2093: tcp response from 103.25.22.168 [open]  171.304 ms
+seq 2094: tcp response from 103.25.22.169 [open]  196.569 ms
+seq 2095: tcp response from 103.25.22.168 [open]  171.329 ms
+seq 2096: tcp response from 103.25.22.168 [open]  173.607 ms
+seq 2097: tcp response from 103.25.22.168 [open]  171.688 ms
+seq 2099: tcp response from 103.25.22.169 [open]  423.054 ms
+seq 2098: tcp response from 103.25.22.169 [open]  196.591 ms
+seq 2102: tcp response from 103.25.22.168 [open]  171.866 ms
+seq 2100: no response (timeout)
+seq 2101: no response (timeout)
+seq 2104: tcp response from 103.25.22.168 [open]  170.916 ms
+seq 2103: no response (timeout)
+seq 2106: tcp response from 103.25.22.169 [open]  198.401 ms
+seq 2107: tcp response from 103.25.22.168 [open]  171.942 ms
+seq 2105: no response (timeout)
+seq 2109: tcp response from 103.25.22.169 [open]  199.981 ms
+seq 2110: tcp response from 103.25.22.168 [open]  173.253 ms
+seq 2108: no response (timeout)
+seq 2111: tcp response from 103.25.22.169 [open]  197.193 ms
+seq 2113: tcp response from 103.25.22.168 [open]  170.705 ms
+seq 2114: tcp response from 103.25.22.168 [open]  170.419 ms
+seq 2115: tcp response from 103.25.22.169 [open]  1850.175 ms
+seq 2112: no response (timeout)
+seq 2117: tcp response from 103.25.22.169 [open]  197.481 ms
+seq 2118: tcp response from 103.25.22.169 [open]  197.157 ms
+seq 2120: tcp response from 103.25.22.169 [open]  197.616 ms
+seq 2116: tcp response from 103.25.22.169 [open]  193.037 ms
+seq 2121: tcp response from 103.25.22.168 [open]  172.884 ms
+seq 2122: tcp response from 103.25.22.168 [open]  172.519 ms
+seq 2119: tcp response from 103.25.22.168 [open]  173.682 ms
+seq 2123: tcp response from 103.25.22.169 [open]  197.496 ms
+seq 2124: tcp response from 103.25.22.168 [open]  170.330 ms
+seq 2126: tcp response from 103.25.22.169 [open]  195.523 ms
+seq 2127: tcp response from 103.25.22.168 [open]  172.407 ms
+seq 2129: tcp response from 103.25.22.169 [open]  405.552 ms
+seq 2128: tcp response from 103.25.22.168 [open]  170.066 ms
+seq 2125: no response (timeout)
+seq 2130: tcp response from 103.25.22.168 [open]  170.216 ms
+seq 2131: tcp response from 103.25.22.169 [open]  194.613 ms
+seq 2133: tcp response from 103.25.22.168 [open]  170.063 ms
+seq 2134: tcp response from 103.25.22.168 [open]  170.278 ms
+seq 2132: no response (timeout)
+seq 2135: tcp response from 103.25.22.168 [open]  169.805 ms
+seq 2136: tcp response from 103.25.22.169 [open]  196.111 ms
+seq 2138: tcp response from 103.25.22.168 [open]  170.764 ms
+seq 2137: tcp response from 103.25.22.169 [open]  197.622 ms
+seq 2139: tcp response from 103.25.22.168 [open]  171.343 ms
+seq 2140: tcp response from 103.25.22.169 [open]  412.643 ms
+seq 2141: tcp response from 103.25.22.169 [open]  196.097 ms
+seq 2143: tcp response from 103.25.22.169 [open]  195.957 ms
+seq 2144: tcp response from 103.25.22.168 [open]  172.984 ms
+seq 2142: no response (timeout)
+seq 2148: tcp response from 103.25.22.169 [open]  197.112 ms
+seq 2145: no response (timeout)
+seq 2147: tcp response from 103.25.22.169 [open]  195.888 ms
+seq 2146: tcp response from 103.25.22.168 [open]  170.379 ms
+seq 2150: tcp response from 103.25.22.168 [open]  191.030 ms
+seq 2151: tcp response from 103.25.22.168 [open]  171.989 ms
+seq 2149: no response (timeout)
+seq 2153: tcp response from 103.25.22.168 [open]  171.265 ms
+seq 2152: tcp response from 103.25.22.169 [open]  410.306 ms
+seq 2154: tcp response from 103.25.22.169 [open]  212.738 ms
+seq 2155: tcp response from 103.25.22.168 [open]  172.862 ms
+seq 2156: tcp response from 103.25.22.169 [open]  214.570 ms
+seq 2157: tcp response from 103.25.22.168 [open]  169.831 ms
+seq 2159: tcp response from 103.25.22.169 [open]  430.793 ms
+seq 2158: tcp response from 103.25.22.168 [open]  171.221 ms
+seq 2160: tcp response from 103.25.22.168 [open]  173.431 ms
+seq 2161: tcp response from 103.25.22.168 [open]  172.563 ms
+seq 2162: tcp response from 103.25.22.169 [open]  195.985 ms
+seq 2163: tcp response from 103.25.22.168 [open]  174.847 ms
+seq 2165: tcp response from 103.25.22.169 [open]  196.044 ms
+seq 2166: tcp response from 103.25.22.168 [open]  172.715 ms
+seq 2164: no response (timeout)
+seq 2167: tcp response from 103.25.22.168 [open]  170.396 ms
+seq 2168: tcp response from 103.25.22.169 [open]  407.227 ms
+seq 2169: tcp response from 103.25.22.169 [open]  194.108 ms
+seq 2170: tcp response from 103.25.22.168 [open]  170.406 ms
+seq 2171: tcp response from 103.25.22.168 [open]  170.404 ms
+seq 2172: tcp response from 103.25.22.168 [open]  172.937 ms
+seq 2173: tcp response from 103.25.22.168 [open]  170.550 ms
+seq 2174: tcp response from 103.25.22.168 [open]  171.937 ms
+seq 2175: tcp response from 103.25.22.169 [open]  199.248 ms
+seq 2176: tcp response from 103.25.22.168 [open]  172.279 ms
+seq 2177: tcp response from 103.25.22.169 [open]  196.254 ms
+seq 2178: tcp response from 103.25.22.169 [open]  195.570 ms
+seq 2179: tcp response from 103.25.22.168 [open]  171.641 ms
+seq 2181: tcp response from 103.25.22.168 [open]  170.428 ms
+seq 2182: tcp response from 103.25.22.169 [open]  425.120 ms
+seq 2180: no response (timeout)
+seq 2185: tcp response from 103.25.22.169 [open]  445.542 ms
+seq 2184: tcp response from 103.25.22.169 [open]  197.027 ms
+seq 2186: tcp response from 103.25.22.168 [open]  170.181 ms
+seq 2187: tcp response from 103.25.22.169 [open]  192.919 ms
+seq 2183: no response (timeout)
+seq 2190: tcp response from 103.25.22.168 [open]  172.699 ms
+seq 2191: tcp response from 103.25.22.168 [open]  170.859 ms
+seq 2192: tcp response from 103.25.22.169 [open]  197.119 ms
+seq 2194: tcp response from 103.25.22.169 [open]  196.526 ms
+seq 2195: tcp response from 103.25.22.168 [open]  172.517 ms
+seq 2189: tcp response from 103.25.22.168 [open]  170.399 ms
+seq 2188: no response (timeout)
+seq 2193: tcp response from 103.25.22.168 [open]  171.309 ms
+seq 2196: tcp response from 103.25.22.168 [open]  172.131 ms
+seq 2197: tcp response from 103.25.22.168 [open]  170.894 ms
+seq 2200: tcp response from 103.25.22.169 [open]  196.631 ms
+seq 2199: tcp response from 103.25.22.168 [open]  170.051 ms
+seq 2198: no response (timeout)
+seq 2202: tcp response from 103.25.22.169 [open]  195.618 ms
+seq 2201: no response (timeout)
+seq 2203: tcp response from 103.25.22.169 [open]  1803.020 ms
+seq 2206: tcp response from 103.25.22.168 [open]  207.215 ms
+seq 2204: no response (timeout)
+seq 2205: no response (timeout)
+seq 2207: tcp response from 103.25.22.169 [open]  195.608 ms
+seq 2208: tcp response from 103.25.22.168 [open]  170.840 ms
+seq 2209: tcp response from 103.25.22.168 [open]  171.737 ms
+seq 2210: tcp response from 103.25.22.169 [open]  405.074 ms
+seq 2211: tcp response from 103.25.22.168 [open]  172.490 ms
+seq 2212: tcp response from 103.25.22.168 [open]  171.302 ms
+seq 2213: tcp response from 103.25.22.168 [open]  170.455 ms
+seq 2214: tcp response from 103.25.22.168 [open]  169.919 ms
+seq 2215: no response (timeout)
+seq 2216: tcp response from 103.25.22.169 [open]  197.165 ms
+seq 2219: tcp response from 103.25.22.168 [open]  169.900 ms
+seq 2218: tcp response from 103.25.22.168 [open]  172.992 ms
+seq 2217: no response (timeout)
+seq 2220: tcp response from 103.25.22.169 [open]  197.105 ms
+seq 2222: tcp response from 103.25.22.168 [open]  173.570 ms
+seq 2221: no response (timeout)
+seq 2224: tcp response from 103.25.22.168 [open]  170.629 ms
+seq 2225: tcp response from 103.25.22.168 [open]  172.368 ms
+seq 2223: no response (timeout)
+seq 2226: tcp response from 103.25.22.168 [open]  172.753 ms
+seq 2227: tcp response from 103.25.22.168 [open]  170.275 ms
+seq 2228: tcp response from 103.25.22.169 [open]  198.058 ms
+seq 2229: tcp response from 103.25.22.168 [open]  170.192 ms
+seq 2230: tcp response from 103.25.22.169 [open]  405.590 ms
+seq 2232: tcp response from 103.25.22.168 [open]  170.414 ms
+seq 2231: no response (timeout)
+seq 2234: tcp response from 103.25.22.168 [open]  170.751 ms
+seq 2235: tcp response from 103.25.22.168 [open]  172.078 ms
+seq 2233: no response (timeout)
+seq 2236: tcp response from 103.25.22.169 [open]  198.719 ms
+seq 2237: tcp response from 103.25.22.168 [open]  209.859 ms
+seq 2238: tcp response from 103.25.22.168 [open]  172.009 ms
+seq 2240: tcp response from 103.25.22.168 [open]  170.875 ms
+seq 2241: tcp response from 103.25.22.169 [open]  197.141 ms
+seq 2243: tcp response from 103.25.22.168 [open]  171.326 ms
+seq 2239: no response (timeout)
+seq 2244: tcp response from 103.25.22.169 [open]  196.413 ms
+seq 2242: no response (timeout)
+seq 2245: tcp response from 103.25.22.168 [open]  173.804 ms
+seq 2246: tcp response from 103.25.22.169 [open]  196.876 ms
+seq 2247: tcp response from 103.25.22.168 [open]  170.509 ms
+seq 2249: tcp response from 103.25.22.168 [open]  172.183 ms
+seq 2248: tcp response from 103.25.22.168 [open]  170.357 ms
+seq 2250: tcp response from 103.25.22.168 [open]  171.748 ms
+seq 2251: tcp response from 103.25.22.169 [open]  414.187 ms
+seq 2252: tcp response from 103.25.22.169 [open]  193.912 ms
+seq 2254: tcp response from 103.25.22.168 [open]  171.247 ms
+seq 2255: tcp response from 103.25.22.168 [open]  171.848 ms
+seq 2253: no response (timeout)
+seq 2256: tcp response from 103.25.22.168 [open]  172.475 ms
+seq 2259: tcp response from 103.25.22.169 [open]  195.579 ms
+seq 2258: tcp response from 103.25.22.168 [open]  170.424 ms
+seq 2257: no response (timeout)
+seq 2260: tcp response from 103.25.22.168 [open]  172.119 ms
+seq 2261: tcp response from 103.25.22.168 [open]  170.538 ms
+seq 2264: tcp response from 103.25.22.168 [open]  171.878 ms
+seq 2263: tcp response from 103.25.22.169 [open]  198.188 ms
+seq 2265: tcp response from 103.25.22.168 [open]  170.318 ms
+seq 2262: tcp response from 103.25.22.168 [open]  172.209 ms
+seq 2266: tcp response from 103.25.22.169 [open]  442.879 ms
+seq 2267: tcp response from 103.25.22.168 [open]  173.162 ms
+seq 2268: tcp response from 103.25.22.169 [open]  197.160 ms
+seq 2269: tcp response from 103.25.22.169 [open]  197.832 ms
+seq 2270: tcp response from 103.25.22.168 [open]  171.403 ms
+seq 2272: tcp response from 103.25.22.168 [open]  171.728 ms
+seq 2273: tcp response from 103.25.22.168 [open]  170.061 ms
+seq 2271: no response (timeout)
+seq 2275: tcp response from 103.25.22.168 [open]  172.781 ms
+seq 2276: tcp response from 103.25.22.168 [open]  170.406 ms
+seq 2274: no response (timeout)
+seq 2279: tcp response from 103.25.22.168 [open]  170.910 ms
+seq 2277: no response (timeout)
+seq 2278: no response (timeout)
+seq 2280: tcp response from 103.25.22.169 [open]  420.007 ms
+seq 2282: tcp response from 103.25.22.169 [open]  192.935 ms
+seq 2281: no response (timeout)
+seq 2283: tcp response from 103.25.22.168 [open]  170.020 ms
+seq 2284: tcp response from 103.25.22.168 [open]  170.031 ms
+seq 2286: tcp response from 103.25.22.169 [open]  438.044 ms
+seq 2285: no response (timeout)
+seq 2287: tcp response from 103.25.22.168 [open]  172.590 ms
+seq 2288: tcp response from 103.25.22.169 [open]  196.863 ms
+seq 2290: tcp response from 103.25.22.169 [open]  199.279 ms
+seq 2291: tcp response from 103.25.22.168 [open]  198.750 ms
+seq 2293: tcp response from 103.25.22.169 [open]  197.091 ms
+seq 2289: no response (timeout)
+seq 2295: tcp response from 103.25.22.168 [open]  170.497 ms
+seq 2292: tcp response from 103.25.22.169 [open]  196.593 ms
+seq 2296: tcp response from 103.25.22.169 [open]  198.683 ms
+seq 2297: tcp response from 103.25.22.169 [open]  417.094 ms
+seq 2294: no response (timeout)
+seq 2298: tcp response from 103.25.22.168 [open]  171.786 ms
+seq 2300: tcp response from 103.25.22.169 [open]  196.397 ms
+seq 2301: tcp response from 103.25.22.168 [open]  170.344 ms
+seq 2299: no response (timeout)
+seq 2302: tcp response from 103.25.22.168 [open]  232.528 ms
+seq 2303: tcp response from 103.25.22.169 [open]  434.895 ms
+seq 2305: tcp response from 103.25.22.169 [open]  197.169 ms
+seq 2306: tcp response from 103.25.22.169 [open]  427.845 ms
+seq 2304: no response (timeout)
+seq 2307: tcp response from 103.25.22.169 [open]  411.764 ms
+seq 2308: tcp response from 103.25.22.168 [open]  171.038 ms
+seq 2310: tcp response from 103.25.22.169 [open]  193.555 ms
+seq 2309: tcp response from 103.25.22.168 [open]  170.183 ms
+seq 2311: tcp response from 103.25.22.168 [open]  171.969 ms
+seq 2312: tcp response from 103.25.22.169 [open]  198.090 ms
+seq 2313: tcp response from 103.25.22.168 [open]  172.082 ms
+seq 2314: tcp response from 103.25.22.168 [open]  170.453 ms
+seq 2316: tcp response from 103.25.22.169 [open]  195.716 ms
+seq 2317: tcp response from 103.25.22.169 [open]  199.450 ms
+seq 2318: tcp response from 103.25.22.169 [open]  197.137 ms
+seq 2320: tcp response from 103.25.22.169 [open]  205.968 ms
+seq 2315: tcp response from 103.25.22.168 [open]  172.946 ms
+seq 2319: no response (timeout)
+seq 2322: tcp response from 103.25.22.169 [open]  420.645 ms
+seq 2321: no response (timeout)
+seq 2324: tcp response from 103.25.22.168 [open]  173.644 ms
+seq 2323: tcp response from 103.25.22.168 [open]  170.425 ms
+seq 2326: tcp response from 103.25.22.169 [open]  196.319 ms
+seq 2325: no response (timeout)
+seq 2328: tcp response from 103.25.22.168 [open]  170.485 ms
+seq 2329: tcp response from 103.25.22.168 [open]  173.765 ms
+seq 2327: no response (timeout)
+seq 2331: tcp response from 103.25.22.169 [open]  194.393 ms
+seq 2330: no response (timeout)
+seq 2332: tcp response from 103.25.22.168 [open]  171.007 ms
+seq 2333: tcp response from 103.25.22.169 [open]  422.552 ms
+seq 2334: tcp response from 103.25.22.169 [open]  194.170 ms
+seq 2335: tcp response from 103.25.22.168 [open]  170.867 ms
+seq 2336: tcp response from 103.25.22.169 [open]  197.470 ms
+seq 2338: tcp response from 103.25.22.169 [open]  197.599 ms
+seq 2339: tcp response from 103.25.22.168 [open]  172.091 ms
+seq 2337: no response (timeout)
+seq 2340: tcp response from 103.25.22.168 [open]  170.416 ms
+seq 2341: tcp response from 103.25.22.168 [open]  172.226 ms
+seq 2343: tcp response from 103.25.22.169 [open]  195.467 ms
+seq 2342: tcp response from 103.25.22.168 [open]  171.950 ms
+seq 2345: tcp response from 103.25.22.168 [open]  172.087 ms
+seq 2346: tcp response from 103.25.22.169 [open]  411.912 ms
+seq 2348: tcp response from 103.25.22.168 [open]  171.162 ms
+seq 2344: no response (timeout)
+seq 2347: no response (timeout)
+seq 2349: tcp response from 103.25.22.168 [open]  170.420 ms
+seq 2351: tcp response from 103.25.22.168 [open]  170.317 ms
+seq 2350: tcp response from 103.25.22.169 [open]  197.285 ms
+seq 2352: tcp response from 103.25.22.169 [open]  197.313 ms
+seq 2354: tcp response from 103.25.22.168 [open]  172.186 ms
+seq 2353: no response (timeout)
+seq 2356: tcp response from 103.25.22.168 [open]  171.214 ms
+seq 2355: tcp response from 103.25.22.169 [open]  197.686 ms
+seq 2358: tcp response from 103.25.22.168 [open]  170.690 ms
+seq 2357: tcp response from 103.25.22.168 [open]  171.897 ms
+seq 2359: tcp response from 103.25.22.168 [open]  170.392 ms
+seq 2360: tcp response from 103.25.22.168 [open]  171.714 ms
+seq 2361: tcp response from 103.25.22.168 [open]  170.736 ms
+seq 2362: tcp response from 103.25.22.168 [open]  170.315 ms
+seq 2364: tcp response from 103.25.22.169 [open]  195.702 ms
+seq 2363: no response (timeout)
+seq 2366: tcp response from 103.25.22.168 [open]  170.895 ms
+seq 2368: tcp response from 103.25.22.168 [open]  171.817 ms
+seq 2365: tcp response from 103.25.22.168 [open]  170.297 ms
+seq 2369: tcp response from 103.25.22.169 [open]  198.186 ms
+seq 2367: no response (timeout)
+seq 2370: tcp response from 103.25.22.168 [open]  173.698 ms
+seq 2371: tcp response from 103.25.22.168 [open]  173.211 ms
+seq 2372: tcp response from 103.25.22.168 [open]  171.580 ms
+seq 2374: tcp response from 103.25.22.169 [open]  193.460 ms
+seq 2373: tcp response from 103.25.22.169 [open]  1661.120 ms
+seq 2375: tcp response from 103.25.22.168 [open]  171.445 ms
+seq 2376: tcp response from 103.25.22.169 [open]  195.677 ms
+seq 2378: tcp response from 103.25.22.168 [open]  170.511 ms
+seq 2377: no response (timeout)
+seq 2381: tcp response from 103.25.22.168 [open]  171.159 ms
+seq 2379: no response (timeout)
+seq 2383: tcp response from 103.25.22.168 [open]  170.554 ms
+seq 2382: no response (timeout)
+seq 2380: tcp response from 103.25.22.168 [open]  171.511 ms
+seq 2384: tcp response from 103.25.22.169 [open]  196.296 ms
+seq 2385: tcp response from 103.25.22.168 [open]  172.618 ms
+seq 2386: tcp response from 103.25.22.169 [open]  197.721 ms
+seq 2388: tcp response from 103.25.22.168 [open]  170.789 ms
+seq 2390: tcp response from 103.25.22.169 [open]  197.340 ms
+seq 2387: tcp response from 103.25.22.169 [open]  197.638 ms
+seq 2389: no response (timeout)
+seq 2392: tcp response from 103.25.22.168 [open]  170.293 ms
+seq 2391: no response (timeout)
+seq 2393: tcp response from 103.25.22.168 [open]  171.748 ms
+seq 2394: tcp response from 103.25.22.168 [open]  171.028 ms
+seq 2396: tcp response from 103.25.22.168 [open]  171.383 ms
+seq 2397: tcp response from 103.25.22.169 [open]  196.643 ms
+seq 2395: tcp response from 103.25.22.169 [open]  1570.346 ms
+seq 2398: tcp response from 103.25.22.168 [open]  171.836 ms
+seq 2399: tcp response from 103.25.22.168 [open]  171.951 ms
+seq 2401: tcp response from 103.25.22.168 [open]  172.828 ms
+seq 2400: tcp response from 103.25.22.168 [open]  170.971 ms
+seq 2402: tcp response from 103.25.22.169 [open]  196.114 ms
+seq 2403: tcp response from 103.25.22.169 [open]  442.026 ms
+seq 2404: tcp response from 103.25.22.169 [open]  200.061 ms
+seq 2405: tcp response from 103.25.22.168 [open]  172.189 ms
+seq 2406: tcp response from 103.25.22.169 [open]  195.787 ms
+seq 2409: tcp response from 103.25.22.168 [open]  172.115 ms
+seq 2407: no response (timeout)
+seq 2408: tcp response from 103.25.22.168 [open]  170.724 ms
+seq 2411: tcp response from 103.25.22.169 [open]  196.820 ms
+seq 2410: tcp response from 103.25.22.168 [open]  170.326 ms
+seq 2412: tcp response from 103.25.22.168 [open]  170.327 ms
+seq 2413: tcp response from 103.25.22.168 [open]  172.169 ms
+seq 2415: tcp response from 103.25.22.168 [open]  171.452 ms
+seq 2416: tcp response from 103.25.22.168 [open]  170.726 ms
+seq 2414: no response (timeout)
+seq 2417: tcp response from 103.25.22.169 [open]  196.019 ms
+seq 2418: tcp response from 103.25.22.168 [open]  171.952 ms
+seq 2420: tcp response from 103.25.22.168 [open]  170.773 ms
+seq 2421: tcp response from 103.25.22.168 [open]  172.374 ms
+seq 2419: no response (timeout)
+seq 2422: tcp response from 103.25.22.168 [open]  170.477 ms
+seq 2423: tcp response from 103.25.22.169 [open]  419.210 ms
+seq 2424: tcp response from 103.25.22.168 [open]  171.028 ms
+seq 2425: tcp response from 103.25.22.168 [open]  172.487 ms
+seq 2426: tcp response from 103.25.22.168 [open]  171.218 ms
+seq 2427: tcp response from 103.25.22.168 [open]  173.139 ms
+seq 2428: tcp response from 103.25.22.169 [open]  199.297 ms
+seq 2429: tcp response from 103.25.22.169 [open]  196.473 ms
+seq 2430: tcp response from 103.25.22.169 [open]  198.196 ms
+seq 2431: tcp response from 103.25.22.168 [open]  170.797 ms
+seq 2432: tcp response from 103.25.22.169 [open]  198.479 ms
+seq 2433: tcp response from 103.25.22.168 [open]  171.340 ms
+seq 2436: tcp response from 103.25.22.169 [open]  234.844 ms
+seq 2434: no response (timeout)
+seq 2437: no response (timeout)
+seq 2438: tcp response from 103.25.22.168 [open]  170.640 ms
+seq 2435: tcp response from 103.25.22.168 [open]  171.662 ms
+seq 2440: tcp response from 103.25.22.168 [open]  172.580 ms
+seq 2441: tcp response from 103.25.22.168 [open]  169.963 ms
+seq 2439: no response (timeout)
+seq 2442: tcp response from 103.25.22.169 [open]  195.983 ms
+seq 2443: tcp response from 103.25.22.168 [open]  171.203 ms
+seq 2444: tcp response from 103.25.22.168 [open]  172.216 ms
+seq 2445: tcp response from 103.25.22.168 [open]  172.400 ms
+seq 2446: tcp response from 103.25.22.169 [open]  442.373 ms
+seq 2447: tcp response from 103.25.22.169 [open]  194.588 ms
+seq 2448: tcp response from 103.25.22.169 [open]  195.990 ms
+seq 2450: tcp response from 103.25.22.168 [open]  172.937 ms
+seq 2451: tcp response from 103.25.22.169 [open]  195.736 ms
+seq 2449: no response (timeout)
+seq 2452: tcp response from 103.25.22.169 [open]  197.169 ms
+seq 2453: tcp response from 103.25.22.168 [open]  170.516 ms
+seq 2455: tcp response from 103.25.22.169 [open]  422.220 ms
+seq 2454: tcp response from 103.25.22.168 [open]  170.980 ms
+seq 2457: tcp response from 103.25.22.169 [open]  198.110 ms
+seq 2458: tcp response from 103.25.22.168 [open]  172.725 ms
+seq 2456: no response (timeout)
+seq 2459: no response (timeout)
+seq 2461: tcp response from 103.25.22.169 [open]  193.892 ms
+seq 2460: no response (timeout)
+seq 2463: tcp response from 103.25.22.168 [open]  172.077 ms
+seq 2462: no response (timeout)
+seq 2465: tcp response from 103.25.22.168 [open]  173.221 ms
+seq 2466: tcp response from 103.25.22.168 [open]  171.245 ms
+seq 2464: no response (timeout)
+seq 2469: tcp response from 103.25.22.168 [open]  171.024 ms
+seq 2468: tcp response from 103.25.22.169 [open]  424.277 ms
+seq 2467: no response (timeout)
+seq 2470: tcp response from 103.25.22.169 [open]  231.200 ms
+seq 2471: tcp response from 103.25.22.168 [open]  171.655 ms
+seq 2472: tcp response from 103.25.22.168 [open]  170.300 ms
+seq 2474: tcp response from 103.25.22.168 [open]  172.201 ms
+seq 2475: tcp response from 103.25.22.169 [open]  196.420 ms
+seq 2473: no response (timeout)
+seq 2476: tcp response from 103.25.22.169 [open]  197.738 ms
+seq 2477: tcp response from 103.25.22.168 [open]  172.239 ms
+seq 2479: tcp response from 103.25.22.168 [open]  171.868 ms
+seq 2480: tcp response from 103.25.22.168 [open]  170.667 ms
+seq 2478: no response (timeout)
+seq 2482: tcp response from 103.25.22.168 [open]  170.275 ms
+seq 2481: no response (timeout)
+seq 2484: tcp response from 103.25.22.169 [open]  194.516 ms
+seq 2483: no response (timeout)
+seq 2485: tcp response from 103.25.22.168 [open]  170.425 ms
+seq 2486: tcp response from 103.25.22.168 [open]  170.704 ms
+seq 2487: tcp response from 103.25.22.168 [open]  169.964 ms
+seq 2488: tcp response from 103.25.22.168 [open]  170.015 ms
+seq 2489: tcp response from 103.25.22.168 [open]  173.747 ms
+seq 2490: tcp response from 103.25.22.168 [open]  171.112 ms
+seq 2492: tcp response from 103.25.22.169 [open]  195.669 ms
+seq 2493: tcp response from 103.25.22.168 [open]  172.607 ms
+seq 2491: no response (timeout)
+seq 2494: tcp response from 103.25.22.169 [open]  196.292 ms
+seq 2495: tcp response from 103.25.22.168 [open]  172.796 ms
+seq 2497: tcp response from 103.25.22.169 [open]  195.481 ms
+seq 2498: tcp response from 103.25.22.168 [open]  171.856 ms
+seq 2496: no response (timeout)
+seq 2500: tcp response from 103.25.22.168 [open]  171.731 ms
+seq 2499: no response (timeout)
+seq 2502: tcp response from 103.25.22.168 [open]  172.169 ms
+seq 2501: no response (timeout)
+seq 2503: tcp response from 103.25.22.169 [open]  196.445 ms
+seq 2505: tcp response from 103.25.22.169 [open]  199.787 ms
+seq 2506: tcp response from 103.25.22.168 [open]  171.600 ms
+seq 2504: no response (timeout)
+seq 2507: tcp response from 103.25.22.168 [open]  170.360 ms
+seq 2508: tcp response from 103.25.22.168 [open]  172.067 ms
+seq 2509: tcp response from 103.25.22.169 [open]  198.397 ms
+seq 2510: tcp response from 103.25.22.168 [open]  172.462 ms
+seq 2511: tcp response from 103.25.22.169 [open]  428.627 ms
+seq 2513: tcp response from 103.25.22.169 [open]  195.610 ms
+seq 2514: tcp response from 103.25.22.168 [open]  173.398 ms
+seq 2512: no response (timeout)
+seq 2515: tcp response from 103.25.22.168 [open]  171.258 ms
+seq 2516: tcp response from 103.25.22.169 [open]  196.159 ms
+seq 2517: tcp response from 103.25.22.168 [open]  170.542 ms
+seq 2518: tcp response from 103.25.22.168 [open]  171.025 ms
+seq 2519: tcp response from 103.25.22.168 [open]  171.104 ms
+seq 2520: tcp response from 103.25.22.168 [open]  170.217 ms
+seq 2521: tcp response from 103.25.22.169 [open]  197.102 ms
+seq 2522: tcp response from 103.25.22.169 [open]  197.549 ms
+seq 2523: tcp response from 103.25.22.169 [open]  421.388 ms
+seq 2524: tcp response from 103.25.22.169 [open]  194.395 ms
+seq 2525: tcp response from 103.25.22.168 [open]  170.338 ms
+seq 2527: tcp response from 103.25.22.169 [open]  197.980 ms
+seq 2526: tcp response from 103.25.22.168 [open]  172.323 ms
+seq 2528: tcp response from 103.25.22.169 [open]  197.191 ms
+seq 2529: tcp response from 103.25.22.168 [open]  174.415 ms
+seq 2530: tcp response from 103.25.22.169 [open]  195.962 ms
+seq 2531: tcp response from 103.25.22.168 [open]  170.118 ms
+seq 2534: tcp response from 103.25.22.168 [open]  170.294 ms
+seq 2532: tcp response from 103.25.22.168 [open]  170.907 ms
+seq 2536: tcp response from 103.25.22.169 [open]  213.789 ms
+seq 2535: tcp response from 103.25.22.169 [open]  193.465 ms
+seq 2533: tcp response from 103.25.22.169 [open]  427.259 ms
+seq 2537: tcp response from 103.25.22.168 [open]  171.462 ms
+seq 2540: tcp response from 103.25.22.169 [open]  197.421 ms
+seq 2539: tcp response from 103.25.22.169 [open]  199.740 ms
+seq 2538: no response (timeout)
+seq 2543: tcp response from 103.25.22.169 [open]  200.385 ms
+seq 2544: tcp response from 103.25.22.168 [open]  172.134 ms
+seq 2542: tcp response from 103.25.22.168 [open]  172.965 ms
+seq 2541: no response (timeout)
+seq 2545: tcp response from 103.25.22.169 [open]  201.348 ms
+seq 2546: tcp response from 103.25.22.168 [open]  171.674 ms
+seq 2548: tcp response from 103.25.22.169 [open]  200.871 ms
+seq 2549: tcp response from 103.25.22.168 [open]  172.868 ms
+seq 2547: tcp response from 103.25.22.168 [open]  172.939 ms
+seq 2551: tcp response from 103.25.22.168 [open]  172.439 ms
+seq 2552: tcp response from 103.25.22.169 [open]  199.194 ms
+seq 2554: tcp response from 103.25.22.168 [open]  171.575 ms
+seq 2555: tcp response from 103.25.22.169 [open]  428.112 ms
+seq 2550: tcp response from 103.25.22.168 [open]  174.081 ms
+seq 2557: tcp response from 103.25.22.169 [open]  194.488 ms
+seq 2558: tcp response from 103.25.22.169 [open]  206.829 ms
+seq 2553: tcp response from 103.25.22.168 [open]  170.238 ms
+seq 2561: tcp response from 103.25.22.169 [open]  206.262 ms
+seq 2559: no response (timeout)
+seq 2556: tcp response from 103.25.22.168 [open]  170.836 ms
+seq 2560: tcp response from 103.25.22.168 [open]  170.227 ms
+seq 2563: tcp response from 103.25.22.169 [open]  196.303 ms
+seq 2564: tcp response from 103.25.22.169 [open]  195.561 ms
+seq 2562: no response (timeout)
+seq 2566: tcp response from 103.25.22.169 [open]  434.030 ms
+seq 2567: tcp response from 103.25.22.168 [open]  172.992 ms
+seq 2568: tcp response from 103.25.22.168 [open]  170.710 ms
+seq 2565: tcp response from 103.25.22.169 [open]  195.015 ms
+seq 2569: tcp response from 103.25.22.168 [open]  172.856 ms
+seq 2570: tcp response from 103.25.22.168 [open]  172.943 ms
+seq 2572: tcp response from 103.25.22.168 [open]  171.315 ms
+seq 2573: tcp response from 103.25.22.169 [open]  197.298 ms
+seq 2571: no response (timeout)
+seq 2574: tcp response from 103.25.22.168 [open]  170.618 ms
+seq 2576: tcp response from 103.25.22.168 [open]  170.944 ms
+seq 2575: no response (timeout)
+seq 2577: tcp response from 103.25.22.168 [open]  171.326 ms
+seq 2578: tcp response from 103.25.22.169 [open]  421.493 ms
+seq 2580: tcp response from 103.25.22.169 [open]  205.200 ms
+seq 2581: tcp response from 103.25.22.169 [open]  196.148 ms
+seq 2582: tcp response from 103.25.22.168 [open]  172.653 ms
+seq 2579: no response (timeout)
+seq 2583: tcp response from 103.25.22.168 [open]  170.320 ms
+seq 2586: tcp response from 103.25.22.169 [open]  198.763 ms
+seq 2584: no response (timeout)
+seq 2585: no response (timeout)
+seq 2587: tcp response from 103.25.22.168 [open]  172.595 ms
+seq 2588: tcp response from 103.25.22.168 [open]  170.894 ms
+seq 2590: tcp response from 103.25.22.168 [open]  170.370 ms
+seq 2589: tcp response from 103.25.22.168 [open]  170.369 ms
+seq 2592: tcp response from 103.25.22.168 [open]  281.245 ms
+seq 2591: tcp response from 103.25.22.169 [open]  1660.244 ms
+seq 2593: tcp response from 103.25.22.168 [open]  171.322 ms
+seq 2594: tcp response from 103.25.22.169 [open]  194.825 ms
+seq 2596: tcp response from 103.25.22.168 [open]  170.144 ms
+seq 2597: tcp response from 103.25.22.169 [open]  196.670 ms
+seq 2595: no response (timeout)
+seq 2599: tcp response from 103.25.22.168 [open]  172.721 ms
+seq 2598: tcp response from 103.25.22.168 [open]  172.200 ms
+seq 2601: tcp response from 103.25.22.168 [open]  173.077 ms
+seq 2600: tcp response from 103.25.22.169 [open]  197.860 ms
+seq 2604: tcp response from 103.25.22.169 [open]  197.005 ms
+seq 2603: tcp response from 103.25.22.169 [open]  441.288 ms
+seq 2602: no response (timeout)
+seq 2605: tcp response from 103.25.22.168 [open]  170.958 ms
+seq 2607: tcp response from 103.25.22.169 [open]  193.542 ms
+seq 2606: tcp response from 103.25.22.168 [open]  170.451 ms
+seq 2609: tcp response from 103.25.22.169 [open]  197.325 ms
+seq 2610: tcp response from 103.25.22.169 [open]  198.071 ms
+seq 2608: no response (timeout)
+seq 2612: tcp response from 103.25.22.168 [open]  171.494 ms
+seq 2613: tcp response from 103.25.22.169 [open]  424.035 ms
+seq 2611: tcp response from 103.25.22.168 [open]  170.672 ms
+seq 2614: tcp response from 103.25.22.169 [open]  193.305 ms
+seq 2615: tcp response from 103.25.22.169 [open]  196.302 ms
+seq 2616: tcp response from 103.25.22.168 [open]  172.876 ms
+seq 2618: tcp response from 103.25.22.168 [open]  170.333 ms
+seq 2617: no response (timeout)
+seq 2621: tcp response from 103.25.22.168 [open]  170.091 ms
+seq 2622: tcp response from 103.25.22.168 [open]  170.420 ms
+seq 2620: no response (timeout)
+seq 2619: tcp response from 103.25.22.168 [open]  171.892 ms
+seq 2624: tcp response from 103.25.22.169 [open]  432.216 ms
+seq 2625: tcp response from 103.25.22.168 [open]  172.036 ms
+seq 2623: no response (timeout)
+seq 2626: tcp response from 103.25.22.168 [open]  195.607 ms
+seq 2627: tcp response from 103.25.22.168 [open]  171.807 ms
+seq 2628: tcp response from 103.25.22.169 [open]  194.835 ms
+seq 2629: tcp response from 103.25.22.168 [open]  171.798 ms
+seq 2631: tcp response from 103.25.22.168 [open]  170.015 ms
+seq 2633: tcp response from 103.25.22.169 [open]  197.509 ms
+seq 2634: tcp response from 103.25.22.168 [open]  171.257 ms
+seq 2635: tcp response from 103.25.22.168 [open]  170.564 ms
+seq 2630: tcp response from 103.25.22.168 [open]  172.970 ms
+seq 2637: tcp response from 103.25.22.169 [open]  199.236 ms
+seq 2632: tcp response from 103.25.22.168 [open]  171.364 ms
+seq 2639: tcp response from 103.25.22.168 [open]  173.042 ms
+seq 2638: tcp response from 103.25.22.168 [open]  172.861 ms
+seq 2636: no response (timeout)
+seq 2641: tcp response from 103.25.22.168 [open]  171.666 ms
+seq 2642: tcp response from 103.25.22.169 [open]  196.813 ms
+seq 2640: no response (timeout)
+seq 2644: tcp response from 103.25.22.168 [open]  171.931 ms
+seq 2645: tcp response from 103.25.22.169 [open]  422.343 ms
+seq 2643: no response (timeout)
+seq 2646: tcp response from 103.25.22.168 [open]  170.964 ms
+seq 2647: tcp response from 103.25.22.169 [open]  193.854 ms
+seq 2648: tcp response from 103.25.22.169 [open]  196.645 ms
+seq 2649: tcp response from 103.25.22.168 [open]  172.245 ms
+seq 2650: tcp response from 103.25.22.168 [open]  170.394 ms
+seq 2651: tcp response from 103.25.22.168 [open]  172.327 ms
+seq 2652: tcp response from 103.25.22.168 [open]  171.412 ms
+seq 2653: tcp response from 103.25.22.169 [open]  197.615 ms
+seq 2654: tcp response from 103.25.22.169 [open]  197.601 ms
+seq 2656: tcp response from 103.25.22.168 [open]  171.127 ms
+seq 2657: tcp response from 103.25.22.168 [open]  171.891 ms
+seq 2658: tcp response from 103.25.22.168 [open]  170.285 ms
+seq 2655: no response (timeout)
+seq 2661: tcp response from 103.25.22.169 [open]  411.530 ms
+seq 2659: no response (timeout)
+seq 2662: tcp response from 103.25.22.169 [open]  195.272 ms
+seq 2660: no response (timeout)
+seq 2664: tcp response from 103.25.22.168 [open]  172.410 ms
+seq 2665: tcp response from 103.25.22.168 [open]  170.635 ms
+seq 2663: no response (timeout)
+seq 2666: tcp response from 103.25.22.169 [open]  196.122 ms
+seq 2667: tcp response from 103.25.22.169 [open]  431.257 ms
+seq 2668: tcp response from 103.25.22.168 [open]  171.057 ms
+seq 2669: tcp response from 103.25.22.168 [open]  170.740 ms
+seq 2670: tcp response from 103.25.22.168 [open]  169.796 ms
+seq 2671: tcp response from 103.25.22.169 [open]  413.616 ms
+seq 2672: tcp response from 103.25.22.169 [open]  194.749 ms
+seq 2673: tcp response from 103.25.22.168 [open]  170.301 ms
+seq 2674: tcp response from 103.25.22.169 [open]  196.208 ms
+seq 2675: tcp response from 103.25.22.168 [open]  170.016 ms
+seq 2676: tcp response from 103.25.22.168 [open]  171.541 ms
+seq 2677: tcp response from 103.25.22.169 [open]  195.707 ms
+seq 2678: tcp response from 103.25.22.168 [open]  171.927 ms
+seq 2679: tcp response from 103.25.22.168 [open]  173.478 ms
+seq 2680: tcp response from 103.25.22.168 [open]  171.692 ms
+seq 2681: tcp response from 103.25.22.169 [open]  197.771 ms
+seq 2682: tcp response from 103.25.22.168 [open]  171.063 ms
+seq 2683: tcp response from 103.25.22.168 [open]  171.789 ms
+seq 2684: tcp response from 103.25.22.169 [open]  197.281 ms
+seq 2685: tcp response from 103.25.22.168 [open]  171.896 ms
+seq 2686: tcp response from 103.25.22.169 [open]  199.102 ms
+seq 2687: tcp response from 103.25.22.169 [open]  197.395 ms
+seq 2688: tcp response from 103.25.22.169 [open]  195.322 ms
+seq 2689: tcp response from 103.25.22.168 [open]  171.916 ms
+seq 2690: tcp response from 103.25.22.168 [open]  171.364 ms
+seq 2691: tcp response from 103.25.22.169 [open]  195.990 ms
+seq 2692: tcp response from 103.25.22.169 [open]  463.396 ms
+seq 2693: tcp response from 103.25.22.168 [open]  172.212 ms
+seq 2694: tcp response from 103.25.22.169 [open]  195.745 ms
+seq 2695: tcp response from 103.25.22.168 [open]  172.387 ms
+seq 2696: tcp response from 103.25.22.169 [open]  193.096 ms
+seq 2697: tcp response from 103.25.22.168 [open]  171.051 ms

@@ -1,0 +1,2687 @@
+seq 1: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.407 ms
+seq 2: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.932 ms
+seq 0: no response (timeout)
+seq 4: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.890 ms
+seq 5: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.185 ms
+seq 3: no response (timeout)
+seq 6: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.862 ms
+seq 8: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.790 ms
+seq 9: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.460 ms
+seq 7: no response (timeout)
+seq 11: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.913 ms
+seq 12: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.440 ms
+seq 10: no response (timeout)
+seq 13: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.152 ms
+seq 14: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.669 ms
+seq 15: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.633 ms
+seq 16: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.297 ms
+seq 18: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.938 ms
+seq 17: no response (timeout)
+seq 20: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.721 ms
+seq 19: no response (timeout)
+seq 21: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.552 ms
+seq 22: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.993 ms
+seq 24: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.410 ms
+seq 25: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.149 ms
+seq 23: no response (timeout)
+seq 26: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.565 ms
+seq 28: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.091 ms
+seq 27: no response (timeout)
+seq 29: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.861 ms
+seq 31: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.852 ms
+seq 30: no response (timeout)
+seq 34: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.729 ms
+seq 32: no response (timeout)
+seq 33: no response (timeout)
+seq 38: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.428 ms
+seq 35: no response (timeout)
+seq 36: no response (timeout)
+seq 37: no response (timeout)
+seq 40: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.482 ms
+seq 39: no response (timeout)
+seq 41: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.303 ms
+seq 42: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.374 ms
+seq 43: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.775 ms
+seq 44: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.472 ms
+seq 45: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.879 ms
+seq 46: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.610 ms
+seq 48: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.451 ms
+seq 47: no response (timeout)
+seq 50: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.752 ms
+seq 49: no response (timeout)
+seq 53: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.054 ms
+seq 51: no response (timeout)
+seq 52: no response (timeout)
+seq 55: no response (timeout)
+seq 58: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.929 ms
+seq 56: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.696 ms
+seq 54: no response (timeout)
+seq 57: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.570 ms
+seq 59: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.360 ms
+seq 60: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.930 ms
+seq 63: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.216 ms
+seq 61: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.986 ms
+seq 62: no response (timeout)
+seq 66: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.097 ms
+seq 68: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.364 ms
+seq 64: no response (timeout)
+seq 65: no response (timeout)
+seq 69: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.139 ms
+seq 67: no response (timeout)
+seq 71: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.529 ms
+seq 74: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.749 ms
+seq 72: no response (timeout)
+seq 70: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.897 ms
+seq 73: no response (timeout)
+seq 76: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.855 ms
+seq 77: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.970 ms
+seq 75: no response (timeout)
+seq 80: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.172 ms
+seq 79: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.551 ms
+seq 78: no response (timeout)
+seq 82: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.320 ms
+seq 81: no response (timeout)
+seq 84: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.201 ms
+seq 85: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.410 ms
+seq 83: no response (timeout)
+seq 86: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.832 ms
+seq 88: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.600 ms
+seq 89: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.314 ms
+seq 87: no response (timeout)
+seq 91: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.856 ms
+seq 90: no response (timeout)
+seq 93: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.824 ms
+seq 92: no response (timeout)
+seq 94: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.181 ms
+seq 97: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.779 ms
+seq 95: no response (timeout)
+seq 101: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.403 ms
+seq 98: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.142 ms
+seq 96: no response (timeout)
+seq 99: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.216 ms
+seq 104: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.518 ms
+seq 102: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.588 ms
+seq 105: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.092 ms
+seq 100: no response (timeout)
+seq 103: no response (timeout)
+seq 106: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.257 ms
+seq 107: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.535 ms
+seq 109: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.786 ms
+seq 110: tcp response from front.head.rambler.ru (81.19.82.11) [open]  203.761 ms
+seq 108: no response (timeout)
+seq 111: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.436 ms
+seq 112: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.585 ms
+seq 113: no response (timeout)
+seq 115: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.754 ms
+seq 116: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.398 ms
+seq 114: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.575 ms
+seq 119: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.374 ms
+seq 117: no response (timeout)
+seq 118: no response (timeout)
+seq 120: tcp response from front.head.rambler.ru (81.19.82.8) [open]  220.331 ms
+seq 121: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.081 ms
+seq 123: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.075 ms
+seq 122: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.953 ms
+seq 124: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.559 ms
+seq 127: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.251 ms
+seq 126: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.708 ms
+seq 125: no response (timeout)
+seq 128: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.441 ms
+seq 130: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.340 ms
+seq 131: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.885 ms
+seq 129: no response (timeout)
+seq 133: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.279 ms
+seq 132: no response (timeout)
+seq 137: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.337 ms
+seq 135: no response (timeout)
+seq 136: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.495 ms
+seq 138: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.129 ms
+seq 134: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.902 ms
+seq 139: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.264 ms
+seq 140: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.283 ms
+seq 141: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.182 ms
+seq 142: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.197 ms
+seq 144: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.044 ms
+seq 145: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.771 ms
+seq 146: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.679 ms
+seq 143: no response (timeout)
+seq 148: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.243 ms
+seq 147: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.797 ms
+seq 149: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.623 ms
+seq 150: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.087 ms
+seq 151: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.558 ms
+seq 152: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.345 ms
+seq 153: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.763 ms
+seq 156: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.183 ms
+seq 154: no response (timeout)
+seq 155: no response (timeout)
+seq 158: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.153 ms
+seq 159: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.728 ms
+seq 157: no response (timeout)
+seq 160: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.165 ms
+seq 163: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.792 ms
+seq 161: no response (timeout)
+seq 162: no response (timeout)
+seq 166: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.088 ms
+seq 164: no response (timeout)
+seq 168: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.578 ms
+seq 165: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.937 ms
+seq 167: no response (timeout)
+seq 169: no response (timeout)
+seq 172: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.902 ms
+seq 170: no response (timeout)
+seq 173: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.934 ms
+seq 171: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.799 ms
+seq 174: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.896 ms
+seq 175: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.610 ms
+seq 176: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.994 ms
+seq 178: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.056 ms
+seq 177: no response (timeout)
+seq 180: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.463 ms
+seq 179: no response (timeout)
+seq 182: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.245 ms
+seq 181: no response (timeout)
+seq 184: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.334 ms
+seq 183: no response (timeout)
+seq 186: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.611 ms
+seq 187: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.831 ms
+seq 185: no response (timeout)
+seq 189: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.404 ms
+seq 190: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.843 ms
+seq 188: no response (timeout)
+seq 192: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.800 ms
+seq 191: no response (timeout)
+seq 194: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.163 ms
+seq 193: no response (timeout)
+seq 195: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.513 ms
+seq 197: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.571 ms
+seq 198: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.439 ms
+seq 196: no response (timeout)
+seq 199: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.679 ms
+seq 202: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.471 ms
+seq 200: no response (timeout)
+seq 203: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.489 ms
+seq 201: no response (timeout)
+seq 205: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.352 ms
+seq 206: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.457 ms
+seq 204: no response (timeout)
+seq 207: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.142 ms
+seq 210: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.203 ms
+seq 211: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.386 ms
+seq 209: no response (timeout)
+seq 214: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.323 ms
+seq 208: no response (timeout)
+seq 212: no response (timeout)
+seq 215: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.348 ms
+seq 213: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.523 ms
+seq 217: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.089 ms
+seq 216: no response (timeout)
+seq 220: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.797 ms
+seq 218: no response (timeout)
+seq 219: no response (timeout)
+seq 221: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.723 ms
+seq 222: no response (timeout)
+seq 223: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.174 ms
+seq 225: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.023 ms
+seq 227: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.444 ms
+seq 226: no response (timeout)
+seq 224: no response (timeout)
+seq 228: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.299 ms
+seq 230: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.074 ms
+seq 231: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.159 ms
+seq 232: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.263 ms
+seq 229: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.424 ms
+seq 233: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.090 ms
+seq 235: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.334 ms
+seq 236: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.916 ms
+seq 234: no response (timeout)
+seq 237: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.998 ms
+seq 238: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.749 ms
+seq 239: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.488 ms
+seq 241: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.279 ms
+seq 242: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.637 ms
+seq 240: no response (timeout)
+seq 245: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.771 ms
+seq 243: no response (timeout)
+seq 244: no response (timeout)
+seq 247: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.733 ms
+seq 246: no response (timeout)
+seq 249: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.467 ms
+seq 248: no response (timeout)
+seq 250: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.715 ms
+seq 252: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.519 ms
+seq 253: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.127 ms
+seq 251: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.869 ms
+seq 257: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.939 ms
+seq 255: no response (timeout)
+seq 256: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.458 ms
+seq 254: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.503 ms
+seq 261: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.212 ms
+seq 258: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.506 ms
+seq 259: no response (timeout)
+seq 260: no response (timeout)
+seq 262: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.728 ms
+seq 264: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.466 ms
+seq 265: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.443 ms
+seq 266: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.653 ms
+seq 263: no response (timeout)
+seq 268: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.750 ms
+seq 267: no response (timeout)
+seq 269: no response (timeout)
+seq 270: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.032 ms
+seq 271: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.572 ms
+seq 275: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.920 ms
+seq 272: no response (timeout)
+seq 273: no response (timeout)
+seq 274: no response (timeout)
+seq 277: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.082 ms
+seq 278: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.827 ms
+seq 276: no response (timeout)
+seq 281: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.686 ms
+seq 279: no response (timeout)
+seq 280: no response (timeout)
+seq 284: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.337 ms
+seq 282: no response (timeout)
+seq 283: no response (timeout)
+seq 285: no response (timeout)
+seq 286: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.377 ms
+seq 287: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.914 ms
+seq 290: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.670 ms
+seq 291: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.272 ms
+seq 288: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.569 ms
+seq 292: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.169 ms
+seq 289: no response (timeout)
+seq 294: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.136 ms
+seq 293: no response (timeout)
+seq 295: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.614 ms
+seq 296: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.454 ms
+seq 299: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.644 ms
+seq 297: no response (timeout)
+seq 298: no response (timeout)
+seq 300: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.161 ms
+seq 302: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.304 ms
+seq 303: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.319 ms
+seq 301: no response (timeout)
+seq 304: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.519 ms
+seq 306: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.695 ms
+seq 305: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.497 ms
+seq 308: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.397 ms
+seq 309: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.909 ms
+seq 307: no response (timeout)
+seq 311: tcp response from front.head.rambler.ru (81.19.82.10) [open]  240.595 ms
+seq 312: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.199 ms
+seq 313: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.864 ms
+seq 310: no response (timeout)
+seq 314: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.217 ms
+seq 315: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.272 ms
+seq 317: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.023 ms
+seq 319: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.717 ms
+seq 318: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.157 ms
+seq 316: no response (timeout)
+seq 320: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.212 ms
+seq 322: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.519 ms
+seq 323: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.601 ms
+seq 321: no response (timeout)
+seq 324: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.705 ms
+seq 327: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.453 ms
+seq 326: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.634 ms
+seq 325: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.489 ms
+seq 328: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.955 ms
+seq 330: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.613 ms
+seq 331: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.986 ms
+seq 329: no response (timeout)
+seq 332: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.824 ms
+seq 333: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.273 ms
+seq 334: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.166 ms
+seq 335: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.443 ms
+seq 336: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.975 ms
+seq 338: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.613 ms
+seq 337: no response (timeout)
+seq 340: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.787 ms
+seq 339: no response (timeout)
+seq 341: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.264 ms
+seq 342: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.771 ms
+seq 343: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.971 ms
+seq 345: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.382 ms
+seq 344: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.209 ms
+seq 347: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.428 ms
+seq 348: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.247 ms
+seq 346: no response (timeout)
+seq 351: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.281 ms
+seq 349: no response (timeout)
+seq 353: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.367 ms
+seq 352: no response (timeout)
+seq 355: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.287 ms
+seq 350: no response (timeout)
+seq 354: no response (timeout)
+seq 357: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.132 ms
+seq 356: no response (timeout)
+seq 358: no response (timeout)
+seq 360: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.012 ms
+seq 359: no response (timeout)
+seq 361: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.696 ms
+seq 364: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.101 ms
+seq 362: no response (timeout)
+seq 363: no response (timeout)
+seq 365: no response (timeout)
+seq 368: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.903 ms
+seq 366: no response (timeout)
+seq 367: no response (timeout)
+seq 369: no response (timeout)
+seq 371: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.420 ms
+seq 372: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.237 ms
+seq 374: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.992 ms
+seq 370: no response (timeout)
+seq 373: no response (timeout)
+seq 376: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.311 ms
+seq 377: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.140 ms
+seq 375: no response (timeout)
+seq 379: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.226 ms
+seq 380: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.334 ms
+seq 378: no response (timeout)
+seq 382: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.171 ms
+seq 381: no response (timeout)
+seq 385: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.617 ms
+seq 383: no response (timeout)
+seq 384: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.447 ms
+seq 388: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.655 ms
+seq 386: no response (timeout)
+seq 389: tcp response from front.head.rambler.ru (81.19.82.8) [open]  197.454 ms
+seq 391: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.556 ms
+seq 390: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.803 ms
+seq 387: no response (timeout)
+seq 393: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.385 ms
+seq 394: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.717 ms
+seq 392: no response (timeout)
+seq 396: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.433 ms
+seq 395: no response (timeout)
+seq 398: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.800 ms
+seq 397: no response (timeout)
+seq 400: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.352 ms
+seq 401: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.090 ms
+seq 399: no response (timeout)
+seq 402: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.511 ms
+seq 403: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.114 ms
+seq 405: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.540 ms
+seq 407: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.463 ms
+seq 404: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.856 ms
+seq 406: no response (timeout)
+seq 410: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.257 ms
+seq 408: no response (timeout)
+seq 409: no response (timeout)
+seq 412: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.053 ms
+seq 411: no response (timeout)
+seq 413: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.511 ms
+seq 414: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.684 ms
+seq 417: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.197 ms
+seq 415: no response (timeout)
+seq 416: no response (timeout)
+seq 419: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.587 ms
+seq 418: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.361 ms
+seq 420: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.586 ms
+seq 421: tcp response from front.head.rambler.ru (81.19.82.8) [open]  204.246 ms
+seq 423: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.141 ms
+seq 424: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.838 ms
+seq 422: no response (timeout)
+seq 427: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.891 ms
+seq 425: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.890 ms
+seq 428: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.983 ms
+seq 426: no response (timeout)
+seq 429: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.563 ms
+seq 430: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.239 ms
+seq 432: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.723 ms
+seq 433: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.112 ms
+seq 434: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.433 ms
+seq 431: no response (timeout)
+seq 435: no response (timeout)
+seq 437: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.954 ms
+seq 436: no response (timeout)
+seq 438: no response (timeout)
+seq 441: tcp response from front.head.rambler.ru (81.19.82.10) [open]  205.212 ms
+seq 443: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.818 ms
+seq 439: no response (timeout)
+seq 440: no response (timeout)
+seq 444: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.203 ms
+seq 442: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.480 ms
+seq 446: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.564 ms
+seq 445: no response (timeout)
+seq 448: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.474 ms
+seq 447: no response (timeout)
+seq 449: no response (timeout)
+seq 450: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.421 ms
+seq 452: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.864 ms
+seq 453: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.370 ms
+seq 451: no response (timeout)
+seq 457: tcp response from front.head.rambler.ru (81.19.82.10) [open]  207.646 ms
+seq 456: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.791 ms
+seq 455: no response (timeout)
+seq 454: no response (timeout)
+seq 460: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.116 ms
+seq 458: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.160 ms
+seq 459: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.642 ms
+seq 461: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.131 ms
+seq 463: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.244 ms
+seq 462: no response (timeout)
+seq 465: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.052 ms
+seq 464: no response (timeout)
+seq 466: tcp response from front.head.rambler.ru (81.19.82.9) [open]  208.805 ms
+seq 468: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.238 ms
+seq 469: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.082 ms
+seq 467: no response (timeout)
+seq 470: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.129 ms
+seq 471: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.349 ms
+seq 472: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.756 ms
+seq 474: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.188 ms
+seq 475: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.174 ms
+seq 473: no response (timeout)
+seq 477: tcp response from front.head.rambler.ru (81.19.82.11) [open]  197.636 ms
+seq 476: no response (timeout)
+seq 478: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.463 ms
+seq 481: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.351 ms
+seq 482: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.147 ms
+seq 480: no response (timeout)
+seq 479: no response (timeout)
+seq 483: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.498 ms
+seq 484: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.089 ms
+seq 485: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.477 ms
+seq 486: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.384 ms
+seq 487: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.754 ms
+seq 488: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.225 ms
+seq 489: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.697 ms
+seq 490: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.537 ms
+seq 491: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.293 ms
+seq 492: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.184 ms
+seq 494: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.522 ms
+seq 495: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.218 ms
+seq 493: no response (timeout)
+seq 496: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.709 ms
+seq 497: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.967 ms
+seq 498: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.499 ms
+seq 500: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.881 ms
+seq 501: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.304 ms
+seq 499: no response (timeout)
+seq 504: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.570 ms
+seq 502: no response (timeout)
+seq 503: no response (timeout)
+seq 505: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.505 ms
+seq 508: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.904 ms
+seq 506: no response (timeout)
+seq 507: no response (timeout)
+seq 511: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.523 ms
+seq 509: no response (timeout)
+seq 510: no response (timeout)
+seq 513: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.210 ms
+seq 515: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.004 ms
+seq 514: no response (timeout)
+seq 512: no response (timeout)
+seq 516: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.314 ms
+seq 517: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.385 ms
+seq 519: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.770 ms
+seq 520: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.497 ms
+seq 518: no response (timeout)
+seq 522: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.671 ms
+seq 521: no response (timeout)
+seq 524: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.453 ms
+seq 523: no response (timeout)
+seq 525: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.216 ms
+seq 528: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.673 ms
+seq 527: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.116 ms
+seq 529: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.467 ms
+seq 530: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.098 ms
+seq 526: no response (timeout)
+seq 531: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.280 ms
+seq 535: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.621 ms
+seq 534: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.263 ms
+seq 536: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.223 ms
+seq 537: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.731 ms
+seq 532: no response (timeout)
+seq 533: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.504 ms
+seq 539: tcp response from front.head.rambler.ru (81.19.82.11) [open]  199.038 ms
+seq 541: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.525 ms
+seq 538: no response (timeout)
+seq 542: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.474 ms
+seq 543: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.270 ms
+seq 547: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.609 ms
+seq 546: no response (timeout)
+seq 545: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.143 ms
+seq 544: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.168 ms
+seq 540: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.997 ms
+seq 549: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.190 ms
+seq 548: no response (timeout)
+seq 550: no response (timeout)
+seq 551: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.526 ms
+seq 553: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.415 ms
+seq 554: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.595 ms
+seq 552: no response (timeout)
+seq 556: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.172 ms
+seq 557: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.492 ms
+seq 559: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.892 ms
+seq 560: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.237 ms
+seq 555: no response (timeout)
+seq 562: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.690 ms
+seq 563: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.035 ms
+seq 561: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.187 ms
+seq 564: tcp response from front.head.rambler.ru (81.19.82.11) [open]  204.696 ms
+seq 558: no response (timeout)
+seq 566: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.769 ms
+seq 565: no response (timeout)
+seq 567: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.304 ms
+seq 570: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.816 ms
+seq 568: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.021 ms
+seq 569: no response (timeout)
+seq 572: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.798 ms
+seq 573: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.090 ms
+seq 571: no response (timeout)
+seq 574: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.252 ms
+seq 576: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.672 ms
+seq 575: no response (timeout)
+seq 579: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.904 ms
+seq 577: no response (timeout)
+seq 578: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.163 ms
+seq 580: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.355 ms
+seq 581: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.499 ms
+seq 582: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.081 ms
+seq 583: tcp response from front.head.rambler.ru (81.19.82.11) [open]  197.211 ms
+seq 584: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.181 ms
+seq 587: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.754 ms
+seq 586: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.581 ms
+seq 585: no response (timeout)
+seq 589: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.648 ms
+seq 588: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.253 ms
+seq 592: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.586 ms
+seq 590: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.485 ms
+seq 593: tcp response from front.head.rambler.ru (81.19.82.9) [open]  198.237 ms
+seq 591: no response (timeout)
+seq 595: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.027 ms
+seq 594: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.407 ms
+seq 596: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.641 ms
+seq 597: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.193 ms
+seq 598: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.336 ms
+seq 599: tcp response from front.head.rambler.ru (81.19.82.11) [open]  196.064 ms
+seq 600: tcp response from front.head.rambler.ru (81.19.82.11) [open]  196.010 ms
+seq 602: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.967 ms
+seq 603: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.000 ms
+seq 601: no response (timeout)
+seq 604: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.543 ms
+seq 605: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.071 ms
+seq 606: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.504 ms
+seq 607: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.857 ms
+seq 608: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.679 ms
+seq 609: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.417 ms
+seq 610: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.921 ms
+seq 611: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.426 ms
+seq 612: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.149 ms
+seq 614: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.703 ms
+seq 615: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.727 ms
+seq 613: no response (timeout)
+seq 618: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.143 ms
+seq 616: no response (timeout)
+seq 620: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.683 ms
+seq 619: no response (timeout)
+seq 622: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.449 ms
+seq 617: no response (timeout)
+seq 621: no response (timeout)
+seq 625: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.985 ms
+seq 626: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.061 ms
+seq 624: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.224 ms
+seq 629: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.741 ms
+seq 628: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.237 ms
+seq 623: no response (timeout)
+seq 630: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.087 ms
+seq 627: tcp response from front.head.rambler.ru (81.19.82.9) [open]  244.409 ms
+seq 631: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.683 ms
+seq 634: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.607 ms
+seq 633: no response (timeout)
+seq 636: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.362 ms
+seq 632: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.480 ms
+seq 638: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.746 ms
+seq 635: no response (timeout)
+seq 637: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.808 ms
+seq 639: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.425 ms
+seq 640: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.505 ms
+seq 641: tcp response from front.head.rambler.ru (81.19.82.11) [open]  196.249 ms
+seq 643: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.682 ms
+seq 644: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.602 ms
+seq 642: no response (timeout)
+seq 645: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.275 ms
+seq 646: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.215 ms
+seq 648: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.289 ms
+seq 647: no response (timeout)
+seq 651: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.411 ms
+seq 649: no response (timeout)
+seq 650: no response (timeout)
+seq 653: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.697 ms
+seq 652: no response (timeout)
+seq 655: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.449 ms
+seq 654: no response (timeout)
+seq 656: no response (timeout)
+seq 657: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.085 ms
+seq 659: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.207 ms
+seq 660: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.789 ms
+seq 658: no response (timeout)
+seq 661: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.319 ms
+seq 662: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.143 ms
+seq 663: tcp response from front.head.rambler.ru (81.19.82.11) [open]  197.066 ms
+seq 665: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.741 ms
+seq 666: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.745 ms
+seq 664: no response (timeout)
+seq 668: tcp response from front.head.rambler.ru (81.19.82.8) [open]  197.166 ms
+seq 667: no response (timeout)
+seq 670: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.250 ms
+seq 669: no response (timeout)
+seq 672: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.476 ms
+seq 673: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.444 ms
+seq 671: no response (timeout)
+seq 674: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.525 ms
+seq 675: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.264 ms
+seq 676: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.772 ms
+seq 677: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.548 ms
+seq 678: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.635 ms
+seq 681: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.678 ms
+seq 683: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.585 ms
+seq 682: no response (timeout)
+seq 680: no response (timeout)
+seq 686: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.030 ms
+seq 684: no response (timeout)
+seq 687: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.726 ms
+seq 685: no response (timeout)
+seq 679: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.539 ms
+seq 691: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.264 ms
+seq 688: no response (timeout)
+seq 689: no response (timeout)
+seq 690: tcp response from front.head.rambler.ru (81.19.82.11) [open]  367.631 ms
+seq 693: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.189 ms
+seq 694: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.359 ms
+seq 692: no response (timeout)
+seq 695: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.736 ms
+seq 696: tcp response from front.head.rambler.ru (81.19.82.8) [open]  317.928 ms
+seq 698: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.319 ms
+seq 697: no response (timeout)
+seq 700: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.207 ms
+seq 699: no response (timeout)
+seq 702: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.359 ms
+seq 703: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.133 ms
+seq 701: no response (timeout)
+seq 705: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.480 ms
+seq 706: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.135 ms
+seq 704: no response (timeout)
+seq 708: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.495 ms
+seq 709: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.272 ms
+seq 707: tcp response from front.head.rambler.ru (81.19.82.8) [open]  237.323 ms
+seq 710: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.618 ms
+seq 713: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.265 ms
+seq 712: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.159 ms
+seq 711: no response (timeout)
+seq 714: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.605 ms
+seq 715: no response (timeout)
+seq 717: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.605 ms
+seq 716: no response (timeout)
+seq 718: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.568 ms
+seq 719: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.349 ms
+seq 720: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.126 ms
+seq 721: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.734 ms
+seq 722: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.003 ms
+seq 724: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.076 ms
+seq 725: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.518 ms
+seq 723: no response (timeout)
+seq 726: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.032 ms
+seq 728: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.382 ms
+seq 729: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.256 ms
+seq 727: no response (timeout)
+seq 731: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.874 ms
+seq 730: no response (timeout)
+seq 734: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.973 ms
+seq 732: no response (timeout)
+seq 733: no response (timeout)
+seq 736: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.476 ms
+seq 735: no response (timeout)
+seq 737: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.328 ms
+seq 739: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.634 ms
+seq 740: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.816 ms
+seq 738: no response (timeout)
+seq 742: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.558 ms
+seq 743: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.550 ms
+seq 741: no response (timeout)
+seq 745: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.834 ms
+seq 746: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.623 ms
+seq 744: no response (timeout)
+seq 749: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.933 ms
+seq 747: no response (timeout)
+seq 748: no response (timeout)
+seq 751: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.713 ms
+seq 750: no response (timeout)
+seq 752: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.855 ms
+seq 754: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.182 ms
+seq 753: no response (timeout)
+seq 757: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.822 ms
+seq 755: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.145 ms
+seq 758: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.790 ms
+seq 756: no response (timeout)
+seq 760: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.583 ms
+seq 761: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.585 ms
+seq 759: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.676 ms
+seq 762: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.042 ms
+seq 763: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.704 ms
+seq 765: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.465 ms
+seq 766: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.814 ms
+seq 764: no response (timeout)
+seq 767: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.932 ms
+seq 768: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.850 ms
+seq 771: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.854 ms
+seq 769: no response (timeout)
+seq 770: no response (timeout)
+seq 772: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.492 ms
+seq 773: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.351 ms
+seq 774: tcp response from front.head.rambler.ru (81.19.82.8) [open]  231.836 ms
+seq 776: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.036 ms
+seq 777: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.429 ms
+seq 775: no response (timeout)
+seq 779: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.788 ms
+seq 778: no response (timeout)
+seq 780: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.483 ms
+seq 782: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.966 ms
+seq 781: no response (timeout)
+seq 783: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.048 ms
+seq 785: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.095 ms
+seq 786: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.592 ms
+seq 784: no response (timeout)
+seq 787: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.544 ms
+seq 790: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.833 ms
+seq 788: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.223 ms
+seq 791: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.681 ms
+seq 789: no response (timeout)
+seq 793: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.418 ms
+seq 794: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.342 ms
+seq 792: no response (timeout)
+seq 797: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.793 ms
+seq 795: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.637 ms
+seq 796: no response (timeout)
+seq 798: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.483 ms
+seq 800: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.533 ms
+seq 802: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.669 ms
+seq 799: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.595 ms
+seq 801: no response (timeout)
+seq 804: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.606 ms
+seq 803: no response (timeout)
+seq 806: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.735 ms
+seq 807: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.681 ms
+seq 805: no response (timeout)
+seq 809: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.298 ms
+seq 808: no response (timeout)
+seq 811: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.222 ms
+seq 810: no response (timeout)
+seq 812: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.711 ms
+seq 814: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.494 ms
+seq 815: tcp response from front.head.rambler.ru (81.19.82.8) [open]  213.264 ms
+seq 813: no response (timeout)
+seq 818: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.933 ms
+seq 816: no response (timeout)
+seq 817: no response (timeout)
+seq 819: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.955 ms
+seq 820: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.671 ms
+seq 822: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.692 ms
+seq 824: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.626 ms
+seq 821: no response (timeout)
+seq 825: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.787 ms
+seq 823: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.632 ms
+seq 826: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.804 ms
+seq 828: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.318 ms
+seq 827: no response (timeout)
+seq 829: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.575 ms
+seq 831: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.413 ms
+seq 832: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.828 ms
+seq 833: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.133 ms
+seq 830: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.900 ms
+seq 834: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.497 ms
+seq 835: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.810 ms
+seq 836: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.120 ms
+seq 838: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.757 ms
+seq 839: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.176 ms
+seq 837: no response (timeout)
+seq 841: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.650 ms
+seq 842: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.821 ms
+seq 840: no response (timeout)
+seq 844: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.745 ms
+seq 845: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.471 ms
+seq 843: no response (timeout)
+seq 847: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.107 ms
+seq 848: tcp response from front.head.rambler.ru (81.19.82.10) [open]  218.799 ms
+seq 846: no response (timeout)
+seq 850: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.923 ms
+seq 851: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.674 ms
+seq 849: no response (timeout)
+seq 853: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.555 ms
+seq 855: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.307 ms
+seq 854: no response (timeout)
+seq 852: no response (timeout)
+seq 856: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.647 ms
+seq 858: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.178 ms
+seq 859: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.398 ms
+seq 857: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.225 ms
+seq 860: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.817 ms
+seq 861: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.421 ms
+seq 862: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.182 ms
+seq 864: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.799 ms
+seq 865: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.589 ms
+seq 863: no response (timeout)
+seq 867: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.269 ms
+seq 868: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.804 ms
+seq 866: no response (timeout)
+seq 870: tcp response from front.head.rambler.ru (81.19.82.10) [open]  233.166 ms
+seq 871: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.008 ms
+seq 869: no response (timeout)
+seq 873: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.358 ms
+seq 875: tcp response from front.head.rambler.ru (81.19.82.10) [open]  229.388 ms
+seq 872: no response (timeout)
+seq 877: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.482 ms
+seq 876: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.914 ms
+seq 874: no response (timeout)
+seq 878: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.044 ms
+seq 881: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.629 ms
+seq 879: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.598 ms
+seq 880: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.671 ms
+seq 882: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.686 ms
+seq 884: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.167 ms
+seq 883: no response (timeout)
+seq 887: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.751 ms
+seq 885: no response (timeout)
+seq 886: no response (timeout)
+seq 891: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.997 ms
+seq 888: no response (timeout)
+seq 892: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.174 ms
+seq 889: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.940 ms
+seq 890: no response (timeout)
+seq 896: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.687 ms
+seq 897: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.577 ms
+seq 895: no response (timeout)
+seq 898: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.296 ms
+seq 894: no response (timeout)
+seq 893: no response (timeout)
+seq 899: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.465 ms
+seq 901: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.661 ms
+seq 900: no response (timeout)
+seq 904: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.041 ms
+seq 902: no response (timeout)
+seq 905: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.037 ms
+seq 903: no response (timeout)
+seq 908: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.458 ms
+seq 906: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.575 ms
+seq 907: no response (timeout)
+seq 909: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.011 ms
+seq 912: tcp response from front.head.rambler.ru (81.19.82.8) [open]  211.462 ms
+seq 910: no response (timeout)
+seq 911: no response (timeout)
+seq 916: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.452 ms
+seq 913: no response (timeout)
+seq 915: no response (timeout)
+seq 914: no response (timeout)
+seq 918: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.383 ms
+seq 921: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.730 ms
+seq 917: no response (timeout)
+seq 920: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.480 ms
+seq 922: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.580 ms
+seq 919: no response (timeout)
+seq 924: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.411 ms
+seq 926: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.850 ms
+seq 923: no response (timeout)
+seq 925: no response (timeout)
+seq 928: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.994 ms
+seq 929: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.810 ms
+seq 927: no response (timeout)
+seq 931: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.837 ms
+seq 932: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.374 ms
+seq 930: no response (timeout)
+seq 933: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.918 ms
+seq 935: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.097 ms
+seq 938: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.591 ms
+seq 934: no response (timeout)
+seq 936: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.087 ms
+seq 937: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.062 ms
+seq 939: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.469 ms
+seq 941: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.268 ms
+seq 942: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.422 ms
+seq 940: no response (timeout)
+seq 945: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.153 ms
+seq 946: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.558 ms
+seq 943: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.291 ms
+seq 944: no response (timeout)
+seq 947: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.780 ms
+seq 948: tcp response from front.head.rambler.ru (81.19.82.8) [open]  243.373 ms
+seq 949: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.619 ms
+seq 950: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.822 ms
+seq 952: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.117 ms
+seq 953: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.510 ms
+seq 951: no response (timeout)
+seq 955: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.144 ms
+seq 957: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.801 ms
+seq 956: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.045 ms
+seq 954: no response (timeout)
+seq 958: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.694 ms
+seq 959: tcp response from front.head.rambler.ru (81.19.82.8) [open]  243.996 ms
+seq 961: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.555 ms
+seq 960: no response (timeout)
+seq 962: no response (timeout)
+seq 965: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.620 ms
+seq 964: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.304 ms
+seq 963: no response (timeout)
+seq 966: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.079 ms
+seq 968: tcp response from front.head.rambler.ru (81.19.82.8) [open]  235.622 ms
+seq 967: no response (timeout)
+seq 969: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.677 ms
+seq 970: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.024 ms
+seq 971: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.496 ms
+seq 972: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.617 ms
+seq 973: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.954 ms
+seq 974: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.698 ms
+seq 976: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.607 ms
+seq 977: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.599 ms
+seq 978: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.535 ms
+seq 975: no response (timeout)
+seq 979: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.433 ms
+seq 980: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.505 ms
+seq 982: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.670 ms
+seq 983: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.651 ms
+seq 981: no response (timeout)
+seq 986: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.397 ms
+seq 987: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.658 ms
+seq 984: no response (timeout)
+seq 985: no response (timeout)
+seq 988: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.014 ms
+seq 990: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.894 ms
+seq 989: no response (timeout)
+seq 992: tcp response from front.head.rambler.ru (81.19.82.10) [open]  244.364 ms
+seq 993: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.211 ms
+seq 991: no response (timeout)
+seq 996: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.739 ms
+seq 994: no response (timeout)
+seq 997: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.908 ms
+seq 995: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.729 ms
+seq 998: no response (timeout)
+seq 999: no response (timeout)
+seq 1001: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.618 ms
+seq 1000: no response (timeout)
+seq 1003: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.035 ms
+seq 1004: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.686 ms
+seq 1002: no response (timeout)
+seq 1005: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.154 ms
+seq 1006: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.304 ms
+seq 1007: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.159 ms
+seq 1010: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.470 ms
+seq 1008: no response (timeout)
+seq 1009: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.560 ms
+seq 1012: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.981 ms
+seq 1011: no response (timeout)
+seq 1013: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.678 ms
+seq 1015: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.792 ms
+seq 1014: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.793 ms
+seq 1016: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.443 ms
+seq 1017: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.874 ms
+seq 1018: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.659 ms
+seq 1019: tcp response from front.head.rambler.ru (81.19.82.11) [open]  222.221 ms
+seq 1021: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.489 ms
+seq 1022: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.489 ms
+seq 1020: no response (timeout)
+seq 1023: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.554 ms
+seq 1024: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.769 ms
+seq 1026: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.329 ms
+seq 1025: no response (timeout)
+seq 1028: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.603 ms
+seq 1027: no response (timeout)
+seq 1029: no response (timeout)
+seq 1030: no response (timeout)
+seq 1033: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.321 ms
+seq 1031: no response (timeout)
+seq 1032: no response (timeout)
+seq 1035: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.823 ms
+seq 1034: no response (timeout)
+seq 1037: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.035 ms
+seq 1038: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.410 ms
+seq 1036: no response (timeout)
+seq 1039: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.948 ms
+seq 1040: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.666 ms
+seq 1041: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.164 ms
+seq 1042: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.968 ms
+seq 1043: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.264 ms
+seq 1044: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.597 ms
+seq 1046: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.223 ms
+seq 1047: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.740 ms
+seq 1045: no response (timeout)
+seq 1049: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.693 ms
+seq 1050: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.023 ms
+seq 1048: no response (timeout)
+seq 1051: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.879 ms
+seq 1052: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.225 ms
+seq 1054: tcp response from front.head.rambler.ru (81.19.82.10) [open]  197.870 ms
+seq 1055: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.886 ms
+seq 1053: no response (timeout)
+seq 1056: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.527 ms
+seq 1057: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.445 ms
+seq 1059: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.429 ms
+seq 1061: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.561 ms
+seq 1058: no response (timeout)
+seq 1060: no response (timeout)
+seq 1063: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.763 ms
+seq 1062: no response (timeout)
+seq 1064: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.645 ms
+seq 1067: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.361 ms
+seq 1066: no response (timeout)
+seq 1069: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.215 ms
+seq 1065: no response (timeout)
+seq 1068: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.714 ms
+seq 1070: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.750 ms
+seq 1071: no response (timeout)
+seq 1074: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.580 ms
+seq 1072: no response (timeout)
+seq 1073: no response (timeout)
+seq 1077: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.281 ms
+seq 1075: no response (timeout)
+seq 1076: no response (timeout)
+seq 1078: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.195 ms
+seq 1079: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.345 ms
+seq 1081: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.864 ms
+seq 1080: no response (timeout)
+seq 1082: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.535 ms
+seq 1084: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.845 ms
+seq 1083: no response (timeout)
+seq 1086: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.418 ms
+seq 1085: no response (timeout)
+seq 1089: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.064 ms
+seq 1087: no response (timeout)
+seq 1090: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.651 ms
+seq 1088: no response (timeout)
+seq 1092: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.311 ms
+seq 1093: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.443 ms
+seq 1091: no response (timeout)
+seq 1095: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.764 ms
+seq 1094: no response (timeout)
+seq 1097: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.353 ms
+seq 1098: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.162 ms
+seq 1096: no response (timeout)
+seq 1099: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.793 ms
+seq 1100: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.591 ms
+seq 1102: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.040 ms
+seq 1101: no response (timeout)
+seq 1104: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.698 ms
+seq 1103: no response (timeout)
+seq 1106: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.332 ms
+seq 1107: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.789 ms
+seq 1105: no response (timeout)
+seq 1109: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.295 ms
+seq 1110: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.107 ms
+seq 1108: no response (timeout)
+seq 1113: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.385 ms
+seq 1112: no response (timeout)
+seq 1111: no response (timeout)
+seq 1114: no response (timeout)
+seq 1115: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.762 ms
+seq 1117: tcp response from front.head.rambler.ru (81.19.82.10) [open]  211.191 ms
+seq 1116: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.129 ms
+seq 1118: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.466 ms
+seq 1121: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.962 ms
+seq 1119: no response (timeout)
+seq 1120: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.665 ms
+seq 1124: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.296 ms
+seq 1122: no response (timeout)
+seq 1123: no response (timeout)
+seq 1125: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.673 ms
+seq 1127: tcp response from front.head.rambler.ru (81.19.82.8) [open]  516.835 ms
+seq 1128: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.702 ms
+seq 1126: no response (timeout)
+seq 1130: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.888 ms
+seq 1129: no response (timeout)
+seq 1132: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.144 ms
+seq 1131: no response (timeout)
+seq 1134: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.189 ms
+seq 1135: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.427 ms
+seq 1133: no response (timeout)
+seq 1136: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.256 ms
+seq 1138: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.001 ms
+seq 1139: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.350 ms
+seq 1137: no response (timeout)
+seq 1140: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.053 ms
+seq 1141: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.615 ms
+seq 1142: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.984 ms
+seq 1143: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.947 ms
+seq 1144: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.017 ms
+seq 1146: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.888 ms
+seq 1147: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.621 ms
+seq 1145: no response (timeout)
+seq 1150: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.785 ms
+seq 1148: no response (timeout)
+seq 1149: no response (timeout)
+seq 1151: no response (timeout)
+seq 1154: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.551 ms
+seq 1152: no response (timeout)
+seq 1153: no response (timeout)
+seq 1157: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.468 ms
+seq 1158: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.014 ms
+seq 1155: no response (timeout)
+seq 1156: no response (timeout)
+seq 1159: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.613 ms
+seq 1160: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.010 ms
+seq 1161: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.710 ms
+seq 1164: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.838 ms
+seq 1162: no response (timeout)
+seq 1163: no response (timeout)
+seq 1167: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.531 ms
+seq 1165: no response (timeout)
+seq 1166: no response (timeout)
+seq 1170: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.593 ms
+seq 1168: no response (timeout)
+seq 1172: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.865 ms
+seq 1169: no response (timeout)
+seq 1171: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.770 ms
+seq 1173: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.876 ms
+seq 1174: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.776 ms
+seq 1177: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.506 ms
+seq 1175: no response (timeout)
+seq 1176: no response (timeout)
+seq 1179: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.550 ms
+seq 1178: no response (timeout)
+seq 1180: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.036 ms
+seq 1182: tcp response from front.head.rambler.ru (81.19.82.11) [open]  209.175 ms
+seq 1183: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.679 ms
+seq 1181: no response (timeout)
+seq 1185: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.646 ms
+seq 1186: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.881 ms
+seq 1184: no response (timeout)
+seq 1189: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.867 ms
+seq 1187: no response (timeout)
+seq 1191: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.772 ms
+seq 1188: no response (timeout)
+seq 1190: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.207 ms
+seq 1194: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.954 ms
+seq 1193: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.552 ms
+seq 1195: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.320 ms
+seq 1192: no response (timeout)
+seq 1197: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.695 ms
+seq 1198: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.578 ms
+seq 1199: tcp response from front.head.rambler.ru (81.19.82.9) [open]  227.385 ms
+seq 1196: tcp response from front.head.rambler.ru (81.19.82.9) [open]  207.032 ms
+seq 1201: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.667 ms
+seq 1202: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.389 ms
+seq 1200: no response (timeout)
+seq 1203: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.414 ms
+seq 1204: tcp response from front.head.rambler.ru (81.19.82.8) [open]  231.257 ms
+seq 1206: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.685 ms
+seq 1207: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.139 ms
+seq 1205: no response (timeout)
+seq 1208: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.779 ms
+seq 1211: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.843 ms
+seq 1209: no response (timeout)
+seq 1210: no response (timeout)
+seq 1212: no response (timeout)
+seq 1215: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.636 ms
+seq 1213: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.223 ms
+seq 1214: no response (timeout)
+seq 1216: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.408 ms
+seq 1217: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.515 ms
+seq 1218: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.726 ms
+seq 1219: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.598 ms
+seq 1220: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.646 ms
+seq 1221: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.050 ms
+seq 1222: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.226 ms
+seq 1223: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.203 ms
+seq 1225: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.586 ms
+seq 1224: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.479 ms
+seq 1227: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.987 ms
+seq 1228: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.564 ms
+seq 1226: no response (timeout)
+seq 1229: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.810 ms
+seq 1231: tcp response from front.head.rambler.ru (81.19.82.8) [open]  197.694 ms
+seq 1232: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.477 ms
+seq 1230: no response (timeout)
+seq 1233: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.695 ms
+seq 1234: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.214 ms
+seq 1236: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.468 ms
+seq 1235: no response (timeout)
+seq 1237: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.673 ms
+seq 1240: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.441 ms
+seq 1238: no response (timeout)
+seq 1239: no response (timeout)
+seq 1241: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.316 ms
+seq 1242: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.228 ms
+seq 1243: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.478 ms
+seq 1245: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.996 ms
+seq 1246: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.751 ms
+seq 1244: no response (timeout)
+seq 1247: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.147 ms
+seq 1249: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.822 ms
+seq 1250: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.214 ms
+seq 1248: no response (timeout)
+seq 1253: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.643 ms
+seq 1252: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.202 ms
+seq 1251: no response (timeout)
+seq 1254: no response (timeout)
+seq 1257: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.939 ms
+seq 1255: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.593 ms
+seq 1258: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.283 ms
+seq 1256: no response (timeout)
+seq 1260: tcp response from front.head.rambler.ru (81.19.82.8) [open]  197.340 ms
+seq 1259: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.605 ms
+seq 1261: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.516 ms
+seq 1262: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.586 ms
+seq 1263: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.461 ms
+seq 1264: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.520 ms
+seq 1265: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.239 ms
+seq 1266: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.679 ms
+seq 1267: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.576 ms
+seq 1268: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.332 ms
+seq 1269: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.719 ms
+seq 1271: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.483 ms
+seq 1270: no response (timeout)
+seq 1274: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.377 ms
+seq 1272: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.191 ms
+seq 1273: no response (timeout)
+seq 1276: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.375 ms
+seq 1275: no response (timeout)
+seq 1278: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.390 ms
+seq 1279: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.577 ms
+seq 1280: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.592 ms
+seq 1283: tcp response from front.head.rambler.ru (81.19.82.9) [open]  215.247 ms
+seq 1281: no response (timeout)
+seq 1277: no response (timeout)
+seq 1282: no response (timeout)
+seq 1284: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.173 ms
+seq 1286: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.598 ms
+seq 1287: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.184 ms
+seq 1285: no response (timeout)
+seq 1290: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.965 ms
+seq 1288: no response (timeout)
+seq 1289: no response (timeout)
+seq 1291: no response (timeout)
+seq 1293: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.229 ms
+seq 1294: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.854 ms
+seq 1292: no response (timeout)
+seq 1296: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.424 ms
+seq 1297: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.344 ms
+seq 1295: no response (timeout)
+seq 1298: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.186 ms
+seq 1300: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.901 ms
+seq 1301: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.436 ms
+seq 1302: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.953 ms
+seq 1304: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.424 ms
+seq 1299: no response (timeout)
+seq 1303: no response (timeout)
+seq 1305: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.417 ms
+seq 1306: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.832 ms
+seq 1307: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.099 ms
+seq 1309: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.846 ms
+seq 1308: no response (timeout)
+seq 1310: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.633 ms
+seq 1312: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.670 ms
+seq 1311: no response (timeout)
+seq 1314: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.646 ms
+seq 1313: no response (timeout)
+seq 1317: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.872 ms
+seq 1316: no response (timeout)
+seq 1319: tcp response from front.head.rambler.ru (81.19.82.8) [open]  210.676 ms
+seq 1315: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.122 ms
+seq 1318: no response (timeout)
+seq 1322: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.647 ms
+seq 1320: no response (timeout)
+seq 1321: no response (timeout)
+seq 1323: no response (timeout)
+seq 1325: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.936 ms
+seq 1324: no response (timeout)
+seq 1326: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.555 ms
+seq 1328: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.729 ms
+seq 1329: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.914 ms
+seq 1327: no response (timeout)
+seq 1331: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.811 ms
+seq 1332: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.727 ms
+seq 1330: no response (timeout)
+seq 1333: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.757 ms
+seq 1335: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.863 ms
+seq 1336: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.455 ms
+seq 1334: no response (timeout)
+seq 1338: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.120 ms
+seq 1337: no response (timeout)
+seq 1340: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.606 ms
+seq 1341: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.961 ms
+seq 1339: no response (timeout)
+seq 1342: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.280 ms
+seq 1343: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.403 ms
+seq 1345: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.748 ms
+seq 1346: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.526 ms
+seq 1344: no response (timeout)
+seq 1347: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.587 ms
+seq 1349: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.807 ms
+seq 1348: no response (timeout)
+seq 1351: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.797 ms
+seq 1350: no response (timeout)
+seq 1353: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.399 ms
+seq 1354: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.289 ms
+seq 1352: no response (timeout)
+seq 1355: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.881 ms
+seq 1358: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.977 ms
+seq 1356: no response (timeout)
+seq 1359: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.304 ms
+seq 1357: no response (timeout)
+seq 1362: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.446 ms
+seq 1361: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.549 ms
+seq 1363: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.683 ms
+seq 1360: no response (timeout)
+seq 1364: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.456 ms
+seq 1365: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.218 ms
+seq 1366: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.674 ms
+seq 1367: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.589 ms
+seq 1369: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.838 ms
+seq 1370: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.537 ms
+seq 1368: no response (timeout)
+seq 1372: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.183 ms
+seq 1373: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.675 ms
+seq 1371: no response (timeout)
+seq 1374: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.219 ms
+seq 1375: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.381 ms
+seq 1376: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.586 ms
+seq 1377: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.780 ms
+seq 1378: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.132 ms
+seq 1380: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.810 ms
+seq 1381: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.217 ms
+seq 1379: no response (timeout)
+seq 1384: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.172 ms
+seq 1382: no response (timeout)
+seq 1385: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.204 ms
+seq 1383: no response (timeout)
+seq 1386: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.507 ms
+seq 1388: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.410 ms
+seq 1389: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.152 ms
+seq 1387: no response (timeout)
+seq 1390: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.478 ms
+seq 1391: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.208 ms
+seq 1392: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.956 ms
+seq 1394: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.855 ms
+seq 1395: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.131 ms
+seq 1393: no response (timeout)
+seq 1398: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.328 ms
+seq 1396: no response (timeout)
+seq 1397: no response (timeout)
+seq 1399: no response (timeout)
+seq 1400: no response (timeout)
+seq 1403: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.302 ms
+seq 1404: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.024 ms
+seq 1401: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.840 ms
+seq 1405: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.585 ms
+seq 1402: no response (timeout)
+seq 1408: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.380 ms
+seq 1406: no response (timeout)
+seq 1407: no response (timeout)
+seq 1409: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.565 ms
+seq 1411: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.443 ms
+seq 1410: no response (timeout)
+seq 1412: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.227 ms
+seq 1413: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.247 ms
+seq 1414: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.559 ms
+seq 1415: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.424 ms
+seq 1417: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.109 ms
+seq 1418: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.360 ms
+seq 1416: no response (timeout)
+seq 1419: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.153 ms
+seq 1420: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.294 ms
+seq 1421: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.011 ms
+seq 1423: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.994 ms
+seq 1422: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.275 ms
+seq 1425: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.286 ms
+seq 1426: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.673 ms
+seq 1424: no response (timeout)
+seq 1428: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.219 ms
+seq 1427: no response (timeout)
+seq 1430: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.708 ms
+seq 1429: no response (timeout)
+seq 1433: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.898 ms
+seq 1434: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.447 ms
+seq 1432: no response (timeout)
+seq 1431: no response (timeout)
+seq 1436: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.199 ms
+seq 1435: no response (timeout)
+seq 1437: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.214 ms
+seq 1438: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.177 ms
+seq 1440: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.589 ms
+seq 1439: no response (timeout)
+seq 1441: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.159 ms
+seq 1442: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.635 ms
+seq 1445: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.262 ms
+seq 1448: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.491 ms
+seq 1449: tcp response from front.head.rambler.ru (81.19.82.10) [open]  204.451 ms
+seq 1447: no response (timeout)
+seq 1450: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.055 ms
+seq 1451: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.464 ms
+seq 1453: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.728 ms
+seq 1452: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.731 ms
+seq 1444: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.338 ms
+seq 1446: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.317 ms
+seq 1454: no response (timeout)
+seq 1443: no response (timeout)
+seq 1457: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.319 ms
+seq 1455: no response (timeout)
+seq 1456: no response (timeout)
+seq 1458: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.333 ms
+seq 1461: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.493 ms
+seq 1459: no response (timeout)
+seq 1460: no response (timeout)
+seq 1462: no response (timeout)
+seq 1464: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.327 ms
+seq 1466: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.863 ms
+seq 1463: no response (timeout)
+seq 1465: no response (timeout)
+seq 1467: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.677 ms
+seq 1469: tcp response from front.head.rambler.ru (81.19.82.9) [open]  215.359 ms
+seq 1468: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.702 ms
+seq 1471: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.605 ms
+seq 1472: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.759 ms
+seq 1473: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.709 ms
+seq 1470: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.607 ms
+seq 1474: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.839 ms
+seq 1475: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.560 ms
+seq 1477: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.124 ms
+seq 1478: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.529 ms
+seq 1476: no response (timeout)
+seq 1479: no response (timeout)
+seq 1481: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.429 ms
+seq 1480: no response (timeout)
+seq 1482: no response (timeout)
+seq 1485: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.516 ms
+seq 1486: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.135 ms
+seq 1483: no response (timeout)
+seq 1489: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.360 ms
+seq 1484: no response (timeout)
+seq 1490: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.526 ms
+seq 1488: no response (timeout)
+seq 1491: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.186 ms
+seq 1487: tcp response from front.head.rambler.ru (81.19.82.11) [open]  236.694 ms
+seq 1494: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.421 ms
+seq 1492: no response (timeout)
+seq 1493: no response (timeout)
+seq 1496: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.554 ms
+seq 1495: no response (timeout)
+seq 1498: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.380 ms
+seq 1497: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.892 ms
+seq 1500: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.464 ms
+seq 1504: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.028 ms
+seq 1502: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.209 ms
+seq 1503: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.209 ms
+seq 1499: no response (timeout)
+seq 1501: no response (timeout)
+seq 1505: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.683 ms
+seq 1506: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.147 ms
+seq 1507: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.919 ms
+seq 1508: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.227 ms
+seq 1510: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.650 ms
+seq 1511: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.824 ms
+seq 1509: no response (timeout)
+seq 1513: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.263 ms
+seq 1512: no response (timeout)
+seq 1514: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.631 ms
+seq 1516: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.711 ms
+seq 1515: no response (timeout)
+seq 1517: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.244 ms
+seq 1518: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.693 ms
+seq 1519: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.033 ms
+seq 1521: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.808 ms
+seq 1520: no response (timeout)
+seq 1522: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.919 ms
+seq 1523: no response (timeout)
+seq 1524: no response (timeout)
+seq 1525: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.300 ms
+seq 1526: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.425 ms
+seq 1527: tcp response from front.head.rambler.ru (81.19.82.10) [open]  213.001 ms
+seq 1528: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.555 ms
+seq 1529: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.496 ms
+seq 1530: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.469 ms
+seq 1531: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.434 ms
+seq 1532: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.390 ms
+seq 1534: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.178 ms
+seq 1533: no response (timeout)
+seq 1536: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.621 ms
+seq 1537: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.546 ms
+seq 1535: no response (timeout)
+seq 1539: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.614 ms
+seq 1540: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.653 ms
+seq 1538: no response (timeout)
+seq 1542: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.044 ms
+seq 1543: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.882 ms
+seq 1541: no response (timeout)
+seq 1545: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.757 ms
+seq 1546: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.417 ms
+seq 1544: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.214 ms
+seq 1548: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.263 ms
+seq 1549: tcp response from front.head.rambler.ru (81.19.82.11) [open]  194.080 ms
+seq 1547: no response (timeout)
+seq 1550: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.596 ms
+seq 1552: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.677 ms
+seq 1551: no response (timeout)
+seq 1554: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.604 ms
+seq 1556: tcp response from front.head.rambler.ru (81.19.82.9) [open]  195.818 ms
+seq 1553: no response (timeout)
+seq 1555: no response (timeout)
+seq 1557: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.222 ms
+seq 1558: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.195 ms
+seq 1559: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.383 ms
+seq 1560: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.479 ms
+seq 1561: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.215 ms
+seq 1562: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.814 ms
+seq 1563: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.152 ms
+seq 1564: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.241 ms
+seq 1567: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.506 ms
+seq 1566: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.400 ms
+seq 1565: no response (timeout)
+seq 1569: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.235 ms
+seq 1570: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.392 ms
+seq 1568: no response (timeout)
+seq 1572: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.344 ms
+seq 1575: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.741 ms
+seq 1571: no response (timeout)
+seq 1573: no response (timeout)
+seq 1574: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.697 ms
+seq 1577: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.390 ms
+seq 1576: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.098 ms
+seq 1578: no response (timeout)
+seq 1579: no response (timeout)
+seq 1580: no response (timeout)
+seq 1582: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.509 ms
+seq 1581: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.294 ms
+seq 1585: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.114 ms
+seq 1586: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.770 ms
+seq 1584: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.018 ms
+seq 1583: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.815 ms
+seq 1590: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.099 ms
+seq 1587: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.808 ms
+seq 1588: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.858 ms
+seq 1589: no response (timeout)
+seq 1592: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.831 ms
+seq 1591: no response (timeout)
+seq 1595: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.812 ms
+seq 1593: no response (timeout)
+seq 1594: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.709 ms
+seq 1596: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.318 ms
+seq 1598: tcp response from front.head.rambler.ru (81.19.82.10) [open]  221.084 ms
+seq 1597: no response (timeout)
+seq 1600: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.930 ms
+seq 1599: no response (timeout)
+seq 1602: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.717 ms
+seq 1601: no response (timeout)
+seq 1603: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.457 ms
+seq 1604: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.756 ms
+seq 1605: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.037 ms
+seq 1606: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.071 ms
+seq 1608: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.826 ms
+seq 1610: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.139 ms
+seq 1607: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.732 ms
+seq 1609: no response (timeout)
+seq 1612: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.686 ms
+seq 1613: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.294 ms
+seq 1611: no response (timeout)
+seq 1614: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.399 ms
+seq 1615: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.433 ms
+seq 1616: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.469 ms
+seq 1617: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.434 ms
+seq 1618: tcp response from front.head.rambler.ru (81.19.82.8) [open]  198.817 ms
+seq 1621: tcp response from front.head.rambler.ru (81.19.82.11) [open]  217.096 ms
+seq 1619: no response (timeout)
+seq 1620: no response (timeout)
+seq 1623: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.587 ms
+seq 1622: no response (timeout)
+seq 1626: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.597 ms
+seq 1625: no response (timeout)
+seq 1627: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.985 ms
+seq 1624: no response (timeout)
+seq 1630: tcp response from front.head.rambler.ru (81.19.82.9) [open]  218.409 ms
+seq 1628: no response (timeout)
+seq 1629: no response (timeout)
+seq 1631: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.825 ms
+seq 1632: no response (timeout)
+seq 1635: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.180 ms
+seq 1633: no response (timeout)
+seq 1634: no response (timeout)
+seq 1638: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.402 ms
+seq 1636: no response (timeout)
+seq 1637: no response (timeout)
+seq 1641: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.923 ms
+seq 1639: no response (timeout)
+seq 1640: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.399 ms
+seq 1642: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.127 ms
+seq 1644: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.190 ms
+seq 1643: no response (timeout)
+seq 1645: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.662 ms
+seq 1647: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.328 ms
+seq 1648: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.832 ms
+seq 1646: no response (timeout)
+seq 1649: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.411 ms
+seq 1650: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.157 ms
+seq 1651: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.846 ms
+seq 1652: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.628 ms
+seq 1653: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.559 ms
+seq 1654: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.213 ms
+seq 1655: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.527 ms
+seq 1656: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.471 ms
+seq 1658: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.774 ms
+seq 1659: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.512 ms
+seq 1657: no response (timeout)
+seq 1661: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.737 ms
+seq 1662: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.567 ms
+seq 1660: no response (timeout)
+seq 1665: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.143 ms
+seq 1664: no response (timeout)
+seq 1663: no response (timeout)
+seq 1667: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.311 ms
+seq 1666: no response (timeout)
+seq 1668: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.571 ms
+seq 1670: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.763 ms
+seq 1671: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.317 ms
+seq 1669: no response (timeout)
+seq 1673: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.738 ms
+seq 1674: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.409 ms
+seq 1672: no response (timeout)
+seq 1676: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.195 ms
+seq 1677: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.520 ms
+seq 1678: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.812 ms
+seq 1675: no response (timeout)
+seq 1679: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.150 ms
+seq 1681: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.396 ms
+seq 1682: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.915 ms
+seq 1680: no response (timeout)
+seq 1684: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.532 ms
+seq 1685: tcp response from front.head.rambler.ru (81.19.82.11) [open]  224.010 ms
+seq 1683: no response (timeout)
+seq 1686: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.590 ms
+seq 1688: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.426 ms
+seq 1689: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.712 ms
+seq 1687: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.435 ms
+seq 1690: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.992 ms
+seq 1691: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.390 ms
+seq 1693: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.027 ms
+seq 1692: no response (timeout)
+seq 1696: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.491 ms
+seq 1695: no response (timeout)
+seq 1699: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.907 ms
+seq 1697: no response (timeout)
+seq 1694: no response (timeout)
+seq 1698: no response (timeout)
+seq 1701: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.182 ms
+seq 1700: no response (timeout)
+seq 1703: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.261 ms
+seq 1702: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.869 ms
+seq 1705: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.681 ms
+seq 1706: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.951 ms
+seq 1704: no response (timeout)
+seq 1708: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.998 ms
+seq 1707: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.918 ms
+seq 1709: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.333 ms
+seq 1710: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.030 ms
+seq 1711: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.011 ms
+seq 1713: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.858 ms
+seq 1712: no response (timeout)
+seq 1715: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.568 ms
+seq 1718: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.884 ms
+seq 1716: tcp response from front.head.rambler.ru (81.19.82.11) [open]  345.962 ms
+seq 1714: no response (timeout)
+seq 1717: no response (timeout)
+seq 1719: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.924 ms
+seq 1721: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.163 ms
+seq 1722: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.984 ms
+seq 1720: no response (timeout)
+seq 1724: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.942 ms
+seq 1725: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.777 ms
+seq 1723: no response (timeout)
+seq 1726: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.980 ms
+seq 1727: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.476 ms
+seq 1728: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.937 ms
+seq 1729: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.245 ms
+seq 1730: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.219 ms
+seq 1731: tcp response from front.head.rambler.ru (81.19.82.10) [open]  270.628 ms
+seq 1732: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.589 ms
+seq 1733: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.408 ms
+seq 1734: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.693 ms
+seq 1735: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.750 ms
+seq 1737: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.478 ms
+seq 1738: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.452 ms
+seq 1736: no response (timeout)
+seq 1739: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.132 ms
+seq 1741: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.028 ms
+seq 1742: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.439 ms
+seq 1740: no response (timeout)
+seq 1744: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.846 ms
+seq 1745: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.417 ms
+seq 1743: no response (timeout)
+seq 1746: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.251 ms
+seq 1748: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.541 ms
+seq 1750: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.157 ms
+seq 1751: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.615 ms
+seq 1752: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.500 ms
+seq 1747: no response (timeout)
+seq 1749: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.303 ms
+seq 1754: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.156 ms
+seq 1755: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.259 ms
+seq 1753: no response (timeout)
+seq 1756: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.579 ms
+seq 1757: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.618 ms
+seq 1758: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.241 ms
+seq 1759: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.105 ms
+seq 1762: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.648 ms
+seq 1761: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.387 ms
+seq 1760: no response (timeout)
+seq 1764: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.489 ms
+seq 1763: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.416 ms
+seq 1766: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.360 ms
+seq 1767: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.694 ms
+seq 1765: no response (timeout)
+seq 1768: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.205 ms
+seq 1769: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.860 ms
+seq 1770: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.536 ms
+seq 1772: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.635 ms
+seq 1773: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.921 ms
+seq 1771: no response (timeout)
+seq 1774: no response (timeout)
+seq 1776: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.434 ms
+seq 1775: no response (timeout)
+seq 1777: no response (timeout)
+seq 1780: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.706 ms
+seq 1778: no response (timeout)
+seq 1779: no response (timeout)
+seq 1781: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.283 ms
+seq 1783: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.399 ms
+seq 1784: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.265 ms
+seq 1782: no response (timeout)
+seq 1786: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.579 ms
+seq 1785: no response (timeout)
+seq 1789: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.703 ms
+seq 1787: no response (timeout)
+seq 1788: no response (timeout)
+seq 1792: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.374 ms
+seq 1790: no response (timeout)
+seq 1791: no response (timeout)
+seq 1793: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.420 ms
+seq 1796: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.047 ms
+seq 1794: no response (timeout)
+seq 1797: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.906 ms
+seq 1795: no response (timeout)
+seq 1798: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.174 ms
+seq 1800: tcp response from front.head.rambler.ru (81.19.82.8) [open]  198.521 ms
+seq 1801: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.673 ms
+seq 1799: no response (timeout)
+seq 1802: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.802 ms
+seq 1803: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.791 ms
+seq 1806: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.252 ms
+seq 1804: no response (timeout)
+seq 1805: no response (timeout)
+seq 1807: no response (timeout)
+seq 1808: no response (timeout)
+seq 1809: no response (timeout)
+seq 1812: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.921 ms
+seq 1811: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.628 ms
+seq 1810: no response (timeout)
+seq 1813: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.391 ms
+seq 1814: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.979 ms
+seq 1815: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.074 ms
+seq 1817: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.878 ms
+seq 1818: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.331 ms
+seq 1816: no response (timeout)
+seq 1819: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.672 ms
+seq 1822: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.959 ms
+seq 1820: no response (timeout)
+seq 1821: no response (timeout)
+seq 1824: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.554 ms
+seq 1823: no response (timeout)
+seq 1826: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.385 ms
+seq 1825: no response (timeout)
+seq 1827: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.386 ms
+seq 1828: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.873 ms
+seq 1829: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.158 ms
+seq 1830: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.523 ms
+seq 1831: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.629 ms
+seq 1832: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.323 ms
+seq 1833: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.722 ms
+seq 1834: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.595 ms
+seq 1835: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.267 ms
+seq 1836: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.327 ms
+seq 1838: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.264 ms
+seq 1837: no response (timeout)
+seq 1840: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.577 ms
+seq 1841: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.257 ms
+seq 1839: no response (timeout)
+seq 1842: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.584 ms
+seq 1844: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.377 ms
+seq 1845: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.150 ms
+seq 1846: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.810 ms
+seq 1843: no response (timeout)
+seq 1847: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.578 ms
+seq 1848: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.014 ms
+seq 1850: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.500 ms
+seq 1851: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.069 ms
+seq 1849: no response (timeout)
+seq 1852: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.892 ms
+seq 1853: tcp response from front.head.rambler.ru (81.19.82.11) [open]  513.146 ms
+seq 1856: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.506 ms
+seq 1854: no response (timeout)
+seq 1855: no response (timeout)
+seq 1857: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.266 ms
+seq 1858: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.270 ms
+seq 1859: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.280 ms
+seq 1860: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.941 ms
+seq 1863: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.362 ms
+seq 1861: no response (timeout)
+seq 1862: no response (timeout)
+seq 1865: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.262 ms
+seq 1864: no response (timeout)
+seq 1868: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.116 ms
+seq 1867: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.651 ms
+seq 1866: no response (timeout)
+seq 1869: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.029 ms
+seq 1870: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.445 ms
+seq 1873: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.559 ms
+seq 1871: no response (timeout)
+seq 1874: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.429 ms
+seq 1872: no response (timeout)
+seq 1875: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.214 ms
+seq 1877: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.659 ms
+seq 1876: no response (timeout)
+seq 1878: no response (timeout)
+seq 1881: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.888 ms
+seq 1880: no response (timeout)
+seq 1879: no response (timeout)
+seq 1882: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.134 ms
+seq 1884: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.165 ms
+seq 1885: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.582 ms
+seq 1886: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.450 ms
+seq 1883: no response (timeout)
+seq 1887: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.227 ms
+seq 1889: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.259 ms
+seq 1890: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.829 ms
+seq 1888: no response (timeout)
+seq 1892: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.882 ms
+seq 1891: no response (timeout)
+seq 1895: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.834 ms
+seq 1893: no response (timeout)
+seq 1897: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.845 ms
+seq 1894: no response (timeout)
+seq 1896: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.115 ms
+seq 1898: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.168 ms
+seq 1900: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.186 ms
+seq 1901: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.246 ms
+seq 1899: no response (timeout)
+seq 1903: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.081 ms
+seq 1904: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.016 ms
+seq 1902: no response (timeout)
+seq 1907: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.121 ms
+seq 1905: no response (timeout)
+seq 1908: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.392 ms
+seq 1906: no response (timeout)
+seq 1911: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.049 ms
+seq 1912: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.185 ms
+seq 1909: no response (timeout)
+seq 1913: no response (timeout)
+seq 1910: no response (timeout)
+seq 1914: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.847 ms
+seq 1915: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.659 ms
+seq 1917: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.728 ms
+seq 1919: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.585 ms
+seq 1916: no response (timeout)
+seq 1918: no response (timeout)
+seq 1920: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.490 ms
+seq 1921: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.195 ms
+seq 1923: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.469 ms
+seq 1922: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.113 ms
+seq 1924: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.571 ms
+seq 1926: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.057 ms
+seq 1927: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.963 ms
+seq 1925: no response (timeout)
+seq 1928: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.585 ms
+seq 1929: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.127 ms
+seq 1931: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.727 ms
+seq 1932: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.902 ms
+seq 1930: no response (timeout)
+seq 1933: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.701 ms
+seq 1934: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.442 ms
+seq 1935: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.471 ms
+seq 1937: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.163 ms
+seq 1936: no response (timeout)
+seq 1939: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.786 ms
+seq 1938: no response (timeout)
+seq 1940: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.295 ms
+seq 1942: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.243 ms
+seq 1943: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.305 ms
+seq 1941: no response (timeout)
+seq 1944: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.002 ms
+seq 1945: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.326 ms
+seq 1946: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.489 ms
+seq 1947: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.661 ms
+seq 1948: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.096 ms
+seq 1949: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.234 ms
+seq 1951: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.540 ms
+seq 1953: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.501 ms
+seq 1954: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.352 ms
+seq 1950: no response (timeout)
+seq 1955: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.033 ms
+seq 1952: no response (timeout)
+seq 1956: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.059 ms
+seq 1957: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.826 ms
+seq 1959: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.088 ms
+seq 1958: no response (timeout)
+seq 1961: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.570 ms
+seq 1962: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.280 ms
+seq 1960: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.481 ms
+seq 1963: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.595 ms
+seq 1965: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.253 ms
+seq 1964: no response (timeout)
+seq 1966: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.858 ms
+seq 1967: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.347 ms
+seq 1968: no response (timeout)
+seq 1969: no response (timeout)
+seq 1970: no response (timeout)
+seq 1972: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.787 ms
+seq 1971: no response (timeout)
+seq 1973: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.556 ms
+seq 1974: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.578 ms
+seq 1976: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.939 ms
+seq 1977: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.073 ms
+seq 1975: no response (timeout)
+seq 1978: no response (timeout)
+seq 1980: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.676 ms
+seq 1983: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.328 ms
+seq 1984: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.858 ms
+seq 1981: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.432 ms
+seq 1979: no response (timeout)
+seq 1982: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.643 ms
+seq 1985: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.342 ms
+seq 1986: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.017 ms
+seq 1987: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.375 ms
+seq 1988: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.103 ms
+seq 1989: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.006 ms
+seq 1990: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.757 ms
+seq 1993: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.277 ms
+seq 1992: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.817 ms
+seq 1991: no response (timeout)
+seq 1995: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.985 ms
+seq 1996: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.124 ms
+seq 1994: no response (timeout)
+seq 1998: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.367 ms
+seq 1999: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.441 ms
+seq 1997: no response (timeout)
+seq 2002: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.879 ms
+seq 2000: no response (timeout)
+seq 2001: no response (timeout)
+seq 2003: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.101 ms
+seq 2006: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.643 ms
+seq 2004: no response (timeout)
+seq 2005: no response (timeout)
+seq 2008: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.199 ms
+seq 2007: no response (timeout)
+seq 2010: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.260 ms
+seq 2011: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.271 ms
+seq 2009: no response (timeout)
+seq 2012: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.203 ms
+seq 2013: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.658 ms
+seq 2015: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.478 ms
+seq 2016: tcp response from front.head.rambler.ru (81.19.82.11) [open]  195.504 ms
+seq 2014: no response (timeout)
+seq 2017: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.702 ms
+seq 2019: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.565 ms
+seq 2018: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.857 ms
+seq 2020: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.373 ms
+seq 2021: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.316 ms
+seq 2022: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.081 ms
+seq 2024: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.581 ms
+seq 2023: no response (timeout)
+seq 2026: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.801 ms
+seq 2027: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.740 ms
+seq 2029: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.747 ms
+seq 2031: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.863 ms
+seq 2025: no response (timeout)
+seq 2030: no response (timeout)
+seq 2034: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.947 ms
+seq 2035: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.147 ms
+seq 2038: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.625 ms
+seq 2033: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.394 ms
+seq 2028: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.572 ms
+seq 2036: no response (timeout)
+seq 2037: no response (timeout)
+seq 2042: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.409 ms
+seq 2040: no response (timeout)
+seq 2039: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.286 ms
+seq 2032: no response (timeout)
+seq 2044: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.991 ms
+seq 2043: no response (timeout)
+seq 2041: no response (timeout)
+seq 2046: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.235 ms
+seq 2047: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.537 ms
+seq 2045: no response (timeout)
+seq 2051: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.409 ms
+seq 2049: no response (timeout)
+seq 2048: no response (timeout)
+seq 2050: no response (timeout)
+seq 2052: no response (timeout)
+seq 2054: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.728 ms
+seq 2053: no response (timeout)
+seq 2055: no response (timeout)
+seq 2058: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.645 ms
+seq 2056: no response (timeout)
+seq 2057: no response (timeout)
+seq 2059: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.216 ms
+seq 2060: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.502 ms
+seq 2062: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.056 ms
+seq 2063: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.117 ms
+seq 2061: no response (timeout)
+seq 2064: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.555 ms
+seq 2065: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.691 ms
+seq 2067: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.393 ms
+seq 2068: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.440 ms
+seq 2066: no response (timeout)
+seq 2069: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.957 ms
+seq 2070: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.167 ms
+seq 2071: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.924 ms
+seq 2073: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.231 ms
+seq 2072: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.632 ms
+seq 2074: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.848 ms
+seq 2075: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.476 ms
+seq 2076: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.183 ms
+seq 2078: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.531 ms
+seq 2077: no response (timeout)
+seq 2080: no response (timeout)
+seq 2079: no response (timeout)
+seq 2081: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.317 ms
+seq 2083: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.356 ms
+seq 2084: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.619 ms
+seq 2082: no response (timeout)
+seq 2086: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.167 ms
+seq 2087: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.508 ms
+seq 2085: no response (timeout)
+seq 2089: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.397 ms
+seq 2088: no response (timeout)
+seq 2091: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.337 ms
+seq 2093: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.892 ms
+seq 2094: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.856 ms
+seq 2092: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.156 ms
+seq 2095: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.728 ms
+seq 2090: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.934 ms
+seq 2097: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.250 ms
+seq 2096: no response (timeout)
+seq 2099: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.878 ms
+seq 2100: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.271 ms
+seq 2098: no response (timeout)
+seq 2103: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.676 ms
+seq 2102: no response (timeout)
+seq 2105: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.414 ms
+seq 2101: no response (timeout)
+seq 2104: no response (timeout)
+seq 2108: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.579 ms
+seq 2106: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.477 ms
+seq 2107: no response (timeout)
+seq 2110: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.836 ms
+seq 2109: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.844 ms
+seq 2111: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.161 ms
+seq 2113: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.051 ms
+seq 2112: no response (timeout)
+seq 2116: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.550 ms
+seq 2114: no response (timeout)
+seq 2119: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.380 ms
+seq 2117: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.262 ms
+seq 2118: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.546 ms
+seq 2120: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.525 ms
+seq 2115: no response (timeout)
+seq 2121: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.722 ms
+seq 2124: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.847 ms
+seq 2123: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.445 ms
+seq 2122: no response (timeout)
+seq 2126: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.660 ms
+seq 2125: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.845 ms
+seq 2128: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.714 ms
+seq 2129: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.479 ms
+seq 2130: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.438 ms
+seq 2127: no response (timeout)
+seq 2131: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.041 ms
+seq 2133: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.933 ms
+seq 2134: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.681 ms
+seq 2132: no response (timeout)
+seq 2136: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.476 ms
+seq 2137: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.378 ms
+seq 2135: no response (timeout)
+seq 2138: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.833 ms
+seq 2140: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.593 ms
+seq 2139: no response (timeout)
+seq 2142: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.290 ms
+seq 2141: no response (timeout)
+seq 2145: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.597 ms
+seq 2143: no response (timeout)
+seq 2144: no response (timeout)
+seq 2146: no response (timeout)
+seq 2149: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.419 ms
+seq 2147: no response (timeout)
+seq 2148: no response (timeout)
+seq 2150: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.809 ms
+seq 2153: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.420 ms
+seq 2151: no response (timeout)
+seq 2152: no response (timeout)
+seq 2154: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.534 ms
+seq 2155: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.138 ms
+seq 2156: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.580 ms
+seq 2157: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.864 ms
+seq 2158: tcp response from front.head.rambler.ru (81.19.82.9) [open]  195.078 ms
+seq 2159: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.349 ms
+seq 2160: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.661 ms
+seq 2161: tcp response from front.head.rambler.ru (81.19.82.8) [open]  234.490 ms
+seq 2163: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.098 ms
+seq 2164: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.130 ms
+seq 2162: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.402 ms
+seq 2166: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.753 ms
+seq 2165: no response (timeout)
+seq 2167: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.186 ms
+seq 2168: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.314 ms
+seq 2169: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.823 ms
+seq 2171: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.710 ms
+seq 2172: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.809 ms
+seq 2170: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.475 ms
+seq 2173: tcp response from front.head.rambler.ru (81.19.82.9) [open]  194.420 ms
+seq 2174: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.555 ms
+seq 2177: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.138 ms
+seq 2176: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.695 ms
+seq 2175: no response (timeout)
+seq 2180: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.085 ms
+seq 2179: no response (timeout)
+seq 2181: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.370 ms
+seq 2178: no response (timeout)
+seq 2183: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.902 ms
+seq 2182: no response (timeout)
+seq 2185: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.546 ms
+seq 2184: no response (timeout)
+seq 2187: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.394 ms
+seq 2188: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.882 ms
+seq 2186: no response (timeout)
+seq 2190: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.774 ms
+seq 2191: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.107 ms
+seq 2189: no response (timeout)
+seq 2194: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.431 ms
+seq 2192: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.151 ms
+seq 2195: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.017 ms
+seq 2193: no response (timeout)
+seq 2196: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.241 ms
+seq 2198: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.421 ms
+seq 2197: no response (timeout)
+seq 2200: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.079 ms
+seq 2199: no response (timeout)
+seq 2201: no response (timeout)
+seq 2202: tcp response from front.head.rambler.ru (81.19.82.9) [open]  229.641 ms
+seq 2203: no response (timeout)
+seq 2204: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.277 ms
+seq 2206: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.924 ms
+seq 2205: no response (timeout)
+seq 2208: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.390 ms
+seq 2207: no response (timeout)
+seq 2211: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.533 ms
+seq 2209: no response (timeout)
+seq 2210: no response (timeout)
+seq 2212: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.637 ms
+seq 2213: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.098 ms
+seq 2216: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.527 ms
+seq 2214: no response (timeout)
+seq 2215: no response (timeout)
+seq 2218: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.060 ms
+seq 2217: no response (timeout)
+seq 2220: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.871 ms
+seq 2219: no response (timeout)
+seq 2221: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.131 ms
+seq 2222: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.438 ms
+seq 2223: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.004 ms
+seq 2225: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.405 ms
+seq 2224: no response (timeout)
+seq 2227: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.439 ms
+seq 2226: no response (timeout)
+seq 2231: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.589 ms
+seq 2230: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.652 ms
+seq 2228: no response (timeout)
+seq 2229: no response (timeout)
+seq 2233: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.586 ms
+seq 2234: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.900 ms
+seq 2232: no response (timeout)
+seq 2236: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.526 ms
+seq 2237: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.060 ms
+seq 2235: no response (timeout)
+seq 2238: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.609 ms
+seq 2239: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.506 ms
+seq 2240: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.488 ms
+seq 2241: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.432 ms
+seq 2243: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.451 ms
+seq 2244: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.451 ms
+seq 2242: no response (timeout)
+seq 2245: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.520 ms
+seq 2247: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.163 ms
+seq 2246: no response (timeout)
+seq 2248: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.148 ms
+seq 2249: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.640 ms
+seq 2251: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.167 ms
+seq 2252: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.607 ms
+seq 2253: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.065 ms
+seq 2250: no response (timeout)
+seq 2255: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.782 ms
+seq 2256: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.660 ms
+seq 2254: no response (timeout)
+seq 2259: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.051 ms
+seq 2257: no response (timeout)
+seq 2258: no response (timeout)
+seq 2262: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.392 ms
+seq 2260: no response (timeout)
+seq 2264: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.726 ms
+seq 2261: no response (timeout)
+seq 2263: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.831 ms
+seq 2265: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.366 ms
+seq 2266: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.957 ms
+seq 2267: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.367 ms
+seq 2268: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.097 ms
+seq 2270: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.074 ms
+seq 2271: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.314 ms
+seq 2269: no response (timeout)
+seq 2272: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.869 ms
+seq 2274: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.349 ms
+seq 2275: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.061 ms
+seq 2273: no response (timeout)
+seq 2276: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.479 ms
+seq 2277: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.083 ms
+seq 2278: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.660 ms
+seq 2279: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.232 ms
+seq 2280: tcp response from front.head.rambler.ru (81.19.82.11) [open]  222.070 ms
+seq 2282: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.070 ms
+seq 2283: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.363 ms
+seq 2281: no response (timeout)
+seq 2284: tcp response from front.head.rambler.ru (81.19.82.10) [open]  273.637 ms
+seq 2285: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.394 ms
+seq 2286: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.275 ms
+seq 2287: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.547 ms
+seq 2289: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.670 ms
+seq 2290: tcp response from front.head.rambler.ru (81.19.82.10) [open]  215.345 ms
+seq 2288: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.816 ms
+seq 2291: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.654 ms
+seq 2292: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.075 ms
+seq 2293: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.769 ms
+seq 2294: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.299 ms
+seq 2295: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.794 ms
+seq 2297: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.671 ms
+seq 2298: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.619 ms
+seq 2296: no response (timeout)
+seq 2299: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.333 ms
+seq 2302: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.505 ms
+seq 2300: no response (timeout)
+seq 2303: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.185 ms
+seq 2301: no response (timeout)
+seq 2305: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.530 ms
+seq 2306: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.346 ms
+seq 2304: no response (timeout)
+seq 2307: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.894 ms
+seq 2308: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.929 ms
+seq 2309: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.240 ms
+seq 2310: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.930 ms
+seq 2312: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.660 ms
+seq 2313: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.235 ms
+seq 2311: no response (timeout)
+seq 2315: tcp response from front.head.rambler.ru (81.19.82.10) [open]  225.146 ms
+seq 2316: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.265 ms
+seq 2314: no response (timeout)
+seq 2318: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.521 ms
+seq 2320: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.441 ms
+seq 2317: no response (timeout)
+seq 2319: no response (timeout)
+seq 2322: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.916 ms
+seq 2323: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.610 ms
+seq 2321: no response (timeout)
+seq 2325: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.697 ms
+seq 2324: no response (timeout)
+seq 2326: no response (timeout)
+seq 2328: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.509 ms
+seq 2327: no response (timeout)
+seq 2329: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.360 ms
+seq 2330: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.417 ms
+seq 2332: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.729 ms
+seq 2333: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.203 ms
+seq 2331: no response (timeout)
+seq 2334: tcp response from front.head.rambler.ru (81.19.82.9) [open]  194.042 ms
+seq 2335: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.108 ms
+seq 2336: tcp response from front.head.rambler.ru (81.19.82.8) [open]  197.440 ms
+seq 2337: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.112 ms
+seq 2338: tcp response from front.head.rambler.ru (81.19.82.9) [open]  194.327 ms
+seq 2339: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.549 ms
+seq 2340: tcp response from front.head.rambler.ru (81.19.82.11) [open]  193.899 ms
+seq 2341: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.652 ms
+seq 2342: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.534 ms
+seq 2343: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.194 ms
+seq 2345: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.320 ms
+seq 2346: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.273 ms
+seq 2344: no response (timeout)
+seq 2347: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.342 ms
+seq 2348: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.126 ms
+seq 2349: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.284 ms
+seq 2351: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.762 ms
+seq 2352: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.325 ms
+seq 2350: no response (timeout)
+seq 2353: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.381 ms
+seq 2355: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.596 ms
+seq 2356: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.349 ms
+seq 2357: tcp response from front.head.rambler.ru (81.19.82.10) [open]  233.870 ms
+seq 2354: no response (timeout)
+seq 2358: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.160 ms
+seq 2359: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.405 ms
+seq 2360: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.449 ms
+seq 2361: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.852 ms
+seq 2363: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.323 ms
+seq 2362: no response (timeout)
+seq 2365: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.241 ms
+seq 2364: no response (timeout)
+seq 2366: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.932 ms
+seq 2368: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.394 ms
+seq 2367: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.584 ms
+seq 2370: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.363 ms
+seq 2369: no response (timeout)
+seq 2373: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.988 ms
+seq 2371: no response (timeout)
+seq 2372: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.632 ms
+seq 2374: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.853 ms
+seq 2376: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.658 ms
+seq 2377: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.716 ms
+seq 2375: no response (timeout)
+seq 2378: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.355 ms
+seq 2380: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.294 ms
+seq 2381: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.245 ms
+seq 2379: no response (timeout)
+seq 2382: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.452 ms
+seq 2383: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.468 ms
+seq 2385: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.710 ms
+seq 2386: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.587 ms
+seq 2384: no response (timeout)
+seq 2387: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.598 ms
+seq 2388: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.096 ms
+seq 2389: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.272 ms
+seq 2390: tcp response from front.head.rambler.ru (81.19.82.8) [open]  220.628 ms
+seq 2391: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.820 ms
+seq 2393: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.394 ms
+seq 2394: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.256 ms
+seq 2392: no response (timeout)
+seq 2396: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.479 ms
+seq 2397: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.299 ms
+seq 2395: no response (timeout)
+seq 2398: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.904 ms
+seq 2400: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.502 ms
+seq 2401: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.885 ms
+seq 2399: no response (timeout)
+seq 2404: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.039 ms
+seq 2402: no response (timeout)
+seq 2403: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.668 ms
+seq 2406: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.211 ms
+seq 2405: no response (timeout)
+seq 2409: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.479 ms
+seq 2407: no response (timeout)
+seq 2408: no response (timeout)
+seq 2410: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.792 ms
+seq 2411: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.600 ms
+seq 2413: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.653 ms
+seq 2414: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.637 ms
+seq 2412: no response (timeout)
+seq 2416: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.093 ms
+seq 2417: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.575 ms
+seq 2415: no response (timeout)
+seq 2418: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.291 ms
+seq 2420: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.710 ms
+seq 2421: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.344 ms
+seq 2419: no response (timeout)
+seq 2422: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.940 ms
+seq 2423: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.245 ms
+seq 2424: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.607 ms
+seq 2425: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.004 ms
+seq 2426: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.058 ms
+seq 2427: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.876 ms
+seq 2428: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.847 ms
+seq 2430: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.597 ms
+seq 2432: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.007 ms
+seq 2433: tcp response from front.head.rambler.ru (81.19.82.9) [open]  195.898 ms
+seq 2431: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.903 ms
+seq 2429: no response (timeout)
+seq 2435: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.742 ms
+seq 2434: no response (timeout)
+seq 2436: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.588 ms
+seq 2438: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.315 ms
+seq 2437: no response (timeout)
+seq 2440: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.292 ms
+seq 2439: no response (timeout)
+seq 2442: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.314 ms
+seq 2441: no response (timeout)
+seq 2444: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.167 ms
+seq 2445: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.676 ms
+seq 2443: no response (timeout)
+seq 2447: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.320 ms
+seq 2448: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.550 ms
+seq 2446: no response (timeout)
+seq 2449: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.405 ms
+seq 2450: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.754 ms
+seq 2451: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.093 ms
+seq 2452: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.489 ms
+seq 2454: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.163 ms
+seq 2453: no response (timeout)
+seq 2456: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.718 ms
+seq 2455: no response (timeout)
+seq 2457: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.704 ms
+seq 2458: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.615 ms
+seq 2459: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.642 ms
+seq 2460: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.383 ms
+seq 2462: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.929 ms
+seq 2463: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.446 ms
+seq 2461: no response (timeout)
+seq 2464: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.704 ms
+seq 2465: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.439 ms
+seq 2467: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.020 ms
+seq 2466: no response (timeout)
+seq 2468: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.920 ms
+seq 2469: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.879 ms
+seq 2472: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.344 ms
+seq 2470: no response (timeout)
+seq 2471: no response (timeout)
+seq 2474: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.492 ms
+seq 2473: no response (timeout)
+seq 2476: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.379 ms
+seq 2478: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.156 ms
+seq 2475: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.174 ms
+seq 2479: tcp response from front.head.rambler.ru (81.19.82.10) [open]  219.234 ms
+seq 2477: no response (timeout)
+seq 2481: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.872 ms
+seq 2482: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.058 ms
+seq 2480: no response (timeout)
+seq 2485: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.411 ms
+seq 2483: no response (timeout)
+seq 2484: no response (timeout)
+seq 2487: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.631 ms
+seq 2486: no response (timeout)
+seq 2489: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.291 ms
+seq 2488: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.431 ms
+seq 2490: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.449 ms
+seq 2492: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.471 ms
+seq 2491: no response (timeout)
+seq 2494: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.161 ms
+seq 2495: tcp response from front.head.rambler.ru (81.19.82.9) [open]  194.290 ms
+seq 2496: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.533 ms
+seq 2497: tcp response from front.head.rambler.ru (81.19.82.9) [open]  199.493 ms
+seq 2493: no response (timeout)
+seq 2498: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.431 ms
+seq 2499: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.779 ms
+seq 2501: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.467 ms
+seq 2502: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.305 ms
+seq 2500: no response (timeout)
+seq 2504: tcp response from front.head.rambler.ru (81.19.82.10) [open]  196.496 ms
+seq 2505: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.234 ms
+seq 2503: no response (timeout)
+seq 2506: tcp response from front.head.rambler.ru (81.19.82.8) [open]  596.016 ms
+seq 2508: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.360 ms
+seq 2507: no response (timeout)
+seq 2510: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.877 ms
+seq 2513: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.593 ms
+seq 2512: no response (timeout)
+seq 2514: tcp response from front.head.rambler.ru (81.19.82.8) [open]  216.842 ms
+seq 2511: tcp response from front.head.rambler.ru (81.19.82.9) [open]  194.616 ms
+seq 2509: no response (timeout)
+seq 2515: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.611 ms
+seq 2517: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.719 ms
+seq 2516: no response (timeout)
+seq 2519: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.661 ms
+seq 2518: no response (timeout)
+seq 2520: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.269 ms
+seq 2521: tcp response from front.head.rambler.ru (81.19.82.11) [open]  303.639 ms
+seq 2522: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.462 ms
+seq 2524: tcp response from front.head.rambler.ru (81.19.82.9) [open]  194.033 ms
+seq 2525: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.450 ms
+seq 2526: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.751 ms
+seq 2523: no response (timeout)
+seq 2527: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.172 ms
+seq 2529: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.201 ms
+seq 2528: no response (timeout)
+seq 2532: tcp response from front.head.rambler.ru (81.19.82.8) [open]  234.922 ms
+seq 2533: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.432 ms
+seq 2534: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.202 ms
+seq 2535: tcp response from front.head.rambler.ru (81.19.82.11) [open]  221.455 ms
+seq 2530: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.888 ms
+seq 2531: no response (timeout)
+seq 2538: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.297 ms
+seq 2537: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.392 ms
+seq 2536: no response (timeout)
+seq 2539: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.179 ms
+seq 2540: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.152 ms
+seq 2541: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.831 ms
+seq 2542: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.748 ms
+seq 2544: tcp response from front.head.rambler.ru (81.19.82.9) [open]  194.090 ms
+seq 2545: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.141 ms
+seq 2543: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.512 ms
+seq 2547: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.383 ms
+seq 2548: tcp response from front.head.rambler.ru (81.19.82.9) [open]  195.144 ms
+seq 2546: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.532 ms
+seq 2549: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.794 ms
+seq 2550: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.578 ms
+seq 2552: tcp response from front.head.rambler.ru (81.19.82.9) [open]  206.492 ms
+seq 2551: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.345 ms
+seq 2554: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.187 ms
+seq 2555: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.813 ms
+seq 2553: no response (timeout)
+seq 2556: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.082 ms
+seq 2558: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.405 ms
+seq 2557: no response (timeout)
+seq 2560: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.641 ms
+seq 2561: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.512 ms
+seq 2563: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.400 ms
+seq 2562: no response (timeout)
+seq 2559: no response (timeout)
+seq 2565: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.042 ms
+seq 2564: no response (timeout)
+seq 2566: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.699 ms
+seq 2567: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.803 ms
+seq 2568: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.949 ms
+seq 2570: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.214 ms
+seq 2569: no response (timeout)
+seq 2571: no response (timeout)
+seq 2573: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.680 ms
+seq 2574: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.915 ms
+seq 2575: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.208 ms
+seq 2576: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.368 ms
+seq 2577: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.915 ms
+seq 2572: no response (timeout)
+seq 2578: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.491 ms
+seq 2579: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.322 ms
+seq 2580: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.048 ms
+seq 2582: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.635 ms
+seq 2583: tcp response from front.head.rambler.ru (81.19.82.10) [open]  193.830 ms
+seq 2581: no response (timeout)
+seq 2585: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.087 ms
+seq 2586: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.441 ms
+seq 2584: no response (timeout)
+seq 2587: tcp response from front.head.rambler.ru (81.19.82.8) [open]  195.842 ms
+seq 2588: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.528 ms
+seq 2590: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.444 ms
+seq 2591: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.412 ms
+seq 2589: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.439 ms
+seq 2593: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.309 ms
+seq 2592: no response (timeout)
+seq 2594: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.362 ms
+seq 2595: tcp response from front.head.rambler.ru (81.19.82.8) [open]  191.906 ms
+seq 2596: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.672 ms
+seq 2597: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.582 ms
+seq 2598: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.077 ms
+seq 2600: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.982 ms
+seq 2599: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.431 ms
+seq 2603: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.300 ms
+seq 2604: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.468 ms
+seq 2605: tcp response from front.head.rambler.ru (81.19.82.9) [open]  194.540 ms
+seq 2602: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.611 ms
+seq 2601: no response (timeout)
+seq 2606: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.930 ms
+seq 2608: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.582 ms
+seq 2610: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.190 ms
+seq 2611: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.559 ms
+seq 2609: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.490 ms
+seq 2607: no response (timeout)
+seq 2612: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.332 ms
+seq 2615: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.010 ms
+seq 2613: no response (timeout)
+seq 2614: no response (timeout)
+seq 2617: tcp response from front.head.rambler.ru (81.19.82.11) [open]  192.713 ms
+seq 2619: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.140 ms
+seq 2616: no response (timeout)
+seq 2618: no response (timeout)
+seq 2620: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.781 ms
+seq 2623: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.309 ms
+seq 2621: no response (timeout)
+seq 2622: no response (timeout)
+seq 2625: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.056 ms
+seq 2624: no response (timeout)
+seq 2626: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.643 ms
+seq 2627: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.345 ms
+seq 2628: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.290 ms
+seq 2629: tcp response from front.head.rambler.ru (81.19.82.8) [open]  188.714 ms
+seq 2630: tcp response from front.head.rambler.ru (81.19.82.8) [open]  194.433 ms
+seq 2631: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.859 ms
+seq 2632: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.924 ms
+seq 2633: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.922 ms
+seq 2634: tcp response from front.head.rambler.ru (81.19.82.8) [open]  192.375 ms
+seq 2635: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.254 ms
+seq 2637: tcp response from front.head.rambler.ru (81.19.82.9) [open]  189.942 ms
+seq 2636: no response (timeout)
+seq 2638: tcp response from front.head.rambler.ru (81.19.82.11) [open]  234.657 ms
+seq 2639: tcp response from front.head.rambler.ru (81.19.82.9) [open]  190.265 ms
+seq 2640: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.064 ms
+seq 2641: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.715 ms
+seq 2642: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.114 ms
+seq 2643: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.605 ms
+seq 2644: tcp response from front.head.rambler.ru (81.19.82.9) [open]  192.327 ms
+seq 2645: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.423 ms
+seq 2646: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.104 ms
+seq 2647: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.129 ms
+seq 2648: tcp response from front.head.rambler.ru (81.19.82.10) [open]  188.532 ms
+seq 2649: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.535 ms
+seq 2650: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.802 ms
+seq 2651: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.770 ms
+seq 2652: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.333 ms
+seq 2653: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.286 ms
+seq 2654: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.472 ms
+seq 2655: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.180 ms
+seq 2656: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.128 ms
+seq 2657: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.735 ms
+seq 2658: tcp response from front.head.rambler.ru (81.19.82.10) [open]  195.709 ms
+seq 2659: tcp response from front.head.rambler.ru (81.19.82.10) [open]  194.723 ms
+seq 2660: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.433 ms
+seq 2661: tcp response from front.head.rambler.ru (81.19.82.11) [open]  190.427 ms
+seq 2662: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.328 ms
+seq 2663: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.066 ms
+seq 2664: tcp response from front.head.rambler.ru (81.19.82.8) [open]  196.709 ms
+seq 2665: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.151 ms
+seq 2666: tcp response from front.head.rambler.ru (81.19.82.10) [open]  191.335 ms
+seq 2667: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.860 ms
+seq 2668: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.850 ms
+seq 2669: tcp response from front.head.rambler.ru (81.19.82.8) [open]  190.022 ms
+seq 2670: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.439 ms
+seq 2671: tcp response from front.head.rambler.ru (81.19.82.9) [open]  195.115 ms
+seq 2672: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.169 ms
+seq 2673: tcp response from front.head.rambler.ru (81.19.82.8) [open]  189.527 ms
+seq 2674: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.899 ms
+seq 2675: tcp response from front.head.rambler.ru (81.19.82.11) [open]  191.222 ms
+seq 2676: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.157 ms
+seq 2677: tcp response from front.head.rambler.ru (81.19.82.10) [open]  192.929 ms
+seq 2678: tcp response from front.head.rambler.ru (81.19.82.8) [open]  193.546 ms
+seq 2679: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.637 ms
+seq 2680: tcp response from front.head.rambler.ru (81.19.82.11) [open]  189.324 ms
+seq 2681: tcp response from front.head.rambler.ru (81.19.82.9) [open]  188.374 ms
+seq 2682: tcp response from front.head.rambler.ru (81.19.82.10) [open]  190.688 ms
+seq 2683: tcp response from front.head.rambler.ru (81.19.82.9) [open]  191.108 ms
+seq 2684: tcp response from front.head.rambler.ru (81.19.82.10) [open]  189.306 ms
+seq 2685: tcp response from front.head.rambler.ru (81.19.82.11) [open]  188.818 ms
+seq 2686: tcp response from front.head.rambler.ru (81.19.82.9) [open]  193.477 ms

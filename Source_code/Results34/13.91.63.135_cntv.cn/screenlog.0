@@ -1,0 +1,2674 @@
+seq 0: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.205 ms
+seq 2: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  466.227 ms
+seq 3: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.647 ms
+seq 1: no response (timeout)
+seq 4: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.571 ms
+seq 5: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  462.293 ms
+seq 6: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.081 ms
+seq 8: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.859 ms
+seq 7: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.874 ms
+seq 10: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.579 ms
+seq 9: no response (timeout)
+seq 11: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  464.269 ms
+seq 12: no response (timeout)
+seq 15: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.899 ms
+seq 17: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.360 ms
+seq 13: no response (timeout)
+seq 14: no response (timeout)
+seq 16: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.152 ms
+seq 20: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.647 ms
+seq 19: no response (timeout)
+seq 18: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.964 ms
+seq 21: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.629 ms
+seq 22: no response (timeout)
+seq 24: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.544 ms
+seq 23: no response (timeout)
+seq 25: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.262 ms
+seq 27: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.901 ms
+seq 28: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.856 ms
+seq 26: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.499 ms
+seq 29: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.743 ms
+seq 31: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.043 ms
+seq 32: no response (timeout)
+seq 33: no response (timeout)
+seq 30: no response (timeout)
+seq 35: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.617 ms
+seq 34: no response (timeout)
+seq 39: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.104 ms
+seq 41: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.183 ms
+seq 36: no response (timeout)
+seq 37: no response (timeout)
+seq 38: no response (timeout)
+seq 44: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.973 ms
+seq 42: no response (timeout)
+seq 43: no response (timeout)
+seq 46: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.250 ms
+seq 47: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.645 ms
+seq 40: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.404 ms
+seq 45: no response (timeout)
+seq 49: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.893 ms
+seq 48: no response (timeout)
+seq 50: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.110 ms
+seq 51: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.762 ms
+seq 52: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.561 ms
+seq 53: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.835 ms
+seq 56: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.935 ms
+seq 57: no response (timeout)
+seq 58: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.574 ms
+seq 55: no response (timeout)
+seq 54: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.251 ms
+seq 59: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.393 ms
+seq 60: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  551.107 ms
+seq 62: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.000 ms
+seq 63: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.902 ms
+seq 61: no response (timeout)
+seq 64: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  468.200 ms
+seq 65: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.601 ms
+seq 67: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.380 ms
+seq 68: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  483.882 ms
+seq 66: no response (timeout)
+seq 70: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.373 ms
+seq 69: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.303 ms
+seq 71: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.768 ms
+seq 74: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.085 ms
+seq 73: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.714 ms
+seq 72: no response (timeout)
+seq 75: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.729 ms
+seq 76: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.063 ms
+seq 77: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.885 ms
+seq 78: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.644 ms
+seq 80: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.490 ms
+seq 79: no response (timeout)
+seq 81: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.627 ms
+seq 83: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  462.983 ms
+seq 82: no response (timeout)
+seq 85: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.028 ms
+seq 84: no response (timeout)
+seq 86: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.877 ms
+seq 87: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.523 ms
+seq 88: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.254 ms
+seq 90: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.747 ms
+seq 91: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.154 ms
+seq 89: no response (timeout)
+seq 94: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.532 ms
+seq 92: no response (timeout)
+seq 93: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.324 ms
+seq 96: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.327 ms
+seq 97: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.433 ms
+seq 95: no response (timeout)
+seq 98: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.969 ms
+seq 99: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.702 ms
+seq 101: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.415 ms
+seq 102: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.934 ms
+seq 100: no response (timeout)
+seq 104: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.660 ms
+seq 103: no response (timeout)
+seq 106: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.199 ms
+seq 107: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.607 ms
+seq 108: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  415.346 ms
+seq 105: no response (timeout)
+seq 109: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.461 ms
+seq 111: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.333 ms
+seq 112: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.677 ms
+seq 113: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.491 ms
+seq 110: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.567 ms
+seq 115: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.903 ms
+seq 116: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.609 ms
+seq 114: no response (timeout)
+seq 119: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.817 ms
+seq 117: no response (timeout)
+seq 118: no response (timeout)
+seq 120: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.375 ms
+seq 121: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.668 ms
+seq 122: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.876 ms
+seq 125: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.782 ms
+seq 123: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.343 ms
+seq 124: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.030 ms
+seq 128: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.977 ms
+seq 126: no response (timeout)
+seq 127: no response (timeout)
+seq 130: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.814 ms
+seq 131: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.926 ms
+seq 129: no response (timeout)
+seq 133: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.573 ms
+seq 132: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.875 ms
+seq 135: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.170 ms
+seq 136: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.917 ms
+seq 134: no response (timeout)
+seq 137: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.664 ms
+seq 139: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.293 ms
+seq 138: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.755 ms
+seq 140: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.676 ms
+seq 141: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.831 ms
+seq 142: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.081 ms
+seq 145: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.829 ms
+seq 146: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.052 ms
+seq 143: no response (timeout)
+seq 149: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.804 ms
+seq 148: no response (timeout)
+seq 151: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.219 ms
+seq 147: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.892 ms
+seq 144: no response (timeout)
+seq 152: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.789 ms
+seq 150: no response (timeout)
+seq 153: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.970 ms
+seq 154: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.938 ms
+seq 155: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.960 ms
+seq 156: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.534 ms
+seq 157: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.492 ms
+seq 158: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.034 ms
+seq 159: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.695 ms
+seq 160: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.894 ms
+seq 161: no response (timeout)
+seq 163: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.351 ms
+seq 162: no response (timeout)
+seq 164: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.358 ms
+seq 166: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.789 ms
+seq 167: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.167 ms
+seq 165: no response (timeout)
+seq 168: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.253 ms
+seq 169: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.520 ms
+seq 170: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.861 ms
+seq 171: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.227 ms
+seq 173: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.580 ms
+seq 174: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.766 ms
+seq 172: no response (timeout)
+seq 176: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.302 ms
+seq 177: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.904 ms
+seq 175: no response (timeout)
+seq 178: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.616 ms
+seq 180: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.169 ms
+seq 181: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.616 ms
+seq 179: no response (timeout)
+seq 182: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.077 ms
+seq 183: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.318 ms
+seq 184: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.438 ms
+seq 185: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.922 ms
+seq 188: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  467.543 ms
+seq 186: no response (timeout)
+seq 189: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.540 ms
+seq 187: no response (timeout)
+seq 191: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.636 ms
+seq 192: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.500 ms
+seq 190: no response (timeout)
+seq 193: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.369 ms
+seq 195: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.831 ms
+seq 196: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.089 ms
+seq 194: no response (timeout)
+seq 197: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.811 ms
+seq 198: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.448 ms
+seq 199: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.964 ms
+seq 200: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.976 ms
+seq 201: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.390 ms
+seq 202: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.866 ms
+seq 204: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.779 ms
+seq 205: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.774 ms
+seq 206: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.394 ms
+seq 203: no response (timeout)
+seq 207: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.574 ms
+seq 208: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.180 ms
+seq 209: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  468.387 ms
+seq 210: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.952 ms
+seq 211: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.969 ms
+seq 212: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.796 ms
+seq 214: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.757 ms
+seq 215: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.076 ms
+seq 213: no response (timeout)
+seq 217: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.693 ms
+seq 218: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.668 ms
+seq 216: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.250 ms
+seq 219: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.690 ms
+seq 221: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.360 ms
+seq 222: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.804 ms
+seq 223: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.136 ms
+seq 220: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.158 ms
+seq 225: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.426 ms
+seq 226: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.076 ms
+seq 224: no response (timeout)
+seq 228: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.348 ms
+seq 229: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  482.732 ms
+seq 227: no response (timeout)
+seq 230: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.297 ms
+seq 232: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.140 ms
+seq 233: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.830 ms
+seq 231: no response (timeout)
+seq 234: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.167 ms
+seq 235: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.408 ms
+seq 236: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.771 ms
+seq 237: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.600 ms
+seq 238: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.785 ms
+seq 240: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.153 ms
+seq 241: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.140 ms
+seq 239: no response (timeout)
+seq 242: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.756 ms
+seq 243: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.297 ms
+seq 244: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.117 ms
+seq 245: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.596 ms
+seq 247: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.493 ms
+seq 248: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.876 ms
+seq 246: no response (timeout)
+seq 249: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.928 ms
+seq 250: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.288 ms
+seq 251: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.301 ms
+seq 253: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.624 ms
+seq 252: no response (timeout)
+seq 256: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.134 ms
+seq 254: no response (timeout)
+seq 255: no response (timeout)
+seq 258: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.593 ms
+seq 257: no response (timeout)
+seq 259: no response (timeout)
+seq 262: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.620 ms
+seq 261: no response (timeout)
+seq 260: no response (timeout)
+seq 263: no response (timeout)
+seq 264: no response (timeout)
+seq 267: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.139 ms
+seq 265: no response (timeout)
+seq 268: no response (timeout)
+seq 269: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.389 ms
+seq 266: no response (timeout)
+seq 270: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.371 ms
+seq 271: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.467 ms
+seq 272: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  465.224 ms
+seq 275: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  478.573 ms
+seq 273: no response (timeout)
+seq 274: no response (timeout)
+seq 276: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  475.151 ms
+seq 277: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  483.458 ms
+seq 278: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  476.798 ms
+seq 279: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  477.434 ms
+seq 280: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.933 ms
+seq 281: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.990 ms
+seq 283: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.247 ms
+seq 284: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.811 ms
+seq 285: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.583 ms
+seq 286: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.176 ms
+seq 287: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.735 ms
+seq 282: no response (timeout)
+seq 290: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.448 ms
+seq 291: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.220 ms
+seq 288: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.022 ms
+seq 292: no response (timeout)
+seq 293: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.242 ms
+seq 289: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.828 ms
+seq 296: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.537 ms
+seq 295: no response (timeout)
+seq 298: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.389 ms
+seq 294: no response (timeout)
+seq 297: no response (timeout)
+seq 300: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.321 ms
+seq 299: no response (timeout)
+seq 302: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.512 ms
+seq 301: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.647 ms
+seq 304: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  470.010 ms
+seq 303: no response (timeout)
+seq 305: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.542 ms
+seq 307: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.129 ms
+seq 306: no response (timeout)
+seq 309: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.382 ms
+seq 308: no response (timeout)
+seq 310: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.693 ms
+seq 311: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.216 ms
+seq 312: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.385 ms
+seq 314: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.593 ms
+seq 313: no response (timeout)
+seq 316: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  474.076 ms
+seq 317: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.377 ms
+seq 315: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.748 ms
+seq 319: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.030 ms
+seq 318: no response (timeout)
+seq 321: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.346 ms
+seq 320: no response (timeout)
+seq 323: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  493.916 ms
+seq 322: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.509 ms
+seq 325: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.371 ms
+seq 326: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.785 ms
+seq 324: no response (timeout)
+seq 328: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.910 ms
+seq 327: no response (timeout)
+seq 330: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.274 ms
+seq 332: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.334 ms
+seq 331: no response (timeout)
+seq 329: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.803 ms
+seq 333: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.523 ms
+seq 334: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.127 ms
+seq 335: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.460 ms
+seq 336: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.267 ms
+seq 339: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.227 ms
+seq 337: no response (timeout)
+seq 338: no response (timeout)
+seq 340: no response (timeout)
+seq 342: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.090 ms
+seq 341: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.757 ms
+seq 344: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.144 ms
+seq 345: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.834 ms
+seq 343: no response (timeout)
+seq 347: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.071 ms
+seq 348: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  599.426 ms
+seq 346: no response (timeout)
+seq 349: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  462.804 ms
+seq 350: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.015 ms
+seq 351: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.601 ms
+seq 352: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.495 ms
+seq 353: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.841 ms
+seq 354: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.620 ms
+seq 357: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.208 ms
+seq 355: no response (timeout)
+seq 356: no response (timeout)
+seq 359: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.252 ms
+seq 360: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.140 ms
+seq 358: no response (timeout)
+seq 363: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.529 ms
+seq 361: no response (timeout)
+seq 362: no response (timeout)
+seq 365: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.406 ms
+seq 364: no response (timeout)
+seq 366: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.216 ms
+seq 368: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.747 ms
+seq 367: no response (timeout)
+seq 370: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.593 ms
+seq 369: no response (timeout)
+seq 372: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  464.489 ms
+seq 371: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.527 ms
+seq 373: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.010 ms
+seq 374: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.112 ms
+seq 375: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.933 ms
+seq 377: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.783 ms
+seq 378: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  510.131 ms
+seq 376: no response (timeout)
+seq 380: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.387 ms
+seq 381: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.769 ms
+seq 379: no response (timeout)
+seq 382: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.154 ms
+seq 383: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.902 ms
+seq 384: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.204 ms
+seq 385: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.543 ms
+seq 386: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.124 ms
+seq 388: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.163 ms
+seq 389: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.775 ms
+seq 387: no response (timeout)
+seq 393: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.906 ms
+seq 392: no response (timeout)
+seq 390: no response (timeout)
+seq 391: no response (timeout)
+seq 396: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.595 ms
+seq 394: no response (timeout)
+seq 395: no response (timeout)
+seq 397: no response (timeout)
+seq 399: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.055 ms
+seq 400: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.638 ms
+seq 398: no response (timeout)
+seq 404: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.922 ms
+seq 401: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.508 ms
+seq 403: no response (timeout)
+seq 405: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.007 ms
+seq 408: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.667 ms
+seq 410: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.713 ms
+seq 407: no response (timeout)
+seq 409: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.333 ms
+seq 402: no response (timeout)
+seq 406: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.048 ms
+seq 411: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.294 ms
+seq 412: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.470 ms
+seq 413: no response (timeout)
+seq 414: no response (timeout)
+seq 415: no response (timeout)
+seq 416: no response (timeout)
+seq 420: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.715 ms
+seq 417: no response (timeout)
+seq 418: no response (timeout)
+seq 419: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.851 ms
+seq 422: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.611 ms
+seq 423: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.100 ms
+seq 421: no response (timeout)
+seq 425: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.109 ms
+seq 426: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.560 ms
+seq 424: no response (timeout)
+seq 427: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.124 ms
+seq 428: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.942 ms
+seq 429: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.189 ms
+seq 430: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.185 ms
+seq 431: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.859 ms
+seq 432: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.398 ms
+seq 433: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.705 ms
+seq 434: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.301 ms
+seq 435: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.449 ms
+seq 436: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.710 ms
+seq 437: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.328 ms
+seq 438: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.282 ms
+seq 439: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.192 ms
+seq 440: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.261 ms
+seq 441: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.646 ms
+seq 443: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.185 ms
+seq 444: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.678 ms
+seq 442: no response (timeout)
+seq 448: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.767 ms
+seq 446: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.336 ms
+seq 445: no response (timeout)
+seq 447: no response (timeout)
+seq 449: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.395 ms
+seq 450: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.845 ms
+seq 451: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.892 ms
+seq 452: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.775 ms
+seq 453: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.824 ms
+seq 456: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.705 ms
+seq 455: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.982 ms
+seq 454: no response (timeout)
+seq 458: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.947 ms
+seq 459: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.335 ms
+seq 460: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.243 ms
+seq 457: no response (timeout)
+seq 461: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.593 ms
+seq 462: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.046 ms
+seq 464: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.154 ms
+seq 463: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.017 ms
+seq 466: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.977 ms
+seq 467: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.095 ms
+seq 465: no response (timeout)
+seq 468: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.401 ms
+seq 469: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.569 ms
+seq 471: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.092 ms
+seq 472: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.442 ms
+seq 470: no response (timeout)
+seq 475: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.974 ms
+seq 473: no response (timeout)
+seq 474: no response (timeout)
+seq 477: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.158 ms
+seq 478: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.834 ms
+seq 476: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.265 ms
+seq 480: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.915 ms
+seq 481: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.758 ms
+seq 479: no response (timeout)
+seq 484: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  512.066 ms
+seq 482: no response (timeout)
+seq 485: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.856 ms
+seq 483: no response (timeout)
+seq 486: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.846 ms
+seq 487: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.381 ms
+seq 488: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.525 ms
+seq 489: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  465.272 ms
+seq 490: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  469.980 ms
+seq 492: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.344 ms
+seq 493: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  476.674 ms
+seq 491: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  470.506 ms
+seq 494: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  470.107 ms
+seq 495: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.163 ms
+seq 496: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.053 ms
+seq 497: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.710 ms
+seq 498: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.799 ms
+seq 499: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.204 ms
+seq 500: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.202 ms
+seq 501: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.734 ms
+seq 502: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.475 ms
+seq 503: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.543 ms
+seq 505: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.436 ms
+seq 504: no response (timeout)
+seq 506: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.704 ms
+seq 507: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.123 ms
+seq 508: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.089 ms
+seq 509: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.124 ms
+seq 510: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.922 ms
+seq 511: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.278 ms
+seq 512: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.981 ms
+seq 513: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.799 ms
+seq 514: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.551 ms
+seq 515: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.651 ms
+seq 517: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.955 ms
+seq 516: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.365 ms
+seq 519: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.037 ms
+seq 520: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.592 ms
+seq 518: no response (timeout)
+seq 522: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.212 ms
+seq 521: no response (timeout)
+seq 524: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.240 ms
+seq 523: no response (timeout)
+seq 525: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.642 ms
+seq 527: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.954 ms
+seq 528: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.795 ms
+seq 526: no response (timeout)
+seq 529: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.167 ms
+seq 530: no response (timeout)
+seq 532: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.931 ms
+seq 531: no response (timeout)
+seq 533: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.257 ms
+seq 534: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.010 ms
+seq 535: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.818 ms
+seq 536: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.919 ms
+seq 537: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.357 ms
+seq 538: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.857 ms
+seq 541: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.038 ms
+seq 543: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.936 ms
+seq 542: no response (timeout)
+seq 544: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.432 ms
+seq 546: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.468 ms
+seq 547: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.988 ms
+seq 548: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.860 ms
+seq 549: no response (timeout)
+seq 552: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.736 ms
+seq 550: no response (timeout)
+seq 539: no response (timeout)
+seq 551: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.522 ms
+seq 540: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.685 ms
+seq 555: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.415 ms
+seq 554: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.303 ms
+seq 553: no response (timeout)
+seq 545: no response (timeout)
+seq 557: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.826 ms
+seq 556: no response (timeout)
+seq 559: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.302 ms
+seq 558: no response (timeout)
+seq 561: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.692 ms
+seq 560: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.780 ms
+seq 562: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.223 ms
+seq 564: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.131 ms
+seq 565: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.438 ms
+seq 567: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.981 ms
+seq 568: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.895 ms
+seq 566: no response (timeout)
+seq 563: no response (timeout)
+seq 569: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.897 ms
+seq 570: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.250 ms
+seq 571: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.002 ms
+seq 572: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.255 ms
+seq 574: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.359 ms
+seq 575: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.620 ms
+seq 573: no response (timeout)
+seq 577: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.058 ms
+seq 576: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.600 ms
+seq 579: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.171 ms
+seq 578: no response (timeout)
+seq 580: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.263 ms
+seq 583: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.175 ms
+seq 581: no response (timeout)
+seq 584: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.633 ms
+seq 582: no response (timeout)
+seq 585: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  413.550 ms
+seq 587: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.561 ms
+seq 588: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.122 ms
+seq 586: no response (timeout)
+seq 590: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.211 ms
+seq 589: no response (timeout)
+seq 592: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.343 ms
+seq 594: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.026 ms
+seq 595: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.045 ms
+seq 593: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.051 ms
+seq 591: no response (timeout)
+seq 597: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.830 ms
+seq 596: no response (timeout)
+seq 598: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.219 ms
+seq 600: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.128 ms
+seq 599: no response (timeout)
+seq 601: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.931 ms
+seq 603: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.347 ms
+seq 602: no response (timeout)
+seq 605: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.832 ms
+seq 604: no response (timeout)
+seq 606: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.008 ms
+seq 608: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.706 ms
+seq 609: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.803 ms
+seq 607: no response (timeout)
+seq 610: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.954 ms
+seq 613: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.420 ms
+seq 611: no response (timeout)
+seq 614: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.077 ms
+seq 612: no response (timeout)
+seq 617: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.002 ms
+seq 615: no response (timeout)
+seq 616: no response (timeout)
+seq 620: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.486 ms
+seq 618: no response (timeout)
+seq 619: no response (timeout)
+seq 622: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.251 ms
+seq 621: no response (timeout)
+seq 623: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.138 ms
+seq 625: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.712 ms
+seq 626: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.897 ms
+seq 627: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.603 ms
+seq 624: no response (timeout)
+seq 628: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.762 ms
+seq 629: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.941 ms
+seq 631: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.875 ms
+seq 632: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.699 ms
+seq 633: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.264 ms
+seq 630: no response (timeout)
+seq 635: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.246 ms
+seq 634: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.498 ms
+seq 637: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.964 ms
+seq 638: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.531 ms
+seq 636: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.880 ms
+seq 640: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.626 ms
+seq 639: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.610 ms
+seq 641: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.721 ms
+seq 642: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.449 ms
+seq 643: no response (timeout)
+seq 644: no response (timeout)
+seq 645: no response (timeout)
+seq 646: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.172 ms
+seq 647: no response (timeout)
+seq 649: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.316 ms
+seq 650: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.115 ms
+seq 648: no response (timeout)
+seq 652: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.686 ms
+seq 653: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.928 ms
+seq 651: no response (timeout)
+seq 654: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.902 ms
+seq 655: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.103 ms
+seq 658: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.205 ms
+seq 656: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.741 ms
+seq 657: no response (timeout)
+seq 659: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.863 ms
+seq 660: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.338 ms
+seq 661: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.636 ms
+seq 662: no response (timeout)
+seq 663: no response (timeout)
+seq 665: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.102 ms
+seq 667: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.761 ms
+seq 668: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.966 ms
+seq 664: no response (timeout)
+seq 666: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.501 ms
+seq 670: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.241 ms
+seq 671: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.146 ms
+seq 669: no response (timeout)
+seq 673: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.762 ms
+seq 672: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  413.274 ms
+seq 674: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.445 ms
+seq 675: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.450 ms
+seq 676: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.444 ms
+seq 677: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.475 ms
+seq 678: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.508 ms
+seq 679: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.807 ms
+seq 680: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.867 ms
+seq 681: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.289 ms
+seq 683: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.429 ms
+seq 682: no response (timeout)
+seq 687: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.723 ms
+seq 684: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.956 ms
+seq 685: no response (timeout)
+seq 691: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.632 ms
+seq 692: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.194 ms
+seq 688: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.646 ms
+seq 690: no response (timeout)
+seq 686: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  414.772 ms
+seq 694: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.640 ms
+seq 695: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.133 ms
+seq 693: no response (timeout)
+seq 689: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.677 ms
+seq 696: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.997 ms
+seq 697: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.449 ms
+seq 698: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.045 ms
+seq 699: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.003 ms
+seq 701: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.135 ms
+seq 702: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.864 ms
+seq 700: no response (timeout)
+seq 704: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.866 ms
+seq 705: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.872 ms
+seq 706: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.560 ms
+seq 707: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.838 ms
+seq 703: no response (timeout)
+seq 708: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.214 ms
+seq 709: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.482 ms
+seq 710: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  462.882 ms
+seq 711: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.514 ms
+seq 713: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.862 ms
+seq 712: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.777 ms
+seq 714: no response (timeout)
+seq 715: no response (timeout)
+seq 718: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.123 ms
+seq 716: no response (timeout)
+seq 719: no response (timeout)
+seq 717: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  468.907 ms
+seq 721: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.996 ms
+seq 720: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.831 ms
+seq 724: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.864 ms
+seq 726: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.516 ms
+seq 725: no response (timeout)
+seq 723: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.663 ms
+seq 722: no response (timeout)
+seq 727: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.357 ms
+seq 728: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  415.005 ms
+seq 729: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.047 ms
+seq 730: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.019 ms
+seq 731: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.180 ms
+seq 733: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.160 ms
+seq 732: no response (timeout)
+seq 735: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.617 ms
+seq 734: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.741 ms
+seq 737: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.656 ms
+seq 736: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.505 ms
+seq 738: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.110 ms
+seq 740: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.180 ms
+seq 739: no response (timeout)
+seq 742: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.537 ms
+seq 741: no response (timeout)
+seq 743: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  489.099 ms
+seq 744: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.064 ms
+seq 745: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.409 ms
+seq 746: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.181 ms
+seq 747: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.384 ms
+seq 748: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.229 ms
+seq 749: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.743 ms
+seq 752: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.863 ms
+seq 750: no response (timeout)
+seq 751: no response (timeout)
+seq 755: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.154 ms
+seq 754: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.612 ms
+seq 753: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.048 ms
+seq 756: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.625 ms
+seq 757: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  671.980 ms
+seq 758: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.486 ms
+seq 759: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.306 ms
+seq 760: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.732 ms
+seq 761: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.082 ms
+seq 762: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.127 ms
+seq 763: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.032 ms
+seq 764: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.880 ms
+seq 767: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  486.617 ms
+seq 766: no response (timeout)
+seq 768: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.559 ms
+seq 765: no response (timeout)
+seq 770: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.165 ms
+seq 771: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.673 ms
+seq 769: no response (timeout)
+seq 773: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.586 ms
+seq 772: no response (timeout)
+seq 775: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.110 ms
+seq 776: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.172 ms
+seq 774: no response (timeout)
+seq 777: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.636 ms
+seq 778: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.703 ms
+seq 779: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.753 ms
+seq 780: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.946 ms
+seq 781: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.537 ms
+seq 782: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.856 ms
+seq 783: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.156 ms
+seq 784: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.175 ms
+seq 785: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.739 ms
+seq 786: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.833 ms
+seq 787: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.696 ms
+seq 788: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.075 ms
+seq 789: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.176 ms
+seq 790: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.554 ms
+seq 791: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.676 ms
+seq 792: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.058 ms
+seq 793: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.776 ms
+seq 794: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.038 ms
+seq 795: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.352 ms
+seq 796: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.823 ms
+seq 797: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.200 ms
+seq 800: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.916 ms
+seq 801: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.468 ms
+seq 799: no response (timeout)
+seq 802: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.127 ms
+seq 803: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.045 ms
+seq 804: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.556 ms
+seq 805: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.665 ms
+seq 798: no response (timeout)
+seq 806: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.142 ms
+seq 808: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.748 ms
+seq 807: no response (timeout)
+seq 809: no response (timeout)
+seq 811: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.057 ms
+seq 812: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.102 ms
+seq 810: no response (timeout)
+seq 813: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.483 ms
+seq 814: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.828 ms
+seq 817: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.528 ms
+seq 815: no response (timeout)
+seq 818: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.211 ms
+seq 816: no response (timeout)
+seq 820: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.475 ms
+seq 821: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.752 ms
+seq 819: no response (timeout)
+seq 822: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.537 ms
+seq 823: no response (timeout)
+seq 824: no response (timeout)
+seq 826: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.902 ms
+seq 827: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.385 ms
+seq 825: no response (timeout)
+seq 829: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.130 ms
+seq 830: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.701 ms
+seq 828: no response (timeout)
+seq 832: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.456 ms
+seq 831: no response (timeout)
+seq 833: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.811 ms
+seq 834: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.640 ms
+seq 835: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.542 ms
+seq 836: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.045 ms
+seq 838: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.930 ms
+seq 839: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.475 ms
+seq 837: no response (timeout)
+seq 841: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.206 ms
+seq 842: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.571 ms
+seq 840: no response (timeout)
+seq 843: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.033 ms
+seq 845: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.812 ms
+seq 844: no response (timeout)
+seq 846: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.634 ms
+seq 847: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.787 ms
+seq 849: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.987 ms
+seq 848: no response (timeout)
+seq 850: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.884 ms
+seq 851: no response (timeout)
+seq 853: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.336 ms
+seq 854: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.073 ms
+seq 852: no response (timeout)
+seq 858: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.229 ms
+seq 857: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.359 ms
+seq 855: no response (timeout)
+seq 856: no response (timeout)
+seq 860: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.668 ms
+seq 859: no response (timeout)
+seq 861: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.272 ms
+seq 862: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.990 ms
+seq 863: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.085 ms
+seq 865: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.097 ms
+seq 864: no response (timeout)
+seq 867: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.643 ms
+seq 866: no response (timeout)
+seq 869: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  488.860 ms
+seq 868: no response (timeout)
+seq 870: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  915.884 ms
+seq 871: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.389 ms
+seq 873: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.555 ms
+seq 874: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.058 ms
+seq 872: no response (timeout)
+seq 876: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.795 ms
+seq 877: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.197 ms
+seq 875: no response (timeout)
+seq 878: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.557 ms
+seq 879: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.170 ms
+seq 880: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.389 ms
+seq 882: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.370 ms
+seq 884: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.899 ms
+seq 881: no response (timeout)
+seq 886: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.140 ms
+seq 883: no response (timeout)
+seq 885: no response (timeout)
+seq 888: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.157 ms
+seq 887: no response (timeout)
+seq 890: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.022 ms
+seq 891: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.532 ms
+seq 889: no response (timeout)
+seq 892: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.901 ms
+seq 894: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.635 ms
+seq 893: no response (timeout)
+seq 896: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.521 ms
+seq 895: no response (timeout)
+seq 897: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.450 ms
+seq 898: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.843 ms
+seq 899: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.626 ms
+seq 900: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.636 ms
+seq 901: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.878 ms
+seq 902: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.063 ms
+seq 903: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.354 ms
+seq 904: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.617 ms
+seq 905: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.827 ms
+seq 906: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.983 ms
+seq 908: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.633 ms
+seq 909: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.800 ms
+seq 907: no response (timeout)
+seq 911: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.034 ms
+seq 912: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.929 ms
+seq 910: no response (timeout)
+seq 914: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.472 ms
+seq 913: no response (timeout)
+seq 916: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.654 ms
+seq 915: no response (timeout)
+seq 918: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.106 ms
+seq 917: no response (timeout)
+seq 919: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.325 ms
+seq 922: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.454 ms
+seq 921: no response (timeout)
+seq 924: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.433 ms
+seq 920: no response (timeout)
+seq 923: no response (timeout)
+seq 926: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.881 ms
+seq 927: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.853 ms
+seq 925: no response (timeout)
+seq 929: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.512 ms
+seq 930: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.807 ms
+seq 928: no response (timeout)
+seq 931: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.141 ms
+seq 932: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.093 ms
+seq 933: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.837 ms
+seq 934: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.984 ms
+seq 935: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.982 ms
+seq 938: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.108 ms
+seq 936: no response (timeout)
+seq 939: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.275 ms
+seq 937: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.050 ms
+seq 940: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.107 ms
+seq 941: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.068 ms
+seq 943: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.990 ms
+seq 942: no response (timeout)
+seq 945: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.148 ms
+seq 944: no response (timeout)
+seq 946: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.731 ms
+seq 949: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.057 ms
+seq 947: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.846 ms
+seq 948: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.363 ms
+seq 950: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.482 ms
+seq 951: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.365 ms
+seq 952: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.956 ms
+seq 953: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.048 ms
+seq 954: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.857 ms
+seq 955: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  486.484 ms
+seq 956: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  480.888 ms
+seq 958: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  472.212 ms
+seq 957: no response (timeout)
+seq 960: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.360 ms
+seq 959: no response (timeout)
+seq 961: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.731 ms
+seq 962: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.134 ms
+seq 963: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.597 ms
+seq 964: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.303 ms
+seq 966: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.850 ms
+seq 965: no response (timeout)
+seq 967: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.807 ms
+seq 968: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.158 ms
+seq 969: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.757 ms
+seq 970: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.274 ms
+seq 971: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.164 ms
+seq 972: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.984 ms
+seq 973: no response (timeout)
+seq 976: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.502 ms
+seq 974: no response (timeout)
+seq 975: no response (timeout)
+seq 978: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.832 ms
+seq 979: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.126 ms
+seq 977: no response (timeout)
+seq 980: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.446 ms
+seq 981: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.826 ms
+seq 982: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.491 ms
+seq 984: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.982 ms
+seq 983: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.428 ms
+seq 985: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.861 ms
+seq 986: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.214 ms
+seq 987: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.519 ms
+seq 988: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.795 ms
+seq 989: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.338 ms
+seq 990: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.317 ms
+seq 992: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.890 ms
+seq 991: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.745 ms
+seq 993: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.752 ms
+seq 994: no response (timeout)
+seq 997: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.311 ms
+seq 996: no response (timeout)
+seq 995: no response (timeout)
+seq 1000: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.194 ms
+seq 999: no response (timeout)
+seq 1002: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.210 ms
+seq 998: no response (timeout)
+seq 1001: no response (timeout)
+seq 1003: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.141 ms
+seq 1004: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.811 ms
+seq 1005: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.081 ms
+seq 1007: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.880 ms
+seq 1006: no response (timeout)
+seq 1009: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.610 ms
+seq 1010: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.102 ms
+seq 1008: no response (timeout)
+seq 1011: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.305 ms
+seq 1013: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.388 ms
+seq 1012: no response (timeout)
+seq 1015: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.876 ms
+seq 1014: no response (timeout)
+seq 1017: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.120 ms
+seq 1016: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.425 ms
+seq 1018: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.751 ms
+seq 1019: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.977 ms
+seq 1020: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.634 ms
+seq 1021: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.135 ms
+seq 1022: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.688 ms
+seq 1023: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.242 ms
+seq 1025: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.535 ms
+seq 1026: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.488 ms
+seq 1024: no response (timeout)
+seq 1027: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.249 ms
+seq 1028: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.759 ms
+seq 1029: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  470.011 ms
+seq 1030: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.791 ms
+seq 1032: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.137 ms
+seq 1033: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.528 ms
+seq 1034: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.084 ms
+seq 1031: no response (timeout)
+seq 1035: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.575 ms
+seq 1036: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.791 ms
+seq 1037: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  635.718 ms
+seq 1039: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.969 ms
+seq 1038: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.660 ms
+seq 1042: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.176 ms
+seq 1040: no response (timeout)
+seq 1041: no response (timeout)
+seq 1044: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.429 ms
+seq 1043: no response (timeout)
+seq 1045: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.646 ms
+seq 1046: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.788 ms
+seq 1047: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.267 ms
+seq 1049: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.194 ms
+seq 1050: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  462.690 ms
+seq 1048: no response (timeout)
+seq 1051: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.861 ms
+seq 1052: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.230 ms
+seq 1053: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.035 ms
+seq 1054: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.347 ms
+seq 1056: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.316 ms
+seq 1057: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.609 ms
+seq 1055: no response (timeout)
+seq 1058: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.535 ms
+seq 1059: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.703 ms
+seq 1062: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.383 ms
+seq 1060: no response (timeout)
+seq 1061: no response (timeout)
+seq 1063: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.487 ms
+seq 1064: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.408 ms
+seq 1067: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.250 ms
+seq 1065: no response (timeout)
+seq 1066: no response (timeout)
+seq 1069: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.946 ms
+seq 1068: no response (timeout)
+seq 1070: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.439 ms
+seq 1071: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.322 ms
+seq 1072: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.278 ms
+seq 1073: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.693 ms
+seq 1074: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.923 ms
+seq 1076: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.203 ms
+seq 1077: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.303 ms
+seq 1075: no response (timeout)
+seq 1078: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.169 ms
+seq 1079: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.792 ms
+seq 1080: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.483 ms
+seq 1081: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  473.107 ms
+seq 1082: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.481 ms
+seq 1084: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.254 ms
+seq 1085: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.972 ms
+seq 1083: no response (timeout)
+seq 1088: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.344 ms
+seq 1086: no response (timeout)
+seq 1087: no response (timeout)
+seq 1090: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.605 ms
+seq 1089: no response (timeout)
+seq 1091: no response (timeout)
+seq 1093: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.413 ms
+seq 1092: no response (timeout)
+seq 1096: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.180 ms
+seq 1094: no response (timeout)
+seq 1097: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.461 ms
+seq 1095: no response (timeout)
+seq 1100: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.102 ms
+seq 1098: no response (timeout)
+seq 1099: no response (timeout)
+seq 1101: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.395 ms
+seq 1102: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.373 ms
+seq 1104: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.915 ms
+seq 1105: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.798 ms
+seq 1103: no response (timeout)
+seq 1106: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.876 ms
+seq 1107: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.177 ms
+seq 1109: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.390 ms
+seq 1110: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.065 ms
+seq 1108: no response (timeout)
+seq 1111: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.896 ms
+seq 1112: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.093 ms
+seq 1113: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.944 ms
+seq 1114: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.814 ms
+seq 1115: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.112 ms
+seq 1116: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.232 ms
+seq 1117: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.607 ms
+seq 1119: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.487 ms
+seq 1120: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.263 ms
+seq 1121: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.838 ms
+seq 1118: no response (timeout)
+seq 1122: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.241 ms
+seq 1123: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.727 ms
+seq 1124: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.158 ms
+seq 1125: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.775 ms
+seq 1127: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.436 ms
+seq 1126: no response (timeout)
+seq 1129: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  485.880 ms
+seq 1130: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.141 ms
+seq 1128: no response (timeout)
+seq 1131: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.763 ms
+seq 1132: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.870 ms
+seq 1133: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.877 ms
+seq 1134: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.435 ms
+seq 1136: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.349 ms
+seq 1137: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.035 ms
+seq 1135: no response (timeout)
+seq 1139: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.268 ms
+seq 1138: no response (timeout)
+seq 1140: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.294 ms
+seq 1141: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  484.460 ms
+seq 1142: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.573 ms
+seq 1144: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.901 ms
+seq 1145: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.759 ms
+seq 1146: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.723 ms
+seq 1143: no response (timeout)
+seq 1148: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.355 ms
+seq 1147: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.810 ms
+seq 1149: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.088 ms
+seq 1150: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.302 ms
+seq 1151: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.693 ms
+seq 1153: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.487 ms
+seq 1154: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.951 ms
+seq 1152: no response (timeout)
+seq 1155: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.152 ms
+seq 1156: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.294 ms
+seq 1157: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.762 ms
+seq 1158: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.966 ms
+seq 1159: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.068 ms
+seq 1160: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.715 ms
+seq 1161: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.774 ms
+seq 1162: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.029 ms
+seq 1163: no response (timeout)
+seq 1166: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.514 ms
+seq 1164: no response (timeout)
+seq 1165: no response (timeout)
+seq 1168: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.723 ms
+seq 1169: no response (timeout)
+seq 1170: no response (timeout)
+seq 1171: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  468.101 ms
+seq 1167: no response (timeout)
+seq 1173: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.521 ms
+seq 1172: no response (timeout)
+seq 1174: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.446 ms
+seq 1175: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.626 ms
+seq 1176: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.541 ms
+seq 1177: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.876 ms
+seq 1178: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.716 ms
+seq 1179: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.008 ms
+seq 1180: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  650.910 ms
+seq 1183: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.819 ms
+seq 1181: no response (timeout)
+seq 1182: no response (timeout)
+seq 1185: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.533 ms
+seq 1184: no response (timeout)
+seq 1187: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.649 ms
+seq 1186: no response (timeout)
+seq 1188: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.730 ms
+seq 1189: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.907 ms
+seq 1190: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  489.232 ms
+seq 1193: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.127 ms
+seq 1191: no response (timeout)
+seq 1192: no response (timeout)
+seq 1195: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.938 ms
+seq 1197: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.051 ms
+seq 1194: no response (timeout)
+seq 1196: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.041 ms
+seq 1200: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.882 ms
+seq 1198: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.809 ms
+seq 1201: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.815 ms
+seq 1199: no response (timeout)
+seq 1202: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.754 ms
+seq 1203: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.622 ms
+seq 1204: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.007 ms
+seq 1205: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.089 ms
+seq 1206: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.935 ms
+seq 1207: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.596 ms
+seq 1208: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.555 ms
+seq 1209: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.560 ms
+seq 1211: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.703 ms
+seq 1212: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.913 ms
+seq 1210: no response (timeout)
+seq 1213: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.615 ms
+seq 1215: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.735 ms
+seq 1214: no response (timeout)
+seq 1218: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.465 ms
+seq 1217: no response (timeout)
+seq 1219: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.194 ms
+seq 1216: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.454 ms
+seq 1221: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.960 ms
+seq 1220: no response (timeout)
+seq 1222: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.128 ms
+seq 1225: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.452 ms
+seq 1223: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.596 ms
+seq 1224: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.391 ms
+seq 1227: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.793 ms
+seq 1228: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.919 ms
+seq 1226: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.555 ms
+seq 1229: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.538 ms
+seq 1231: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.453 ms
+seq 1232: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.064 ms
+seq 1230: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.399 ms
+seq 1233: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.812 ms
+seq 1234: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.721 ms
+seq 1235: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.923 ms
+seq 1236: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.289 ms
+seq 1237: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.756 ms
+seq 1238: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.532 ms
+seq 1239: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.431 ms
+seq 1241: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.533 ms
+seq 1240: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.300 ms
+seq 1242: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.534 ms
+seq 1243: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.700 ms
+seq 1244: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.072 ms
+seq 1245: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.205 ms
+seq 1247: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.271 ms
+seq 1246: no response (timeout)
+seq 1248: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.807 ms
+seq 1249: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.353 ms
+seq 1250: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.724 ms
+seq 1251: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.371 ms
+seq 1252: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.240 ms
+seq 1254: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.475 ms
+seq 1253: no response (timeout)
+seq 1256: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.610 ms
+seq 1255: no response (timeout)
+seq 1257: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.206 ms
+seq 1259: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.291 ms
+seq 1258: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.780 ms
+seq 1261: no response (timeout)
+seq 1260: no response (timeout)
+seq 1263: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.670 ms
+seq 1265: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.371 ms
+seq 1262: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.580 ms
+seq 1266: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.944 ms
+seq 1264: no response (timeout)
+seq 1267: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  491.750 ms
+seq 1268: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.558 ms
+seq 1269: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.475 ms
+seq 1271: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.420 ms
+seq 1270: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  473.665 ms
+seq 1274: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.282 ms
+seq 1276: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.264 ms
+seq 1272: no response (timeout)
+seq 1273: no response (timeout)
+seq 1275: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.003 ms
+seq 1277: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.784 ms
+seq 1278: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.004 ms
+seq 1280: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.890 ms
+seq 1279: no response (timeout)
+seq 1282: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.126 ms
+seq 1281: no response (timeout)
+seq 1285: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.673 ms
+seq 1284: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.538 ms
+seq 1283: no response (timeout)
+seq 1287: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.717 ms
+seq 1288: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.839 ms
+seq 1286: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.944 ms
+seq 1289: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.178 ms
+seq 1290: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.111 ms
+seq 1291: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.100 ms
+seq 1293: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.907 ms
+seq 1294: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.097 ms
+seq 1292: no response (timeout)
+seq 1297: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.074 ms
+seq 1295: no response (timeout)
+seq 1296: no response (timeout)
+seq 1300: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.979 ms
+seq 1298: no response (timeout)
+seq 1299: no response (timeout)
+seq 1301: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.549 ms
+seq 1303: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.959 ms
+seq 1302: no response (timeout)
+seq 1305: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.649 ms
+seq 1306: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.376 ms
+seq 1304: no response (timeout)
+seq 1308: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.011 ms
+seq 1309: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.918 ms
+seq 1310: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.383 ms
+seq 1307: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.142 ms
+seq 1311: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.176 ms
+seq 1312: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.592 ms
+seq 1313: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.849 ms
+seq 1315: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.977 ms
+seq 1316: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.455 ms
+seq 1314: no response (timeout)
+seq 1318: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.748 ms
+seq 1317: no response (timeout)
+seq 1320: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.241 ms
+seq 1322: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.292 ms
+seq 1321: no response (timeout)
+seq 1323: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.587 ms
+seq 1324: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.235 ms
+seq 1319: no response (timeout)
+seq 1327: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.903 ms
+seq 1326: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.040 ms
+seq 1325: no response (timeout)
+seq 1329: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.659 ms
+seq 1328: no response (timeout)
+seq 1331: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.017 ms
+seq 1330: no response (timeout)
+seq 1332: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.346 ms
+seq 1333: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.235 ms
+seq 1334: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.349 ms
+seq 1336: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.424 ms
+seq 1337: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.532 ms
+seq 1335: no response (timeout)
+seq 1338: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.966 ms
+seq 1339: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.453 ms
+seq 1341: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.390 ms
+seq 1342: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.542 ms
+seq 1340: no response (timeout)
+seq 1344: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.776 ms
+seq 1345: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.254 ms
+seq 1343: no response (timeout)
+seq 1347: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.159 ms
+seq 1348: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.416 ms
+seq 1346: no response (timeout)
+seq 1350: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.795 ms
+seq 1349: no response (timeout)
+seq 1352: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.756 ms
+seq 1351: no response (timeout)
+seq 1355: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.072 ms
+seq 1353: no response (timeout)
+seq 1354: no response (timeout)
+seq 1356: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.592 ms
+seq 1357: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.048 ms
+seq 1360: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.044 ms
+seq 1358: no response (timeout)
+seq 1359: no response (timeout)
+seq 1362: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.960 ms
+seq 1361: no response (timeout)
+seq 1365: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.030 ms
+seq 1363: no response (timeout)
+seq 1364: no response (timeout)
+seq 1367: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.707 ms
+seq 1366: no response (timeout)
+seq 1368: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.050 ms
+seq 1370: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.905 ms
+seq 1369: no response (timeout)
+seq 1371: no response (timeout)
+seq 1375: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.989 ms
+seq 1372: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.776 ms
+seq 1373: no response (timeout)
+seq 1374: no response (timeout)
+seq 1376: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.008 ms
+seq 1377: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.727 ms
+seq 1378: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.917 ms
+seq 1379: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.160 ms
+seq 1380: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.415 ms
+seq 1383: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.294 ms
+seq 1381: no response (timeout)
+seq 1382: no response (timeout)
+seq 1384: no response (timeout)
+seq 1385: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.959 ms
+seq 1386: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  465.631 ms
+seq 1387: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  472.019 ms
+seq 1388: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.217 ms
+seq 1389: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  475.229 ms
+seq 1390: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.401 ms
+seq 1391: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.640 ms
+seq 1392: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  484.569 ms
+seq 1394: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.422 ms
+seq 1393: no response (timeout)
+seq 1396: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.494 ms
+seq 1395: no response (timeout)
+seq 1397: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.661 ms
+seq 1399: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.705 ms
+seq 1400: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.174 ms
+seq 1398: no response (timeout)
+seq 1401: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.292 ms
+seq 1403: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.087 ms
+seq 1405: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.884 ms
+seq 1402: no response (timeout)
+seq 1404: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  510.372 ms
+seq 1407: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.615 ms
+seq 1406: no response (timeout)
+seq 1408: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.112 ms
+seq 1409: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.277 ms
+seq 1410: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.768 ms
+seq 1411: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.834 ms
+seq 1412: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.182 ms
+seq 1414: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.169 ms
+seq 1413: no response (timeout)
+seq 1416: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.561 ms
+seq 1415: no response (timeout)
+seq 1418: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.949 ms
+seq 1417: no response (timeout)
+seq 1419: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.265 ms
+seq 1420: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.771 ms
+seq 1421: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.677 ms
+seq 1422: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.234 ms
+seq 1423: no response (timeout)
+seq 1424: no response (timeout)
+seq 1425: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.965 ms
+seq 1426: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.382 ms
+seq 1427: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.528 ms
+seq 1428: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.951 ms
+seq 1429: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.014 ms
+seq 1432: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.595 ms
+seq 1430: no response (timeout)
+seq 1433: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.283 ms
+seq 1431: no response (timeout)
+seq 1434: no response (timeout)
+seq 1437: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.873 ms
+seq 1435: no response (timeout)
+seq 1436: no response (timeout)
+seq 1440: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.379 ms
+seq 1438: no response (timeout)
+seq 1439: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.183 ms
+seq 1443: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.201 ms
+seq 1444: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.494 ms
+seq 1442: no response (timeout)
+seq 1441: no response (timeout)
+seq 1445: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.510 ms
+seq 1448: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.625 ms
+seq 1446: no response (timeout)
+seq 1449: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.848 ms
+seq 1447: no response (timeout)
+seq 1450: no response (timeout)
+seq 1454: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.262 ms
+seq 1453: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.712 ms
+seq 1451: no response (timeout)
+seq 1456: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.011 ms
+seq 1452: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.632 ms
+seq 1458: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.207 ms
+seq 1457: no response (timeout)
+seq 1460: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.050 ms
+seq 1461: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.791 ms
+seq 1459: no response (timeout)
+seq 1463: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.771 ms
+seq 1462: no response (timeout)
+seq 1465: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.742 ms
+seq 1455: no response (timeout)
+seq 1464: no response (timeout)
+seq 1467: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  639.550 ms
+seq 1468: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.020 ms
+seq 1466: no response (timeout)
+seq 1471: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.121 ms
+seq 1472: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.431 ms
+seq 1469: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.009 ms
+seq 1473: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.430 ms
+seq 1470: no response (timeout)
+seq 1474: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.011 ms
+seq 1475: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.812 ms
+seq 1476: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.926 ms
+seq 1477: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.998 ms
+seq 1478: no response (timeout)
+seq 1480: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.081 ms
+seq 1479: no response (timeout)
+seq 1481: no response (timeout)
+seq 1482: no response (timeout)
+seq 1485: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.280 ms
+seq 1484: no response (timeout)
+seq 1486: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.569 ms
+seq 1483: no response (timeout)
+seq 1487: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.511 ms
+seq 1488: no response (timeout)
+seq 1490: no response (timeout)
+seq 1491: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.604 ms
+seq 1493: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.692 ms
+seq 1489: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.808 ms
+seq 1492: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.473 ms
+seq 1494: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.468 ms
+seq 1496: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.943 ms
+seq 1495: no response (timeout)
+seq 1499: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.783 ms
+seq 1497: no response (timeout)
+seq 1498: no response (timeout)
+seq 1502: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.091 ms
+seq 1501: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.654 ms
+seq 1500: no response (timeout)
+seq 1505: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.572 ms
+seq 1506: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.147 ms
+seq 1504: no response (timeout)
+seq 1507: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  464.438 ms
+seq 1503: no response (timeout)
+seq 1508: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.641 ms
+seq 1510: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.157 ms
+seq 1511: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.541 ms
+seq 1509: no response (timeout)
+seq 1513: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.222 ms
+seq 1514: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.836 ms
+seq 1512: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.550 ms
+seq 1515: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.686 ms
+seq 1517: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.477 ms
+seq 1518: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  487.237 ms
+seq 1516: no response (timeout)
+seq 1519: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.241 ms
+seq 1521: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.246 ms
+seq 1520: no response (timeout)
+seq 1523: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.176 ms
+seq 1522: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.967 ms
+seq 1524: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.099 ms
+seq 1525: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.822 ms
+seq 1526: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.840 ms
+seq 1527: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.234 ms
+seq 1529: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.625 ms
+seq 1530: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  470.337 ms
+seq 1528: no response (timeout)
+seq 1533: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.990 ms
+seq 1531: no response (timeout)
+seq 1532: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.087 ms
+seq 1535: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  472.543 ms
+seq 1534: no response (timeout)
+seq 1537: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.519 ms
+seq 1538: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.537 ms
+seq 1536: no response (timeout)
+seq 1539: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.147 ms
+seq 1541: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.310 ms
+seq 1542: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.537 ms
+seq 1540: no response (timeout)
+seq 1543: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.940 ms
+seq 1544: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.580 ms
+seq 1547: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.848 ms
+seq 1546: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.939 ms
+seq 1545: no response (timeout)
+seq 1549: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  482.056 ms
+seq 1550: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.230 ms
+seq 1548: no response (timeout)
+seq 1552: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.464 ms
+seq 1553: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.737 ms
+seq 1551: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.136 ms
+seq 1554: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.352 ms
+seq 1556: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.319 ms
+seq 1557: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.760 ms
+seq 1555: no response (timeout)
+seq 1559: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.084 ms
+seq 1558: no response (timeout)
+seq 1560: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.927 ms
+seq 1561: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.546 ms
+seq 1562: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.615 ms
+seq 1564: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.477 ms
+seq 1563: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.788 ms
+seq 1567: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.788 ms
+seq 1566: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.858 ms
+seq 1565: no response (timeout)
+seq 1570: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.310 ms
+seq 1568: no response (timeout)
+seq 1569: no response (timeout)
+seq 1571: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.346 ms
+seq 1572: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.144 ms
+seq 1574: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.532 ms
+seq 1573: no response (timeout)
+seq 1575: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.296 ms
+seq 1576: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.580 ms
+seq 1578: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.128 ms
+seq 1579: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.675 ms
+seq 1582: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.432 ms
+seq 1577: no response (timeout)
+seq 1581: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.458 ms
+seq 1580: no response (timeout)
+seq 1583: no response (timeout)
+seq 1585: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.040 ms
+seq 1586: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.277 ms
+seq 1584: no response (timeout)
+seq 1587: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.396 ms
+seq 1590: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  413.152 ms
+seq 1588: no response (timeout)
+seq 1589: no response (timeout)
+seq 1592: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.245 ms
+seq 1591: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.045 ms
+seq 1594: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.107 ms
+seq 1593: no response (timeout)
+seq 1596: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.749 ms
+seq 1597: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.674 ms
+seq 1595: no response (timeout)
+seq 1600: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.662 ms
+seq 1598: no response (timeout)
+seq 1602: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.052 ms
+seq 1601: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.164 ms
+seq 1599: no response (timeout)
+seq 1603: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.247 ms
+seq 1605: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.953 ms
+seq 1604: no response (timeout)
+seq 1607: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.854 ms
+seq 1608: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.401 ms
+seq 1606: no response (timeout)
+seq 1610: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.070 ms
+seq 1611: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.366 ms
+seq 1609: no response (timeout)
+seq 1614: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.290 ms
+seq 1613: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  415.807 ms
+seq 1612: no response (timeout)
+seq 1616: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.937 ms
+seq 1617: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.951 ms
+seq 1618: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.632 ms
+seq 1619: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.140 ms
+seq 1620: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.023 ms
+seq 1621: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.770 ms
+seq 1615: no response (timeout)
+seq 1622: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.753 ms
+seq 1623: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.661 ms
+seq 1624: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.461 ms
+seq 1625: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.521 ms
+seq 1626: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.616 ms
+seq 1627: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.817 ms
+seq 1628: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.300 ms
+seq 1630: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.892 ms
+seq 1631: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.756 ms
+seq 1629: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.506 ms
+seq 1633: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.300 ms
+seq 1634: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.847 ms
+seq 1632: no response (timeout)
+seq 1637: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.267 ms
+seq 1635: no response (timeout)
+seq 1636: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.220 ms
+seq 1638: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.680 ms
+seq 1639: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.396 ms
+seq 1640: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.936 ms
+seq 1641: no response (timeout)
+seq 1643: no response (timeout)
+seq 1644: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.831 ms
+seq 1642: no response (timeout)
+seq 1645: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.520 ms
+seq 1646: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.518 ms
+seq 1648: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.731 ms
+seq 1647: no response (timeout)
+seq 1651: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.218 ms
+seq 1649: no response (timeout)
+seq 1652: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.881 ms
+seq 1650: no response (timeout)
+seq 1653: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.442 ms
+seq 1654: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.806 ms
+seq 1655: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.487 ms
+seq 1656: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.886 ms
+seq 1659: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.999 ms
+seq 1661: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.437 ms
+seq 1657: no response (timeout)
+seq 1660: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.520 ms
+seq 1658: no response (timeout)
+seq 1663: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.907 ms
+seq 1664: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.708 ms
+seq 1665: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.621 ms
+seq 1666: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.533 ms
+seq 1662: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.246 ms
+seq 1668: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.152 ms
+seq 1669: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.751 ms
+seq 1667: no response (timeout)
+seq 1670: no response (timeout)
+seq 1671: no response (timeout)
+seq 1672: no response (timeout)
+seq 1674: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.424 ms
+seq 1673: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.304 ms
+seq 1675: no response (timeout)
+seq 1677: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.355 ms
+seq 1678: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.914 ms
+seq 1676: no response (timeout)
+seq 1681: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.581 ms
+seq 1680: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.765 ms
+seq 1679: no response (timeout)
+seq 1682: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.888 ms
+seq 1684: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.961 ms
+seq 1683: no response (timeout)
+seq 1685: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.090 ms
+seq 1686: no response (timeout)
+seq 1689: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.906 ms
+seq 1687: no response (timeout)
+seq 1688: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.462 ms
+seq 1691: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.792 ms
+seq 1692: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.885 ms
+seq 1690: no response (timeout)
+seq 1693: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.231 ms
+seq 1694: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.569 ms
+seq 1695: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.206 ms
+seq 1698: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.384 ms
+seq 1696: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.008 ms
+seq 1699: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.762 ms
+seq 1700: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.360 ms
+seq 1697: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.947 ms
+seq 1701: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.219 ms
+seq 1703: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.030 ms
+seq 1702: no response (timeout)
+seq 1704: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.517 ms
+seq 1705: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  414.934 ms
+seq 1706: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.728 ms
+seq 1707: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.725 ms
+seq 1708: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.402 ms
+seq 1709: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.916 ms
+seq 1710: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.089 ms
+seq 1711: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.722 ms
+seq 1712: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.303 ms
+seq 1715: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.955 ms
+seq 1713: no response (timeout)
+seq 1714: no response (timeout)
+seq 1718: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.833 ms
+seq 1716: no response (timeout)
+seq 1720: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.535 ms
+seq 1717: no response (timeout)
+seq 1719: no response (timeout)
+seq 1723: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.373 ms
+seq 1721: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.102 ms
+seq 1722: no response (timeout)
+seq 1724: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.235 ms
+seq 1727: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.985 ms
+seq 1725: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.403 ms
+seq 1728: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.901 ms
+seq 1726: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.900 ms
+seq 1729: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.067 ms
+seq 1730: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.684 ms
+seq 1731: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.472 ms
+seq 1732: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.461 ms
+seq 1733: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.231 ms
+seq 1734: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.170 ms
+seq 1735: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.983 ms
+seq 1736: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.667 ms
+seq 1737: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.418 ms
+seq 1738: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.140 ms
+seq 1740: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.382 ms
+seq 1741: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.288 ms
+seq 1739: no response (timeout)
+seq 1742: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.017 ms
+seq 1743: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.622 ms
+seq 1744: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.493 ms
+seq 1746: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.354 ms
+seq 1745: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.777 ms
+seq 1747: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.461 ms
+seq 1749: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.100 ms
+seq 1752: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.950 ms
+seq 1750: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.285 ms
+seq 1751: no response (timeout)
+seq 1754: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.566 ms
+seq 1748: no response (timeout)
+seq 1753: no response (timeout)
+seq 1756: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.653 ms
+seq 1757: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.716 ms
+seq 1755: no response (timeout)
+seq 1760: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.252 ms
+seq 1758: no response (timeout)
+seq 1759: no response (timeout)
+seq 1762: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.018 ms
+seq 1761: no response (timeout)
+seq 1763: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.257 ms
+seq 1764: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.031 ms
+seq 1765: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.975 ms
+seq 1766: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.338 ms
+seq 1767: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.941 ms
+seq 1768: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.799 ms
+seq 1771: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.964 ms
+seq 1770: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.120 ms
+seq 1769: no response (timeout)
+seq 1773: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.405 ms
+seq 1772: no response (timeout)
+seq 1774: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.692 ms
+seq 1775: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.155 ms
+seq 1778: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.830 ms
+seq 1779: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.266 ms
+seq 1777: no response (timeout)
+seq 1780: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.652 ms
+seq 1776: no response (timeout)
+seq 1782: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.815 ms
+seq 1781: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.636 ms
+seq 1783: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.023 ms
+seq 1784: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.207 ms
+seq 1785: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.306 ms
+seq 1786: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.700 ms
+seq 1787: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.536 ms
+seq 1788: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  470.686 ms
+seq 1789: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  486.097 ms
+seq 1791: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.403 ms
+seq 1793: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.734 ms
+seq 1794: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.015 ms
+seq 1790: no response (timeout)
+seq 1796: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.502 ms
+seq 1792: no response (timeout)
+seq 1795: no response (timeout)
+seq 1798: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.627 ms
+seq 1797: no response (timeout)
+seq 1799: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.316 ms
+seq 1801: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.615 ms
+seq 1802: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.338 ms
+seq 1800: no response (timeout)
+seq 1804: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.168 ms
+seq 1806: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.663 ms
+seq 1803: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.678 ms
+seq 1807: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.643 ms
+seq 1805: no response (timeout)
+seq 1808: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.914 ms
+seq 1810: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.020 ms
+seq 1811: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.080 ms
+seq 1809: no response (timeout)
+seq 1812: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.366 ms
+seq 1815: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  472.221 ms
+seq 1813: no response (timeout)
+seq 1814: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  462.377 ms
+seq 1816: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  471.809 ms
+seq 1817: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  473.877 ms
+seq 1819: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  479.331 ms
+seq 1820: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  468.830 ms
+seq 1818: no response (timeout)
+seq 1821: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.406 ms
+seq 1822: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  486.247 ms
+seq 1823: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.764 ms
+seq 1825: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.059 ms
+seq 1824: no response (timeout)
+seq 1827: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.466 ms
+seq 1826: no response (timeout)
+seq 1828: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.878 ms
+seq 1829: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.044 ms
+seq 1831: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.741 ms
+seq 1832: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.438 ms
+seq 1830: no response (timeout)
+seq 1833: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.459 ms
+seq 1834: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  644.936 ms
+seq 1835: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.186 ms
+seq 1836: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  472.809 ms
+seq 1837: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.788 ms
+seq 1838: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.925 ms
+seq 1839: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.084 ms
+seq 1840: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  464.125 ms
+seq 1841: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.337 ms
+seq 1842: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.952 ms
+seq 1843: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.794 ms
+seq 1844: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.288 ms
+seq 1846: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.382 ms
+seq 1847: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.436 ms
+seq 1845: no response (timeout)
+seq 1850: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.484 ms
+seq 1848: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.654 ms
+seq 1851: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.743 ms
+seq 1849: no response (timeout)
+seq 1853: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.414 ms
+seq 1852: no response (timeout)
+seq 1856: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.354 ms
+seq 1857: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.189 ms
+seq 1855: no response (timeout)
+seq 1854: no response (timeout)
+seq 1860: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.034 ms
+seq 1858: no response (timeout)
+seq 1862: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.534 ms
+seq 1861: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.317 ms
+seq 1859: no response (timeout)
+seq 1863: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  464.213 ms
+seq 1865: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.807 ms
+seq 1866: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.546 ms
+seq 1864: no response (timeout)
+seq 1867: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.804 ms
+seq 1869: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.696 ms
+seq 1868: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.338 ms
+seq 1870: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.409 ms
+seq 1871: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.072 ms
+seq 1873: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.610 ms
+seq 1874: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.562 ms
+seq 1872: no response (timeout)
+seq 1876: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.292 ms
+seq 1877: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.639 ms
+seq 1878: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.931 ms
+seq 1875: no response (timeout)
+seq 1879: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.809 ms
+seq 1880: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.060 ms
+seq 1881: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.826 ms
+seq 1882: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  462.366 ms
+seq 1883: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.044 ms
+seq 1884: no response (timeout)
+seq 1887: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.443 ms
+seq 1885: no response (timeout)
+seq 1886: no response (timeout)
+seq 1889: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.492 ms
+seq 1888: no response (timeout)
+seq 1891: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.637 ms
+seq 1890: no response (timeout)
+seq 1892: no response (timeout)
+seq 1893: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.711 ms
+seq 1894: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.080 ms
+seq 1895: no response (timeout)
+seq 1896: no response (timeout)
+seq 1897: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.141 ms
+seq 1898: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  1415.734 ms
+seq 1899: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.301 ms
+seq 1900: no response (timeout)
+seq 1903: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.567 ms
+seq 1901: no response (timeout)
+seq 1902: no response (timeout)
+seq 1906: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.743 ms
+seq 1904: no response (timeout)
+seq 1908: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.724 ms
+seq 1905: no response (timeout)
+seq 1907: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.451 ms
+seq 1909: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.507 ms
+seq 1910: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.200 ms
+seq 1912: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.168 ms
+seq 1911: no response (timeout)
+seq 1914: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.107 ms
+seq 1915: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.625 ms
+seq 1913: no response (timeout)
+seq 1917: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.619 ms
+seq 1916: no response (timeout)
+seq 1920: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.813 ms
+seq 1918: no response (timeout)
+seq 1922: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.236 ms
+seq 1919: no response (timeout)
+seq 1923: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.537 ms
+seq 1921: no response (timeout)
+seq 1925: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.599 ms
+seq 1926: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.502 ms
+seq 1924: no response (timeout)
+seq 1928: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.456 ms
+seq 1929: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  460.157 ms
+seq 1930: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.090 ms
+seq 1931: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.341 ms
+seq 1927: no response (timeout)
+seq 1933: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.908 ms
+seq 1934: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.018 ms
+seq 1932: no response (timeout)
+seq 1936: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.634 ms
+seq 1937: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.831 ms
+seq 1935: no response (timeout)
+seq 1939: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.111 ms
+seq 1940: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.053 ms
+seq 1941: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.623 ms
+seq 1942: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.157 ms
+seq 1938: no response (timeout)
+seq 1943: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.379 ms
+seq 1944: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.170 ms
+seq 1945: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.787 ms
+seq 1946: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.614 ms
+seq 1947: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.304 ms
+seq 1948: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.130 ms
+seq 1949: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.449 ms
+seq 1950: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.280 ms
+seq 1951: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.893 ms
+seq 1952: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.031 ms
+seq 1953: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.200 ms
+seq 1955: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.677 ms
+seq 1954: no response (timeout)
+seq 1957: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.271 ms
+seq 1956: no response (timeout)
+seq 1958: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.896 ms
+seq 1961: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.153 ms
+seq 1959: no response (timeout)
+seq 1963: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.574 ms
+seq 1960: no response (timeout)
+seq 1962: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.365 ms
+seq 1964: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.483 ms
+seq 1965: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.602 ms
+seq 1966: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.606 ms
+seq 1967: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.355 ms
+seq 1969: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.192 ms
+seq 1970: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.494 ms
+seq 1971: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.103 ms
+seq 1968: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.747 ms
+seq 1972: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.168 ms
+seq 1973: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.287 ms
+seq 1975: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  633.247 ms
+seq 1976: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.484 ms
+seq 1974: no response (timeout)
+seq 1978: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.181 ms
+seq 1979: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.278 ms
+seq 1977: no response (timeout)
+seq 1980: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.860 ms
+seq 1981: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.950 ms
+seq 1982: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.848 ms
+seq 1983: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.802 ms
+seq 1984: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.921 ms
+seq 1986: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.621 ms
+seq 1985: no response (timeout)
+seq 1987: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.418 ms
+seq 1988: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.169 ms
+seq 1989: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.920 ms
+seq 1990: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.392 ms
+seq 1991: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  454.677 ms
+seq 1992: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.505 ms
+seq 1993: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.239 ms
+seq 1994: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.165 ms
+seq 1997: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.061 ms
+seq 1996: no response (timeout)
+seq 1995: no response (timeout)
+seq 1998: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.749 ms
+seq 1999: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.424 ms
+seq 2000: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.438 ms
+seq 2001: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.422 ms
+seq 2002: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.261 ms
+seq 2003: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  482.849 ms
+seq 2004: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.217 ms
+seq 2005: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.514 ms
+seq 2006: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.835 ms
+seq 2007: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.604 ms
+seq 2009: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.240 ms
+seq 2010: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.522 ms
+seq 2008: no response (timeout)
+seq 2011: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.495 ms
+seq 2012: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.530 ms
+seq 2014: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.438 ms
+seq 2013: no response (timeout)
+seq 2015: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.962 ms
+seq 2017: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.479 ms
+seq 2018: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.599 ms
+seq 2019: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.342 ms
+seq 2016: no response (timeout)
+seq 2020: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.164 ms
+seq 2021: no response (timeout)
+seq 2022: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  457.313 ms
+seq 2025: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  472.762 ms
+seq 2023: no response (timeout)
+seq 2024: no response (timeout)
+seq 2027: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.080 ms
+seq 2028: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.604 ms
+seq 2026: no response (timeout)
+seq 2029: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  464.629 ms
+seq 2031: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  465.521 ms
+seq 2032: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  471.890 ms
+seq 2030: no response (timeout)
+seq 2033: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  464.836 ms
+seq 2037: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.723 ms
+seq 2036: no response (timeout)
+seq 2038: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.660 ms
+seq 2035: no response (timeout)
+seq 2039: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.884 ms
+seq 2040: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.630 ms
+seq 2034: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.242 ms
+seq 2043: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.026 ms
+seq 2041: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.222 ms
+seq 2042: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.748 ms
+seq 2045: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.065 ms
+seq 2046: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.574 ms
+seq 2044: no response (timeout)
+seq 2047: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.993 ms
+seq 2048: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.043 ms
+seq 2049: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.274 ms
+seq 2051: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.177 ms
+seq 2050: no response (timeout)
+seq 2053: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.436 ms
+seq 2052: no response (timeout)
+seq 2054: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.319 ms
+seq 2055: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.690 ms
+seq 2057: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.873 ms
+seq 2056: no response (timeout)
+seq 2059: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.500 ms
+seq 2058: no response (timeout)
+seq 2061: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.155 ms
+seq 2060: no response (timeout)
+seq 2062: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.584 ms
+seq 2063: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.006 ms
+seq 2064: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.810 ms
+seq 2065: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.683 ms
+seq 2067: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.369 ms
+seq 2068: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.344 ms
+seq 2066: no response (timeout)
+seq 2070: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.655 ms
+seq 2071: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.253 ms
+seq 2069: no response (timeout)
+seq 2074: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.970 ms
+seq 2072: no response (timeout)
+seq 2073: no response (timeout)
+seq 2077: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.214 ms
+seq 2076: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.341 ms
+seq 2075: no response (timeout)
+seq 2078: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.372 ms
+seq 2079: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.035 ms
+seq 2080: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.429 ms
+seq 2081: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  403.137 ms
+seq 2082: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.671 ms
+seq 2083: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.877 ms
+seq 2085: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.802 ms
+seq 2086: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.770 ms
+seq 2084: no response (timeout)
+seq 2087: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.681 ms
+seq 2088: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  411.703 ms
+seq 2090: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.858 ms
+seq 2091: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.408 ms
+seq 2089: no response (timeout)
+seq 2094: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.520 ms
+seq 2092: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.735 ms
+seq 2093: no response (timeout)
+seq 2096: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.813 ms
+seq 2097: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.761 ms
+seq 2099: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.470 ms
+seq 2095: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.247 ms
+seq 2100: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.494 ms
+seq 2098: no response (timeout)
+seq 2101: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.023 ms
+seq 2104: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.254 ms
+seq 2105: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.124 ms
+seq 2103: no response (timeout)
+seq 2102: no response (timeout)
+seq 2106: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.772 ms
+seq 2108: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.158 ms
+seq 2110: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.788 ms
+seq 2109: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.018 ms
+seq 2107: no response (timeout)
+seq 2111: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.320 ms
+seq 2112: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.639 ms
+seq 2113: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.390 ms
+seq 2114: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  415.105 ms
+seq 2115: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.591 ms
+seq 2116: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.955 ms
+seq 2117: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.216 ms
+seq 2118: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.428 ms
+seq 2119: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.069 ms
+seq 2120: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.702 ms
+seq 2123: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.672 ms
+seq 2122: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.429 ms
+seq 2121: no response (timeout)
+seq 2126: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.223 ms
+seq 2125: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.657 ms
+seq 2127: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.978 ms
+seq 2124: no response (timeout)
+seq 2129: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.287 ms
+seq 2130: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.100 ms
+seq 2128: no response (timeout)
+seq 2131: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.608 ms
+seq 2132: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.191 ms
+seq 2133: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.621 ms
+seq 2134: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.109 ms
+seq 2135: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.748 ms
+seq 2136: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.722 ms
+seq 2137: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.959 ms
+seq 2138: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.704 ms
+seq 2139: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.609 ms
+seq 2142: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.473 ms
+seq 2140: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.143 ms
+seq 2143: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.077 ms
+seq 2141: no response (timeout)
+seq 2145: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.856 ms
+seq 2146: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.411 ms
+seq 2144: no response (timeout)
+seq 2147: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.035 ms
+seq 2148: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.065 ms
+seq 2149: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.999 ms
+seq 2150: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.554 ms
+seq 2151: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.287 ms
+seq 2152: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.958 ms
+seq 2154: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.827 ms
+seq 2155: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.197 ms
+seq 2153: no response (timeout)
+seq 2156: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.717 ms
+seq 2158: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.123 ms
+seq 2159: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.945 ms
+seq 2157: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.342 ms
+seq 2161: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.908 ms
+seq 2162: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.272 ms
+seq 2160: no response (timeout)
+seq 2163: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.274 ms
+seq 2164: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.779 ms
+seq 2165: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.613 ms
+seq 2166: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  413.339 ms
+seq 2168: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.895 ms
+seq 2169: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.698 ms
+seq 2167: no response (timeout)
+seq 2170: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  413.169 ms
+seq 2173: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.736 ms
+seq 2171: no response (timeout)
+seq 2172: no response (timeout)
+seq 2175: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.912 ms
+seq 2174: no response (timeout)
+seq 2178: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.873 ms
+seq 2176: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.623 ms
+seq 2177: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.816 ms
+seq 2182: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.800 ms
+seq 2180: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.681 ms
+seq 2181: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.808 ms
+seq 2179: no response (timeout)
+seq 2183: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.799 ms
+seq 2184: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  638.117 ms
+seq 2185: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.984 ms
+seq 2186: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.275 ms
+seq 2188: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.825 ms
+seq 2187: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.751 ms
+seq 2189: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.183 ms
+seq 2190: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.032 ms
+seq 2191: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.866 ms
+seq 2192: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.052 ms
+seq 2193: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  459.499 ms
+seq 2194: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.786 ms
+seq 2195: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.925 ms
+seq 2196: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.257 ms
+seq 2197: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.481 ms
+seq 2198: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.442 ms
+seq 2199: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.611 ms
+seq 2200: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.730 ms
+seq 2201: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.283 ms
+seq 2202: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.103 ms
+seq 2203: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.764 ms
+seq 2204: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.389 ms
+seq 2205: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.083 ms
+seq 2207: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.821 ms
+seq 2208: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.134 ms
+seq 2210: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.188 ms
+seq 2211: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.854 ms
+seq 2209: no response (timeout)
+seq 2212: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.521 ms
+seq 2206: no response (timeout)
+seq 2213: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.518 ms
+seq 2215: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  465.267 ms
+seq 2216: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.550 ms
+seq 2214: no response (timeout)
+seq 2218: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.044 ms
+seq 2217: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.783 ms
+seq 2220: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.895 ms
+seq 2221: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  493.219 ms
+seq 2219: no response (timeout)
+seq 2222: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.812 ms
+seq 2223: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.333 ms
+seq 2224: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.446 ms
+seq 2226: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.171 ms
+seq 2227: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.545 ms
+seq 2225: no response (timeout)
+seq 2229: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.646 ms
+seq 2230: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.627 ms
+seq 2228: no response (timeout)
+seq 2232: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.252 ms
+seq 2231: no response (timeout)
+seq 2233: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.208 ms
+seq 2234: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.451 ms
+seq 2236: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.252 ms
+seq 2235: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.850 ms
+seq 2237: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.488 ms
+seq 2239: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.511 ms
+seq 2238: no response (timeout)
+seq 2241: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  463.841 ms
+seq 2240: no response (timeout)
+seq 2243: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  468.640 ms
+seq 2242: no response (timeout)
+seq 2244: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  465.448 ms
+seq 2245: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.711 ms
+seq 2246: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.073 ms
+seq 2247: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.184 ms
+seq 2248: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.496 ms
+seq 2249: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.316 ms
+seq 2250: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.144 ms
+seq 2251: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.593 ms
+seq 2252: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.876 ms
+seq 2253: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.751 ms
+seq 2254: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.530 ms
+seq 2255: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.348 ms
+seq 2256: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.854 ms
+seq 2257: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.610 ms
+seq 2258: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.096 ms
+seq 2259: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.230 ms
+seq 2260: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.722 ms
+seq 2261: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  413.571 ms
+seq 2262: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.030 ms
+seq 2263: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.434 ms
+seq 2264: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.463 ms
+seq 2265: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.701 ms
+seq 2266: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.630 ms
+seq 2267: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.574 ms
+seq 2268: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.702 ms
+seq 2270: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.496 ms
+seq 2271: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.136 ms
+seq 2269: no response (timeout)
+seq 2272: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.716 ms
+seq 2273: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.667 ms
+seq 2274: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.683 ms
+seq 2275: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.096 ms
+seq 2276: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.809 ms
+seq 2277: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.955 ms
+seq 2279: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  410.236 ms
+seq 2278: no response (timeout)
+seq 2281: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.310 ms
+seq 2280: no response (timeout)
+seq 2283: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.346 ms
+seq 2285: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.744 ms
+seq 2282: no response (timeout)
+seq 2284: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.192 ms
+seq 2286: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.165 ms
+seq 2287: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.264 ms
+seq 2288: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  409.484 ms
+seq 2289: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.471 ms
+seq 2290: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.312 ms
+seq 2292: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.404 ms
+seq 2293: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.526 ms
+seq 2291: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.651 ms
+seq 2294: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.388 ms
+seq 2295: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.109 ms
+seq 2296: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.293 ms
+seq 2297: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.515 ms
+seq 2298: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.734 ms
+seq 2299: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.107 ms
+seq 2300: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.794 ms
+seq 2301: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.239 ms
+seq 2303: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.953 ms
+seq 2302: no response (timeout)
+seq 2305: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.632 ms
+seq 2304: no response (timeout)
+seq 2306: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.819 ms
+seq 2307: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.778 ms
+seq 2308: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.679 ms
+seq 2310: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.609 ms
+seq 2309: no response (timeout)
+seq 2312: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.842 ms
+seq 2311: no response (timeout)
+seq 2314: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.119 ms
+seq 2313: no response (timeout)
+seq 2315: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.647 ms
+seq 2316: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.450 ms
+seq 2317: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.729 ms
+seq 2319: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.527 ms
+seq 2320: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.570 ms
+seq 2318: no response (timeout)
+seq 2321: no response (timeout)
+seq 2322: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.992 ms
+seq 2326: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.331 ms
+seq 2323: no response (timeout)
+seq 2324: no response (timeout)
+seq 2325: no response (timeout)
+seq 2327: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.473 ms
+seq 2329: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.885 ms
+seq 2331: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.882 ms
+seq 2330: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.588 ms
+seq 2328: no response (timeout)
+seq 2332: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.548 ms
+seq 2333: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.867 ms
+seq 2334: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.050 ms
+seq 2335: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.687 ms
+seq 2337: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.918 ms
+seq 2338: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.203 ms
+seq 2336: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.774 ms
+seq 2341: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.439 ms
+seq 2339: no response (timeout)
+seq 2340: no response (timeout)
+seq 2344: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.787 ms
+seq 2343: no response (timeout)
+seq 2342: no response (timeout)
+seq 2346: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.757 ms
+seq 2345: no response (timeout)
+seq 2347: no response (timeout)
+seq 2349: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.939 ms
+seq 2348: no response (timeout)
+seq 2351: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.903 ms
+seq 2352: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.577 ms
+seq 2350: no response (timeout)
+seq 2353: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.852 ms
+seq 2355: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.890 ms
+seq 2356: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.564 ms
+seq 2354: no response (timeout)
+seq 2357: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.550 ms
+seq 2358: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.729 ms
+seq 2360: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.817 ms
+seq 2359: no response (timeout)
+seq 2362: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.733 ms
+seq 2361: no response (timeout)
+seq 2363: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.914 ms
+seq 2365: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.854 ms
+seq 2366: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.347 ms
+seq 2364: no response (timeout)
+seq 2367: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.584 ms
+seq 2368: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.625 ms
+seq 2369: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.051 ms
+seq 2370: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.253 ms
+seq 2371: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.593 ms
+seq 2372: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.225 ms
+seq 2373: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.833 ms
+seq 2374: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.358 ms
+seq 2376: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.181 ms
+seq 2377: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.450 ms
+seq 2375: no response (timeout)
+seq 2378: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.278 ms
+seq 2380: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.730 ms
+seq 2379: no response (timeout)
+seq 2381: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.092 ms
+seq 2383: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.638 ms
+seq 2385: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  455.684 ms
+seq 2382: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.039 ms
+seq 2386: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.014 ms
+seq 2384: no response (timeout)
+seq 2388: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.251 ms
+seq 2389: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.688 ms
+seq 2387: no response (timeout)
+seq 2391: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.363 ms
+seq 2392: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.434 ms
+seq 2390: no response (timeout)
+seq 2394: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.914 ms
+seq 2393: no response (timeout)
+seq 2396: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.315 ms
+seq 2395: no response (timeout)
+seq 2398: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.772 ms
+seq 2399: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.129 ms
+seq 2397: no response (timeout)
+seq 2401: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.187 ms
+seq 2403: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.992 ms
+seq 2400: no response (timeout)
+seq 2402: no response (timeout)
+seq 2404: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.026 ms
+seq 2405: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  678.401 ms
+seq 2406: no response (timeout)
+seq 2407: no response (timeout)
+seq 2408: no response (timeout)
+seq 2410: no response (timeout)
+seq 2411: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.674 ms
+seq 2409: no response (timeout)
+seq 2413: no response (timeout)
+seq 2415: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [closed]  389.234 ms
+seq 2412: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.471 ms
+seq 2414: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.830 ms
+seq 2417: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.226 ms
+seq 2416: no response (timeout)
+seq 2420: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.843 ms
+seq 2418: no response (timeout)
+seq 2419: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.476 ms
+seq 2422: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  461.923 ms
+seq 2423: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.380 ms
+seq 2421: no response (timeout)
+seq 2425: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.751 ms
+seq 2426: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.170 ms
+seq 2424: no response (timeout)
+seq 2427: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.018 ms
+seq 2428: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.427 ms
+seq 2429: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.321 ms
+seq 2430: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.941 ms
+seq 2431: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.472 ms
+seq 2432: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.858 ms
+seq 2433: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.535 ms
+seq 2435: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.546 ms
+seq 2434: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.749 ms
+seq 2436: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.191 ms
+seq 2437: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.025 ms
+seq 2439: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.306 ms
+seq 2440: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.148 ms
+seq 2438: no response (timeout)
+seq 2441: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.314 ms
+seq 2442: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.155 ms
+seq 2443: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.265 ms
+seq 2446: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.964 ms
+seq 2444: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.799 ms
+seq 2445: no response (timeout)
+seq 2449: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.186 ms
+seq 2447: no response (timeout)
+seq 2448: no response (timeout)
+seq 2451: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  465.153 ms
+seq 2450: no response (timeout)
+seq 2452: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  458.891 ms
+seq 2453: no response (timeout)
+seq 2454: no response (timeout)
+seq 2455: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.169 ms
+seq 2456: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.057 ms
+seq 2457: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.329 ms
+seq 2458: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.606 ms
+seq 2459: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.350 ms
+seq 2460: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  426.691 ms
+seq 2461: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.274 ms
+seq 2462: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.038 ms
+seq 2464: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.510 ms
+seq 2465: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.946 ms
+seq 2466: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.959 ms
+seq 2467: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.162 ms
+seq 2463: no response (timeout)
+seq 2468: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.151 ms
+seq 2470: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.134 ms
+seq 2469: no response (timeout)
+seq 2471: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.332 ms
+seq 2472: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.889 ms
+seq 2473: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.711 ms
+seq 2474: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.046 ms
+seq 2475: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  444.019 ms
+seq 2476: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.429 ms
+seq 2477: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.488 ms
+seq 2478: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.485 ms
+seq 2479: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.012 ms
+seq 2480: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.439 ms
+seq 2481: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  412.428 ms
+seq 2482: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.102 ms
+seq 2484: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.680 ms
+seq 2485: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.617 ms
+seq 2483: no response (timeout)
+seq 2487: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.056 ms
+seq 2488: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.980 ms
+seq 2486: no response (timeout)
+seq 2489: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.822 ms
+seq 2490: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.567 ms
+seq 2491: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.713 ms
+seq 2492: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.025 ms
+seq 2494: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.032 ms
+seq 2495: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  509.064 ms
+seq 2493: no response (timeout)
+seq 2496: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.187 ms
+seq 2498: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.644 ms
+seq 2499: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  453.693 ms
+seq 2497: no response (timeout)
+seq 2500: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.168 ms
+seq 2501: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.946 ms
+seq 2502: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.527 ms
+seq 2503: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.654 ms
+seq 2504: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.455 ms
+seq 2505: no response (timeout)
+seq 2507: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.862 ms
+seq 2508: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  450.514 ms
+seq 2506: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.370 ms
+seq 2509: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.965 ms
+seq 2511: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.884 ms
+seq 2512: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.468 ms
+seq 2510: no response (timeout)
+seq 2513: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.064 ms
+seq 2515: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.639 ms
+seq 2516: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.162 ms
+seq 2514: no response (timeout)
+seq 2518: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.381 ms
+seq 2519: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.429 ms
+seq 2517: no response (timeout)
+seq 2521: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.739 ms
+seq 2522: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.052 ms
+seq 2520: no response (timeout)
+seq 2523: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.892 ms
+seq 2524: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.909 ms
+seq 2525: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.716 ms
+seq 2526: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.697 ms
+seq 2527: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.617 ms
+seq 2528: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.220 ms
+seq 2529: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.850 ms
+seq 2531: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.611 ms
+seq 2532: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.569 ms
+seq 2534: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.417 ms
+seq 2535: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.326 ms
+seq 2533: no response (timeout)
+seq 2536: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.611 ms
+seq 2537: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.417 ms
+seq 2538: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  481.440 ms
+seq 2539: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.136 ms
+seq 2530: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.035 ms
+seq 2540: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.217 ms
+seq 2541: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.348 ms
+seq 2543: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.107 ms
+seq 2544: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.164 ms
+seq 2547: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.411 ms
+seq 2545: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.634 ms
+seq 2546: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.260 ms
+seq 2549: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  456.283 ms
+seq 2550: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.228 ms
+seq 2542: no response (timeout)
+seq 2548: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.535 ms
+seq 2551: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.431 ms
+seq 2552: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.929 ms
+seq 2553: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  527.499 ms
+seq 2554: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  429.445 ms
+seq 2555: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.262 ms
+seq 2556: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.700 ms
+seq 2557: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  445.872 ms
+seq 2558: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.127 ms
+seq 2559: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.457 ms
+seq 2560: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.260 ms
+seq 2561: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.568 ms
+seq 2562: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.104 ms
+seq 2563: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.572 ms
+seq 2566: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.405 ms
+seq 2565: no response (timeout)
+seq 2564: no response (timeout)
+seq 2569: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.618 ms
+seq 2567: no response (timeout)
+seq 2568: no response (timeout)
+seq 2570: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  449.501 ms
+seq 2572: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.919 ms
+seq 2573: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  432.929 ms
+seq 2574: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.272 ms
+seq 2571: no response (timeout)
+seq 2575: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.246 ms
+seq 2576: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.950 ms
+seq 2577: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.129 ms
+seq 2580: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.154 ms
+seq 2581: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.757 ms
+seq 2579: no response (timeout)
+seq 2578: no response (timeout)
+seq 2583: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.868 ms
+seq 2584: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.248 ms
+seq 2585: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.605 ms
+seq 2582: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.443 ms
+seq 2587: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  424.872 ms
+seq 2586: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.879 ms
+seq 2588: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.279 ms
+seq 2589: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.508 ms
+seq 2590: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.909 ms
+seq 2592: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.226 ms
+seq 2593: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.481 ms
+seq 2591: no response (timeout)
+seq 2594: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.256 ms
+seq 2597: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  406.393 ms
+seq 2595: no response (timeout)
+seq 2596: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.713 ms
+seq 2599: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.950 ms
+seq 2598: no response (timeout)
+seq 2601: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.053 ms
+seq 2602: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.931 ms
+seq 2603: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  415.481 ms
+seq 2600: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  418.206 ms
+seq 2604: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  433.215 ms
+seq 2605: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.673 ms
+seq 2606: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  425.082 ms
+seq 2608: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  409.697 ms
+seq 2609: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.506 ms
+seq 2610: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  402.956 ms
+seq 2612: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.126 ms
+seq 2611: no response (timeout)
+seq 2613: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  431.490 ms
+seq 2614: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  438.305 ms
+seq 2615: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.461 ms
+seq 2617: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  422.749 ms
+seq 2607: no response (timeout)
+seq 2616: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.773 ms
+seq 2619: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.839 ms
+seq 2618: no response (timeout)
+seq 2621: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.779 ms
+seq 2620: no response (timeout)
+seq 2622: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  414.751 ms
+seq 2623: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.369 ms
+seq 2625: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.903 ms
+seq 2626: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  435.467 ms
+seq 2624: no response (timeout)
+seq 2629: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  441.639 ms
+seq 2627: no response (timeout)
+seq 2628: no response (timeout)
+seq 2631: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.284 ms
+seq 2630: no response (timeout)
+seq 2632: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.478 ms
+seq 2634: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  436.993 ms
+seq 2635: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  421.852 ms
+seq 2633: no response (timeout)
+seq 2636: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.918 ms
+seq 2637: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  423.600 ms
+seq 2638: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.994 ms
+seq 2640: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.191 ms
+seq 2641: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  427.867 ms
+seq 2639: no response (timeout)
+seq 2642: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  428.941 ms
+seq 2643: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.242 ms
+seq 2644: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.720 ms
+seq 2646: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  437.203 ms
+seq 2647: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  442.239 ms
+seq 2645: no response (timeout)
+seq 2649: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.299 ms
+seq 2648: no response (timeout)
+seq 2651: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  420.278 ms
+seq 2650: no response (timeout)
+seq 2653: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.640 ms
+seq 2654: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  417.866 ms
+seq 2652: no response (timeout)
+seq 2655: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  416.409 ms
+seq 2657: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  443.483 ms
+seq 2658: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  440.423 ms
+seq 2656: no response (timeout)
+seq 2659: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  419.106 ms
+seq 2661: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.594 ms
+seq 2662: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  451.603 ms
+seq 2660: no response (timeout)
+seq 2663: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  415.098 ms
+seq 2665: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  448.919 ms
+seq 2666: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  447.994 ms
+seq 2664: no response (timeout)
+seq 2667: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  434.487 ms
+seq 2668: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  430.335 ms
+seq 2670: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  439.700 ms
+seq 2671: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  446.540 ms
+seq 2669: no response (timeout)
+seq 2672: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  452.242 ms
+seq 2673: tcp response from zz-8-82-a8.bta.net.cn (202.108.8.82) [open]  477.571 ms

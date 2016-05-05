@@ -1,0 +1,2622 @@
+seq 1: tcp response from 106.120.160.134 [open]  169.079 ms
+seq 3: tcp response from 106.120.160.134 [open]  171.063 ms
+seq 0: tcp response from 106.120.160.134 [open]  183.449 ms
+seq 5: tcp response from 106.120.160.134 [open]  169.900 ms
+seq 2: tcp response from 106.120.160.134 [open]  178.447 ms
+seq 4: tcp response from 106.120.160.134 [open]  195.758 ms
+seq 9: tcp response from 106.120.160.134 [open]  183.575 ms
+seq 12: tcp response from 106.120.160.134 [open]  179.364 ms
+seq 6: tcp response from 106.120.160.134 [open]  168.897 ms
+seq 7: tcp response from 106.120.160.134 [open]  191.205 ms
+seq 8: tcp response from 106.120.160.134 [open]  180.530 ms
+seq 10: tcp response from 106.120.160.134 [open]  181.752 ms
+seq 14: tcp response from 106.120.160.134 [open]  177.726 ms
+seq 15: tcp response from 106.120.160.134 [open]  164.850 ms
+seq 13: tcp response from 106.120.160.134 [open]  195.623 ms
+seq 18: tcp response from 106.120.160.134 [open]  183.278 ms
+seq 16: no response (timeout)
+seq 17: tcp response from 106.120.160.134 [open]  182.311 ms
+seq 11: tcp response from 106.120.160.134 [open]  196.503 ms
+seq 19: tcp response from 106.120.160.134 [open]  191.901 ms
+seq 25: tcp response from 106.120.160.134 [open]  190.737 ms
+seq 21: tcp response from 106.120.160.134 [open]  189.754 ms
+seq 20: tcp response from 106.120.160.134 [open]  177.375 ms
+seq 23: tcp response from 106.120.160.134 [open]  171.587 ms
+seq 24: tcp response from 106.120.160.134 [open]  191.402 ms
+seq 29: tcp response from 106.120.160.134 [open]  170.700 ms
+seq 27: no response (timeout)
+seq 26: no response (timeout)
+seq 30: tcp response from 106.120.160.134 [open]  170.056 ms
+seq 22: tcp response from 106.120.160.134 [open]  177.987 ms
+seq 28: tcp response from 106.120.160.134 [open]  169.948 ms
+seq 31: no response (timeout)
+seq 33: tcp response from 106.120.160.134 [open]  164.765 ms
+seq 39: tcp response from 106.120.160.134 [open]  189.349 ms
+seq 40: tcp response from 106.120.160.134 [open]  165.211 ms
+seq 42: tcp response from 106.120.160.134 [open]  174.632 ms
+seq 38: tcp response from 106.120.160.134 [open]  195.053 ms
+seq 43: tcp response from 106.120.160.134 [open]  183.626 ms
+seq 34: tcp response from 106.120.160.134 [open]  183.135 ms
+seq 36: tcp response from 106.120.160.134 [open]  194.441 ms
+seq 45: tcp response from 106.120.160.134 [open]  176.163 ms
+seq 35: tcp response from 106.120.160.134 [open]  176.281 ms
+seq 41: no response (timeout)
+seq 32: tcp response from 106.120.160.134 [open]  178.878 ms
+seq 37: tcp response from 106.120.160.134 [open]  176.318 ms
+seq 44: no response (timeout)
+seq 49: tcp response from 106.120.160.134 [open]  177.777 ms
+seq 48: no response (timeout)
+seq 46: tcp response from 106.120.160.134 [open]  169.954 ms
+seq 47: tcp response from 106.120.160.134 [open]  170.945 ms
+seq 52: tcp response from 106.120.160.134 [open]  173.261 ms
+seq 50: tcp response from 106.120.160.134 [open]  179.066 ms
+seq 55: tcp response from 106.120.160.134 [open]  176.753 ms
+seq 51: tcp response from 106.120.160.134 [open]  189.524 ms
+seq 57: tcp response from 106.120.160.134 [open]  176.806 ms
+seq 58: tcp response from 106.120.160.134 [open]  186.047 ms
+seq 56: tcp response from 106.120.160.134 [open]  197.346 ms
+seq 61: tcp response from 106.120.160.134 [open]  182.168 ms
+seq 59: no response (timeout)
+seq 53: tcp response from 106.120.160.134 [open]  165.347 ms
+seq 60: tcp response from 106.120.160.134 [open]  164.615 ms
+seq 54: tcp response from 106.120.160.134 [open]  183.859 ms
+seq 65: no response (timeout)
+seq 67: tcp response from 106.120.160.134 [open]  182.895 ms
+seq 62: tcp response from 106.120.160.134 [open]  177.071 ms
+seq 63: no response (timeout)
+seq 68: tcp response from 106.120.160.134 [open]  182.286 ms
+seq 69: no response (timeout)
+seq 70: tcp response from 106.120.160.134 [open]  183.559 ms
+seq 64: tcp response from 106.120.160.134 [open]  166.064 ms
+seq 66: tcp response from 106.120.160.134 [open]  185.250 ms
+seq 71: tcp response from 106.120.160.134 [open]  170.774 ms
+seq 73: no response (timeout)
+seq 77: tcp response from 106.120.160.134 [open]  165.581 ms
+seq 74: no response (timeout)
+seq 75: no response (timeout)
+seq 72: tcp response from 106.120.160.134 [open]  178.967 ms
+seq 81: tcp response from 106.120.160.134 [open]  195.809 ms
+seq 76: tcp response from 106.120.160.134 [open]  181.626 ms
+seq 78: tcp response from 106.120.160.134 [open]  191.957 ms
+seq 80: no response (timeout)
+seq 82: no response (timeout)
+seq 79: tcp response from 106.120.160.134 [open]  178.485 ms
+seq 85: tcp response from 106.120.160.134 [open]  177.315 ms
+seq 83: no response (timeout)
+seq 86: no response (timeout)
+seq 89: tcp response from 106.120.160.134 [open]  182.114 ms
+seq 87: no response (timeout)
+seq 88: no response (timeout)
+seq 84: tcp response from 106.120.160.134 [open]  165.821 ms
+seq 93: tcp response from 106.120.160.134 [open]  171.010 ms
+seq 94: tcp response from 106.120.160.134 [open]  191.004 ms
+seq 91: no response (timeout)
+seq 90: tcp response from 106.120.160.134 [open]  177.968 ms
+seq 95: tcp response from 106.120.160.134 [open]  164.753 ms
+seq 96: tcp response from 106.120.160.134 [open]  175.679 ms
+seq 98: tcp response from 106.120.160.134 [open]  178.982 ms
+seq 97: no response (timeout)
+seq 100: tcp response from 106.120.160.134 [open]  179.451 ms
+seq 92: tcp response from 106.120.160.134 [open]  166.274 ms
+seq 99: no response (timeout)
+seq 102: tcp response from 106.120.160.134 [open]  179.287 ms
+seq 103: tcp response from 106.120.160.134 [open]  190.313 ms
+seq 105: tcp response from 106.120.160.134 [open]  182.969 ms
+seq 106: tcp response from 106.120.160.134 [open]  165.282 ms
+seq 104: no response (timeout)
+seq 110: tcp response from 106.120.160.134 [open]  191.687 ms
+seq 101: tcp response from 106.120.160.134 [open]  178.097 ms
+seq 108: tcp response from 106.120.160.134 [open]  182.767 ms
+seq 109: tcp response from 106.120.160.134 [open]  165.606 ms
+seq 112: tcp response from 106.120.160.134 [open]  166.234 ms
+seq 113: tcp response from 106.120.160.134 [open]  176.557 ms
+seq 107: tcp response from 106.120.160.134 [open]  165.656 ms
+seq 116: tcp response from 106.120.160.134 [open]  197.259 ms
+seq 111: tcp response from 106.120.160.134 [open]  197.321 ms
+seq 121: tcp response from 106.120.160.134 [open]  165.153 ms
+seq 120: tcp response from 106.120.160.134 [open]  197.358 ms
+seq 118: no response (timeout)
+seq 114: tcp response from 106.120.160.134 [open]  191.322 ms
+seq 119: tcp response from 106.120.160.134 [open]  192.789 ms
+seq 115: tcp response from 106.120.160.134 [open]  177.028 ms
+seq 125: tcp response from 106.120.160.134 [open]  216.207 ms
+seq 126: tcp response from 106.120.160.134 [open]  169.293 ms
+seq 124: no response (timeout)
+seq 127: tcp response from 106.120.160.134 [open]  183.992 ms
+seq 130: tcp response from 106.120.160.134 [open]  164.823 ms
+seq 131: tcp response from 106.120.160.134 [open]  264.565 ms
+seq 123: tcp response from 106.120.160.134 [open]  179.298 ms
+seq 129: no response (timeout)
+seq 128: tcp response from 106.120.160.134 [open]  164.631 ms
+seq 117: tcp response from 106.120.160.134 [open]  175.504 ms
+seq 122: tcp response from 106.120.160.134 [open]  164.805 ms
+seq 132: no response (timeout)
+seq 134: no response (timeout)
+seq 139: tcp response from 106.120.160.134 [open]  178.101 ms
+seq 140: tcp response from 106.120.160.134 [open]  182.886 ms
+seq 138: tcp response from 106.120.160.134 [open]  190.216 ms
+seq 141: no response (timeout)
+seq 135: tcp response from 106.120.160.134 [open]  164.583 ms
+seq 136: tcp response from 106.120.160.134 [open]  169.935 ms
+seq 137: tcp response from 106.120.160.134 [open]  193.235 ms
+seq 146: tcp response from 106.120.160.134 [open]  177.869 ms
+seq 142: tcp response from 106.120.160.134 [open]  178.607 ms
+seq 143: tcp response from 106.120.160.134 [open]  189.058 ms
+seq 148: tcp response from 106.120.160.134 [open]  166.449 ms
+seq 145: no response (timeout)
+seq 144: tcp response from 106.120.160.134 [open]  176.966 ms
+seq 133: tcp response from 106.120.160.134 [open]  179.350 ms
+seq 147: no response (timeout)
+seq 149: no response (timeout)
+seq 150: tcp response from 106.120.160.134 [open]  169.748 ms
+seq 153: tcp response from 106.120.160.134 [open]  183.738 ms
+seq 151: no response (timeout)
+seq 152: no response (timeout)
+seq 155: tcp response from 106.120.160.134 [open]  170.267 ms
+seq 156: tcp response from 106.120.160.134 [open]  178.000 ms
+seq 154: tcp response from 106.120.160.134 [open]  164.608 ms
+seq 158: tcp response from 106.120.160.134 [open]  256.508 ms
+seq 159: tcp response from 106.120.160.134 [open]  177.320 ms
+seq 157: tcp response from 106.120.160.134 [open]  177.252 ms
+seq 162: tcp response from 106.120.160.134 [open]  183.001 ms
+seq 163: tcp response from 106.120.160.134 [open]  165.650 ms
+seq 160: tcp response from 106.120.160.134 [open]  190.456 ms
+seq 165: tcp response from 106.120.160.134 [open]  166.467 ms
+seq 166: tcp response from 106.120.160.134 [open]  195.242 ms
+seq 169: tcp response from 106.120.160.134 [open]  177.385 ms
+seq 161: tcp response from 106.120.160.134 [open]  193.027 ms
+seq 167: tcp response from 106.120.160.134 [open]  166.925 ms
+seq 164: tcp response from 106.120.160.134 [open]  164.905 ms
+seq 170: no response (timeout)
+seq 172: tcp response from 106.120.160.134 [open]  164.991 ms
+seq 174: tcp response from 106.120.160.134 [open]  177.978 ms
+seq 168: tcp response from 106.120.160.134 [open]  185.395 ms
+seq 175: tcp response from 106.120.160.134 [open]  168.465 ms
+seq 173: no response (timeout)
+seq 178: tcp response from 106.120.160.134 [open]  178.374 ms
+seq 171: tcp response from 106.120.160.134 [open]  165.559 ms
+seq 177: tcp response from 106.120.160.134 [open]  172.649 ms
+seq 181: tcp response from 106.120.160.134 [open]  178.169 ms
+seq 176: tcp response from 106.120.160.134 [open]  189.611 ms
+seq 180: no response (timeout)
+seq 183: no response (timeout)
+seq 184: tcp response from 106.120.160.134 [open]  177.561 ms
+seq 179: tcp response from 106.120.160.134 [open]  178.486 ms
+seq 186: tcp response from 106.120.160.134 [open]  164.751 ms
+seq 187: tcp response from 106.120.160.134 [open]  172.456 ms
+seq 185: tcp response from 106.120.160.134 [open]  186.730 ms
+seq 182: tcp response from 106.120.160.134 [open]  188.499 ms
+seq 191: tcp response from 106.120.160.134 [open]  182.013 ms
+seq 192: tcp response from 106.120.160.134 [open]  165.301 ms
+seq 193: tcp response from 106.120.160.134 [open]  176.887 ms
+seq 189: tcp response from 106.120.160.134 [open]  167.634 ms
+seq 190: tcp response from 106.120.160.134 [open]  164.705 ms
+seq 194: tcp response from 106.120.160.134 [open]  171.100 ms
+seq 195: no response (timeout)
+seq 199: tcp response from 106.120.160.134 [open]  165.790 ms
+seq 200: tcp response from 106.120.160.134 [open]  165.939 ms
+seq 188: tcp response from 106.120.160.134 [open]  190.188 ms
+seq 197: tcp response from 106.120.160.134 [open]  176.910 ms
+seq 203: tcp response from 106.120.160.134 [open]  175.378 ms
+seq 204: tcp response from 106.120.160.134 [open]  175.471 ms
+seq 196: tcp response from 106.120.160.134 [open]  176.707 ms
+seq 201: no response (timeout)
+seq 202: tcp response from 106.120.160.134 [open]  177.631 ms
+seq 198: tcp response from 106.120.160.134 [open]  180.158 ms
+seq 207: tcp response from 106.120.160.134 [open]  189.130 ms
+seq 206: tcp response from 106.120.160.134 [open]  179.111 ms
+seq 205: no response (timeout)
+seq 209: tcp response from 106.120.160.134 [open]  190.813 ms
+seq 214: tcp response from 106.120.160.134 [open]  179.243 ms
+seq 215: tcp response from 106.120.160.134 [open]  165.305 ms
+seq 211: tcp response from 106.120.160.134 [open]  177.049 ms
+seq 208: tcp response from 106.120.160.134 [open]  164.938 ms
+seq 213: no response (timeout)
+seq 210: tcp response from 106.120.160.134 [open]  170.565 ms
+seq 217: tcp response from 106.120.160.134 [open]  172.976 ms
+seq 216: no response (timeout)
+seq 219: tcp response from 106.120.160.134 [open]  165.956 ms
+seq 212: tcp response from 106.120.160.134 [open]  186.912 ms
+seq 218: no response (timeout)
+seq 221: tcp response from 106.120.160.134 [open]  176.253 ms
+seq 220: no response (timeout)
+seq 222: tcp response from 106.120.160.134 [open]  166.866 ms
+seq 226: tcp response from 106.120.160.134 [open]  164.831 ms
+seq 224: tcp response from 106.120.160.134 [open]  187.773 ms
+seq 227: no response (timeout)
+seq 231: tcp response from 106.120.160.134 [open]  178.625 ms
+seq 223: tcp response from 106.120.160.134 [open]  180.169 ms
+seq 230: no response (timeout)
+seq 234: tcp response from 106.120.160.134 [open]  189.396 ms
+seq 228: tcp response from 106.120.160.134 [open]  232.314 ms
+seq 229: tcp response from 106.120.160.134 [open]  178.866 ms
+seq 236: tcp response from 106.120.160.134 [open]  177.577 ms
+seq 237: tcp response from 106.120.160.134 [open]  165.362 ms
+seq 232: tcp response from 106.120.160.134 [open]  190.040 ms
+seq 225: tcp response from 106.120.160.134 [open]  199.719 ms
+seq 240: tcp response from 106.120.160.134 [open]  164.528 ms
+seq 238: no response (timeout)
+seq 233: tcp response from 106.120.160.134 [open]  185.094 ms
+seq 235: tcp response from 106.120.160.134 [open]  165.431 ms
+seq 239: tcp response from 106.120.160.134 [open]  171.256 ms
+seq 242: no response (timeout)
+seq 241: tcp response from 106.120.160.134 [open]  164.632 ms
+seq 244: tcp response from 106.120.160.134 [open]  176.885 ms
+seq 243: tcp response from 106.120.160.134 [open]  191.295 ms
+seq 245: tcp response from 106.120.160.134 [open]  191.548 ms
+seq 249: tcp response from 106.120.160.134 [open]  179.545 ms
+seq 246: tcp response from 106.120.160.134 [open]  167.046 ms
+seq 250: tcp response from 106.120.160.134 [open]  165.034 ms
+seq 248: tcp response from 106.120.160.134 [open]  194.644 ms
+seq 251: no response (timeout)
+seq 252: tcp response from 106.120.160.134 [open]  180.697 ms
+seq 247: tcp response from 106.120.160.134 [open]  190.077 ms
+seq 254: tcp response from 106.120.160.134 [open]  179.981 ms
+seq 255: tcp response from 106.120.160.134 [open]  171.727 ms
+seq 257: no response (timeout)
+seq 256: tcp response from 106.120.160.134 [open]  178.820 ms
+seq 258: no response (timeout)
+seq 253: tcp response from 106.120.160.134 [open]  191.765 ms
+seq 260: tcp response from 106.120.160.134 [open]  176.318 ms
+seq 259: tcp response from 106.120.160.134 [open]  171.545 ms
+seq 261: no response (timeout)
+seq 264: tcp response from 106.120.160.134 [open]  178.975 ms
+seq 262: tcp response from 106.120.160.134 [open]  186.520 ms
+seq 263: tcp response from 106.120.160.134 [open]  178.781 ms
+seq 265: tcp response from 106.120.160.134 [open]  175.891 ms
+seq 266: tcp response from 106.120.160.134 [open]  165.426 ms
+seq 267: tcp response from 106.120.160.134 [open]  164.673 ms
+seq 268: tcp response from 106.120.160.134 [open]  192.224 ms
+seq 271: tcp response from 106.120.160.134 [open]  190.642 ms
+seq 276: tcp response from 106.120.160.134 [open]  177.106 ms
+seq 272: tcp response from 106.120.160.134 [open]  178.040 ms
+seq 270: tcp response from 106.120.160.134 [open]  166.073 ms
+seq 274: tcp response from 106.120.160.134 [open]  187.802 ms
+seq 269: tcp response from 106.120.160.134 [open]  166.210 ms
+seq 275: tcp response from 106.120.160.134 [open]  166.934 ms
+seq 278: tcp response from 106.120.160.134 [open]  177.640 ms
+seq 277: tcp response from 106.120.160.134 [open]  177.656 ms
+seq 280: no response (timeout)
+seq 283: tcp response from 106.120.160.134 [open]  213.343 ms
+seq 281: no response (timeout)
+seq 273: tcp response from 106.120.160.134 [open]  185.444 ms
+seq 284: tcp response from 106.120.160.134 [open]  177.548 ms
+seq 285: tcp response from 106.120.160.134 [open]  177.685 ms
+seq 287: tcp response from 106.120.160.134 [open]  164.938 ms
+seq 279: tcp response from 106.120.160.134 [open]  173.562 ms
+seq 289: tcp response from 106.120.160.134 [open]  215.275 ms
+seq 286: tcp response from 106.120.160.134 [open]  190.903 ms
+seq 282: tcp response from 106.120.160.134 [open]  190.699 ms
+seq 291: tcp response from 106.120.160.134 [open]  166.381 ms
+seq 292: tcp response from 106.120.160.134 [open]  304.941 ms
+seq 290: tcp response from 106.120.160.134 [open]  164.610 ms
+seq 296: tcp response from 106.120.160.134 [open]  264.499 ms
+seq 288: tcp response from 106.120.160.134 [open]  166.588 ms
+seq 293: tcp response from 106.120.160.134 [open]  178.520 ms
+seq 298: tcp response from 106.120.160.134 [open]  185.339 ms
+seq 295: tcp response from 106.120.160.134 [open]  191.802 ms
+seq 299: tcp response from 106.120.160.134 [open]  165.144 ms
+seq 297: tcp response from 106.120.160.134 [open]  178.074 ms
+seq 294: tcp response from 106.120.160.134 [open]  166.450 ms
+seq 301: tcp response from 106.120.160.134 [open]  190.530 ms
+seq 300: tcp response from 106.120.160.134 [open]  189.634 ms
+seq 302: tcp response from 106.120.160.134 [open]  176.561 ms
+seq 305: tcp response from 106.120.160.134 [open]  178.426 ms
+seq 306: tcp response from 106.120.160.134 [open]  184.961 ms
+seq 307: tcp response from 106.120.160.134 [open]  164.789 ms
+seq 303: tcp response from 106.120.160.134 [open]  172.620 ms
+seq 309: tcp response from 106.120.160.134 [open]  184.842 ms
+seq 308: tcp response from 106.120.160.134 [open]  164.694 ms
+seq 304: tcp response from 106.120.160.134 [open]  178.534 ms
+seq 312: tcp response from 106.120.160.134 [open]  170.978 ms
+seq 313: tcp response from 106.120.160.134 [open]  186.785 ms
+seq 311: no response (timeout)
+seq 316: tcp response from 106.120.160.134 [open]  173.459 ms
+seq 315: tcp response from 106.120.160.134 [open]  188.579 ms
+seq 310: tcp response from 106.120.160.134 [open]  178.141 ms
+seq 314: no response (timeout)
+seq 318: tcp response from 106.120.160.134 [open]  166.033 ms
+seq 320: tcp response from 106.120.160.134 [open]  174.198 ms
+seq 321: tcp response from 106.120.160.134 [open]  347.867 ms
+seq 317: tcp response from 106.120.160.134 [open]  178.506 ms
+seq 324: tcp response from 106.120.160.134 [open]  166.399 ms
+seq 325: tcp response from 106.120.160.134 [open]  189.985 ms
+seq 319: tcp response from 106.120.160.134 [open]  166.448 ms
+seq 322: tcp response from 106.120.160.134 [open]  192.762 ms
+seq 323: tcp response from 106.120.160.134 [open]  166.766 ms
+seq 326: tcp response from 106.120.160.134 [open]  178.755 ms
+seq 327: tcp response from 106.120.160.134 [open]  177.669 ms
+seq 328: tcp response from 106.120.160.134 [open]  175.876 ms
+seq 329: tcp response from 106.120.160.134 [open]  190.862 ms
+seq 330: tcp response from 106.120.160.134 [open]  168.294 ms
+seq 333: tcp response from 106.120.160.134 [open]  177.434 ms
+seq 332: no response (timeout)
+seq 331: tcp response from 106.120.160.134 [open]  188.980 ms
+seq 336: tcp response from 106.120.160.134 [open]  185.104 ms
+seq 338: tcp response from 106.120.160.134 [open]  177.523 ms
+seq 335: tcp response from 106.120.160.134 [open]  179.590 ms
+seq 341: tcp response from 106.120.160.134 [open]  164.803 ms
+seq 337: tcp response from 106.120.160.134 [open]  165.281 ms
+seq 342: tcp response from 106.120.160.134 [open]  191.480 ms
+seq 334: tcp response from 106.120.160.134 [open]  185.236 ms
+seq 340: tcp response from 106.120.160.134 [open]  189.542 ms
+seq 343: tcp response from 106.120.160.134 [open]  177.556 ms
+seq 339: tcp response from 106.120.160.134 [open]  171.667 ms
+seq 344: tcp response from 106.120.160.134 [open]  177.204 ms
+seq 348: tcp response from 106.120.160.134 [open]  176.410 ms
+seq 345: tcp response from 106.120.160.134 [open]  216.989 ms
+seq 347: tcp response from 106.120.160.134 [open]  170.965 ms
+seq 346: tcp response from 106.120.160.134 [open]  192.355 ms
+seq 351: tcp response from 106.120.160.134 [open]  177.623 ms
+seq 350: no response (timeout)
+seq 352: tcp response from 106.120.160.134 [open]  185.213 ms
+seq 349: tcp response from 106.120.160.134 [open]  166.905 ms
+seq 355: tcp response from 106.120.160.134 [open]  184.456 ms
+seq 354: tcp response from 106.120.160.134 [open]  165.119 ms
+seq 353: no response (timeout)
+seq 356: no response (timeout)
+seq 358: tcp response from 106.120.160.134 [open]  179.060 ms
+seq 360: tcp response from 106.120.160.134 [open]  164.892 ms
+seq 359: no response (timeout)
+seq 357: tcp response from 106.120.160.134 [open]  170.388 ms
+seq 361: no response (timeout)
+seq 362: tcp response from 106.120.160.134 [open]  166.575 ms
+seq 363: no response (timeout)
+seq 366: tcp response from 106.120.160.134 [open]  172.278 ms
+seq 364: tcp response from 106.120.160.134 [open]  177.507 ms
+seq 370: tcp response from 106.120.160.134 [open]  191.332 ms
+seq 369: no response (timeout)
+seq 371: tcp response from 106.120.160.134 [open]  165.311 ms
+seq 368: tcp response from 106.120.160.134 [open]  165.083 ms
+seq 367: tcp response from 106.120.160.134 [open]  188.487 ms
+seq 372: tcp response from 106.120.160.134 [open]  176.730 ms
+seq 373: tcp response from 106.120.160.134 [open]  174.359 ms
+seq 376: tcp response from 106.120.160.134 [open]  188.625 ms
+seq 374: no response (timeout)
+seq 375: tcp response from 106.120.160.134 [open]  178.084 ms
+seq 377: tcp response from 106.120.160.134 [open]  177.189 ms
+seq 378: tcp response from 106.120.160.134 [open]  186.131 ms
+seq 365: tcp response from 106.120.160.134 [open]  192.037 ms
+seq 382: tcp response from 106.120.160.134 [open]  164.940 ms
+seq 380: no response (timeout)
+seq 379: tcp response from 106.120.160.134 [open]  165.092 ms
+seq 383: tcp response from 106.120.160.134 [open]  165.268 ms
+seq 384: tcp response from 106.120.160.134 [open]  191.099 ms
+seq 385: tcp response from 106.120.160.134 [open]  175.368 ms
+seq 386: tcp response from 106.120.160.134 [open]  190.481 ms
+seq 381: tcp response from 106.120.160.134 [open]  190.061 ms
+seq 388: tcp response from 106.120.160.134 [open]  180.057 ms
+seq 387: no response (timeout)
+seq 390: no response (timeout)
+seq 393: tcp response from 106.120.160.134 [open]  165.481 ms
+seq 389: tcp response from 106.120.160.134 [open]  177.702 ms
+seq 392: no response (timeout)
+seq 394: no response (timeout)
+seq 391: tcp response from 106.120.160.134 [open]  178.357 ms
+seq 395: tcp response from 106.120.160.134 [open]  178.587 ms
+seq 396: tcp response from 106.120.160.134 [open]  165.193 ms
+seq 400: tcp response from 106.120.160.134 [open]  164.892 ms
+seq 397: tcp response from 106.120.160.134 [open]  177.864 ms
+seq 402: tcp response from 106.120.160.134 [open]  167.826 ms
+seq 404: tcp response from 106.120.160.134 [open]  191.087 ms
+seq 398: tcp response from 106.120.160.134 [open]  188.425 ms
+seq 401: no response (timeout)
+seq 406: tcp response from 106.120.160.134 [open]  178.261 ms
+seq 399: tcp response from 106.120.160.134 [open]  165.009 ms
+seq 407: tcp response from 106.120.160.134 [open]  178.142 ms
+seq 403: tcp response from 106.120.160.134 [open]  178.417 ms
+seq 408: tcp response from 106.120.160.134 [open]  189.456 ms
+seq 411: tcp response from 106.120.160.134 [open]  185.388 ms
+seq 405: tcp response from 106.120.160.134 [open]  177.137 ms
+seq 413: tcp response from 106.120.160.134 [open]  183.393 ms
+seq 410: tcp response from 106.120.160.134 [open]  178.394 ms
+seq 412: tcp response from 106.120.160.134 [open]  169.996 ms
+seq 414: no response (timeout)
+seq 419: tcp response from 106.120.160.134 [open]  177.412 ms
+seq 417: no response (timeout)
+seq 421: tcp response from 106.120.160.134 [open]  185.919 ms
+seq 409: tcp response from 106.120.160.134 [open]  192.195 ms
+seq 422: tcp response from 106.120.160.134 [open]  164.668 ms
+seq 415: tcp response from 106.120.160.134 [open]  177.829 ms
+seq 416: tcp response from 106.120.160.134 [open]  164.804 ms
+seq 423: no response (timeout)
+seq 424: tcp response from 106.120.160.134 [open]  165.287 ms
+seq 420: tcp response from 106.120.160.134 [open]  178.172 ms
+seq 425: tcp response from 106.120.160.134 [open]  178.336 ms
+seq 418: tcp response from 106.120.160.134 [open]  164.579 ms
+seq 427: tcp response from 106.120.160.134 [open]  168.100 ms
+seq 426: no response (timeout)
+seq 428: no response (timeout)
+seq 432: tcp response from 106.120.160.134 [open]  191.503 ms
+seq 431: no response (timeout)
+seq 429: tcp response from 106.120.160.134 [open]  190.421 ms
+seq 434: tcp response from 106.120.160.134 [open]  164.723 ms
+seq 430: tcp response from 106.120.160.134 [open]  166.266 ms
+seq 433: tcp response from 106.120.160.134 [open]  164.634 ms
+seq 436: tcp response from 106.120.160.134 [open]  191.165 ms
+seq 437: tcp response from 106.120.160.134 [open]  166.380 ms
+seq 435: tcp response from 106.120.160.134 [open]  178.919 ms
+seq 439: tcp response from 106.120.160.134 [open]  175.232 ms
+seq 440: tcp response from 106.120.160.134 [open]  189.840 ms
+seq 442: tcp response from 106.120.160.134 [open]  193.090 ms
+seq 444: tcp response from 106.120.160.134 [open]  177.457 ms
+seq 441: tcp response from 106.120.160.134 [open]  168.630 ms
+seq 438: tcp response from 106.120.160.134 [open]  177.437 ms
+seq 443: tcp response from 106.120.160.134 [open]  193.000 ms
+seq 448: tcp response from 106.120.160.134 [open]  188.788 ms
+seq 447: no response (timeout)
+seq 449: tcp response from 106.120.160.134 [open]  164.452 ms
+seq 450: tcp response from 106.120.160.134 [open]  178.814 ms
+seq 445: tcp response from 106.120.160.134 [open]  166.636 ms
+seq 451: no response (timeout)
+seq 446: tcp response from 106.120.160.134 [open]  189.003 ms
+seq 455: tcp response from 106.120.160.134 [open]  164.987 ms
+seq 454: no response (timeout)
+seq 456: tcp response from 106.120.160.134 [open]  164.700 ms
+seq 458: tcp response from 106.120.160.134 [open]  178.017 ms
+seq 453: tcp response from 106.120.160.134 [open]  176.350 ms
+seq 459: tcp response from 106.120.160.134 [open]  178.006 ms
+seq 457: no response (timeout)
+seq 452: tcp response from 106.120.160.134 [open]  177.606 ms
+seq 460: tcp response from 106.120.160.134 [open]  178.639 ms
+seq 461: tcp response from 106.120.160.134 [open]  190.342 ms
+seq 464: tcp response from 106.120.160.134 [open]  178.066 ms
+seq 465: tcp response from 106.120.160.134 [open]  187.022 ms
+seq 462: tcp response from 106.120.160.134 [open]  191.994 ms
+seq 467: tcp response from 106.120.160.134 [open]  179.393 ms
+seq 463: tcp response from 106.120.160.134 [open]  351.836 ms
+seq 472: tcp response from 106.120.160.134 [open]  164.614 ms
+seq 471: tcp response from 106.120.160.134 [open]  166.782 ms
+seq 470: tcp response from 106.120.160.134 [open]  183.903 ms
+seq 466: tcp response from 106.120.160.134 [open]  193.422 ms
+seq 468: tcp response from 106.120.160.134 [open]  177.966 ms
+seq 475: tcp response from 106.120.160.134 [open]  189.389 ms
+seq 469: tcp response from 106.120.160.134 [open]  175.755 ms
+seq 473: tcp response from 106.120.160.134 [open]  177.422 ms
+seq 477: tcp response from 106.120.160.134 [open]  191.854 ms
+seq 478: tcp response from 106.120.160.134 [open]  176.977 ms
+seq 474: tcp response from 106.120.160.134 [open]  177.279 ms
+seq 479: tcp response from 106.120.160.134 [open]  187.666 ms
+seq 476: tcp response from 106.120.160.134 [open]  165.260 ms
+seq 482: tcp response from 106.120.160.134 [open]  176.704 ms
+seq 480: no response (timeout)
+seq 484: tcp response from 106.120.160.134 [open]  176.317 ms
+seq 481: tcp response from 106.120.160.134 [open]  187.362 ms
+seq 483: no response (timeout)
+seq 486: no response (timeout)
+seq 485: tcp response from 106.120.160.134 [open]  171.548 ms
+seq 491: tcp response from 106.120.160.134 [open]  166.114 ms
+seq 492: tcp response from 106.120.160.134 [open]  177.584 ms
+seq 493: tcp response from 106.120.160.134 [open]  189.904 ms
+seq 487: tcp response from 106.120.160.134 [open]  165.876 ms
+seq 494: tcp response from 106.120.160.134 [open]  177.706 ms
+seq 488: tcp response from 106.120.160.134 [open]  190.796 ms
+seq 490: tcp response from 106.120.160.134 [open]  178.337 ms
+seq 496: tcp response from 106.120.160.134 [open]  164.530 ms
+seq 495: no response (timeout)
+seq 497: tcp response from 106.120.160.134 [open]  166.985 ms
+seq 489: tcp response from 106.120.160.134 [open]  191.581 ms
+seq 498: tcp response from 106.120.160.134 [open]  307.873 ms
+seq 499: tcp response from 106.120.160.134 [open]  165.221 ms
+seq 501: tcp response from 106.120.160.134 [open]  190.275 ms
+seq 500: tcp response from 106.120.160.134 [open]  176.800 ms
+seq 505: tcp response from 106.120.160.134 [open]  191.742 ms
+seq 502: tcp response from 106.120.160.134 [open]  172.003 ms
+seq 507: tcp response from 106.120.160.134 [open]  190.255 ms
+seq 508: tcp response from 106.120.160.134 [open]  166.665 ms
+seq 504: tcp response from 106.120.160.134 [open]  175.628 ms
+seq 506: tcp response from 106.120.160.134 [open]  176.098 ms
+seq 503: tcp response from 106.120.160.134 [open]  190.669 ms
+seq 510: tcp response from 106.120.160.134 [open]  190.978 ms
+seq 509: tcp response from 106.120.160.134 [open]  165.206 ms
+seq 512: tcp response from 106.120.160.134 [open]  178.752 ms
+seq 511: no response (timeout)
+seq 514: tcp response from 106.120.160.134 [open]  182.662 ms
+seq 515: tcp response from 106.120.160.134 [open]  174.913 ms
+seq 516: tcp response from 106.120.160.134 [open]  176.172 ms
+seq 517: tcp response from 106.120.160.134 [open]  185.746 ms
+seq 513: tcp response from 106.120.160.134 [open]  177.888 ms
+seq 521: tcp response from 106.120.160.134 [open]  177.818 ms
+seq 523: tcp response from 106.120.160.134 [open]  164.460 ms
+seq 525: tcp response from 106.120.160.134 [open]  261.560 ms
+seq 518: tcp response from 106.120.160.134 [open]  167.984 ms
+seq 524: tcp response from 106.120.160.134 [open]  165.779 ms
+seq 522: tcp response from 106.120.160.134 [open]  165.255 ms
+seq 520: tcp response from 106.120.160.134 [open]  192.499 ms
+seq 527: tcp response from 106.120.160.134 [open]  189.784 ms
+seq 528: tcp response from 106.120.160.134 [open]  190.521 ms
+seq 519: tcp response from 106.120.160.134 [open]  190.444 ms
+seq 530: no response (timeout)
+seq 532: no response (timeout)
+seq 534: tcp response from 106.120.160.134 [open]  192.491 ms
+seq 531: tcp response from 106.120.160.134 [open]  178.086 ms
+seq 529: tcp response from 106.120.160.134 [open]  165.249 ms
+seq 526: tcp response from 106.120.160.134 [open]  178.616 ms
+seq 537: tcp response from 106.120.160.134 [open]  192.078 ms
+seq 541: no response (timeout)
+seq 539: tcp response from 106.120.160.134 [open]  177.798 ms
+seq 538: tcp response from 106.120.160.134 [open]  165.873 ms
+seq 535: tcp response from 106.120.160.134 [open]  171.802 ms
+seq 540: tcp response from 106.120.160.134 [open]  177.837 ms
+seq 536: tcp response from 106.120.160.134 [open]  190.628 ms
+seq 542: tcp response from 106.120.160.134 [open]  165.855 ms
+seq 546: tcp response from 106.120.160.134 [open]  183.509 ms
+seq 533: tcp response from 106.120.160.134 [open]  177.187 ms
+seq 545: tcp response from 106.120.160.134 [open]  178.942 ms
+seq 543: no response (timeout)
+seq 547: no response (timeout)
+seq 549: tcp response from 106.120.160.134 [open]  177.313 ms
+seq 551: tcp response from 106.120.160.134 [open]  165.019 ms
+seq 553: tcp response from 106.120.160.134 [open]  178.970 ms
+seq 548: tcp response from 106.120.160.134 [open]  164.932 ms
+seq 544: tcp response from 106.120.160.134 [open]  176.647 ms
+seq 554: tcp response from 106.120.160.134 [open]  191.197 ms
+seq 552: no response (timeout)
+seq 558: tcp response from 106.120.160.134 [open]  187.115 ms
+seq 556: no response (timeout)
+seq 550: tcp response from 106.120.160.134 [open]  164.742 ms
+seq 559: tcp response from 106.120.160.134 [open]  165.125 ms
+seq 555: tcp response from 106.120.160.134 [open]  177.606 ms
+seq 562: tcp response from 106.120.160.134 [open]  178.946 ms
+seq 561: tcp response from 106.120.160.134 [open]  169.560 ms
+seq 564: tcp response from 106.120.160.134 [open]  171.453 ms
+seq 567: tcp response from 106.120.160.134 [open]  165.906 ms
+seq 557: tcp response from 106.120.160.134 [open]  168.518 ms
+seq 563: no response (timeout)
+seq 566: tcp response from 106.120.160.134 [open]  189.126 ms
+seq 565: tcp response from 106.120.160.134 [open]  178.000 ms
+seq 568: tcp response from 106.120.160.134 [open]  165.280 ms
+seq 560: tcp response from 106.120.160.134 [open]  177.310 ms
+seq 569: no response (timeout)
+seq 571: tcp response from 106.120.160.134 [open]  190.334 ms
+seq 570: no response (timeout)
+seq 575: tcp response from 106.120.160.134 [open]  177.400 ms
+seq 573: tcp response from 106.120.160.134 [open]  190.664 ms
+seq 574: tcp response from 106.120.160.134 [open]  178.360 ms
+seq 572: no response (timeout)
+seq 576: tcp response from 106.120.160.134 [open]  189.512 ms
+seq 579: no response (timeout)
+seq 582: tcp response from 106.120.160.134 [open]  169.151 ms
+seq 585: tcp response from 106.120.160.134 [open]  207.018 ms
+seq 583: no response (timeout)
+seq 578: tcp response from 106.120.160.134 [open]  188.749 ms
+seq 586: tcp response from 106.120.160.134 [open]  190.826 ms
+seq 580: tcp response from 106.120.160.134 [open]  177.961 ms
+seq 590: tcp response from 106.120.160.134 [open]  164.478 ms
+seq 584: tcp response from 106.120.160.134 [open]  177.408 ms
+seq 587: tcp response from 106.120.160.134 [open]  177.206 ms
+seq 592: tcp response from 106.120.160.134 [open]  165.590 ms
+seq 577: tcp response from 106.120.160.134 [open]  172.210 ms
+seq 581: tcp response from 106.120.160.134 [open]  165.401 ms
+seq 591: tcp response from 106.120.160.134 [open]  165.299 ms
+seq 588: tcp response from 106.120.160.134 [open]  184.865 ms
+seq 595: tcp response from 106.120.160.134 [open]  166.050 ms
+seq 589: tcp response from 106.120.160.134 [open]  164.564 ms
+seq 594: tcp response from 106.120.160.134 [open]  190.396 ms
+seq 596: no response (timeout)
+seq 597: tcp response from 106.120.160.134 [open]  167.226 ms
+seq 600: tcp response from 106.120.160.134 [open]  189.787 ms
+seq 598: no response (timeout)
+seq 599: tcp response from 106.120.160.134 [open]  192.240 ms
+seq 593: tcp response from 106.120.160.134 [open]  176.952 ms
+seq 606: tcp response from 106.120.160.134 [open]  165.819 ms
+seq 602: tcp response from 106.120.160.134 [open]  164.520 ms
+seq 607: tcp response from 106.120.160.134 [open]  193.588 ms
+seq 601: no response (timeout)
+seq 603: tcp response from 106.120.160.134 [open]  164.848 ms
+seq 604: tcp response from 106.120.160.134 [open]  177.801 ms
+seq 609: tcp response from 106.120.160.134 [open]  178.461 ms
+seq 610: tcp response from 106.120.160.134 [open]  189.995 ms
+seq 611: tcp response from 106.120.160.134 [open]  166.413 ms
+seq 605: tcp response from 106.120.160.134 [open]  188.314 ms
+seq 612: no response (timeout)
+seq 613: tcp response from 106.120.160.134 [open]  185.708 ms
+seq 615: tcp response from 106.120.160.134 [open]  178.221 ms
+seq 614: tcp response from 106.120.160.134 [open]  190.500 ms
+seq 608: tcp response from 106.120.160.134 [open]  178.292 ms
+seq 616: tcp response from 106.120.160.134 [open]  192.201 ms
+seq 618: tcp response from 106.120.160.134 [open]  187.115 ms
+seq 617: tcp response from 106.120.160.134 [open]  189.120 ms
+seq 621: tcp response from 106.120.160.134 [open]  376.290 ms
+seq 619: no response (timeout)
+seq 620: tcp response from 106.120.160.134 [open]  178.673 ms
+seq 623: tcp response from 106.120.160.134 [open]  165.349 ms
+seq 626: tcp response from 106.120.160.134 [open]  189.766 ms
+seq 622: no response (timeout)
+seq 625: tcp response from 106.120.160.134 [open]  197.637 ms
+seq 627: tcp response from 106.120.160.134 [open]  218.498 ms
+seq 628: tcp response from 106.120.160.134 [open]  178.247 ms
+seq 633: tcp response from 106.120.160.134 [open]  206.258 ms
+seq 624: tcp response from 106.120.160.134 [open]  190.660 ms
+seq 629: tcp response from 106.120.160.134 [open]  177.693 ms
+seq 630: tcp response from 106.120.160.134 [open]  164.710 ms
+seq 637: tcp response from 106.120.160.134 [open]  169.624 ms
+seq 635: no response (timeout)
+seq 636: tcp response from 106.120.160.134 [open]  191.216 ms
+seq 634: tcp response from 106.120.160.134 [open]  182.229 ms
+seq 631: tcp response from 106.120.160.134 [open]  169.503 ms
+seq 638: no response (timeout)
+seq 632: tcp response from 106.120.160.134 [open]  191.248 ms
+seq 642: tcp response from 106.120.160.134 [open]  177.787 ms
+seq 643: no response (timeout)
+seq 646: tcp response from 106.120.160.134 [open]  166.459 ms
+seq 649: tcp response from 106.120.160.134 [open]  169.952 ms
+seq 644: tcp response from 106.120.160.134 [open]  177.745 ms
+seq 640: tcp response from 106.120.160.134 [open]  191.660 ms
+seq 645: tcp response from 106.120.160.134 [open]  189.096 ms
+seq 641: tcp response from 106.120.160.134 [open]  171.214 ms
+seq 647: tcp response from 106.120.160.134 [open]  165.770 ms
+seq 639: tcp response from 106.120.160.134 [open]  188.230 ms
+seq 648: tcp response from 106.120.160.134 [open]  191.351 ms
+seq 650: tcp response from 106.120.160.134 [open]  186.969 ms
+seq 654: tcp response from 106.120.160.134 [open]  164.883 ms
+seq 655: tcp response from 106.120.160.134 [open]  165.308 ms
+seq 651: tcp response from 106.120.160.134 [open]  166.962 ms
+seq 653: tcp response from 106.120.160.134 [open]  165.524 ms
+seq 652: tcp response from 106.120.160.134 [open]  170.393 ms
+seq 658: tcp response from 106.120.160.134 [open]  177.745 ms
+seq 659: tcp response from 106.120.160.134 [open]  231.912 ms
+seq 660: tcp response from 106.120.160.134 [open]  189.822 ms
+seq 656: tcp response from 106.120.160.134 [open]  168.372 ms
+seq 662: tcp response from 106.120.160.134 [open]  166.131 ms
+seq 661: tcp response from 106.120.160.134 [open]  185.640 ms
+seq 657: tcp response from 106.120.160.134 [open]  164.979 ms
+seq 666: tcp response from 106.120.160.134 [open]  192.080 ms
+seq 663: tcp response from 106.120.160.134 [open]  165.195 ms
+seq 664: tcp response from 106.120.160.134 [open]  178.345 ms
+seq 665: tcp response from 106.120.160.134 [open]  175.247 ms
+seq 667: no response (timeout)
+seq 668: no response (timeout)
+seq 672: tcp response from 106.120.160.134 [open]  190.964 ms
+seq 671: no response (timeout)
+seq 676: tcp response from 106.120.160.134 [open]  165.186 ms
+seq 669: tcp response from 106.120.160.134 [open]  177.323 ms
+seq 673: tcp response from 106.120.160.134 [open]  188.729 ms
+seq 670: tcp response from 106.120.160.134 [open]  177.477 ms
+seq 675: tcp response from 106.120.160.134 [open]  177.759 ms
+seq 680: tcp response from 106.120.160.134 [open]  173.065 ms
+seq 674: tcp response from 106.120.160.134 [open]  178.498 ms
+seq 677: tcp response from 106.120.160.134 [open]  164.811 ms
+seq 679: no response (timeout)
+seq 678: tcp response from 106.120.160.134 [open]  260.104 ms
+seq 681: no response (timeout)
+seq 682: tcp response from 106.120.160.134 [open]  177.389 ms
+seq 686: tcp response from 106.120.160.134 [open]  186.418 ms
+seq 684: no response (timeout)
+seq 689: tcp response from 106.120.160.134 [open]  177.160 ms
+seq 685: tcp response from 106.120.160.134 [open]  191.395 ms
+seq 690: tcp response from 106.120.160.134 [open]  180.009 ms
+seq 683: tcp response from 106.120.160.134 [open]  177.666 ms
+seq 692: tcp response from 106.120.160.134 [open]  189.581 ms
+seq 693: tcp response from 106.120.160.134 [open]  165.290 ms
+seq 687: tcp response from 106.120.160.134 [open]  164.812 ms
+seq 688: tcp response from 106.120.160.134 [open]  177.390 ms
+seq 694: no response (timeout)
+seq 698: tcp response from 106.120.160.134 [open]  169.586 ms
+seq 691: tcp response from 106.120.160.134 [open]  175.518 ms
+seq 696: tcp response from 106.120.160.134 [open]  177.331 ms
+seq 695: tcp response from 106.120.160.134 [open]  177.812 ms
+seq 697: tcp response from 106.120.160.134 [open]  190.958 ms
+seq 702: tcp response from 106.120.160.134 [open]  174.638 ms
+seq 700: tcp response from 106.120.160.134 [open]  177.204 ms
+seq 699: no response (timeout)
+seq 704: tcp response from 106.120.160.134 [open]  177.538 ms
+seq 701: tcp response from 106.120.160.134 [open]  192.486 ms
+seq 703: no response (timeout)
+seq 705: no response (timeout)
+seq 710: tcp response from 106.120.160.134 [open]  178.365 ms
+seq 706: no response (timeout)
+seq 711: tcp response from 106.120.160.134 [open]  164.574 ms
+seq 709: no response (timeout)
+seq 707: tcp response from 106.120.160.134 [open]  164.828 ms
+seq 714: tcp response from 106.120.160.134 [open]  175.665 ms
+seq 715: tcp response from 106.120.160.134 [open]  188.030 ms
+seq 718: tcp response from 106.120.160.134 [open]  177.994 ms
+seq 712: tcp response from 106.120.160.134 [open]  188.276 ms
+seq 713: tcp response from 106.120.160.134 [open]  178.204 ms
+seq 716: tcp response from 106.120.160.134 [open]  184.636 ms
+seq 717: no response (timeout)
+seq 708: tcp response from 106.120.160.134 [open]  164.642 ms
+seq 719: no response (timeout)
+seq 721: tcp response from 106.120.160.134 [open]  177.360 ms
+seq 724: tcp response from 106.120.160.134 [open]  185.378 ms
+seq 720: tcp response from 106.120.160.134 [open]  164.620 ms
+seq 726: tcp response from 106.120.160.134 [open]  165.834 ms
+seq 722: tcp response from 106.120.160.134 [open]  164.834 ms
+seq 723: tcp response from 106.120.160.134 [open]  167.681 ms
+seq 727: tcp response from 106.120.160.134 [open]  166.909 ms
+seq 729: tcp response from 106.120.160.134 [open]  176.569 ms
+seq 731: tcp response from 106.120.160.134 [open]  178.058 ms
+seq 730: no response (timeout)
+seq 732: no response (timeout)
+seq 735: tcp response from 106.120.160.134 [open]  178.138 ms
+seq 728: tcp response from 106.120.160.134 [open]  193.083 ms
+seq 737: tcp response from 106.120.160.134 [open]  178.609 ms
+seq 733: tcp response from 106.120.160.134 [open]  178.277 ms
+seq 736: no response (timeout)
+seq 725: tcp response from 106.120.160.134 [open]  177.000 ms
+seq 741: tcp response from 106.120.160.134 [open]  172.038 ms
+seq 744: tcp response from 106.120.160.134 [open]  167.959 ms
+seq 739: tcp response from 106.120.160.134 [open]  191.848 ms
+seq 742: no response (timeout)
+seq 734: tcp response from 106.120.160.134 [open]  164.649 ms
+seq 740: no response (timeout)
+seq 746: tcp response from 106.120.160.134 [open]  164.860 ms
+seq 747: tcp response from 106.120.160.134 [open]  193.847 ms
+seq 743: tcp response from 106.120.160.134 [open]  184.460 ms
+seq 749: tcp response from 106.120.160.134 [open]  193.238 ms
+seq 745: tcp response from 106.120.160.134 [open]  178.560 ms
+seq 751: tcp response from 106.120.160.134 [open]  177.699 ms
+seq 750: tcp response from 106.120.160.134 [open]  177.567 ms
+seq 738: tcp response from 106.120.160.134 [open]  165.702 ms
+seq 752: no response (timeout)
+seq 756: tcp response from 106.120.160.134 [open]  173.810 ms
+seq 748: tcp response from 106.120.160.134 [open]  187.866 ms
+seq 753: tcp response from 106.120.160.134 [open]  165.085 ms
+seq 755: no response (timeout)
+seq 754: tcp response from 106.120.160.134 [open]  165.601 ms
+seq 758: tcp response from 106.120.160.134 [open]  192.049 ms
+seq 757: tcp response from 106.120.160.134 [open]  168.130 ms
+seq 763: tcp response from 106.120.160.134 [open]  188.228 ms
+seq 764: tcp response from 106.120.160.134 [open]  166.097 ms
+seq 761: tcp response from 106.120.160.134 [open]  191.619 ms
+seq 759: no response (timeout)
+seq 765: tcp response from 106.120.160.134 [open]  171.452 ms
+seq 766: tcp response from 106.120.160.134 [open]  164.898 ms
+seq 762: tcp response from 106.120.160.134 [open]  178.289 ms
+seq 767: tcp response from 106.120.160.134 [open]  174.058 ms
+seq 760: tcp response from 106.120.160.134 [open]  178.713 ms
+seq 769: tcp response from 106.120.160.134 [open]  190.921 ms
+seq 768: no response (timeout)
+seq 772: tcp response from 106.120.160.134 [open]  164.778 ms
+seq 774: tcp response from 106.120.160.134 [open]  177.432 ms
+seq 775: tcp response from 106.120.160.134 [open]  189.824 ms
+seq 777: tcp response from 106.120.160.134 [open]  190.987 ms
+seq 770: tcp response from 106.120.160.134 [open]  178.655 ms
+seq 771: tcp response from 106.120.160.134 [open]  179.219 ms
+seq 780: tcp response from 106.120.160.134 [open]  178.570 ms
+seq 779: tcp response from 106.120.160.134 [open]  186.438 ms
+seq 778: tcp response from 106.120.160.134 [open]  170.608 ms
+seq 784: tcp response from 106.120.160.134 [open]  184.256 ms
+seq 781: tcp response from 106.120.160.134 [open]  166.354 ms
+seq 776: tcp response from 106.120.160.134 [open]  171.005 ms
+seq 782: tcp response from 106.120.160.134 [open]  191.115 ms
+seq 788: tcp response from 106.120.160.134 [open]  191.063 ms
+seq 787: tcp response from 106.120.160.134 [open]  176.767 ms
+seq 783: tcp response from 106.120.160.134 [open]  177.190 ms
+seq 789: tcp response from 106.120.160.134 [open]  165.245 ms
+seq 786: tcp response from 106.120.160.134 [open]  176.595 ms
+seq 785: tcp response from 106.120.160.134 [open]  191.902 ms
+seq 773: tcp response from 106.120.160.134 [open]  164.734 ms
+seq 790: no response (timeout)
+seq 791: no response (timeout)
+seq 792: tcp response from 106.120.160.134 [open]  164.508 ms
+seq 793: tcp response from 106.120.160.134 [open]  164.889 ms
+seq 800: tcp response from 106.120.160.134 [open]  167.912 ms
+seq 796: tcp response from 106.120.160.134 [open]  176.973 ms
+seq 801: tcp response from 106.120.160.134 [open]  164.644 ms
+seq 799: no response (timeout)
+seq 797: tcp response from 106.120.160.134 [open]  170.979 ms
+seq 794: tcp response from 106.120.160.134 [open]  190.021 ms
+seq 798: tcp response from 106.120.160.134 [open]  167.006 ms
+seq 802: tcp response from 106.120.160.134 [open]  165.474 ms
+seq 803: tcp response from 106.120.160.134 [open]  182.795 ms
+seq 795: tcp response from 106.120.160.134 [open]  190.425 ms
+seq 805: tcp response from 106.120.160.134 [open]  176.564 ms
+seq 807: tcp response from 106.120.160.134 [open]  191.814 ms
+seq 804: tcp response from 106.120.160.134 [open]  184.394 ms
+seq 808: tcp response from 106.120.160.134 [open]  173.769 ms
+seq 809: tcp response from 106.120.160.134 [open]  177.853 ms
+seq 810: tcp response from 106.120.160.134 [open]  177.634 ms
+seq 812: tcp response from 106.120.160.134 [open]  164.919 ms
+seq 806: tcp response from 106.120.160.134 [open]  179.665 ms
+seq 811: no response (timeout)
+seq 814: tcp response from 106.120.160.134 [open]  191.767 ms
+seq 815: tcp response from 106.120.160.134 [open]  177.411 ms
+seq 818: tcp response from 106.120.160.134 [open]  177.245 ms
+seq 819: tcp response from 106.120.160.134 [open]  181.890 ms
+seq 816: tcp response from 106.120.160.134 [open]  190.565 ms
+seq 813: tcp response from 106.120.160.134 [open]  170.124 ms
+seq 822: tcp response from 106.120.160.134 [open]  166.535 ms
+seq 823: tcp response from 106.120.160.134 [open]  164.698 ms
+seq 820: no response (timeout)
+seq 824: tcp response from 106.120.160.134 [open]  164.965 ms
+seq 817: tcp response from 106.120.160.134 [open]  190.058 ms
+seq 821: tcp response from 106.120.160.134 [open]  190.503 ms
+seq 825: tcp response from 106.120.160.134 [open]  263.579 ms
+seq 830: tcp response from 106.120.160.134 [open]  190.750 ms
+seq 826: tcp response from 106.120.160.134 [open]  190.476 ms
+seq 829: no response (timeout)
+seq 827: tcp response from 106.120.160.134 [open]  190.747 ms
+seq 834: tcp response from 106.120.160.134 [open]  178.124 ms
+seq 835: tcp response from 106.120.160.134 [open]  165.167 ms
+seq 831: tcp response from 106.120.160.134 [open]  171.746 ms
+seq 828: tcp response from 106.120.160.134 [open]  178.181 ms
+seq 833: no response (timeout)
+seq 832: no response (timeout)
+seq 836: tcp response from 106.120.160.134 [open]  190.493 ms
+seq 838: tcp response from 106.120.160.134 [open]  170.934 ms
+seq 839: no response (timeout)
+seq 842: tcp response from 106.120.160.134 [open]  174.581 ms
+seq 840: no response (timeout)
+seq 843: tcp response from 106.120.160.134 [open]  178.201 ms
+seq 844: tcp response from 106.120.160.134 [open]  191.623 ms
+seq 841: tcp response from 106.120.160.134 [open]  177.577 ms
+seq 837: tcp response from 106.120.160.134 [open]  164.697 ms
+seq 845: tcp response from 106.120.160.134 [open]  185.320 ms
+seq 846: tcp response from 106.120.160.134 [open]  173.999 ms
+seq 847: tcp response from 106.120.160.134 [open]  176.708 ms
+seq 848: no response (timeout)
+seq 850: tcp response from 106.120.160.134 [open]  171.239 ms
+seq 849: no response (timeout)
+seq 852: tcp response from 106.120.160.134 [open]  177.816 ms
+seq 853: tcp response from 106.120.160.134 [open]  189.023 ms
+seq 854: tcp response from 106.120.160.134 [open]  177.338 ms
+seq 855: tcp response from 106.120.160.134 [open]  193.231 ms
+seq 857: tcp response from 106.120.160.134 [open]  164.663 ms
+seq 851: tcp response from 106.120.160.134 [open]  188.635 ms
+seq 856: tcp response from 106.120.160.134 [open]  205.219 ms
+seq 861: tcp response from 106.120.160.134 [open]  191.675 ms
+seq 860: no response (timeout)
+seq 862: tcp response from 106.120.160.134 [open]  178.249 ms
+seq 865: tcp response from 106.120.160.134 [open]  171.357 ms
+seq 864: tcp response from 106.120.160.134 [open]  187.377 ms
+seq 858: tcp response from 106.120.160.134 [open]  191.347 ms
+seq 859: tcp response from 106.120.160.134 [open]  165.661 ms
+seq 867: tcp response from 106.120.160.134 [open]  169.936 ms
+seq 869: tcp response from 106.120.160.134 [open]  179.216 ms
+seq 870: tcp response from 106.120.160.134 [open]  187.551 ms
+seq 866: tcp response from 106.120.160.134 [open]  177.349 ms
+seq 868: no response (timeout)
+seq 863: tcp response from 106.120.160.134 [open]  164.554 ms
+seq 871: tcp response from 106.120.160.134 [open]  192.820 ms
+seq 872: tcp response from 106.120.160.134 [open]  164.948 ms
+seq 874: tcp response from 106.120.160.134 [open]  190.316 ms
+seq 875: tcp response from 106.120.160.134 [open]  168.463 ms
+seq 876: tcp response from 106.120.160.134 [open]  189.290 ms
+seq 873: tcp response from 106.120.160.134 [open]  177.050 ms
+seq 879: tcp response from 106.120.160.134 [open]  178.683 ms
+seq 877: no response (timeout)
+seq 885: tcp response from 106.120.160.134 [open]  187.723 ms
+seq 884: no response (timeout)
+seq 887: tcp response from 106.120.160.134 [open]  189.701 ms
+seq 878: tcp response from 106.120.160.134 [open]  191.753 ms
+seq 881: tcp response from 106.120.160.134 [open]  191.898 ms
+seq 883: tcp response from 106.120.160.134 [open]  164.917 ms
+seq 882: tcp response from 106.120.160.134 [open]  186.588 ms
+seq 891: tcp response from 106.120.160.134 [open]  174.619 ms
+seq 888: no response (timeout)
+seq 890: no response (timeout)
+seq 886: tcp response from 106.120.160.134 [open]  178.192 ms
+seq 892: tcp response from 106.120.160.134 [open]  177.307 ms
+seq 880: tcp response from 106.120.160.134 [open]  178.558 ms
+seq 894: tcp response from 106.120.160.134 [open]  191.478 ms
+seq 889: tcp response from 106.120.160.134 [open]  166.453 ms
+seq 895: tcp response from 106.120.160.134 [open]  171.782 ms
+seq 896: tcp response from 106.120.160.134 [open]  174.954 ms
+seq 893: tcp response from 106.120.160.134 [open]  164.508 ms
+seq 900: tcp response from 106.120.160.134 [open]  165.448 ms
+seq 901: no response (timeout)
+seq 903: tcp response from 106.120.160.134 [open]  174.489 ms
+seq 897: no response (timeout)
+seq 906: tcp response from 106.120.160.134 [open]  190.046 ms
+seq 902: tcp response from 106.120.160.134 [open]  178.156 ms
+seq 905: tcp response from 106.120.160.134 [open]  170.434 ms
+seq 898: tcp response from 106.120.160.134 [open]  180.049 ms
+seq 899: tcp response from 106.120.160.134 [open]  164.582 ms
+seq 908: tcp response from 106.120.160.134 [open]  177.490 ms
+seq 904: tcp response from 106.120.160.134 [open]  189.257 ms
+seq 907: tcp response from 106.120.160.134 [open]  689.474 ms
+seq 911: tcp response from 106.120.160.134 [open]  178.813 ms
+seq 914: tcp response from 106.120.160.134 [open]  190.373 ms
+seq 910: no response (timeout)
+seq 909: tcp response from 106.120.160.134 [open]  184.581 ms
+seq 912: tcp response from 106.120.160.134 [open]  178.286 ms
+seq 915: no response (timeout)
+seq 913: tcp response from 106.120.160.134 [open]  178.606 ms
+seq 916: tcp response from 106.120.160.134 [open]  170.670 ms
+seq 917: no response (timeout)
+seq 918: tcp response from 106.120.160.134 [open]  228.923 ms
+seq 919: tcp response from 106.120.160.134 [open]  190.477 ms
+seq 923: tcp response from 106.120.160.134 [open]  185.090 ms
+seq 924: tcp response from 106.120.160.134 [open]  190.685 ms
+seq 920: tcp response from 106.120.160.134 [open]  194.323 ms
+seq 921: tcp response from 106.120.160.134 [open]  164.856 ms
+seq 927: tcp response from 106.120.160.134 [open]  164.679 ms
+seq 922: tcp response from 106.120.160.134 [open]  165.844 ms
+seq 929: tcp response from 106.120.160.134 [open]  175.710 ms
+seq 925: tcp response from 106.120.160.134 [open]  178.435 ms
+seq 926: tcp response from 106.120.160.134 [open]  188.339 ms
+seq 931: tcp response from 106.120.160.134 [open]  188.064 ms
+seq 936: tcp response from 106.120.160.134 [open]  177.826 ms
+seq 928: tcp response from 106.120.160.134 [open]  166.945 ms
+seq 934: no response (timeout)
+seq 932: tcp response from 106.120.160.134 [open]  192.124 ms
+seq 933: tcp response from 106.120.160.134 [open]  178.867 ms
+seq 930: tcp response from 106.120.160.134 [open]  179.122 ms
+seq 940: tcp response from 106.120.160.134 [open]  165.248 ms
+seq 939: tcp response from 106.120.160.134 [open]  192.359 ms
+seq 935: tcp response from 106.120.160.134 [open]  191.165 ms
+seq 942: tcp response from 106.120.160.134 [open]  179.664 ms
+seq 938: tcp response from 106.120.160.134 [open]  178.134 ms
+seq 941: tcp response from 106.120.160.134 [open]  191.032 ms
+seq 944: tcp response from 106.120.160.134 [open]  165.698 ms
+seq 945: tcp response from 106.120.160.134 [open]  164.876 ms
+seq 943: no response (timeout)
+seq 949: tcp response from 106.120.160.134 [open]  180.130 ms
+seq 948: no response (timeout)
+seq 952: tcp response from 106.120.160.134 [open]  177.758 ms
+seq 950: no response (timeout)
+seq 937: tcp response from 106.120.160.134 [open]  178.112 ms
+seq 954: tcp response from 106.120.160.134 [open]  167.541 ms
+seq 947: tcp response from 106.120.160.134 [open]  170.429 ms
+seq 953: no response (timeout)
+seq 951: tcp response from 106.120.160.134 [open]  168.053 ms
+seq 957: tcp response from 106.120.160.134 [open]  165.606 ms
+seq 958: tcp response from 106.120.160.134 [open]  165.106 ms
+seq 960: tcp response from 106.120.160.134 [open]  178.342 ms
+seq 956: tcp response from 106.120.160.134 [open]  191.519 ms
+seq 946: tcp response from 106.120.160.134 [open]  4103.972 ms
+seq 961: no response (timeout)
+seq 964: tcp response from 106.120.160.134 [open]  191.339 ms
+seq 963: no response (timeout)
+seq 959: tcp response from 106.120.160.134 [open]  190.738 ms
+seq 968: tcp response from 106.120.160.134 [open]  176.534 ms
+seq 965: tcp response from 106.120.160.134 [open]  179.214 ms
+seq 969: tcp response from 106.120.160.134 [open]  190.938 ms
+seq 962: tcp response from 106.120.160.134 [open]  171.714 ms
+seq 966: tcp response from 106.120.160.134 [open]  166.640 ms
+seq 955: tcp response from 106.120.160.134 [open]  177.800 ms
+seq 972: tcp response from 106.120.160.134 [open]  188.046 ms
+seq 973: tcp response from 106.120.160.134 [open]  164.773 ms
+seq 971: no response (timeout)
+seq 967: tcp response from 106.120.160.134 [open]  177.622 ms
+seq 974: tcp response from 106.120.160.134 [open]  191.692 ms
+seq 970: tcp response from 106.120.160.134 [open]  178.872 ms
+seq 979: tcp response from 106.120.160.134 [open]  190.309 ms
+seq 975: tcp response from 106.120.160.134 [open]  177.665 ms
+seq 976: tcp response from 106.120.160.134 [open]  166.553 ms
+seq 984: tcp response from 106.120.160.134 [open]  180.359 ms
+seq 983: no response (timeout)
+seq 986: tcp response from 106.120.160.134 [open]  177.823 ms
+seq 977: tcp response from 106.120.160.134 [open]  190.373 ms
+seq 982: tcp response from 106.120.160.134 [open]  165.483 ms
+seq 985: no response (timeout)
+seq 978: tcp response from 106.120.160.134 [open]  165.716 ms
+seq 987: tcp response from 106.120.160.134 [open]  178.408 ms
+seq 989: tcp response from 106.120.160.134 [open]  165.656 ms
+seq 990: tcp response from 106.120.160.134 [open]  180.109 ms
+seq 981: tcp response from 106.120.160.134 [open]  188.432 ms
+seq 988: no response (timeout)
+seq 992: tcp response from 106.120.160.134 [open]  192.021 ms
+seq 980: tcp response from 106.120.160.134 [open]  177.712 ms
+seq 991: tcp response from 106.120.160.134 [open]  165.351 ms
+seq 996: tcp response from 106.120.160.134 [open]  175.728 ms
+seq 997: tcp response from 106.120.160.134 [open]  192.644 ms
+seq 994: tcp response from 106.120.160.134 [open]  177.502 ms
+seq 993: tcp response from 106.120.160.134 [open]  177.809 ms
+seq 995: tcp response from 106.120.160.134 [open]  165.295 ms
+seq 999: tcp response from 106.120.160.134 [open]  177.201 ms
+seq 1000: tcp response from 106.120.160.134 [open]  167.855 ms
+seq 1005: tcp response from 106.120.160.134 [open]  165.482 ms
+seq 1006: tcp response from 106.120.160.134 [open]  186.625 ms
+seq 1001: tcp response from 106.120.160.134 [open]  192.498 ms
+seq 1004: no response (timeout)
+seq 1002: tcp response from 106.120.160.134 [open]  178.614 ms
+seq 998: tcp response from 106.120.160.134 [open]  176.088 ms
+seq 1009: tcp response from 106.120.160.134 [open]  165.277 ms
+seq 1007: tcp response from 106.120.160.134 [open]  169.349 ms
+seq 1003: tcp response from 106.120.160.134 [open]  178.206 ms
+seq 1008: no response (timeout)
+seq 1010: tcp response from 106.120.160.134 [open]  189.249 ms
+seq 1011: no response (timeout)
+seq 1016: tcp response from 106.120.160.134 [open]  164.619 ms
+seq 1014: no response (timeout)
+seq 1012: tcp response from 106.120.160.134 [open]  166.532 ms
+seq 1013: tcp response from 106.120.160.134 [open]  178.926 ms
+seq 1019: tcp response from 106.120.160.134 [open]  177.177 ms
+seq 1017: tcp response from 106.120.160.134 [open]  191.937 ms
+seq 1020: tcp response from 106.120.160.134 [open]  190.310 ms
+seq 1018: no response (timeout)
+seq 1022: tcp response from 106.120.160.134 [open]  180.809 ms
+seq 1015: tcp response from 106.120.160.134 [open]  191.335 ms
+seq 1021: tcp response from 106.120.160.134 [open]  186.935 ms
+seq 1024: tcp response from 106.120.160.134 [open]  177.839 ms
+seq 1023: no response (timeout)
+seq 1030: tcp response from 106.120.160.134 [open]  187.388 ms
+seq 1026: tcp response from 106.120.160.134 [open]  164.635 ms
+seq 1028: tcp response from 106.120.160.134 [open]  177.288 ms
+seq 1029: tcp response from 106.120.160.134 [open]  170.545 ms
+seq 1025: tcp response from 106.120.160.134 [open]  184.781 ms
+seq 1032: tcp response from 106.120.160.134 [open]  165.500 ms
+seq 1037: tcp response from 106.120.160.134 [open]  191.268 ms
+seq 1034: tcp response from 106.120.160.134 [open]  178.162 ms
+seq 1027: tcp response from 106.120.160.134 [open]  165.620 ms
+seq 1031: tcp response from 106.120.160.134 [open]  190.822 ms
+seq 1035: tcp response from 106.120.160.134 [open]  165.044 ms
+seq 1036: tcp response from 106.120.160.134 [open]  191.064 ms
+seq 1038: tcp response from 106.120.160.134 [open]  165.182 ms
+seq 1033: tcp response from 106.120.160.134 [open]  185.345 ms
+seq 1043: tcp response from 106.120.160.134 [open]  189.781 ms
+seq 1040: no response (timeout)
+seq 1039: tcp response from 106.120.160.134 [open]  177.232 ms
+seq 1041: no response (timeout)
+seq 1042: tcp response from 106.120.160.134 [open]  177.309 ms
+seq 1044: tcp response from 106.120.160.134 [open]  178.362 ms
+seq 1045: no response (timeout)
+seq 1051: tcp response from 106.120.160.134 [open]  177.273 ms
+seq 1049: no response (timeout)
+seq 1046: tcp response from 106.120.160.134 [open]  164.515 ms
+seq 1048: tcp response from 106.120.160.134 [open]  177.869 ms
+seq 1054: tcp response from 106.120.160.134 [open]  179.581 ms
+seq 1053: no response (timeout)
+seq 1047: tcp response from 106.120.160.134 [open]  164.684 ms
+seq 1052: tcp response from 106.120.160.134 [open]  188.457 ms
+seq 1055: no response (timeout)
+seq 1050: tcp response from 106.120.160.134 [open]  169.479 ms
+seq 1058: tcp response from 106.120.160.134 [open]  178.077 ms
+seq 1056: tcp response from 106.120.160.134 [open]  191.227 ms
+seq 1060: tcp response from 106.120.160.134 [open]  191.128 ms
+seq 1062: tcp response from 106.120.160.134 [open]  188.921 ms
+seq 1063: tcp response from 106.120.160.134 [open]  167.268 ms
+seq 1057: tcp response from 106.120.160.134 [open]  165.220 ms
+seq 1059: tcp response from 106.120.160.134 [open]  179.433 ms
+seq 1061: tcp response from 106.120.160.134 [open]  164.808 ms
+seq 1066: tcp response from 106.120.160.134 [open]  178.483 ms
+seq 1068: tcp response from 106.120.160.134 [open]  174.406 ms
+seq 1067: tcp response from 106.120.160.134 [open]  189.788 ms
+seq 1069: tcp response from 106.120.160.134 [open]  178.093 ms
+seq 1070: tcp response from 106.120.160.134 [open]  177.898 ms
+seq 1065: tcp response from 106.120.160.134 [open]  165.129 ms
+seq 1064: tcp response from 106.120.160.134 [open]  190.311 ms
+seq 1073: tcp response from 106.120.160.134 [open]  254.237 ms
+seq 1076: tcp response from 106.120.160.134 [open]  191.329 ms
+seq 1077: tcp response from 106.120.160.134 [open]  178.866 ms
+seq 1078: tcp response from 106.120.160.134 [open]  171.011 ms
+seq 1074: tcp response from 106.120.160.134 [open]  190.332 ms
+seq 1071: tcp response from 106.120.160.134 [open]  205.843 ms
+seq 1075: tcp response from 106.120.160.134 [open]  166.231 ms
+seq 1080: tcp response from 106.120.160.134 [open]  177.680 ms
+seq 1072: tcp response from 106.120.160.134 [open]  164.930 ms
+seq 1082: tcp response from 106.120.160.134 [open]  165.250 ms
+seq 1085: tcp response from 106.120.160.134 [open]  189.384 ms
+seq 1083: no response (timeout)
+seq 1081: tcp response from 106.120.160.134 [open]  189.336 ms
+seq 1079: tcp response from 106.120.160.134 [open]  189.729 ms
+seq 1084: tcp response from 106.120.160.134 [open]  178.399 ms
+seq 1086: tcp response from 106.120.160.134 [open]  193.443 ms
+seq 1088: tcp response from 106.120.160.134 [open]  177.068 ms
+seq 1089: tcp response from 106.120.160.134 [open]  191.218 ms
+seq 1091: tcp response from 106.120.160.134 [open]  188.866 ms
+seq 1093: tcp response from 106.120.160.134 [open]  165.025 ms
+seq 1087: tcp response from 106.120.160.134 [open]  171.572 ms
+seq 1092: no response (timeout)
+seq 1098: tcp response from 106.120.160.134 [open]  177.536 ms
+seq 1099: tcp response from 106.120.160.134 [open]  165.088 ms
+seq 1101: tcp response from 106.120.160.134 [open]  165.164 ms
+seq 1102: tcp response from 106.120.160.134 [open]  177.353 ms
+seq 1095: tcp response from 106.120.160.134 [open]  189.015 ms
+seq 1090: tcp response from 106.120.160.134 [open]  165.449 ms
+seq 1097: tcp response from 106.120.160.134 [open]  192.636 ms
+seq 1094: tcp response from 106.120.160.134 [open]  178.161 ms
+seq 1096: tcp response from 106.120.160.134 [open]  164.622 ms
+seq 1104: no response (timeout)
+seq 1105: tcp response from 106.120.160.134 [open]  178.149 ms
+seq 1106: tcp response from 106.120.160.134 [open]  178.391 ms
+seq 1107: tcp response from 106.120.160.134 [open]  187.938 ms
+seq 1103: tcp response from 106.120.160.134 [open]  168.171 ms
+seq 1110: tcp response from 106.120.160.134 [open]  181.342 ms
+seq 1100: tcp response from 106.120.160.134 [open]  185.524 ms
+seq 1112: tcp response from 106.120.160.134 [open]  190.255 ms
+seq 1108: tcp response from 106.120.160.134 [open]  165.759 ms
+seq 1114: tcp response from 106.120.160.134 [open]  176.871 ms
+seq 1111: tcp response from 106.120.160.134 [open]  175.261 ms
+seq 1115: no response (timeout)
+seq 1118: tcp response from 106.120.160.134 [open]  230.703 ms
+seq 1117: tcp response from 106.120.160.134 [open]  165.506 ms
+seq 1119: tcp response from 106.120.160.134 [open]  190.311 ms
+seq 1120: tcp response from 106.120.160.134 [open]  166.729 ms
+seq 1113: tcp response from 106.120.160.134 [open]  166.262 ms
+seq 1116: tcp response from 106.120.160.134 [open]  165.240 ms
+seq 1123: tcp response from 106.120.160.134 [open]  179.193 ms
+seq 1122: no response (timeout)
+seq 1109: tcp response from 106.120.160.134 [open]  176.948 ms
+seq 1121: tcp response from 106.120.160.134 [open]  179.208 ms
+seq 1127: tcp response from 106.120.160.134 [open]  190.794 ms
+seq 1126: tcp response from 106.120.160.134 [open]  166.609 ms
+seq 1125: no response (timeout)
+seq 1124: tcp response from 106.120.160.134 [open]  177.215 ms
+seq 1131: tcp response from 106.120.160.134 [open]  183.395 ms
+seq 1129: no response (timeout)
+seq 1132: tcp response from 106.120.160.134 [open]  190.643 ms
+seq 1128: tcp response from 106.120.160.134 [open]  176.395 ms
+seq 1134: tcp response from 106.120.160.134 [open]  165.408 ms
+seq 1137: tcp response from 106.120.160.134 [open]  165.474 ms
+seq 1138: tcp response from 106.120.160.134 [open]  178.961 ms
+seq 1133: tcp response from 106.120.160.134 [open]  164.524 ms
+seq 1130: tcp response from 106.120.160.134 [open]  174.225 ms
+seq 1139: tcp response from 106.120.160.134 [open]  176.757 ms
+seq 1141: tcp response from 106.120.160.134 [open]  171.494 ms
+seq 1135: tcp response from 106.120.160.134 [open]  190.945 ms
+seq 1136: tcp response from 106.120.160.134 [open]  178.273 ms
+seq 1140: no response (timeout)
+seq 1144: tcp response from 106.120.160.134 [open]  176.717 ms
+seq 1146: tcp response from 106.120.160.134 [open]  178.210 ms
+seq 1142: tcp response from 106.120.160.134 [open]  179.301 ms
+seq 1145: no response (timeout)
+seq 1143: tcp response from 106.120.160.134 [open]  191.233 ms
+seq 1148: tcp response from 106.120.160.134 [open]  179.147 ms
+seq 1149: tcp response from 106.120.160.134 [open]  191.571 ms
+seq 1151: tcp response from 106.120.160.134 [open]  165.552 ms
+seq 1150: tcp response from 106.120.160.134 [open]  165.600 ms
+seq 1152: tcp response from 106.120.160.134 [open]  178.077 ms
+seq 1147: tcp response from 106.120.160.134 [open]  191.462 ms
+seq 1153: tcp response from 106.120.160.134 [open]  193.661 ms
+seq 1158: tcp response from 106.120.160.134 [open]  164.696 ms
+seq 1156: no response (timeout)
+seq 1161: tcp response from 106.120.160.134 [open]  174.047 ms
+seq 1157: tcp response from 106.120.160.134 [open]  185.061 ms
+seq 1154: tcp response from 106.120.160.134 [open]  170.705 ms
+seq 1163: tcp response from 106.120.160.134 [open]  178.542 ms
+seq 1160: tcp response from 106.120.160.134 [open]  170.648 ms
+seq 1155: tcp response from 106.120.160.134 [open]  187.547 ms
+seq 1162: no response (timeout)
+seq 1159: tcp response from 106.120.160.134 [open]  178.022 ms
+seq 1169: tcp response from 106.120.160.134 [open]  165.784 ms
+seq 1166: tcp response from 106.120.160.134 [open]  165.952 ms
+seq 1168: no response (timeout)
+seq 1167: tcp response from 106.120.160.134 [open]  169.635 ms
+seq 1173: tcp response from 106.120.160.134 [open]  188.944 ms
+seq 1174: tcp response from 106.120.160.134 [open]  187.712 ms
+seq 1164: tcp response from 106.120.160.134 [open]  177.973 ms
+seq 1171: tcp response from 106.120.160.134 [open]  164.546 ms
+seq 1172: tcp response from 106.120.160.134 [open]  166.445 ms
+seq 1165: tcp response from 106.120.160.134 [open]  189.243 ms
+seq 1170: tcp response from 106.120.160.134 [open]  164.701 ms
+seq 1176: no response (timeout)
+seq 1178: tcp response from 106.120.160.134 [open]  177.363 ms
+seq 1175: tcp response from 106.120.160.134 [open]  178.967 ms
+seq 1180: tcp response from 106.120.160.134 [open]  165.289 ms
+seq 1177: tcp response from 106.120.160.134 [open]  178.732 ms
+seq 1181: tcp response from 106.120.160.134 [open]  164.616 ms
+seq 1182: no response (timeout)
+seq 1185: tcp response from 106.120.160.134 [open]  169.366 ms
+seq 1186: tcp response from 106.120.160.134 [open]  176.401 ms
+seq 1189: tcp response from 106.120.160.134 [open]  173.791 ms
+seq 1179: tcp response from 106.120.160.134 [open]  186.616 ms
+seq 1187: no response (timeout)
+seq 1183: tcp response from 106.120.160.134 [open]  178.431 ms
+seq 1191: tcp response from 106.120.160.134 [open]  176.941 ms
+seq 1184: tcp response from 106.120.160.134 [open]  189.524 ms
+seq 1190: tcp response from 106.120.160.134 [open]  176.971 ms
+seq 1188: tcp response from 106.120.160.134 [open]  178.248 ms
+seq 1196: tcp response from 106.120.160.134 [open]  177.464 ms
+seq 1197: tcp response from 106.120.160.134 [open]  166.465 ms
+seq 1194: tcp response from 106.120.160.134 [open]  189.288 ms
+seq 1195: tcp response from 106.120.160.134 [open]  192.427 ms
+seq 1193: tcp response from 106.120.160.134 [open]  167.375 ms
+seq 1200: tcp response from 106.120.160.134 [open]  187.009 ms
+seq 1198: tcp response from 106.120.160.134 [open]  164.809 ms
+seq 1205: tcp response from 106.120.160.134 [open]  176.691 ms
+seq 1202: tcp response from 106.120.160.134 [open]  178.190 ms
+seq 1201: tcp response from 106.120.160.134 [open]  184.730 ms
+seq 1207: tcp response from 106.120.160.134 [open]  164.707 ms
+seq 1203: tcp response from 106.120.160.134 [open]  184.274 ms
+seq 1209: tcp response from 106.120.160.134 [open]  177.341 ms
+seq 1199: tcp response from 106.120.160.134 [open]  165.483 ms
+seq 1204: tcp response from 106.120.160.134 [open]  178.140 ms
+seq 1208: no response (timeout)
+seq 1213: tcp response from 106.120.160.134 [open]  166.505 ms
+seq 1206: no response (timeout)
+seq 1211: tcp response from 106.120.160.134 [open]  168.628 ms
+seq 1192: tcp response from 106.120.160.134 [open]  190.103 ms
+seq 1212: no response (timeout)
+seq 1210: tcp response from 106.120.160.134 [open]  187.736 ms
+seq 1216: tcp response from 106.120.160.134 [open]  164.661 ms
+seq 1215: no response (timeout)
+seq 1221: tcp response from 106.120.160.134 [open]  193.124 ms
+seq 1222: tcp response from 106.120.160.134 [open]  178.228 ms
+seq 1218: tcp response from 106.120.160.134 [open]  191.154 ms
+seq 1214: tcp response from 106.120.160.134 [open]  189.312 ms
+seq 1226: tcp response from 106.120.160.134 [open]  164.661 ms
+seq 1217: tcp response from 106.120.160.134 [open]  178.127 ms
+seq 1224: no response (timeout)
+seq 1220: tcp response from 106.120.160.134 [open]  191.402 ms
+seq 1219: tcp response from 106.120.160.134 [open]  178.827 ms
+seq 1223: tcp response from 106.120.160.134 [open]  468.366 ms
+seq 1228: tcp response from 106.120.160.134 [open]  179.179 ms
+seq 1227: no response (timeout)
+seq 1230: tcp response from 106.120.160.134 [open]  165.194 ms
+seq 1225: tcp response from 106.120.160.134 [open]  164.750 ms
+seq 1233: tcp response from 106.120.160.134 [open]  178.169 ms
+seq 1231: no response (timeout)
+seq 1229: tcp response from 106.120.160.134 [open]  178.888 ms
+seq 1234: no response (timeout)
+seq 1237: tcp response from 106.120.160.134 [open]  189.185 ms
+seq 1235: tcp response from 106.120.160.134 [open]  174.993 ms
+seq 1240: tcp response from 106.120.160.134 [open]  165.211 ms
+seq 1241: tcp response from 106.120.160.134 [open]  165.689 ms
+seq 1236: tcp response from 106.120.160.134 [open]  219.198 ms
+seq 1232: tcp response from 106.120.160.134 [open]  169.229 ms
+seq 1238: tcp response from 106.120.160.134 [open]  192.203 ms
+seq 1239: tcp response from 106.120.160.134 [open]  175.854 ms
+seq 1242: tcp response from 106.120.160.134 [open]  189.675 ms
+seq 1243: tcp response from 106.120.160.134 [open]  176.591 ms
+seq 1246: tcp response from 106.120.160.134 [open]  165.637 ms
+seq 1244: no response (timeout)
+seq 1247: tcp response from 106.120.160.134 [open]  178.290 ms
+seq 1248: tcp response from 106.120.160.134 [open]  190.348 ms
+seq 1249: tcp response from 106.120.160.134 [open]  176.476 ms
+seq 1245: tcp response from 106.120.160.134 [open]  178.531 ms
+seq 1250: tcp response from 106.120.160.134 [open]  165.291 ms
+seq 1251: tcp response from 106.120.160.134 [open]  165.784 ms
+seq 1253: tcp response from 106.120.160.134 [open]  167.163 ms
+seq 1254: tcp response from 106.120.160.134 [open]  167.332 ms
+seq 1256: tcp response from 106.120.160.134 [open]  192.155 ms
+seq 1255: tcp response from 106.120.160.134 [open]  182.540 ms
+seq 1259: tcp response from 106.120.160.134 [open]  184.383 ms
+seq 1261: tcp response from 106.120.160.134 [open]  191.305 ms
+seq 1252: tcp response from 106.120.160.134 [open]  192.445 ms
+seq 1258: tcp response from 106.120.160.134 [open]  165.017 ms
+seq 1262: tcp response from 106.120.160.134 [open]  178.305 ms
+seq 1257: tcp response from 106.120.160.134 [open]  178.245 ms
+seq 1265: tcp response from 106.120.160.134 [open]  164.966 ms
+seq 1264: tcp response from 106.120.160.134 [open]  178.895 ms
+seq 1260: no response (timeout)
+seq 1268: tcp response from 106.120.160.134 [open]  183.276 ms
+seq 1267: no response (timeout)
+seq 1271: tcp response from 106.120.160.134 [open]  173.123 ms
+seq 1266: tcp response from 106.120.160.134 [open]  178.092 ms
+seq 1273: tcp response from 106.120.160.134 [open]  180.738 ms
+seq 1270: tcp response from 106.120.160.134 [open]  192.865 ms
+seq 1274: tcp response from 106.120.160.134 [open]  178.927 ms
+seq 1272: no response (timeout)
+seq 1276: tcp response from 106.120.160.134 [open]  190.721 ms
+seq 1275: no response (timeout)
+seq 1269: tcp response from 106.120.160.134 [open]  177.603 ms
+seq 1277: tcp response from 106.120.160.134 [open]  186.314 ms
+seq 1278: tcp response from 106.120.160.134 [open]  168.047 ms
+seq 1263: tcp response from 106.120.160.134 [open]  164.603 ms
+seq 1280: tcp response from 106.120.160.134 [open]  190.566 ms
+seq 1282: tcp response from 106.120.160.134 [open]  165.173 ms
+seq 1281: tcp response from 106.120.160.134 [open]  178.061 ms
+seq 1285: tcp response from 106.120.160.134 [open]  177.064 ms
+seq 1287: tcp response from 106.120.160.134 [open]  218.153 ms
+seq 1279: tcp response from 106.120.160.134 [open]  186.358 ms
+seq 1284: tcp response from 106.120.160.134 [open]  192.484 ms
+seq 1286: no response (timeout)
+seq 1288: tcp response from 106.120.160.134 [open]  177.412 ms
+seq 1283: tcp response from 106.120.160.134 [open]  183.643 ms
+seq 1291: tcp response from 106.120.160.134 [open]  191.553 ms
+seq 1289: tcp response from 106.120.160.134 [open]  165.534 ms
+seq 1292: no response (timeout)
+seq 1296: tcp response from 106.120.160.134 [open]  192.275 ms
+seq 1295: no response (timeout)
+seq 1290: tcp response from 106.120.160.134 [open]  164.978 ms
+seq 1297: no response (timeout)
+seq 1293: tcp response from 106.120.160.134 [open]  180.971 ms
+seq 1294: tcp response from 106.120.160.134 [open]  178.319 ms
+seq 1299: no response (timeout)
+seq 1300: tcp response from 106.120.160.134 [open]  186.129 ms
+seq 1298: tcp response from 106.120.160.134 [open]  165.568 ms
+seq 1304: tcp response from 106.120.160.134 [open]  191.214 ms
+seq 1305: tcp response from 106.120.160.134 [open]  166.516 ms
+seq 1306: tcp response from 106.120.160.134 [open]  164.958 ms
+seq 1309: tcp response from 106.120.160.134 [open]  179.279 ms
+seq 1310: tcp response from 106.120.160.134 [open]  166.766 ms
+seq 1307: tcp response from 106.120.160.134 [open]  192.512 ms
+seq 1303: tcp response from 106.120.160.134 [open]  176.349 ms
+seq 1308: tcp response from 106.120.160.134 [open]  186.614 ms
+seq 1311: tcp response from 106.120.160.134 [open]  192.299 ms
+seq 1302: tcp response from 106.120.160.134 [open]  165.091 ms
+seq 1312: tcp response from 106.120.160.134 [open]  166.776 ms
+seq 1314: tcp response from 106.120.160.134 [open]  166.669 ms
+seq 1301: tcp response from 106.120.160.134 [open]  180.274 ms
+seq 1313: no response (timeout)
+seq 1316: no response (timeout)
+seq 1318: tcp response from 106.120.160.134 [open]  178.612 ms
+seq 1321: tcp response from 106.120.160.134 [open]  190.444 ms
+seq 1317: tcp response from 106.120.160.134 [open]  196.958 ms
+seq 1322: tcp response from 106.120.160.134 [open]  170.935 ms
+seq 1323: tcp response from 106.120.160.134 [open]  191.939 ms
+seq 1315: tcp response from 106.120.160.134 [open]  188.746 ms
+seq 1320: tcp response from 106.120.160.134 [open]  166.163 ms
+seq 1319: tcp response from 106.120.160.134 [open]  189.423 ms
+seq 1325: tcp response from 106.120.160.134 [open]  192.254 ms
+seq 1324: tcp response from 106.120.160.134 [open]  165.823 ms
+seq 1326: tcp response from 106.120.160.134 [open]  178.108 ms
+seq 1328: tcp response from 106.120.160.134 [open]  169.199 ms
+seq 1329: tcp response from 106.120.160.134 [open]  190.668 ms
+seq 1334: tcp response from 106.120.160.134 [open]  165.352 ms
+seq 1335: tcp response from 106.120.160.134 [open]  170.414 ms
+seq 1331: tcp response from 106.120.160.134 [open]  177.934 ms
+seq 1327: tcp response from 106.120.160.134 [open]  177.699 ms
+seq 1333: tcp response from 106.120.160.134 [open]  165.452 ms
+seq 1336: no response (timeout)
+seq 1330: tcp response from 106.120.160.134 [open]  177.310 ms
+seq 1332: tcp response from 106.120.160.134 [open]  184.930 ms
+seq 1341: tcp response from 106.120.160.134 [open]  165.261 ms
+seq 1338: tcp response from 106.120.160.134 [open]  190.802 ms
+seq 1342: tcp response from 106.120.160.134 [open]  191.650 ms
+seq 1340: no response (timeout)
+seq 1344: tcp response from 106.120.160.134 [open]  175.540 ms
+seq 1345: tcp response from 106.120.160.134 [open]  178.502 ms
+seq 1337: tcp response from 106.120.160.134 [open]  170.643 ms
+seq 1339: tcp response from 106.120.160.134 [open]  177.337 ms
+seq 1348: tcp response from 106.120.160.134 [open]  167.512 ms
+seq 1347: no response (timeout)
+seq 1351: tcp response from 106.120.160.134 [open]  189.054 ms
+seq 1346: no response (timeout)
+seq 1349: no response (timeout)
+seq 1343: tcp response from 106.120.160.134 [open]  180.906 ms
+seq 1350: tcp response from 106.120.160.134 [open]  178.396 ms
+seq 1354: tcp response from 106.120.160.134 [open]  165.327 ms
+seq 1356: tcp response from 106.120.160.134 [open]  188.354 ms
+seq 1352: tcp response from 106.120.160.134 [open]  164.652 ms
+seq 1353: tcp response from 106.120.160.134 [open]  164.874 ms
+seq 1357: tcp response from 106.120.160.134 [open]  174.157 ms
+seq 1355: tcp response from 106.120.160.134 [open]  168.393 ms
+seq 1359: tcp response from 106.120.160.134 [open]  166.143 ms
+seq 1360: tcp response from 106.120.160.134 [open]  188.085 ms
+seq 1358: tcp response from 106.120.160.134 [open]  177.194 ms
+seq 1361: no response (timeout)
+seq 1364: tcp response from 106.120.160.134 [open]  178.833 ms
+seq 1366: tcp response from 106.120.160.134 [open]  175.867 ms
+seq 1362: tcp response from 106.120.160.134 [open]  169.985 ms
+seq 1363: tcp response from 106.120.160.134 [open]  177.452 ms
+seq 1365: no response (timeout)
+seq 1367: no response (timeout)
+seq 1368: tcp response from 106.120.160.134 [open]  172.654 ms
+seq 1372: tcp response from 106.120.160.134 [open]  167.042 ms
+seq 1370: no response (timeout)
+seq 1373: tcp response from 106.120.160.134 [open]  180.906 ms
+seq 1371: no response (timeout)
+seq 1375: tcp response from 106.120.160.134 [open]  166.007 ms
+seq 1376: tcp response from 106.120.160.134 [open]  164.562 ms
+seq 1369: tcp response from 106.120.160.134 [open]  180.136 ms
+seq 1374: no response (timeout)
+seq 1379: tcp response from 106.120.160.134 [open]  186.767 ms
+seq 1380: tcp response from 106.120.160.134 [open]  174.845 ms
+seq 1377: no response (timeout)
+seq 1382: tcp response from 106.120.160.134 [open]  348.811 ms
+seq 1383: tcp response from 106.120.160.134 [open]  171.448 ms
+seq 1387: tcp response from 106.120.160.134 [open]  177.819 ms
+seq 1378: tcp response from 106.120.160.134 [open]  164.935 ms
+seq 1385: tcp response from 106.120.160.134 [open]  190.420 ms
+seq 1388: tcp response from 106.120.160.134 [open]  180.910 ms
+seq 1384: tcp response from 106.120.160.134 [open]  176.393 ms
+seq 1386: tcp response from 106.120.160.134 [open]  166.638 ms
+seq 1389: tcp response from 106.120.160.134 [open]  188.357 ms
+seq 1381: tcp response from 106.120.160.134 [open]  172.786 ms
+seq 1395: tcp response from 106.120.160.134 [open]  177.749 ms
+seq 1393: no response (timeout)
+seq 1396: tcp response from 106.120.160.134 [open]  164.547 ms
+seq 1392: tcp response from 106.120.160.134 [open]  190.432 ms
+seq 1397: tcp response from 106.120.160.134 [open]  190.622 ms
+seq 1394: tcp response from 106.120.160.134 [open]  192.374 ms
+seq 1391: tcp response from 106.120.160.134 [open]  190.555 ms
+seq 1398: tcp response from 106.120.160.134 [open]  166.916 ms
+seq 1400: tcp response from 106.120.160.134 [open]  179.069 ms
+seq 1401: tcp response from 106.120.160.134 [open]  168.414 ms
+seq 1402: tcp response from 106.120.160.134 [open]  171.694 ms
+seq 1399: no response (timeout)
+seq 1390: tcp response from 106.120.160.134 [open]  177.162 ms
+seq 1403: tcp response from 106.120.160.134 [open]  164.928 ms
+seq 1404: no response (timeout)
+seq 1406: no response (timeout)
+seq 1409: tcp response from 106.120.160.134 [open]  165.127 ms
+seq 1408: no response (timeout)
+seq 1405: tcp response from 106.120.160.134 [open]  173.777 ms
+seq 1407: tcp response from 106.120.160.134 [open]  176.158 ms
+seq 1410: tcp response from 106.120.160.134 [open]  177.566 ms
+seq 1411: tcp response from 106.120.160.134 [open]  183.696 ms
+seq 1416: tcp response from 106.120.160.134 [open]  164.792 ms
+seq 1413: tcp response from 106.120.160.134 [open]  189.900 ms
+seq 1417: tcp response from 106.120.160.134 [open]  165.015 ms
+seq 1414: tcp response from 106.120.160.134 [open]  199.756 ms
+seq 1412: tcp response from 106.120.160.134 [open]  165.161 ms
+seq 1418: tcp response from 106.120.160.134 [open]  178.991 ms
+seq 1420: tcp response from 106.120.160.134 [open]  175.275 ms
+seq 1422: tcp response from 106.120.160.134 [open]  172.812 ms
+seq 1423: tcp response from 106.120.160.134 [open]  187.073 ms
+seq 1415: tcp response from 106.120.160.134 [open]  189.136 ms
+seq 1425: tcp response from 106.120.160.134 [open]  182.160 ms
+seq 1427: tcp response from 106.120.160.134 [open]  191.353 ms
+seq 1424: tcp response from 106.120.160.134 [open]  166.760 ms
+seq 1429: tcp response from 106.120.160.134 [open]  187.483 ms
+seq 1426: tcp response from 106.120.160.134 [open]  177.393 ms
+seq 1435: tcp response from 106.120.160.134 [open]  185.882 ms
+seq 1421: tcp response from 106.120.160.134 [open]  185.156 ms
+seq 1433: no response (timeout)
+seq 1419: tcp response from 106.120.160.134 [open]  177.857 ms
+seq 1431: tcp response from 106.120.160.134 [open]  165.333 ms
+seq 1432: tcp response from 106.120.160.134 [open]  178.110 ms
+seq 1428: tcp response from 106.120.160.134 [open]  177.567 ms
+seq 1434: tcp response from 106.120.160.134 [open]  165.105 ms
+seq 1436: tcp response from 106.120.160.134 [open]  166.241 ms
+seq 1430: tcp response from 106.120.160.134 [open]  167.522 ms
+seq 1440: tcp response from 106.120.160.134 [open]  177.194 ms
+seq 1437: no response (timeout)
+seq 1442: tcp response from 106.120.160.134 [open]  174.444 ms
+seq 1443: tcp response from 106.120.160.134 [open]  178.816 ms
+seq 1439: tcp response from 106.120.160.134 [open]  190.900 ms
+seq 1445: tcp response from 106.120.160.134 [open]  192.093 ms
+seq 1446: tcp response from 106.120.160.134 [open]  177.707 ms
+seq 1444: no response (timeout)
+seq 1438: tcp response from 106.120.160.134 [open]  164.616 ms
+seq 1447: tcp response from 106.120.160.134 [open]  176.492 ms
+seq 1441: tcp response from 106.120.160.134 [open]  191.607 ms
+seq 1448: no response (timeout)
+seq 1450: no response (timeout)
+seq 1453: tcp response from 106.120.160.134 [open]  164.705 ms
+seq 1454: tcp response from 106.120.160.134 [open]  164.832 ms
+seq 1451: no response (timeout)
+seq 1452: tcp response from 106.120.160.134 [open]  165.482 ms
+seq 1449: tcp response from 106.120.160.134 [open]  174.427 ms
+seq 1455: tcp response from 106.120.160.134 [open]  164.947 ms
+seq 1460: tcp response from 106.120.160.134 [open]  191.111 ms
+seq 1461: tcp response from 106.120.160.134 [open]  218.296 ms
+seq 1462: tcp response from 106.120.160.134 [open]  172.443 ms
+seq 1464: tcp response from 106.120.160.134 [open]  170.275 ms
+seq 1456: tcp response from 106.120.160.134 [open]  176.929 ms
+seq 1458: tcp response from 106.120.160.134 [open]  176.960 ms
+seq 1465: tcp response from 106.120.160.134 [open]  191.715 ms
+seq 1469: tcp response from 106.120.160.134 [open]  164.942 ms
+seq 1466: tcp response from 106.120.160.134 [open]  165.747 ms
+seq 1459: tcp response from 106.120.160.134 [open]  171.409 ms
+seq 1472: tcp response from 106.120.160.134 [open]  179.276 ms
+seq 1463: tcp response from 106.120.160.134 [open]  178.407 ms
+seq 1457: tcp response from 106.120.160.134 [open]  177.901 ms
+seq 1468: tcp response from 106.120.160.134 [open]  191.686 ms
+seq 1471: no response (timeout)
+seq 1470: tcp response from 106.120.160.134 [open]  164.815 ms
+seq 1473: no response (timeout)
+seq 1467: tcp response from 106.120.160.134 [open]  188.989 ms
+seq 1474: no response (timeout)
+seq 1479: tcp response from 106.120.160.134 [open]  178.694 ms
+seq 1476: tcp response from 106.120.160.134 [open]  178.239 ms
+seq 1477: tcp response from 106.120.160.134 [open]  216.494 ms
+seq 1482: tcp response from 106.120.160.134 [open]  176.456 ms
+seq 1475: tcp response from 106.120.160.134 [open]  178.774 ms
+seq 1480: tcp response from 106.120.160.134 [open]  176.050 ms
+seq 1478: tcp response from 106.120.160.134 [open]  175.599 ms
+seq 1483: tcp response from 106.120.160.134 [open]  165.170 ms
+seq 1484: tcp response from 106.120.160.134 [open]  178.554 ms
+seq 1481: tcp response from 106.120.160.134 [open]  178.217 ms
+seq 1485: tcp response from 106.120.160.134 [open]  188.307 ms
+seq 1486: tcp response from 106.120.160.134 [open]  164.558 ms
+seq 1488: tcp response from 106.120.160.134 [open]  189.536 ms
+seq 1487: no response (timeout)
+seq 1489: tcp response from 106.120.160.134 [open]  171.751 ms
+seq 1495: tcp response from 106.120.160.134 [open]  174.240 ms
+seq 1490: tcp response from 106.120.160.134 [open]  178.038 ms
+seq 1492: tcp response from 106.120.160.134 [open]  174.918 ms
+seq 1496: tcp response from 106.120.160.134 [open]  180.343 ms
+seq 1497: tcp response from 106.120.160.134 [open]  177.510 ms
+seq 1499: tcp response from 106.120.160.134 [open]  173.904 ms
+seq 1500: tcp response from 106.120.160.134 [open]  171.015 ms
+seq 1498: no response (timeout)
+seq 1493: tcp response from 106.120.160.134 [open]  177.690 ms
+seq 1502: tcp response from 106.120.160.134 [open]  260.502 ms
+seq 1491: tcp response from 106.120.160.134 [open]  177.430 ms
+seq 1494: tcp response from 106.120.160.134 [open]  165.931 ms
+seq 1503: tcp response from 106.120.160.134 [open]  184.436 ms
+seq 1506: tcp response from 106.120.160.134 [open]  266.515 ms
+seq 1504: no response (timeout)
+seq 1501: tcp response from 106.120.160.134 [open]  165.032 ms
+seq 1507: tcp response from 106.120.160.134 [open]  178.088 ms
+seq 1509: tcp response from 106.120.160.134 [open]  165.895 ms
+seq 1508: tcp response from 106.120.160.134 [open]  188.466 ms
+seq 1511: tcp response from 106.120.160.134 [open]  190.979 ms
+seq 1505: tcp response from 106.120.160.134 [open]  177.701 ms
+seq 1516: tcp response from 106.120.160.134 [open]  165.480 ms
+seq 1514: no response (timeout)
+seq 1517: tcp response from 106.120.160.134 [open]  170.095 ms
+seq 1513: tcp response from 106.120.160.134 [open]  177.983 ms
+seq 1510: tcp response from 106.120.160.134 [open]  167.528 ms
+seq 1515: tcp response from 106.120.160.134 [open]  190.025 ms
+seq 1518: no response (timeout)
+seq 1522: tcp response from 106.120.160.134 [open]  177.914 ms
+seq 1512: tcp response from 106.120.160.134 [open]  178.258 ms
+seq 1520: no response (timeout)
+seq 1521: no response (timeout)
+seq 1523: tcp response from 106.120.160.134 [open]  164.977 ms
+seq 1519: tcp response from 106.120.160.134 [open]  178.870 ms
+seq 1524: tcp response from 106.120.160.134 [open]  178.205 ms
+seq 1526: tcp response from 106.120.160.134 [open]  165.969 ms
+seq 1527: tcp response from 106.120.160.134 [open]  189.535 ms
+seq 1531: tcp response from 106.120.160.134 [open]  192.062 ms
+seq 1532: tcp response from 106.120.160.134 [open]  174.327 ms
+seq 1525: tcp response from 106.120.160.134 [open]  188.487 ms
+seq 1529: tcp response from 106.120.160.134 [open]  179.258 ms
+seq 1535: tcp response from 106.120.160.134 [open]  189.358 ms
+seq 1528: tcp response from 106.120.160.134 [open]  164.667 ms
+seq 1536: tcp response from 106.120.160.134 [open]  170.797 ms
+seq 1534: tcp response from 106.120.160.134 [open]  176.312 ms
+seq 1530: tcp response from 106.120.160.134 [open]  185.196 ms
+seq 1537: tcp response from 106.120.160.134 [open]  171.351 ms
+seq 1538: no response (timeout)
+seq 1540: tcp response from 106.120.160.134 [open]  165.407 ms
+seq 1539: tcp response from 106.120.160.134 [open]  177.640 ms
+seq 1545: tcp response from 106.120.160.134 [open]  192.075 ms
+seq 1541: tcp response from 106.120.160.134 [open]  177.241 ms
+seq 1542: tcp response from 106.120.160.134 [open]  187.209 ms
+seq 1533: tcp response from 106.120.160.134 [open]  177.496 ms
+seq 1543: tcp response from 106.120.160.134 [open]  166.012 ms
+seq 1548: tcp response from 106.120.160.134 [open]  166.729 ms
+seq 1547: no response (timeout)
+seq 1544: tcp response from 106.120.160.134 [open]  165.236 ms
+seq 1549: tcp response from 106.120.160.134 [open]  177.853 ms
+seq 1554: tcp response from 106.120.160.134 [open]  170.878 ms
+seq 1550: tcp response from 106.120.160.134 [open]  192.074 ms
+seq 1546: tcp response from 106.120.160.134 [open]  179.229 ms
+seq 1556: tcp response from 106.120.160.134 [open]  174.815 ms
+seq 1557: tcp response from 106.120.160.134 [open]  188.862 ms
+seq 1551: tcp response from 106.120.160.134 [open]  181.466 ms
+seq 1560: tcp response from 106.120.160.134 [open]  165.065 ms
+seq 1553: tcp response from 106.120.160.134 [open]  164.481 ms
+seq 1552: tcp response from 106.120.160.134 [open]  176.319 ms
+seq 1558: tcp response from 106.120.160.134 [open]  165.641 ms
+seq 1555: tcp response from 106.120.160.134 [open]  165.083 ms
+seq 1561: no response (timeout)
+seq 1562: tcp response from 106.120.160.134 [open]  176.304 ms
+seq 1559: tcp response from 106.120.160.134 [open]  190.667 ms
+seq 1563: tcp response from 106.120.160.134 [open]  165.274 ms
+seq 1566: tcp response from 106.120.160.134 [open]  177.070 ms
+seq 1565: tcp response from 106.120.160.134 [open]  192.328 ms
+seq 1568: tcp response from 106.120.160.134 [open]  170.053 ms
+seq 1567: tcp response from 106.120.160.134 [open]  191.411 ms
+seq 1572: tcp response from 106.120.160.134 [open]  164.515 ms
+seq 1569: tcp response from 106.120.160.134 [open]  164.458 ms
+seq 1571: tcp response from 106.120.160.134 [open]  190.549 ms
+seq 1574: tcp response from 106.120.160.134 [open]  181.147 ms
+seq 1570: tcp response from 106.120.160.134 [open]  165.601 ms
+seq 1575: tcp response from 106.120.160.134 [open]  192.453 ms
+seq 1573: tcp response from 106.120.160.134 [open]  176.689 ms
+seq 1576: tcp response from 106.120.160.134 [open]  177.540 ms
+seq 1564: tcp response from 106.120.160.134 [open]  165.644 ms
+seq 1580: no response (timeout)
+seq 1582: tcp response from 106.120.160.134 [open]  178.133 ms
+seq 1581: tcp response from 106.120.160.134 [open]  177.642 ms
+seq 1584: tcp response from 106.120.160.134 [open]  164.513 ms
+seq 1577: tcp response from 106.120.160.134 [open]  347.853 ms
+seq 1583: no response (timeout)
+seq 1587: tcp response from 106.120.160.134 [open]  191.226 ms
+seq 1586: no response (timeout)
+seq 1585: no response (timeout)
+seq 1579: tcp response from 106.120.160.134 [open]  181.107 ms
+seq 1578: tcp response from 106.120.160.134 [open]  166.230 ms
+seq 1591: tcp response from 106.120.160.134 [open]  164.712 ms
+seq 1592: tcp response from 106.120.160.134 [open]  264.894 ms
+seq 1589: no response (timeout)
+seq 1588: tcp response from 106.120.160.134 [open]  164.749 ms
+seq 1598: tcp response from 106.120.160.134 [open]  171.914 ms
+seq 1594: no response (timeout)
+seq 1593: tcp response from 106.120.160.134 [open]  177.176 ms
+seq 1595: tcp response from 106.120.160.134 [open]  187.839 ms
+seq 1590: tcp response from 106.120.160.134 [open]  164.978 ms
+seq 1596: tcp response from 106.120.160.134 [open]  165.946 ms
+seq 1599: no response (timeout)
+seq 1597: tcp response from 106.120.160.134 [open]  177.646 ms
+seq 1600: tcp response from 106.120.160.134 [open]  165.628 ms
+seq 1603: tcp response from 106.120.160.134 [open]  178.106 ms
+seq 1604: tcp response from 106.120.160.134 [open]  167.420 ms
+seq 1602: no response (timeout)
+seq 1601: tcp response from 106.120.160.134 [open]  186.895 ms
+seq 1608: tcp response from 106.120.160.134 [open]  177.046 ms
+seq 1609: tcp response from 106.120.160.134 [open]  190.837 ms
+seq 1606: tcp response from 106.120.160.134 [open]  172.909 ms
+seq 1607: tcp response from 106.120.160.134 [open]  175.861 ms
+seq 1605: tcp response from 106.120.160.134 [open]  188.736 ms
+seq 1611: tcp response from 106.120.160.134 [open]  177.811 ms
+seq 1610: no response (timeout)
+seq 1618: tcp response from 106.120.160.134 [open]  179.199 ms
+seq 1614: tcp response from 106.120.160.134 [open]  189.754 ms
+seq 1619: tcp response from 106.120.160.134 [open]  165.829 ms
+seq 1612: tcp response from 106.120.160.134 [open]  166.137 ms
+seq 1613: tcp response from 106.120.160.134 [open]  177.843 ms
+seq 1623: tcp response from 106.120.160.134 [open]  176.004 ms
+seq 1616: tcp response from 106.120.160.134 [open]  165.389 ms
+seq 1617: tcp response from 106.120.160.134 [open]  177.230 ms
+seq 1620: tcp response from 106.120.160.134 [open]  164.400 ms
+seq 1621: tcp response from 106.120.160.134 [open]  164.448 ms
+seq 1622: tcp response from 106.120.160.134 [open]  265.860 ms
+seq 1627: tcp response from 106.120.160.134 [open]  189.498 ms
+seq 1629: tcp response from 106.120.160.134 [open]  177.755 ms
+seq 1615: tcp response from 106.120.160.134 [open]  165.594 ms
+seq 1624: tcp response from 106.120.160.134 [open]  191.057 ms
+seq 1625: tcp response from 106.120.160.134 [open]  176.635 ms
+seq 1630: no response (timeout)
+seq 1628: tcp response from 106.120.160.134 [open]  175.105 ms
+seq 1626: tcp response from 106.120.160.134 [open]  167.946 ms
+seq 1631: tcp response from 106.120.160.134 [open]  178.804 ms
+seq 1632: tcp response from 106.120.160.134 [open]  191.220 ms
+seq 1637: tcp response from 106.120.160.134 [open]  166.925 ms
+seq 1639: tcp response from 106.120.160.134 [open]  165.323 ms
+seq 1633: tcp response from 106.120.160.134 [open]  164.823 ms
+seq 1636: no response (timeout)
+seq 1640: tcp response from 106.120.160.134 [open]  173.856 ms
+seq 1635: tcp response from 106.120.160.134 [open]  178.808 ms
+seq 1634: tcp response from 106.120.160.134 [open]  165.304 ms
+seq 1638: tcp response from 106.120.160.134 [open]  192.398 ms
+seq 1642: tcp response from 106.120.160.134 [open]  264.075 ms
+seq 1647: tcp response from 106.120.160.134 [open]  177.146 ms
+seq 1641: tcp response from 106.120.160.134 [open]  166.004 ms
+seq 1643: tcp response from 106.120.160.134 [open]  191.816 ms
+seq 1648: tcp response from 106.120.160.134 [open]  185.452 ms
+seq 1650: tcp response from 106.120.160.134 [open]  164.292 ms
+seq 1645: tcp response from 106.120.160.134 [open]  191.717 ms
+seq 1646: tcp response from 106.120.160.134 [open]  190.761 ms
+seq 1644: tcp response from 106.120.160.134 [open]  171.177 ms
+seq 1651: tcp response from 106.120.160.134 [open]  177.221 ms
+seq 1652: tcp response from 106.120.160.134 [open]  175.524 ms
+seq 1649: tcp response from 106.120.160.134 [open]  190.195 ms
+seq 1654: tcp response from 106.120.160.134 [open]  170.906 ms
+seq 1655: tcp response from 106.120.160.134 [open]  177.660 ms
+seq 1656: tcp response from 106.120.160.134 [open]  164.740 ms
+seq 1658: tcp response from 106.120.160.134 [open]  190.734 ms
+seq 1663: tcp response from 106.120.160.134 [open]  190.117 ms
+seq 1661: no response (timeout)
+seq 1659: tcp response from 106.120.160.134 [open]  176.988 ms
+seq 1664: tcp response from 106.120.160.134 [open]  179.106 ms
+seq 1657: tcp response from 106.120.160.134 [open]  178.168 ms
+seq 1662: tcp response from 106.120.160.134 [open]  169.888 ms
+seq 1665: no response (timeout)
+seq 1660: tcp response from 106.120.160.134 [open]  191.084 ms
+seq 1667: tcp response from 106.120.160.134 [open]  165.032 ms
+seq 1666: no response (timeout)
+seq 1653: tcp response from 106.120.160.134 [open]  189.899 ms
+seq 1668: tcp response from 106.120.160.134 [open]  166.029 ms
+seq 1669: tcp response from 106.120.160.134 [open]  178.811 ms
+seq 1670: no response (timeout)
+seq 1676: tcp response from 106.120.160.134 [open]  178.037 ms
+seq 1677: tcp response from 106.120.160.134 [open]  183.229 ms
+seq 1673: tcp response from 106.120.160.134 [open]  169.233 ms
+seq 1675: tcp response from 106.120.160.134 [open]  173.757 ms
+seq 1671: tcp response from 106.120.160.134 [open]  179.064 ms
+seq 1678: no response (timeout)
+seq 1674: tcp response from 106.120.160.134 [open]  203.938 ms
+seq 1679: no response (timeout)
+seq 1680: tcp response from 106.120.160.134 [open]  189.273 ms
+seq 1672: tcp response from 106.120.160.134 [open]  188.972 ms
+seq 1681: tcp response from 106.120.160.134 [open]  164.684 ms
+seq 1685: no response (timeout)
+seq 1683: tcp response from 106.120.160.134 [open]  165.233 ms
+seq 1684: tcp response from 106.120.160.134 [open]  184.925 ms
+seq 1686: tcp response from 106.120.160.134 [open]  177.261 ms
+seq 1682: tcp response from 106.120.160.134 [open]  260.919 ms
+seq 1688: tcp response from 106.120.160.134 [open]  1795.057 ms
+seq 1690: tcp response from 106.120.160.134 [open]  178.268 ms
+seq 1692: no response (timeout)
+seq 1691: tcp response from 106.120.160.134 [open]  187.378 ms
+seq 1693: tcp response from 106.120.160.134 [open]  190.909 ms
+seq 1687: tcp response from 106.120.160.134 [open]  178.814 ms
+seq 1698: tcp response from 106.120.160.134 [open]  165.008 ms
+seq 1689: tcp response from 106.120.160.134 [open]  172.371 ms
+seq 1694: tcp response from 106.120.160.134 [open]  178.634 ms
+seq 1695: tcp response from 106.120.160.134 [open]  165.242 ms
+seq 1696: tcp response from 106.120.160.134 [open]  180.329 ms
+seq 1697: tcp response from 106.120.160.134 [open]  164.546 ms
+seq 1699: no response (timeout)
+seq 1700: no response (timeout)
+seq 1701: tcp response from 106.120.160.134 [open]  165.757 ms
+seq 1704: tcp response from 106.120.160.134 [open]  166.084 ms
+seq 1706: tcp response from 106.120.160.134 [open]  190.975 ms
+seq 1709: tcp response from 106.120.160.134 [open]  171.857 ms
+seq 1705: tcp response from 106.120.160.134 [open]  178.425 ms
+seq 1710: tcp response from 106.120.160.134 [open]  189.985 ms
+seq 1707: tcp response from 106.120.160.134 [open]  178.619 ms
+seq 1702: tcp response from 106.120.160.134 [open]  190.207 ms
+seq 1703: tcp response from 106.120.160.134 [open]  164.731 ms
+seq 1711: tcp response from 106.120.160.134 [open]  177.989 ms
+seq 1713: tcp response from 106.120.160.134 [open]  213.175 ms
+seq 1708: tcp response from 106.120.160.134 [open]  176.488 ms
+seq 1712: no response (timeout)
+seq 1715: tcp response from 106.120.160.134 [open]  165.821 ms
+seq 1716: tcp response from 106.120.160.134 [open]  186.799 ms
+seq 1718: tcp response from 106.120.160.134 [open]  190.174 ms
+seq 1717: no response (timeout)
+seq 1722: tcp response from 106.120.160.134 [open]  191.455 ms
+seq 1720: tcp response from 106.120.160.134 [open]  178.971 ms
+seq 1723: tcp response from 106.120.160.134 [open]  164.827 ms
+seq 1714: tcp response from 106.120.160.134 [open]  179.262 ms
+seq 1721: tcp response from 106.120.160.134 [open]  177.351 ms
+seq 1719: tcp response from 106.120.160.134 [open]  171.258 ms
+seq 1729: tcp response from 106.120.160.134 [open]  189.712 ms
+seq 1727: tcp response from 106.120.160.134 [open]  191.246 ms
+seq 1725: tcp response from 106.120.160.134 [open]  176.718 ms
+seq 1726: tcp response from 106.120.160.134 [open]  185.927 ms
+seq 1733: tcp response from 106.120.160.134 [open]  166.459 ms
+seq 1731: tcp response from 106.120.160.134 [open]  183.506 ms
+seq 1728: tcp response from 106.120.160.134 [open]  176.832 ms
+seq 1735: no response (timeout)
+seq 1730: tcp response from 106.120.160.134 [open]  164.850 ms
+seq 1732: tcp response from 106.120.160.134 [open]  178.723 ms
+seq 1724: tcp response from 106.120.160.134 [open]  178.544 ms
+seq 1736: tcp response from 106.120.160.134 [open]  178.312 ms
+seq 1738: tcp response from 106.120.160.134 [open]  185.244 ms
+seq 1740: tcp response from 106.120.160.134 [open]  193.989 ms
+seq 1739: tcp response from 106.120.160.134 [open]  177.527 ms
+seq 1734: tcp response from 106.120.160.134 [open]  164.779 ms
+seq 1744: tcp response from 106.120.160.134 [open]  175.156 ms
+seq 1745: tcp response from 106.120.160.134 [open]  165.218 ms
+seq 1746: tcp response from 106.120.160.134 [open]  188.700 ms
+seq 1747: tcp response from 106.120.160.134 [open]  174.922 ms
+seq 1741: tcp response from 106.120.160.134 [open]  171.180 ms
+seq 1742: tcp response from 106.120.160.134 [open]  188.567 ms
+seq 1737: tcp response from 106.120.160.134 [open]  165.220 ms
+seq 1743: tcp response from 106.120.160.134 [open]  179.953 ms
+seq 1750: tcp response from 106.120.160.134 [open]  191.042 ms
+seq 1752: tcp response from 106.120.160.134 [open]  178.111 ms
+seq 1749: tcp response from 106.120.160.134 [open]  179.236 ms
+seq 1751: no response (timeout)
+seq 1753: no response (timeout)
+seq 1748: tcp response from 106.120.160.134 [open]  177.016 ms
+seq 1755: tcp response from 106.120.160.134 [open]  168.564 ms
+seq 1758: tcp response from 106.120.160.134 [open]  191.693 ms
+seq 1754: tcp response from 106.120.160.134 [open]  183.194 ms
+seq 1760: tcp response from 106.120.160.134 [open]  191.240 ms
+seq 1761: tcp response from 106.120.160.134 [open]  164.525 ms
+seq 1756: no response (timeout)
+seq 1757: tcp response from 106.120.160.134 [open]  164.654 ms
+seq 1763: tcp response from 106.120.160.134 [open]  165.711 ms
+seq 1765: tcp response from 106.120.160.134 [open]  177.992 ms
+seq 1762: tcp response from 106.120.160.134 [open]  172.584 ms
+seq 1759: tcp response from 106.120.160.134 [open]  180.350 ms
+seq 1766: tcp response from 106.120.160.134 [open]  191.231 ms
+seq 1769: tcp response from 106.120.160.134 [open]  176.203 ms
+seq 1772: tcp response from 106.120.160.134 [open]  379.036 ms
+seq 1767: tcp response from 106.120.160.134 [open]  169.127 ms
+seq 1773: no response (timeout)
+seq 1771: tcp response from 106.120.160.134 [open]  176.289 ms
+seq 1774: tcp response from 106.120.160.134 [open]  178.272 ms
+seq 1764: tcp response from 106.120.160.134 [open]  264.926 ms
+seq 1768: tcp response from 106.120.160.134 [open]  177.198 ms
+seq 1770: tcp response from 106.120.160.134 [open]  185.990 ms
+seq 1775: tcp response from 106.120.160.134 [open]  165.383 ms
+seq 1776: tcp response from 106.120.160.134 [open]  186.977 ms
+seq 1777: tcp response from 106.120.160.134 [open]  191.129 ms
+seq 1779: tcp response from 106.120.160.134 [open]  174.665 ms
+seq 1778: no response (timeout)
+seq 1783: tcp response from 106.120.160.134 [open]  191.676 ms
+seq 1784: tcp response from 106.120.160.134 [open]  179.111 ms
+seq 1782: no response (timeout)
+seq 1786: tcp response from 106.120.160.134 [open]  178.285 ms
+seq 1787: tcp response from 106.120.160.134 [open]  166.531 ms
+seq 1789: tcp response from 106.120.160.134 [open]  165.202 ms
+seq 1780: tcp response from 106.120.160.134 [open]  179.495 ms
+seq 1781: tcp response from 106.120.160.134 [open]  173.018 ms
+seq 1788: tcp response from 106.120.160.134 [open]  190.496 ms
+seq 1792: tcp response from 106.120.160.134 [open]  165.082 ms
+seq 1785: tcp response from 106.120.160.134 [open]  178.195 ms
+seq 1791: no response (timeout)
+seq 1790: tcp response from 106.120.160.134 [open]  191.002 ms
+seq 1793: tcp response from 106.120.160.134 [open]  188.668 ms
+seq 1797: tcp response from 106.120.160.134 [open]  167.346 ms
+seq 1794: no response (timeout)
+seq 1795: no response (timeout)
+seq 1798: tcp response from 106.120.160.134 [open]  177.627 ms
+seq 1801: tcp response from 106.120.160.134 [open]  166.100 ms
+seq 1802: tcp response from 106.120.160.134 [open]  189.660 ms
+seq 1799: tcp response from 106.120.160.134 [open]  177.964 ms
+seq 1796: tcp response from 106.120.160.134 [open]  166.665 ms
+seq 1803: tcp response from 106.120.160.134 [open]  185.987 ms
+seq 1806: tcp response from 106.120.160.134 [open]  177.399 ms
+seq 1807: tcp response from 106.120.160.134 [open]  167.451 ms
+seq 1804: tcp response from 106.120.160.134 [open]  191.034 ms
+seq 1800: tcp response from 106.120.160.134 [open]  178.018 ms
+seq 1805: tcp response from 106.120.160.134 [open]  187.018 ms
+seq 1811: tcp response from 106.120.160.134 [open]  175.501 ms
+seq 1808: tcp response from 106.120.160.134 [open]  187.802 ms
+seq 1809: tcp response from 106.120.160.134 [open]  191.824 ms
+seq 1810: tcp response from 106.120.160.134 [open]  177.818 ms
+seq 1814: tcp response from 106.120.160.134 [open]  192.038 ms
+seq 1815: tcp response from 106.120.160.134 [open]  178.240 ms
+seq 1813: tcp response from 106.120.160.134 [open]  188.585 ms
+seq 1818: tcp response from 106.120.160.134 [open]  165.055 ms
+seq 1812: tcp response from 106.120.160.134 [open]  172.805 ms
+seq 1820: tcp response from 106.120.160.134 [open]  179.061 ms
+seq 1823: tcp response from 106.120.160.134 [open]  174.872 ms
+seq 1822: tcp response from 106.120.160.134 [open]  188.257 ms
+seq 1819: tcp response from 106.120.160.134 [open]  192.599 ms
+seq 1828: tcp response from 106.120.160.134 [open]  171.097 ms
+seq 1825: no response (timeout)
+seq 1816: tcp response from 106.120.160.134 [open]  189.075 ms
+seq 1817: tcp response from 106.120.160.134 [open]  166.102 ms
+seq 1821: tcp response from 106.120.160.134 [open]  180.714 ms
+seq 1826: tcp response from 106.120.160.134 [open]  183.174 ms
+seq 1829: tcp response from 106.120.160.134 [open]  165.364 ms
+seq 1824: tcp response from 106.120.160.134 [open]  179.457 ms
+seq 1833: tcp response from 106.120.160.134 [open]  176.423 ms
+seq 1827: no response (timeout)
+seq 1831: tcp response from 106.120.160.134 [open]  165.625 ms
+seq 1830: tcp response from 106.120.160.134 [open]  190.078 ms
+seq 1832: tcp response from 106.120.160.134 [open]  171.195 ms
+seq 1837: tcp response from 106.120.160.134 [open]  177.676 ms
+seq 1839: tcp response from 106.120.160.134 [open]  178.127 ms
+seq 1836: tcp response from 106.120.160.134 [open]  192.025 ms
+seq 1838: tcp response from 106.120.160.134 [open]  180.683 ms
+seq 1842: tcp response from 106.120.160.134 [open]  190.864 ms
+seq 1841: no response (timeout)
+seq 1835: tcp response from 106.120.160.134 [open]  172.229 ms
+seq 1840: tcp response from 106.120.160.134 [open]  170.576 ms
+seq 1844: tcp response from 106.120.160.134 [open]  191.161 ms
+seq 1845: tcp response from 106.120.160.134 [open]  166.335 ms
+seq 1834: tcp response from 106.120.160.134 [open]  183.980 ms
+seq 1849: tcp response from 106.120.160.134 [open]  180.337 ms
+seq 1851: tcp response from 106.120.160.134 [open]  193.711 ms
+seq 1847: no response (timeout)
+seq 1850: tcp response from 106.120.160.134 [open]  178.356 ms
+seq 1848: tcp response from 106.120.160.134 [open]  164.435 ms
+seq 1852: tcp response from 106.120.160.134 [open]  183.731 ms
+seq 1846: tcp response from 106.120.160.134 [open]  165.641 ms
+seq 1843: tcp response from 106.120.160.134 [open]  164.410 ms
+seq 1854: tcp response from 106.120.160.134 [open]  170.241 ms
+seq 1853: tcp response from 106.120.160.134 [open]  189.377 ms
+seq 1857: no response (timeout)
+seq 1855: tcp response from 106.120.160.134 [open]  188.334 ms
+seq 1859: tcp response from 106.120.160.134 [open]  177.294 ms
+seq 1860: tcp response from 106.120.160.134 [open]  188.283 ms
+seq 1858: tcp response from 106.120.160.134 [open]  179.982 ms
+seq 1856: tcp response from 106.120.160.134 [open]  185.432 ms
+seq 1861: tcp response from 106.120.160.134 [open]  165.380 ms
+seq 1865: tcp response from 106.120.160.134 [open]  186.866 ms
+seq 1862: no response (timeout)
+seq 1864: no response (timeout)
+seq 1867: tcp response from 106.120.160.134 [open]  191.586 ms
+seq 1868: tcp response from 106.120.160.134 [open]  178.788 ms
+seq 1866: no response (timeout)
+seq 1872: tcp response from 106.120.160.134 [open]  166.643 ms
+seq 1863: tcp response from 106.120.160.134 [open]  177.963 ms
+seq 1870: tcp response from 106.120.160.134 [open]  177.695 ms
+seq 1869: tcp response from 106.120.160.134 [open]  165.183 ms
+seq 1875: tcp response from 106.120.160.134 [open]  190.273 ms
+seq 1871: tcp response from 106.120.160.134 [open]  177.483 ms
+seq 1873: no response (timeout)
+seq 1876: tcp response from 106.120.160.134 [open]  168.346 ms
+seq 1877: tcp response from 106.120.160.134 [open]  188.389 ms
+seq 1878: tcp response from 106.120.160.134 [open]  191.006 ms
+seq 1874: tcp response from 106.120.160.134 [open]  179.422 ms
+seq 1883: tcp response from 106.120.160.134 [open]  165.308 ms
+seq 1884: tcp response from 106.120.160.134 [open]  177.875 ms
+seq 1881: tcp response from 106.120.160.134 [open]  190.521 ms
+seq 1879: tcp response from 106.120.160.134 [open]  173.872 ms
+seq 1888: tcp response from 106.120.160.134 [open]  229.451 ms
+seq 1880: tcp response from 106.120.160.134 [open]  177.994 ms
+seq 1889: tcp response from 106.120.160.134 [open]  176.384 ms
+seq 1885: tcp response from 106.120.160.134 [open]  164.355 ms
+seq 1882: tcp response from 106.120.160.134 [open]  164.921 ms
+seq 1890: no response (timeout)
+seq 1893: no response (timeout)
+seq 1887: tcp response from 106.120.160.134 [open]  185.149 ms
+seq 1892: tcp response from 106.120.160.134 [open]  168.005 ms
+seq 1895: tcp response from 106.120.160.134 [open]  187.942 ms
+seq 1897: tcp response from 106.120.160.134 [open]  181.165 ms
+seq 1891: tcp response from 106.120.160.134 [open]  169.212 ms
+seq 1896: tcp response from 106.120.160.134 [open]  178.425 ms
+seq 1900: tcp response from 106.120.160.134 [open]  165.036 ms
+seq 1894: tcp response from 106.120.160.134 [open]  165.117 ms
+seq 1902: tcp response from 106.120.160.134 [open]  262.650 ms
+seq 1903: tcp response from 106.120.160.134 [open]  254.621 ms
+seq 1901: no response (timeout)
+seq 1886: tcp response from 106.120.160.134 [open]  166.687 ms
+seq 1906: tcp response from 106.120.160.134 [open]  177.459 ms
+seq 1898: tcp response from 106.120.160.134 [open]  164.878 ms
+seq 1907: tcp response from 106.120.160.134 [open]  192.542 ms
+seq 1905: no response (timeout)
+seq 1899: tcp response from 106.120.160.134 [open]  165.033 ms
+seq 1904: tcp response from 106.120.160.134 [open]  164.174 ms
+seq 1908: no response (timeout)
+seq 1909: no response (timeout)
+seq 1913: tcp response from 106.120.160.134 [open]  178.583 ms
+seq 1914: tcp response from 106.120.160.134 [open]  178.667 ms
+seq 1912: no response (timeout)
+seq 1910: tcp response from 106.120.160.134 [open]  164.613 ms
+seq 1916: tcp response from 106.120.160.134 [open]  177.869 ms
+seq 1917: tcp response from 106.120.160.134 [open]  165.237 ms
+seq 1915: no response (timeout)
+seq 1919: tcp response from 106.120.160.134 [open]  179.404 ms
+seq 1911: tcp response from 106.120.160.134 [open]  164.575 ms
+seq 1918: no response (timeout)
+seq 1921: tcp response from 106.120.160.134 [open]  175.795 ms
+seq 1922: tcp response from 106.120.160.134 [open]  167.211 ms
+seq 1924: tcp response from 106.120.160.134 [open]  178.549 ms
+seq 1920: tcp response from 106.120.160.134 [open]  188.887 ms
+seq 1925: tcp response from 106.120.160.134 [open]  181.161 ms
+seq 1927: tcp response from 106.120.160.134 [open]  164.891 ms
+seq 1923: tcp response from 106.120.160.134 [open]  185.450 ms
+seq 1928: tcp response from 106.120.160.134 [open]  177.620 ms
+seq 1931: tcp response from 106.120.160.134 [open]  177.379 ms
+seq 1929: no response (timeout)
+seq 1932: tcp response from 106.120.160.134 [open]  179.471 ms
+seq 1934: tcp response from 106.120.160.134 [open]  185.015 ms
+seq 1926: tcp response from 106.120.160.134 [open]  192.053 ms
+seq 1933: tcp response from 106.120.160.134 [open]  177.985 ms
+seq 1938: tcp response from 106.120.160.134 [open]  177.337 ms
+seq 1939: tcp response from 106.120.160.134 [open]  167.809 ms
+seq 1930: tcp response from 106.120.160.134 [open]  164.795 ms
+seq 1935: tcp response from 106.120.160.134 [open]  166.031 ms
+seq 1941: tcp response from 106.120.160.134 [open]  189.503 ms
+seq 1937: tcp response from 106.120.160.134 [open]  172.197 ms
+seq 1936: tcp response from 106.120.160.134 [open]  190.162 ms
+seq 1944: tcp response from 106.120.160.134 [open]  177.673 ms
+seq 1943: tcp response from 106.120.160.134 [open]  191.183 ms
+seq 1942: no response (timeout)
+seq 1948: tcp response from 106.120.160.134 [open]  165.100 ms
+seq 1946: no response (timeout)
+seq 1950: tcp response from 106.120.160.134 [open]  174.557 ms
+seq 1940: tcp response from 106.120.160.134 [open]  177.496 ms
+seq 1951: tcp response from 106.120.160.134 [open]  183.917 ms
+seq 1947: no response (timeout)
+seq 1945: tcp response from 106.120.160.134 [open]  167.818 ms
+seq 1949: tcp response from 106.120.160.134 [open]  178.312 ms
+seq 1952: tcp response from 106.120.160.134 [open]  177.213 ms
+seq 1953: tcp response from 106.120.160.134 [open]  177.859 ms
+seq 1955: tcp response from 106.120.160.134 [open]  165.410 ms
+seq 1959: tcp response from 106.120.160.134 [open]  180.407 ms
+seq 1960: tcp response from 106.120.160.134 [open]  186.196 ms
+seq 1956: tcp response from 106.120.160.134 [open]  167.024 ms
+seq 1958: no response (timeout)
+seq 1957: tcp response from 106.120.160.134 [open]  189.506 ms
+seq 1954: tcp response from 106.120.160.134 [open]  190.925 ms
+seq 1961: tcp response from 106.120.160.134 [open]  165.228 ms
+seq 1964: no response (timeout)
+seq 1966: tcp response from 106.120.160.134 [open]  195.145 ms
+seq 1967: tcp response from 106.120.160.134 [open]  166.424 ms
+seq 1963: tcp response from 106.120.160.134 [open]  166.972 ms
+seq 1962: tcp response from 106.120.160.134 [open]  174.992 ms
+seq 1972: tcp response from 106.120.160.134 [open]  186.594 ms
+seq 1971: tcp response from 106.120.160.134 [open]  177.002 ms
+seq 1965: tcp response from 106.120.160.134 [open]  178.456 ms
+seq 1974: tcp response from 106.120.160.134 [open]  168.896 ms
+seq 1976: tcp response from 106.120.160.134 [open]  185.895 ms
+seq 1977: tcp response from 106.120.160.134 [open]  164.615 ms
+seq 1973: tcp response from 106.120.160.134 [open]  178.010 ms
+seq 1970: tcp response from 106.120.160.134 [open]  187.464 ms
+seq 1968: tcp response from 106.120.160.134 [open]  189.618 ms
+seq 1979: tcp response from 106.120.160.134 [open]  164.672 ms
+seq 1980: tcp response from 106.120.160.134 [open]  164.656 ms
+seq 1981: tcp response from 106.120.160.134 [open]  177.711 ms
+seq 1978: no response (timeout)
+seq 1975: tcp response from 106.120.160.134 [open]  167.850 ms
+seq 1982: tcp response from 106.120.160.134 [open]  186.450 ms
+seq 1985: tcp response from 106.120.160.134 [open]  178.198 ms
+seq 1969: tcp response from 106.120.160.134 [open]  189.946 ms
+seq 1986: tcp response from 106.120.160.134 [open]  190.398 ms
+seq 1984: tcp response from 106.120.160.134 [open]  270.040 ms
+seq 1991: no response (timeout)
+seq 1989: tcp response from 106.120.160.134 [open]  177.621 ms
+seq 1983: tcp response from 106.120.160.134 [open]  164.462 ms
+seq 1992: no response (timeout)
+seq 1993: tcp response from 106.120.160.134 [open]  172.528 ms
+seq 1987: tcp response from 106.120.160.134 [open]  180.834 ms
+seq 1990: tcp response from 106.120.160.134 [open]  165.878 ms
+seq 1994: no response (timeout)
+seq 1996: tcp response from 106.120.160.134 [open]  165.506 ms
+seq 1988: tcp response from 106.120.160.134 [open]  180.338 ms
+seq 1995: tcp response from 106.120.160.134 [open]  164.529 ms
+seq 2003: tcp response from 106.120.160.134 [open]  165.313 ms
+seq 1997: no response (timeout)
+seq 1998: tcp response from 106.120.160.134 [open]  179.280 ms
+seq 2004: tcp response from 106.120.160.134 [open]  191.376 ms
+seq 2000: tcp response from 106.120.160.134 [open]  175.663 ms
+seq 2007: tcp response from 106.120.160.134 [open]  164.308 ms
+seq 2008: tcp response from 106.120.160.134 [open]  178.297 ms
+seq 2002: tcp response from 106.120.160.134 [open]  191.026 ms
+seq 2001: tcp response from 106.120.160.134 [open]  192.480 ms
+seq 1999: tcp response from 106.120.160.134 [open]  182.289 ms
+seq 2013: tcp response from 106.120.160.134 [open]  188.982 ms
+seq 2010: no response (timeout)
+seq 2006: tcp response from 106.120.160.134 [open]  182.161 ms
+seq 2005: tcp response from 106.120.160.134 [open]  164.795 ms
+seq 2015: tcp response from 106.120.160.134 [open]  191.884 ms
+seq 2012: tcp response from 106.120.160.134 [open]  188.842 ms
+seq 2011: tcp response from 106.120.160.134 [open]  173.139 ms
+seq 2017: tcp response from 106.120.160.134 [open]  174.208 ms
+seq 2009: tcp response from 106.120.160.134 [open]  175.910 ms
+seq 2016: tcp response from 106.120.160.134 [open]  190.695 ms
+seq 2019: tcp response from 106.120.160.134 [open]  187.134 ms
+seq 2014: tcp response from 106.120.160.134 [open]  219.466 ms
+seq 2021: tcp response from 106.120.160.134 [open]  177.436 ms
+seq 2018: tcp response from 106.120.160.134 [open]  180.787 ms
+seq 2023: tcp response from 106.120.160.134 [open]  164.674 ms
+seq 2025: tcp response from 106.120.160.134 [open]  177.887 ms
+seq 2024: no response (timeout)
+seq 2027: tcp response from 106.120.160.134 [open]  164.921 ms
+seq 2026: no response (timeout)
+seq 2028: tcp response from 106.120.160.134 [open]  209.833 ms
+seq 2022: tcp response from 106.120.160.134 [open]  187.100 ms
+seq 2029: no response (timeout)
+seq 2031: tcp response from 106.120.160.134 [open]  164.707 ms
+seq 2020: tcp response from 106.120.160.134 [open]  183.809 ms
+seq 2032: no response (timeout)
+seq 2033: no response (timeout)
+seq 2030: tcp response from 106.120.160.134 [open]  164.554 ms
+seq 2035: tcp response from 106.120.160.134 [open]  163.973 ms
+seq 2039: tcp response from 106.120.160.134 [open]  185.600 ms
+seq 2036: tcp response from 106.120.160.134 [open]  188.759 ms
+seq 2038: no response (timeout)
+seq 2034: tcp response from 106.120.160.134 [open]  263.093 ms
+seq 2041: tcp response from 106.120.160.134 [open]  291.241 ms
+seq 2040: no response (timeout)
+seq 2043: tcp response from 106.120.160.134 [open]  164.606 ms
+seq 2037: tcp response from 106.120.160.134 [open]  187.922 ms
+seq 2046: tcp response from 106.120.160.134 [open]  189.768 ms
+seq 2044: no response (timeout)
+seq 2045: tcp response from 106.120.160.134 [open]  178.237 ms
+seq 2048: no response (timeout)
+seq 2042: tcp response from 106.120.160.134 [open]  165.474 ms
+seq 2049: no response (timeout)
+seq 2053: tcp response from 106.120.160.134 [open]  176.477 ms
+seq 2050: tcp response from 106.120.160.134 [open]  177.119 ms
+seq 2056: tcp response from 106.120.160.134 [open]  178.126 ms
+seq 2052: tcp response from 106.120.160.134 [open]  187.844 ms
+seq 2051: tcp response from 106.120.160.134 [open]  177.474 ms
+seq 2047: tcp response from 106.120.160.134 [open]  164.271 ms
+seq 2054: tcp response from 106.120.160.134 [open]  191.367 ms
+seq 2055: tcp response from 106.120.160.134 [open]  190.999 ms
+seq 2061: tcp response from 106.120.160.134 [open]  164.998 ms
+seq 2058: tcp response from 106.120.160.134 [open]  165.130 ms
+seq 2062: tcp response from 106.120.160.134 [open]  265.738 ms
+seq 2057: tcp response from 106.120.160.134 [open]  177.059 ms
+seq 2063: no response (timeout)
+seq 2059: tcp response from 106.120.160.134 [open]  190.055 ms
+seq 2064: tcp response from 106.120.160.134 [open]  178.377 ms
+seq 2065: tcp response from 106.120.160.134 [open]  190.270 ms
+seq 2060: tcp response from 106.120.160.134 [open]  164.277 ms
+seq 2067: tcp response from 106.120.160.134 [open]  173.631 ms
+seq 2068: tcp response from 106.120.160.134 [open]  177.797 ms
+seq 2069: tcp response from 106.120.160.134 [open]  185.305 ms
+seq 2070: tcp response from 106.120.160.134 [open]  185.920 ms
+seq 2071: tcp response from 106.120.160.134 [open]  165.020 ms
+seq 2066: tcp response from 106.120.160.134 [open]  177.557 ms
+seq 2076: tcp response from 106.120.160.134 [open]  164.902 ms
+seq 2072: tcp response from 106.120.160.134 [open]  164.674 ms
+seq 2074: tcp response from 106.120.160.134 [open]  264.242 ms
+seq 2073: tcp response from 106.120.160.134 [open]  263.833 ms
+seq 2075: tcp response from 106.120.160.134 [open]  262.335 ms
+seq 2077: no response (timeout)
+seq 2078: tcp response from 106.120.160.134 [open]  178.483 ms
+seq 2079: no response (timeout)
+seq 2083: tcp response from 106.120.160.134 [open]  166.018 ms
+seq 2080: tcp response from 106.120.160.134 [open]  167.036 ms
+seq 2081: tcp response from 106.120.160.134 [open]  163.928 ms
+seq 2084: no response (timeout)
+seq 2085: tcp response from 106.120.160.134 [open]  165.501 ms
+seq 2092: tcp response from 106.120.160.134 [open]  164.491 ms
+seq 2090: tcp response from 106.120.160.134 [open]  189.725 ms
+seq 2082: tcp response from 106.120.160.134 [open]  164.568 ms
+seq 2086: tcp response from 106.120.160.134 [open]  176.899 ms
+seq 2093: tcp response from 106.120.160.134 [open]  168.437 ms
+seq 2089: no response (timeout)
+seq 2088: tcp response from 106.120.160.134 [open]  165.503 ms
+seq 2087: tcp response from 106.120.160.134 [open]  191.202 ms
+seq 2091: tcp response from 106.120.160.134 [open]  177.505 ms
+seq 2095: tcp response from 106.120.160.134 [open]  164.910 ms
+seq 2098: tcp response from 106.120.160.134 [open]  190.080 ms
+seq 2094: tcp response from 106.120.160.134 [open]  233.217 ms
+seq 2096: tcp response from 106.120.160.134 [open]  164.178 ms
+seq 2097: no response (timeout)
+seq 2099: tcp response from 106.120.160.134 [open]  167.262 ms
+seq 2103: tcp response from 106.120.160.134 [open]  184.175 ms
+seq 2102: no response (timeout)
+seq 2100: tcp response from 106.120.160.134 [open]  166.661 ms
+seq 2109: tcp response from 106.120.160.134 [open]  164.409 ms
+seq 2104: tcp response from 106.120.160.134 [open]  266.417 ms
+seq 2101: tcp response from 106.120.160.134 [open]  177.989 ms
+seq 2112: tcp response from 106.120.160.134 [open]  165.185 ms
+seq 2110: no response (timeout)
+seq 2107: tcp response from 106.120.160.134 [open]  260.879 ms
+seq 2108: tcp response from 106.120.160.134 [open]  165.402 ms
+seq 2105: tcp response from 106.120.160.134 [open]  178.474 ms
+seq 2111: no response (timeout)
+seq 2115: tcp response from 106.120.160.134 [open]  176.415 ms
+seq 2113: no response (timeout)
+seq 2114: tcp response from 106.120.160.134 [open]  190.541 ms
+seq 2106: tcp response from 106.120.160.134 [open]  164.334 ms
+seq 2120: tcp response from 106.120.160.134 [open]  179.088 ms
+seq 2117: no response (timeout)
+seq 2119: tcp response from 106.120.160.134 [open]  189.217 ms
+seq 2116: tcp response from 106.120.160.134 [open]  164.604 ms
+seq 2118: no response (timeout)
+seq 2122: tcp response from 106.120.160.134 [open]  164.573 ms
+seq 2123: tcp response from 106.120.160.134 [open]  164.649 ms
+seq 2124: tcp response from 106.120.160.134 [open]  191.504 ms
+seq 2128: tcp response from 106.120.160.134 [open]  164.508 ms
+seq 2121: tcp response from 106.120.160.134 [open]  165.437 ms
+seq 2125: tcp response from 106.120.160.134 [open]  182.252 ms
+seq 2130: tcp response from 106.120.160.134 [open]  263.063 ms
+seq 2127: tcp response from 106.120.160.134 [open]  177.116 ms
+seq 2132: tcp response from 106.120.160.134 [open]  164.249 ms
+seq 2134: tcp response from 106.120.160.134 [open]  178.416 ms
+seq 2126: tcp response from 106.120.160.134 [open]  170.203 ms
+seq 2131: tcp response from 106.120.160.134 [open]  264.132 ms
+seq 2129: tcp response from 106.120.160.134 [open]  263.071 ms
+seq 2138: tcp response from 106.120.160.134 [open]  178.432 ms
+seq 2135: tcp response from 106.120.160.134 [open]  171.156 ms
+seq 2133: tcp response from 106.120.160.134 [open]  167.465 ms
+seq 2136: tcp response from 106.120.160.134 [open]  164.377 ms
+seq 2137: tcp response from 106.120.160.134 [open]  191.259 ms
+seq 2142: no response (timeout)
+seq 2141: tcp response from 106.120.160.134 [open]  265.085 ms
+seq 2139: tcp response from 106.120.160.134 [open]  164.598 ms
+seq 2143: no response (timeout)
+seq 2140: tcp response from 106.120.160.134 [open]  164.588 ms
+seq 2146: tcp response from 106.120.160.134 [open]  179.041 ms
+seq 2145: no response (timeout)
+seq 2147: tcp response from 106.120.160.134 [open]  178.408 ms
+seq 2150: tcp response from 106.120.160.134 [open]  173.250 ms
+seq 2148: tcp response from 106.120.160.134 [open]  190.975 ms
+seq 2144: tcp response from 106.120.160.134 [open]  165.486 ms
+seq 2149: tcp response from 106.120.160.134 [open]  191.790 ms
+seq 2151: no response (timeout)
+seq 2153: tcp response from 106.120.160.134 [open]  165.255 ms
+seq 2152: tcp response from 106.120.160.134 [open]  165.609 ms
+seq 2157: tcp response from 106.120.160.134 [open]  165.013 ms
+seq 2158: tcp response from 106.120.160.134 [open]  179.661 ms
+seq 2154: tcp response from 106.120.160.134 [open]  265.012 ms
+seq 2160: tcp response from 106.120.160.134 [open]  165.345 ms
+seq 2155: tcp response from 106.120.160.134 [open]  179.724 ms
+seq 2162: tcp response from 106.120.160.134 [open]  176.984 ms
+seq 2163: tcp response from 106.120.160.134 [open]  167.310 ms
+seq 2164: tcp response from 106.120.160.134 [open]  184.040 ms
+seq 2156: tcp response from 106.120.160.134 [open]  191.347 ms
+seq 2161: tcp response from 106.120.160.134 [open]  171.132 ms
+seq 2165: tcp response from 106.120.160.134 [open]  191.134 ms
+seq 2170: tcp response from 106.120.160.134 [open]  164.691 ms
+seq 2169: tcp response from 106.120.160.134 [open]  187.687 ms
+seq 2167: tcp response from 106.120.160.134 [open]  177.511 ms
+seq 2168: tcp response from 106.120.160.134 [open]  190.826 ms
+seq 2159: tcp response from 106.120.160.134 [open]  257.337 ms
+seq 2172: no response (timeout)
+seq 2166: tcp response from 106.120.160.134 [open]  191.629 ms
+seq 2171: tcp response from 106.120.160.134 [open]  164.510 ms
+seq 2173: no response (timeout)
+seq 2176: tcp response from 106.120.160.134 [open]  178.246 ms
+seq 2174: no response (timeout)
+seq 2177: tcp response from 106.120.160.134 [open]  176.881 ms
+seq 2175: tcp response from 106.120.160.134 [open]  164.615 ms
+seq 2178: tcp response from 106.120.160.134 [open]  178.207 ms
+seq 2179: tcp response from 106.120.160.134 [open]  190.247 ms
+seq 2180: tcp response from 106.120.160.134 [open]  166.861 ms
+seq 2181: tcp response from 106.120.160.134 [open]  254.306 ms
+seq 2182: tcp response from 106.120.160.134 [open]  192.049 ms
+seq 2184: tcp response from 106.120.160.134 [open]  190.297 ms
+seq 2185: tcp response from 106.120.160.134 [open]  178.445 ms
+seq 2183: tcp response from 106.120.160.134 [open]  178.351 ms
+seq 2187: tcp response from 106.120.160.134 [open]  164.867 ms
+seq 2189: tcp response from 106.120.160.134 [open]  263.682 ms
+seq 2190: tcp response from 106.120.160.134 [open]  164.298 ms
+seq 2194: tcp response from 106.120.160.134 [open]  189.271 ms
+seq 2191: no response (timeout)
+seq 2186: tcp response from 106.120.160.134 [open]  164.472 ms
+seq 2188: tcp response from 106.120.160.134 [open]  265.532 ms
+seq 2193: tcp response from 106.120.160.134 [open]  261.649 ms
+seq 2195: tcp response from 106.120.160.134 [open]  178.251 ms
+seq 2196: tcp response from 106.120.160.134 [open]  164.707 ms
+seq 2192: tcp response from 106.120.160.134 [open]  178.360 ms
+seq 2197: no response (timeout)
+seq 2200: no response (timeout)
+seq 2201: tcp response from 106.120.160.134 [open]  278.105 ms
+seq 2198: tcp response from 106.120.160.134 [open]  198.476 ms
+seq 2199: tcp response from 106.120.160.134 [open]  165.092 ms
+seq 2206: tcp response from 106.120.160.134 [open]  264.310 ms
+seq 2208: tcp response from 106.120.160.134 [open]  189.299 ms
+seq 2203: tcp response from 106.120.160.134 [open]  187.504 ms
+seq 2210: tcp response from 106.120.160.134 [open]  264.543 ms
+seq 2204: tcp response from 106.120.160.134 [open]  165.102 ms
+seq 2202: tcp response from 106.120.160.134 [open]  178.429 ms
+seq 2207: tcp response from 106.120.160.134 [open]  178.029 ms
+seq 2209: no response (timeout)
+seq 2211: tcp response from 106.120.160.134 [open]  164.572 ms
+seq 2205: tcp response from 106.120.160.134 [open]  164.615 ms
+seq 2213: no response (timeout)
+seq 2212: tcp response from 106.120.160.134 [open]  266.748 ms
+seq 2219: tcp response from 106.120.160.134 [open]  265.468 ms
+seq 2215: tcp response from 106.120.160.134 [open]  165.336 ms
+seq 2220: tcp response from 106.120.160.134 [open]  165.643 ms
+seq 2217: tcp response from 106.120.160.134 [open]  165.673 ms
+seq 2222: tcp response from 106.120.160.134 [open]  176.578 ms
+seq 2214: tcp response from 106.120.160.134 [open]  187.363 ms
+seq 2216: tcp response from 106.120.160.134 [open]  190.980 ms
+seq 2223: tcp response from 106.120.160.134 [open]  164.330 ms
+seq 2226: tcp response from 106.120.160.134 [open]  166.850 ms
+seq 2227: tcp response from 106.120.160.134 [open]  189.156 ms
+seq 2224: no response (timeout)
+seq 2225: tcp response from 106.120.160.134 [open]  187.236 ms
+seq 2218: tcp response from 106.120.160.134 [open]  165.205 ms
+seq 2230: tcp response from 106.120.160.134 [open]  190.013 ms
+seq 2229: no response (timeout)
+seq 2231: tcp response from 106.120.160.134 [open]  191.891 ms
+seq 2221: tcp response from 106.120.160.134 [open]  265.966 ms
+seq 2233: tcp response from 106.120.160.134 [open]  178.643 ms
+seq 2228: tcp response from 106.120.160.134 [open]  174.376 ms
+seq 2234: tcp response from 106.120.160.134 [open]  165.244 ms
+seq 2236: tcp response from 106.120.160.134 [open]  178.551 ms
+seq 2232: tcp response from 106.120.160.134 [open]  178.413 ms
+seq 2238: tcp response from 106.120.160.134 [open]  165.370 ms
+seq 2239: tcp response from 106.120.160.134 [open]  165.320 ms
+seq 2237: no response (timeout)
+seq 2242: tcp response from 106.120.160.134 [open]  179.005 ms
+seq 2240: no response (timeout)
+seq 2235: tcp response from 106.120.160.134 [open]  165.343 ms
+seq 2241: no response (timeout)
+seq 2244: tcp response from 106.120.160.134 [open]  165.284 ms
+seq 2247: tcp response from 106.120.160.134 [open]  263.802 ms
+seq 2245: tcp response from 106.120.160.134 [open]  164.616 ms
+seq 2246: tcp response from 106.120.160.134 [open]  262.437 ms
+seq 2248: tcp response from 106.120.160.134 [open]  262.014 ms
+seq 2254: tcp response from 106.120.160.134 [open]  189.836 ms
+seq 2255: tcp response from 106.120.160.134 [open]  177.705 ms
+seq 2243: tcp response from 106.120.160.134 [open]  177.911 ms
+seq 2253: tcp response from 106.120.160.134 [open]  193.315 ms
+seq 2250: tcp response from 106.120.160.134 [open]  186.130 ms
+seq 2249: tcp response from 106.120.160.134 [open]  177.055 ms
+seq 2251: tcp response from 106.120.160.134 [open]  165.723 ms
+seq 2252: tcp response from 106.120.160.134 [open]  186.173 ms
+seq 2258: tcp response from 106.120.160.134 [open]  166.415 ms
+seq 2259: tcp response from 106.120.160.134 [open]  266.691 ms
+seq 2257: tcp response from 106.120.160.134 [open]  164.870 ms
+seq 2263: tcp response from 106.120.160.134 [open]  168.282 ms
+seq 2264: tcp response from 106.120.160.134 [open]  190.941 ms
+seq 2256: tcp response from 106.120.160.134 [open]  168.852 ms
+seq 2261: tcp response from 106.120.160.134 [open]  192.222 ms
+seq 2262: tcp response from 106.120.160.134 [open]  165.309 ms
+seq 2265: tcp response from 106.120.160.134 [open]  174.845 ms
+seq 2260: tcp response from 106.120.160.134 [open]  179.626 ms
+seq 2268: tcp response from 106.120.160.134 [open]  164.819 ms
+seq 2267: no response (timeout)
+seq 2266: tcp response from 106.120.160.134 [open]  171.587 ms
+seq 2276: tcp response from 106.120.160.134 [open]  191.702 ms
+seq 2273: tcp response from 106.120.160.134 [open]  191.389 ms
+seq 2269: tcp response from 106.120.160.134 [open]  164.505 ms
+seq 2274: tcp response from 106.120.160.134 [open]  171.628 ms
+seq 2272: tcp response from 106.120.160.134 [open]  178.397 ms
+seq 2275: no response (timeout)
+seq 2271: tcp response from 106.120.160.134 [open]  265.558 ms
+seq 2270: tcp response from 106.120.160.134 [open]  264.295 ms
+seq 2277: tcp response from 106.120.160.134 [open]  177.624 ms
+seq 2283: tcp response from 106.120.160.134 [open]  264.265 ms
+seq 2278: tcp response from 106.120.160.134 [open]  165.089 ms
+seq 2281: no response (timeout)
+seq 2280: tcp response from 106.120.160.134 [open]  164.718 ms
+seq 2285: no response (timeout)
+seq 2279: tcp response from 106.120.160.134 [open]  266.053 ms
+seq 2284: tcp response from 106.120.160.134 [open]  174.982 ms
+seq 2287: tcp response from 106.120.160.134 [open]  166.468 ms
+seq 2290: tcp response from 106.120.160.134 [open]  177.078 ms
+seq 2282: tcp response from 106.120.160.134 [open]  164.998 ms
+seq 2288: tcp response from 106.120.160.134 [open]  192.724 ms
+seq 2286: tcp response from 106.120.160.134 [open]  193.909 ms
+seq 2289: no response (timeout)
+seq 2295: tcp response from 106.120.160.134 [open]  264.640 ms
+seq 2293: tcp response from 106.120.160.134 [open]  164.879 ms
+seq 2294: no response (timeout)
+seq 2298: tcp response from 106.120.160.134 [open]  193.347 ms
+seq 2292: tcp response from 106.120.160.134 [open]  165.427 ms
+seq 2291: tcp response from 106.120.160.134 [open]  178.865 ms
+seq 2297: no response (timeout)
+seq 2300: tcp response from 106.120.160.134 [open]  166.969 ms
+seq 2303: tcp response from 106.120.160.134 [open]  167.104 ms
+seq 2304: tcp response from 106.120.160.134 [open]  168.522 ms
+seq 2299: tcp response from 106.120.160.134 [open]  189.634 ms
+seq 2302: no response (timeout)
+seq 2301: tcp response from 106.120.160.134 [open]  178.466 ms
+seq 2296: tcp response from 106.120.160.134 [open]  264.226 ms
+seq 2308: tcp response from 106.120.160.134 [open]  265.042 ms
+seq 2307: no response (timeout)
+seq 2309: tcp response from 106.120.160.134 [open]  264.389 ms
+seq 2306: tcp response from 106.120.160.134 [open]  164.558 ms
+seq 2314: tcp response from 106.120.160.134 [open]  164.870 ms
+seq 2311: tcp response from 106.120.160.134 [open]  257.925 ms
+seq 2312: tcp response from 106.120.160.134 [open]  177.554 ms
+seq 2317: tcp response from 106.120.160.134 [open]  176.394 ms
+seq 2313: tcp response from 106.120.160.134 [open]  190.822 ms
+seq 2315: tcp response from 106.120.160.134 [open]  164.601 ms
+seq 2305: tcp response from 106.120.160.134 [open]  165.059 ms
+seq 2318: tcp response from 106.120.160.134 [open]  168.214 ms
+seq 2321: tcp response from 106.120.160.134 [open]  185.870 ms
+seq 2310: tcp response from 106.120.160.134 [open]  164.327 ms
+seq 2323: tcp response from 106.120.160.134 [open]  172.208 ms
+seq 2319: tcp response from 106.120.160.134 [open]  166.542 ms
+seq 2320: tcp response from 106.120.160.134 [open]  178.427 ms
+seq 2325: tcp response from 106.120.160.134 [open]  179.781 ms
+seq 2316: tcp response from 106.120.160.134 [open]  189.644 ms
+seq 2328: tcp response from 106.120.160.134 [open]  265.227 ms
+seq 2324: tcp response from 106.120.160.134 [open]  190.371 ms
+seq 2326: no response (timeout)
+seq 2322: tcp response from 106.120.160.134 [open]  187.988 ms
+seq 2329: tcp response from 106.120.160.134 [open]  178.237 ms
+seq 2331: tcp response from 106.120.160.134 [open]  167.091 ms
+seq 2330: no response (timeout)
+seq 2335: tcp response from 106.120.160.134 [open]  260.762 ms
+seq 2333: no response (timeout)
+seq 2327: tcp response from 106.120.160.134 [open]  164.710 ms
+seq 2337: tcp response from 106.120.160.134 [open]  261.066 ms
+seq 2336: no response (timeout)
+seq 2340: tcp response from 106.120.160.134 [open]  179.896 ms
+seq 2338: tcp response from 106.120.160.134 [open]  176.999 ms
+seq 2332: tcp response from 106.120.160.134 [open]  164.786 ms
+seq 2334: tcp response from 106.120.160.134 [open]  164.985 ms
+seq 2339: tcp response from 106.120.160.134 [open]  191.560 ms
+seq 2342: tcp response from 106.120.160.134 [open]  177.843 ms
+seq 2346: tcp response from 106.120.160.134 [open]  189.903 ms
+seq 2341: tcp response from 106.120.160.134 [open]  193.089 ms
+seq 2349: tcp response from 106.120.160.134 [open]  187.002 ms
+seq 2347: no response (timeout)
+seq 2350: tcp response from 106.120.160.134 [open]  167.847 ms
+seq 2343: tcp response from 106.120.160.134 [open]  187.452 ms
+seq 2344: tcp response from 106.120.160.134 [open]  164.925 ms
+seq 2348: tcp response from 106.120.160.134 [open]  177.582 ms
+seq 2352: tcp response from 106.120.160.134 [open]  177.889 ms
+seq 2353: tcp response from 106.120.160.134 [open]  191.991 ms
+seq 2355: tcp response from 106.120.160.134 [open]  166.170 ms
+seq 2351: tcp response from 106.120.160.134 [open]  179.727 ms
+seq 2345: tcp response from 106.120.160.134 [open]  164.663 ms
+seq 2357: tcp response from 106.120.160.134 [open]  266.044 ms
+seq 2360: tcp response from 106.120.160.134 [open]  176.664 ms
+seq 2361: tcp response from 106.120.160.134 [open]  192.032 ms
+seq 2354: tcp response from 106.120.160.134 [open]  165.678 ms
+seq 2363: tcp response from 106.120.160.134 [open]  191.652 ms
+seq 2356: tcp response from 106.120.160.134 [open]  166.093 ms
+seq 2358: tcp response from 106.120.160.134 [open]  266.813 ms
+seq 2365: tcp response from 106.120.160.134 [open]  186.435 ms
+seq 2362: tcp response from 106.120.160.134 [open]  172.107 ms
+seq 2359: tcp response from 106.120.160.134 [open]  265.262 ms
+seq 2364: tcp response from 106.120.160.134 [open]  166.334 ms
+seq 2368: tcp response from 106.120.160.134 [open]  165.508 ms
+seq 2369: tcp response from 106.120.160.134 [open]  171.116 ms
+seq 2367: tcp response from 106.120.160.134 [open]  178.295 ms
+seq 2366: no response (timeout)
+seq 2372: tcp response from 106.120.160.134 [open]  165.361 ms
+seq 2371: no response (timeout)
+seq 2373: tcp response from 106.120.160.134 [open]  165.180 ms
+seq 2370: tcp response from 106.120.160.134 [open]  177.296 ms
+seq 2378: tcp response from 106.120.160.134 [open]  165.244 ms
+seq 2374: tcp response from 106.120.160.134 [open]  190.028 ms
+seq 2379: tcp response from 106.120.160.134 [open]  265.562 ms
+seq 2375: tcp response from 106.120.160.134 [open]  177.631 ms
+seq 2377: tcp response from 106.120.160.134 [open]  178.980 ms
+seq 2376: tcp response from 106.120.160.134 [open]  165.943 ms
+seq 2380: tcp response from 106.120.160.134 [open]  174.423 ms
+seq 2381: tcp response from 106.120.160.134 [open]  215.983 ms
+seq 2383: tcp response from 106.120.160.134 [open]  177.545 ms
+seq 2384: tcp response from 106.120.160.134 [open]  165.660 ms
+seq 2382: tcp response from 106.120.160.134 [open]  183.536 ms
+seq 2389: tcp response from 106.120.160.134 [open]  164.935 ms
+seq 2390: tcp response from 106.120.160.134 [open]  167.977 ms
+seq 2387: tcp response from 106.120.160.134 [open]  178.194 ms
+seq 2392: tcp response from 106.120.160.134 [open]  174.861 ms
+seq 2393: tcp response from 106.120.160.134 [open]  177.042 ms
+seq 2391: no response (timeout)
+seq 2386: tcp response from 106.120.160.134 [open]  265.950 ms
+seq 2388: tcp response from 106.120.160.134 [open]  189.894 ms
+seq 2396: tcp response from 106.120.160.134 [open]  164.161 ms
+seq 2394: no response (timeout)
+seq 2398: tcp response from 106.120.160.134 [open]  197.266 ms
+seq 2385: tcp response from 106.120.160.134 [open]  165.083 ms
+seq 2400: tcp response from 106.120.160.134 [open]  165.799 ms
+seq 2401: tcp response from 106.120.160.134 [open]  263.600 ms
+seq 2402: tcp response from 106.120.160.134 [open]  165.400 ms
+seq 2395: tcp response from 106.120.160.134 [open]  266.052 ms
+seq 2397: tcp response from 106.120.160.134 [open]  167.020 ms
+seq 2399: no response (timeout)
+seq 2403: tcp response from 106.120.160.134 [open]  188.060 ms
+seq 2404: tcp response from 106.120.160.134 [open]  174.040 ms
+seq 2405: tcp response from 106.120.160.134 [open]  177.385 ms
+seq 2408: tcp response from 106.120.160.134 [open]  164.451 ms
+seq 2406: no response (timeout)
+seq 2409: tcp response from 106.120.160.134 [open]  178.285 ms
+seq 2410: tcp response from 106.120.160.134 [open]  166.910 ms
+seq 2411: tcp response from 106.120.160.134 [open]  166.596 ms
+seq 2412: tcp response from 106.120.160.134 [open]  165.215 ms
+seq 2413: tcp response from 106.120.160.134 [open]  285.158 ms
+seq 2407: tcp response from 106.120.160.134 [open]  164.760 ms
+seq 2420: tcp response from 106.120.160.134 [open]  176.626 ms
+seq 2416: tcp response from 106.120.160.134 [open]  171.077 ms
+seq 2417: tcp response from 106.120.160.134 [open]  190.321 ms
+seq 2421: tcp response from 106.120.160.134 [open]  177.789 ms
+seq 2418: tcp response from 106.120.160.134 [open]  170.206 ms
+seq 2419: tcp response from 106.120.160.134 [open]  186.729 ms
+seq 2415: tcp response from 106.120.160.134 [open]  265.669 ms
+seq 2414: tcp response from 106.120.160.134 [open]  261.263 ms
+seq 2422: no response (timeout)
+seq 2424: tcp response from 106.120.160.134 [open]  188.043 ms
+seq 2427: tcp response from 106.120.160.134 [open]  178.441 ms
+seq 2426: no response (timeout)
+seq 2429: tcp response from 106.120.160.134 [open]  166.029 ms
+seq 2423: tcp response from 106.120.160.134 [open]  166.556 ms
+seq 2430: tcp response from 106.120.160.134 [open]  188.747 ms
+seq 2432: tcp response from 106.120.160.134 [open]  178.500 ms
+seq 2434: tcp response from 106.120.160.134 [open]  176.515 ms
+seq 2425: tcp response from 106.120.160.134 [open]  164.895 ms
+seq 2435: tcp response from 106.120.160.134 [open]  185.739 ms
+seq 2428: tcp response from 106.120.160.134 [open]  185.106 ms
+seq 2436: tcp response from 106.120.160.134 [open]  191.199 ms
+seq 2433: tcp response from 106.120.160.134 [open]  187.201 ms
+seq 2438: tcp response from 106.120.160.134 [open]  165.277 ms
+seq 2437: tcp response from 106.120.160.134 [open]  165.277 ms
+seq 2439: tcp response from 106.120.160.134 [open]  167.270 ms
+seq 2444: tcp response from 106.120.160.134 [open]  164.637 ms
+seq 2440: tcp response from 106.120.160.134 [open]  263.900 ms
+seq 2446: tcp response from 106.120.160.134 [open]  265.702 ms
+seq 2431: tcp response from 106.120.160.134 [open]  177.547 ms
+seq 2445: no response (timeout)
+seq 2443: tcp response from 106.120.160.134 [open]  165.199 ms
+seq 2442: tcp response from 106.120.160.134 [open]  257.969 ms
+seq 2441: tcp response from 106.120.160.134 [open]  266.721 ms
+seq 2448: no response (timeout)
+seq 2447: tcp response from 106.120.160.134 [open]  177.367 ms
+seq 2451: tcp response from 106.120.160.134 [open]  192.423 ms
+seq 2452: tcp response from 106.120.160.134 [open]  171.906 ms
+seq 2453: tcp response from 106.120.160.134 [open]  192.371 ms
+seq 2450: tcp response from 106.120.160.134 [open]  174.463 ms
+seq 2454: no response (timeout)
+seq 2457: tcp response from 106.120.160.134 [open]  176.125 ms
+seq 2449: tcp response from 106.120.160.134 [open]  165.565 ms
+seq 2458: tcp response from 106.120.160.134 [open]  165.306 ms
+seq 2455: tcp response from 106.120.160.134 [open]  165.120 ms
+seq 2460: tcp response from 106.120.160.134 [open]  165.918 ms
+seq 2462: tcp response from 106.120.160.134 [open]  165.470 ms
+seq 2456: tcp response from 106.120.160.134 [open]  181.699 ms
+seq 2463: tcp response from 106.120.160.134 [open]  253.463 ms
+seq 2464: tcp response from 106.120.160.134 [open]  266.199 ms
+seq 2459: no response (timeout)
+seq 2461: tcp response from 106.120.160.134 [open]  165.252 ms
+seq 2465: tcp response from 106.120.160.134 [open]  264.997 ms
+seq 2466: tcp response from 106.120.160.134 [open]  164.634 ms
+seq 2467: tcp response from 106.120.160.134 [open]  165.063 ms
+seq 2468: tcp response from 106.120.160.134 [open]  178.505 ms
+seq 2470: tcp response from 106.120.160.134 [open]  191.294 ms
+seq 2469: tcp response from 106.120.160.134 [open]  166.854 ms
+seq 2475: tcp response from 106.120.160.134 [open]  166.727 ms
+seq 2477: tcp response from 106.120.160.134 [open]  179.064 ms
+seq 2473: tcp response from 106.120.160.134 [open]  172.800 ms
+seq 2476: no response (timeout)
+seq 2481: tcp response from 106.120.160.134 [open]  165.372 ms
+seq 2479: no response (timeout)
+seq 2480: tcp response from 106.120.160.134 [open]  182.925 ms
+seq 2474: tcp response from 106.120.160.134 [open]  165.014 ms
+seq 2472: tcp response from 106.120.160.134 [open]  190.538 ms
+seq 2478: tcp response from 106.120.160.134 [open]  172.553 ms
+seq 2483: tcp response from 106.120.160.134 [open]  165.788 ms
+seq 2482: tcp response from 106.120.160.134 [open]  165.024 ms
+seq 2471: tcp response from 106.120.160.134 [open]  190.766 ms
+seq 2484: no response (timeout)
+seq 2487: tcp response from 106.120.160.134 [open]  209.746 ms
+seq 2486: no response (timeout)
+seq 2485: tcp response from 106.120.160.134 [open]  266.967 ms
+seq 2491: tcp response from 106.120.160.134 [open]  190.549 ms
+seq 2492: tcp response from 106.120.160.134 [open]  168.401 ms
+seq 2494: tcp response from 106.120.160.134 [open]  178.298 ms
+seq 2490: no response (timeout)
+seq 2488: tcp response from 106.120.160.134 [open]  164.324 ms
+seq 2497: tcp response from 106.120.160.134 [open]  164.974 ms
+seq 2498: tcp response from 106.120.160.134 [open]  165.038 ms
+seq 2496: tcp response from 106.120.160.134 [open]  171.730 ms
+seq 2493: tcp response from 106.120.160.134 [open]  191.618 ms
+seq 2495: tcp response from 106.120.160.134 [open]  177.567 ms
+seq 2500: tcp response from 106.120.160.134 [open]  257.440 ms
+seq 2499: no response (timeout)
+seq 2501: tcp response from 106.120.160.134 [open]  264.751 ms
+seq 2489: tcp response from 106.120.160.134 [open]  178.951 ms
+seq 2502: no response (timeout)
+seq 2505: tcp response from 106.120.160.134 [open]  164.910 ms
+seq 2507: tcp response from 106.120.160.134 [open]  179.931 ms
+seq 2504: tcp response from 106.120.160.134 [open]  164.586 ms
+seq 2509: tcp response from 106.120.160.134 [open]  173.063 ms
+seq 2503: tcp response from 106.120.160.134 [open]  191.545 ms
+seq 2508: tcp response from 106.120.160.134 [open]  191.466 ms
+seq 2511: no response (timeout)
+seq 2514: tcp response from 106.120.160.134 [open]  188.840 ms
+seq 2515: tcp response from 106.120.160.134 [open]  190.179 ms
+seq 2513: tcp response from 106.120.160.134 [open]  165.937 ms
+seq 2506: tcp response from 106.120.160.134 [open]  164.962 ms
+seq 2510: no response (timeout)
+seq 2517: tcp response from 106.120.160.134 [open]  164.671 ms
+seq 2518: tcp response from 106.120.160.134 [open]  165.301 ms
+seq 2516: tcp response from 106.120.160.134 [open]  177.508 ms
+seq 2512: tcp response from 106.120.160.134 [open]  179.099 ms
+seq 2520: tcp response from 106.120.160.134 [open]  261.887 ms
+seq 2522: tcp response from 106.120.160.134 [open]  164.702 ms
+seq 2519: no response (timeout)
+seq 2523: tcp response from 106.120.160.134 [open]  165.160 ms
+seq 2526: tcp response from 106.120.160.134 [open]  184.268 ms
+seq 2525: tcp response from 106.120.160.134 [open]  165.932 ms
+seq 2521: tcp response from 106.120.160.134 [open]  262.526 ms
+seq 2529: tcp response from 106.120.160.134 [open]  187.872 ms
+seq 2530: tcp response from 106.120.160.134 [open]  165.460 ms
+seq 2528: tcp response from 106.120.160.134 [open]  167.221 ms
+seq 2524: tcp response from 106.120.160.134 [open]  164.560 ms
+seq 2533: no response (timeout)
+seq 2527: tcp response from 106.120.160.134 [open]  171.136 ms
+seq 2536: tcp response from 106.120.160.134 [open]  178.833 ms
+seq 2532: tcp response from 106.120.160.134 [open]  179.312 ms
+seq 2535: tcp response from 106.120.160.134 [open]  192.257 ms
+seq 2539: tcp response from 106.120.160.134 [open]  184.514 ms
+seq 2537: no response (timeout)
+seq 2538: no response (timeout)
+seq 2531: tcp response from 106.120.160.134 [open]  166.413 ms
+seq 2540: tcp response from 106.120.160.134 [open]  164.419 ms
+seq 2534: tcp response from 106.120.160.134 [open]  178.155 ms
+seq 2541: tcp response from 106.120.160.134 [open]  165.843 ms
+seq 2543: tcp response from 106.120.160.134 [open]  264.188 ms
+seq 2544: tcp response from 106.120.160.134 [open]  178.211 ms
+seq 2546: tcp response from 106.120.160.134 [open]  174.369 ms
+seq 2548: tcp response from 106.120.160.134 [open]  189.118 ms
+seq 2551: tcp response from 106.120.160.134 [open]  178.334 ms
+seq 2549: tcp response from 106.120.160.134 [open]  164.821 ms
+seq 2542: tcp response from 106.120.160.134 [open]  263.735 ms
+seq 2554: tcp response from 106.120.160.134 [open]  166.341 ms
+seq 2545: tcp response from 106.120.160.134 [open]  188.269 ms
+seq 2547: tcp response from 106.120.160.134 [open]  177.616 ms
+seq 2552: tcp response from 106.120.160.134 [open]  190.757 ms
+seq 2553: tcp response from 106.120.160.134 [open]  192.546 ms
+seq 2557: tcp response from 106.120.160.134 [open]  177.926 ms
+seq 2550: tcp response from 106.120.160.134 [open]  164.699 ms
+seq 2555: tcp response from 106.120.160.134 [open]  171.148 ms
+seq 2556: tcp response from 106.120.160.134 [open]  164.714 ms
+seq 2558: tcp response from 106.120.160.134 [open]  177.611 ms
+seq 2562: tcp response from 106.120.160.134 [open]  191.051 ms
+seq 2559: no response (timeout)
+seq 2563: tcp response from 106.120.160.134 [open]  174.367 ms
+seq 2560: tcp response from 106.120.160.134 [open]  165.140 ms
+seq 2561: tcp response from 106.120.160.134 [open]  164.983 ms
+seq 2565: no response (timeout)
+seq 2568: tcp response from 106.120.160.134 [open]  181.722 ms
+seq 2569: tcp response from 106.120.160.134 [open]  170.335 ms
+seq 2570: tcp response from 106.120.160.134 [open]  165.843 ms
+seq 2566: tcp response from 106.120.160.134 [open]  165.641 ms
+seq 2567: tcp response from 106.120.160.134 [open]  176.911 ms
+seq 2564: tcp response from 106.120.160.134 [open]  176.627 ms
+seq 2574: tcp response from 106.120.160.134 [open]  265.765 ms
+seq 2575: tcp response from 106.120.160.134 [open]  265.858 ms
+seq 2572: tcp response from 106.120.160.134 [open]  177.180 ms
+seq 2576: tcp response from 106.120.160.134 [open]  165.208 ms
+seq 2571: tcp response from 106.120.160.134 [open]  258.790 ms
+seq 2573: tcp response from 106.120.160.134 [open]  186.440 ms
+seq 2579: tcp response from 106.120.160.134 [open]  164.974 ms
+seq 2578: tcp response from 106.120.160.134 [open]  264.420 ms
+seq 2577: tcp response from 106.120.160.134 [open]  203.735 ms
+seq 2582: tcp response from 106.120.160.134 [open]  170.967 ms
+seq 2581: no response (timeout)
+seq 2580: tcp response from 106.120.160.134 [open]  171.874 ms
+seq 2583: no response (timeout)
+seq 2585: tcp response from 106.120.160.134 [open]  166.561 ms
+seq 2586: tcp response from 106.120.160.134 [open]  177.521 ms
+seq 2584: tcp response from 106.120.160.134 [open]  166.044 ms
+seq 2588: tcp response from 106.120.160.134 [open]  168.809 ms
+seq 2593: tcp response from 106.120.160.134 [open]  180.202 ms
+seq 2595: tcp response from 106.120.160.134 [open]  177.756 ms
+seq 2590: tcp response from 106.120.160.134 [open]  195.288 ms
+seq 2591: tcp response from 106.120.160.134 [open]  179.788 ms
+seq 2594: no response (timeout)
+seq 2592: tcp response from 106.120.160.134 [open]  190.537 ms
+seq 2587: tcp response from 106.120.160.134 [open]  188.865 ms
+seq 2589: tcp response from 106.120.160.134 [open]  164.871 ms
+seq 2600: tcp response from 106.120.160.134 [open]  263.638 ms
+seq 2602: tcp response from 106.120.160.134 [open]  266.238 ms
+seq 2603: tcp response from 106.120.160.134 [open]  164.258 ms
+seq 2598: tcp response from 106.120.160.134 [open]  266.163 ms
+seq 2599: tcp response from 106.120.160.134 [open]  256.086 ms
+seq 2604: tcp response from 106.120.160.134 [open]  178.627 ms
+seq 2605: tcp response from 106.120.160.134 [open]  190.754 ms
+seq 2601: tcp response from 106.120.160.134 [open]  164.198 ms
+seq 2597: tcp response from 106.120.160.134 [open]  164.626 ms
+seq 2607: tcp response from 106.120.160.134 [open]  172.234 ms
+seq 2609: tcp response from 106.120.160.134 [open]  172.598 ms
+seq 2608: tcp response from 106.120.160.134 [open]  191.354 ms
+seq 2606: tcp response from 106.120.160.134 [open]  181.482 ms
+seq 2610: tcp response from 106.120.160.134 [open]  177.205 ms
+seq 2596: tcp response from 106.120.160.134 [open]  165.952 ms
+seq 2611: tcp response from 106.120.160.134 [open]  190.365 ms
+seq 2613: tcp response from 106.120.160.134 [open]  178.362 ms
+seq 2615: tcp response from 106.120.160.134 [open]  165.079 ms
+seq 2616: tcp response from 106.120.160.134 [open]  164.699 ms
+seq 2618: no response (timeout)
+seq 2621: tcp response from 106.120.160.134 [open]  178.142 ms
+seq 2617: tcp response from 106.120.160.134 [open]  165.788 ms
+seq 2612: tcp response from 106.120.160.134 [open]  177.523 ms
+seq 2614: tcp response from 106.120.160.134 [open]  191.457 ms
+seq 2619: tcp response from 106.120.160.134 [open]  176.958 ms
+seq 2624: tcp response from 106.120.160.134 [open]  191.173 ms

@@ -1,0 +1,2495 @@
+seq 0: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.077 ms
+seq 1: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.500 ms
+seq 2: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.090 ms
+seq 3: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.290 ms
+seq 4: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.597 ms
+seq 5: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.722 ms
+seq 6: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.941 ms
+seq 7: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.380 ms
+seq 8: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.676 ms
+seq 10: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.720 ms
+seq 9: no response (timeout)
+seq 12: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.803 ms
+seq 14: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.401 ms
+seq 11: no response (timeout)
+seq 15: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.225 ms
+seq 13: no response (timeout)
+seq 17: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.087 ms
+seq 16: no response (timeout)
+seq 18: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.685 ms
+seq 19: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.853 ms
+seq 22: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.064 ms
+seq 23: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.323 ms
+seq 20: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.175 ms
+seq 24: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.072 ms
+seq 25: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.683 ms
+seq 26: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.491 ms
+seq 27: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.550 ms
+seq 21: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.066 ms
+seq 28: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.291 ms
+seq 29: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.589 ms
+seq 31: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.189 ms
+seq 32: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.014 ms
+seq 30: no response (timeout)
+seq 34: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.634 ms
+seq 36: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.633 ms
+seq 33: no response (timeout)
+seq 35: no response (timeout)
+seq 38: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.317 ms
+seq 37: no response (timeout)
+seq 41: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.691 ms
+seq 39: no response (timeout)
+seq 43: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.645 ms
+seq 42: no response (timeout)
+seq 40: no response (timeout)
+seq 44: no response (timeout)
+seq 46: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.050 ms
+seq 49: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.523 ms
+seq 45: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.164 ms
+seq 52: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.339 ms
+seq 54: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.752 ms
+seq 53: no response (timeout)
+seq 50: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.434 ms
+seq 56: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.593 ms
+seq 47: no response (timeout)
+seq 57: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.075 ms
+seq 48: no response (timeout)
+seq 58: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.856 ms
+seq 60: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.877 ms
+seq 62: no response (timeout)
+seq 63: no response (timeout)
+seq 51: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.924 ms
+seq 64: no response (timeout)
+seq 61: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.127 ms
+seq 59: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.154 ms
+seq 68: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.380 ms
+seq 69: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.088 ms
+seq 67: no response (timeout)
+seq 66: no response (timeout)
+seq 55: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.452 ms
+seq 70: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.454 ms
+seq 65: no response (timeout)
+seq 71: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.677 ms
+seq 72: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.611 ms
+seq 73: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.278 ms
+seq 74: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.853 ms
+seq 75: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.053 ms
+seq 76: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.333 ms
+seq 77: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.194 ms
+seq 78: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.874 ms
+seq 79: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.072 ms
+seq 80: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.362 ms
+seq 81: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.455 ms
+seq 83: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.152 ms
+seq 82: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.509 ms
+seq 85: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.717 ms
+seq 87: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  465.517 ms
+seq 86: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.231 ms
+seq 84: no response (timeout)
+seq 90: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.782 ms
+seq 91: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.825 ms
+seq 88: no response (timeout)
+seq 92: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.290 ms
+seq 95: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.406 ms
+seq 96: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  220.527 ms
+seq 89: no response (timeout)
+seq 97: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.401 ms
+seq 94: no response (timeout)
+seq 98: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.184 ms
+seq 93: no response (timeout)
+seq 101: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.945 ms
+seq 99: no response (timeout)
+seq 100: no response (timeout)
+seq 102: no response (timeout)
+seq 103: no response (timeout)
+seq 104: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.924 ms
+seq 108: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.249 ms
+seq 107: no response (timeout)
+seq 106: no response (timeout)
+seq 105: no response (timeout)
+seq 109: no response (timeout)
+seq 110: no response (timeout)
+seq 111: no response (timeout)
+seq 112: no response (timeout)
+seq 114: no response (timeout)
+seq 115: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.917 ms
+seq 113: no response (timeout)
+seq 116: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.656 ms
+seq 119: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.336 ms
+seq 117: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.241 ms
+seq 121: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.274 ms
+seq 120: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.750 ms
+seq 122: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.824 ms
+seq 118: no response (timeout)
+seq 125: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.679 ms
+seq 123: no response (timeout)
+seq 128: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.403 ms
+seq 126: no response (timeout)
+seq 124: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.057 ms
+seq 129: no response (timeout)
+seq 127: no response (timeout)
+seq 130: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.001 ms
+seq 131: no response (timeout)
+seq 133: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.832 ms
+seq 136: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.740 ms
+seq 134: no response (timeout)
+seq 132: no response (timeout)
+seq 137: no response (timeout)
+seq 138: no response (timeout)
+seq 135: no response (timeout)
+seq 141: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.421 ms
+seq 139: no response (timeout)
+seq 140: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.713 ms
+seq 143: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.451 ms
+seq 142: no response (timeout)
+seq 144: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.940 ms
+seq 146: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.253 ms
+seq 147: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.452 ms
+seq 145: no response (timeout)
+seq 149: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.677 ms
+seq 151: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.576 ms
+seq 152: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.731 ms
+seq 150: no response (timeout)
+seq 148: no response (timeout)
+seq 155: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.397 ms
+seq 153: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.198 ms
+seq 156: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.692 ms
+seq 154: no response (timeout)
+seq 158: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.813 ms
+seq 161: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.624 ms
+seq 159: no response (timeout)
+seq 160: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.717 ms
+seq 163: no response (timeout)
+seq 164: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.279 ms
+seq 157: no response (timeout)
+seq 162: no response (timeout)
+seq 165: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.959 ms
+seq 167: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.093 ms
+seq 168: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.271 ms
+seq 166: no response (timeout)
+seq 170: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.892 ms
+seq 171: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.405 ms
+seq 169: no response (timeout)
+seq 173: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.148 ms
+seq 172: no response (timeout)
+seq 175: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  253.765 ms
+seq 174: no response (timeout)
+seq 176: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.870 ms
+seq 178: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.087 ms
+seq 179: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.321 ms
+seq 180: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.342 ms
+seq 182: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.354 ms
+seq 181: no response (timeout)
+seq 177: no response (timeout)
+seq 184: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.793 ms
+seq 187: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.938 ms
+seq 185: no response (timeout)
+seq 186: no response (timeout)
+seq 188: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.398 ms
+seq 183: no response (timeout)
+seq 190: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.873 ms
+seq 191: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.472 ms
+seq 192: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.889 ms
+seq 193: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.617 ms
+seq 194: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.454 ms
+seq 189: no response (timeout)
+seq 196: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.314 ms
+seq 195: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.831 ms
+seq 197: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.475 ms
+seq 198: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.859 ms
+seq 201: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.027 ms
+seq 200: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.113 ms
+seq 199: no response (timeout)
+seq 202: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.534 ms
+seq 204: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.430 ms
+seq 205: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.963 ms
+seq 207: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.100 ms
+seq 208: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.610 ms
+seq 203: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  448.210 ms
+seq 209: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.319 ms
+seq 210: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.981 ms
+seq 211: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.739 ms
+seq 206: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.623 ms
+seq 212: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.840 ms
+seq 215: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.876 ms
+seq 213: no response (timeout)
+seq 214: no response (timeout)
+seq 217: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.017 ms
+seq 218: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.605 ms
+seq 219: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.423 ms
+seq 220: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.104 ms
+seq 216: no response (timeout)
+seq 221: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.190 ms
+seq 222: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.108 ms
+seq 223: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.449 ms
+seq 224: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.153 ms
+seq 225: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.127 ms
+seq 226: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.141 ms
+seq 227: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.563 ms
+seq 229: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.725 ms
+seq 230: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.670 ms
+seq 228: no response (timeout)
+seq 232: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.187 ms
+seq 233: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.193 ms
+seq 231: no response (timeout)
+seq 235: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.137 ms
+seq 234: no response (timeout)
+seq 238: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.661 ms
+seq 236: no response (timeout)
+seq 237: no response (timeout)
+seq 240: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.917 ms
+seq 241: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.359 ms
+seq 239: no response (timeout)
+seq 242: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.855 ms
+seq 243: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.363 ms
+seq 244: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.815 ms
+seq 246: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.437 ms
+seq 247: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.675 ms
+seq 245: no response (timeout)
+seq 248: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.661 ms
+seq 249: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.878 ms
+seq 251: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.795 ms
+seq 250: no response (timeout)
+seq 252: no response (timeout)
+seq 253: no response (timeout)
+seq 257: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.259 ms
+seq 254: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.187 ms
+seq 255: no response (timeout)
+seq 258: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.950 ms
+seq 256: no response (timeout)
+seq 262: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.698 ms
+seq 259: no response (timeout)
+seq 260: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.139 ms
+seq 261: no response (timeout)
+seq 263: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.265 ms
+seq 265: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.820 ms
+seq 264: no response (timeout)
+seq 267: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.573 ms
+seq 268: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.878 ms
+seq 266: no response (timeout)
+seq 269: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.692 ms
+seq 270: no response (timeout)
+seq 271: no response (timeout)
+seq 272: no response (timeout)
+seq 275: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.836 ms
+seq 274: no response (timeout)
+seq 273: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.875 ms
+seq 277: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.255 ms
+seq 278: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.994 ms
+seq 279: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.450 ms
+seq 280: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.920 ms
+seq 276: no response (timeout)
+seq 281: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.618 ms
+seq 282: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.648 ms
+seq 283: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.991 ms
+seq 284: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.362 ms
+seq 285: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.309 ms
+seq 286: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.136 ms
+seq 287: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.913 ms
+seq 288: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.684 ms
+seq 289: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.363 ms
+seq 290: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.351 ms
+seq 291: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.284 ms
+seq 293: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.769 ms
+seq 295: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.634 ms
+seq 294: no response (timeout)
+seq 296: no response (timeout)
+seq 292: no response (timeout)
+seq 297: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.915 ms
+seq 298: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.362 ms
+seq 299: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.795 ms
+seq 300: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.795 ms
+seq 302: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.838 ms
+seq 301: no response (timeout)
+seq 305: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.923 ms
+seq 303: no response (timeout)
+seq 306: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.495 ms
+seq 304: no response (timeout)
+seq 309: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.940 ms
+seq 307: no response (timeout)
+seq 312: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.890 ms
+seq 308: no response (timeout)
+seq 310: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.591 ms
+seq 311: no response (timeout)
+seq 313: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.245 ms
+seq 315: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.916 ms
+seq 314: no response (timeout)
+seq 317: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.200 ms
+seq 316: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.521 ms
+seq 321: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.645 ms
+seq 320: no response (timeout)
+seq 323: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.585 ms
+seq 318: no response (timeout)
+seq 319: no response (timeout)
+seq 324: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.158 ms
+seq 322: no response (timeout)
+seq 325: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.852 ms
+seq 327: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.284 ms
+seq 326: no response (timeout)
+seq 328: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.206 ms
+seq 329: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.028 ms
+seq 330: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.242 ms
+seq 331: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.810 ms
+seq 332: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.220 ms
+seq 333: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.355 ms
+seq 334: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.211 ms
+seq 336: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.995 ms
+seq 337: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.190 ms
+seq 335: no response (timeout)
+seq 339: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.706 ms
+seq 338: no response (timeout)
+seq 340: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.830 ms
+seq 342: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.549 ms
+seq 343: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.392 ms
+seq 341: no response (timeout)
+seq 346: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.360 ms
+seq 344: no response (timeout)
+seq 345: no response (timeout)
+seq 347: no response (timeout)
+seq 349: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.963 ms
+seq 348: no response (timeout)
+seq 352: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.778 ms
+seq 350: no response (timeout)
+seq 351: no response (timeout)
+seq 353: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.792 ms
+seq 355: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.990 ms
+seq 354: no response (timeout)
+seq 358: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.595 ms
+seq 356: no response (timeout)
+seq 357: no response (timeout)
+seq 361: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.215 ms
+seq 359: no response (timeout)
+seq 360: no response (timeout)
+seq 363: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.786 ms
+seq 362: no response (timeout)
+seq 365: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.576 ms
+seq 364: no response (timeout)
+seq 367: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.676 ms
+seq 368: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.140 ms
+seq 366: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.741 ms
+seq 369: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.746 ms
+seq 370: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.258 ms
+seq 371: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.293 ms
+seq 372: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.177 ms
+seq 373: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.968 ms
+seq 375: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.271 ms
+seq 374: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.466 ms
+seq 377: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.897 ms
+seq 379: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.949 ms
+seq 376: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.907 ms
+seq 380: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.053 ms
+seq 378: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.916 ms
+seq 383: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.891 ms
+seq 381: no response (timeout)
+seq 382: no response (timeout)
+seq 384: no response (timeout)
+seq 386: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.951 ms
+seq 385: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.140 ms
+seq 389: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.385 ms
+seq 390: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.835 ms
+seq 387: no response (timeout)
+seq 388: no response (timeout)
+seq 392: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.951 ms
+seq 391: no response (timeout)
+seq 393: no response (timeout)
+seq 394: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.850 ms
+seq 395: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.056 ms
+seq 396: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.178 ms
+seq 398: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.146 ms
+seq 400: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.250 ms
+seq 399: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.708 ms
+seq 397: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.965 ms
+seq 401: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.066 ms
+seq 402: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.116 ms
+seq 403: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.753 ms
+seq 404: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  257.673 ms
+seq 405: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.257 ms
+seq 406: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.556 ms
+seq 407: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.778 ms
+seq 408: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.113 ms
+seq 410: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.409 ms
+seq 409: no response (timeout)
+seq 413: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.974 ms
+seq 411: no response (timeout)
+seq 412: no response (timeout)
+seq 415: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.470 ms
+seq 417: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.799 ms
+seq 414: no response (timeout)
+seq 416: no response (timeout)
+seq 418: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.777 ms
+seq 420: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.009 ms
+seq 419: no response (timeout)
+seq 422: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.973 ms
+seq 423: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.227 ms
+seq 424: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.610 ms
+seq 425: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.836 ms
+seq 426: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.722 ms
+seq 421: no response (timeout)
+seq 428: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.808 ms
+seq 427: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.972 ms
+seq 430: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.279 ms
+seq 432: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.813 ms
+seq 431: no response (timeout)
+seq 429: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.809 ms
+seq 433: no response (timeout)
+seq 434: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.844 ms
+seq 437: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.369 ms
+seq 435: no response (timeout)
+seq 438: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.941 ms
+seq 440: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.453 ms
+seq 441: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.865 ms
+seq 439: no response (timeout)
+seq 436: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.740 ms
+seq 443: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.635 ms
+seq 444: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.251 ms
+seq 442: no response (timeout)
+seq 446: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.412 ms
+seq 448: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.130 ms
+seq 445: no response (timeout)
+seq 450: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.289 ms
+seq 451: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.673 ms
+seq 452: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.326 ms
+seq 447: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.894 ms
+seq 453: no response (timeout)
+seq 456: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.678 ms
+seq 449: no response (timeout)
+seq 455: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.836 ms
+seq 454: no response (timeout)
+seq 457: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.365 ms
+seq 459: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.875 ms
+seq 458: no response (timeout)
+seq 461: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.838 ms
+seq 460: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.973 ms
+seq 462: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.817 ms
+seq 463: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.876 ms
+seq 464: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.435 ms
+seq 465: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.455 ms
+seq 467: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.237 ms
+seq 468: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.207 ms
+seq 469: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.902 ms
+seq 466: no response (timeout)
+seq 470: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.544 ms
+seq 471: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.927 ms
+seq 472: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  249.579 ms
+seq 473: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.795 ms
+seq 474: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.886 ms
+seq 476: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.154 ms
+seq 477: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.116 ms
+seq 475: no response (timeout)
+seq 480: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.773 ms
+seq 482: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.791 ms
+seq 481: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.135 ms
+seq 479: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.040 ms
+seq 478: no response (timeout)
+seq 484: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.898 ms
+seq 485: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.619 ms
+seq 483: no response (timeout)
+seq 487: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.551 ms
+seq 486: no response (timeout)
+seq 489: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.553 ms
+seq 490: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.243 ms
+seq 491: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.275 ms
+seq 488: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.082 ms
+seq 492: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.997 ms
+seq 493: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.388 ms
+seq 495: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.557 ms
+seq 494: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.383 ms
+seq 497: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.757 ms
+seq 496: no response (timeout)
+seq 499: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.694 ms
+seq 500: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.086 ms
+seq 498: no response (timeout)
+seq 503: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.775 ms
+seq 502: no response (timeout)
+seq 501: no response (timeout)
+seq 505: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.267 ms
+seq 504: no response (timeout)
+seq 507: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.502 ms
+seq 508: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.634 ms
+seq 506: no response (timeout)
+seq 509: no response (timeout)
+seq 512: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.625 ms
+seq 511: no response (timeout)
+seq 510: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.863 ms
+seq 513: no response (timeout)
+seq 514: no response (timeout)
+seq 515: no response (timeout)
+seq 516: no response (timeout)
+seq 517: no response (timeout)
+seq 520: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.125 ms
+seq 519: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.350 ms
+seq 523: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.517 ms
+seq 521: no response (timeout)
+seq 522: no response (timeout)
+seq 524: no response (timeout)
+seq 527: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.134 ms
+seq 518: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.833 ms
+seq 525: no response (timeout)
+seq 526: no response (timeout)
+seq 530: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.978 ms
+seq 532: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.635 ms
+seq 528: no response (timeout)
+seq 531: no response (timeout)
+seq 529: no response (timeout)
+seq 533: no response (timeout)
+seq 535: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.972 ms
+seq 534: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.627 ms
+seq 536: no response (timeout)
+seq 539: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.738 ms
+seq 537: no response (timeout)
+seq 538: no response (timeout)
+seq 543: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.953 ms
+seq 542: no response (timeout)
+seq 541: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.583 ms
+seq 540: no response (timeout)
+seq 544: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.469 ms
+seq 545: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.501 ms
+seq 548: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.650 ms
+seq 546: no response (timeout)
+seq 547: no response (timeout)
+seq 551: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.424 ms
+seq 549: no response (timeout)
+seq 550: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.632 ms
+seq 553: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.196 ms
+seq 552: no response (timeout)
+seq 556: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.402 ms
+seq 554: no response (timeout)
+seq 555: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.080 ms
+seq 558: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.631 ms
+seq 559: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.914 ms
+seq 557: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.062 ms
+seq 560: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.973 ms
+seq 561: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.353 ms
+seq 563: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.942 ms
+seq 562: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.945 ms
+seq 564: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  399.683 ms
+seq 565: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.262 ms
+seq 567: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.035 ms
+seq 568: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.817 ms
+seq 566: no response (timeout)
+seq 570: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  236.610 ms
+seq 571: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.955 ms
+seq 569: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.636 ms
+seq 573: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.009 ms
+seq 572: no response (timeout)
+seq 575: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.355 ms
+seq 576: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.185 ms
+seq 574: no response (timeout)
+seq 577: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.509 ms
+seq 578: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.061 ms
+seq 579: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.950 ms
+seq 580: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.513 ms
+seq 582: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.688 ms
+seq 581: no response (timeout)
+seq 584: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.789 ms
+seq 583: no response (timeout)
+seq 586: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.833 ms
+seq 587: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.970 ms
+seq 585: no response (timeout)
+seq 590: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.183 ms
+seq 588: no response (timeout)
+seq 589: no response (timeout)
+seq 593: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.965 ms
+seq 591: no response (timeout)
+seq 592: no response (timeout)
+seq 594: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.944 ms
+seq 595: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.781 ms
+seq 598: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.854 ms
+seq 599: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.058 ms
+seq 596: no response (timeout)
+seq 597: no response (timeout)
+seq 601: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  217.393 ms
+seq 603: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.822 ms
+seq 600: no response (timeout)
+seq 605: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.916 ms
+seq 602: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.228 ms
+seq 606: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.281 ms
+seq 604: no response (timeout)
+seq 608: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.462 ms
+seq 610: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.454 ms
+seq 611: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.372 ms
+seq 612: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.997 ms
+seq 613: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.102 ms
+seq 609: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.524 ms
+seq 614: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.493 ms
+seq 607: no response (timeout)
+seq 615: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.782 ms
+seq 616: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.470 ms
+seq 617: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.783 ms
+seq 618: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.758 ms
+seq 619: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.089 ms
+seq 620: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.406 ms
+seq 621: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.692 ms
+seq 622: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.321 ms
+seq 624: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.852 ms
+seq 623: no response (timeout)
+seq 627: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.625 ms
+seq 628: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.981 ms
+seq 626: no response (timeout)
+seq 625: no response (timeout)
+seq 629: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.102 ms
+seq 631: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.570 ms
+seq 632: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.088 ms
+seq 630: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.894 ms
+seq 634: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.692 ms
+seq 635: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.790 ms
+seq 633: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.127 ms
+seq 636: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  296.633 ms
+seq 638: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.116 ms
+seq 637: no response (timeout)
+seq 640: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.383 ms
+seq 642: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.338 ms
+seq 639: no response (timeout)
+seq 643: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.408 ms
+seq 641: no response (timeout)
+seq 646: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.412 ms
+seq 644: no response (timeout)
+seq 645: no response (timeout)
+seq 648: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.767 ms
+seq 647: no response (timeout)
+seq 650: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.922 ms
+seq 649: no response (timeout)
+seq 652: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.019 ms
+seq 651: no response (timeout)
+seq 653: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.968 ms
+seq 654: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.604 ms
+seq 656: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.101 ms
+seq 655: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.145 ms
+seq 659: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.918 ms
+seq 657: no response (timeout)
+seq 661: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.222 ms
+seq 658: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.694 ms
+seq 660: no response (timeout)
+seq 663: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.873 ms
+seq 662: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.464 ms
+seq 664: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.839 ms
+seq 665: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.995 ms
+seq 667: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.701 ms
+seq 669: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.729 ms
+seq 666: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.834 ms
+seq 668: no response (timeout)
+seq 672: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.658 ms
+seq 670: no response (timeout)
+seq 671: no response (timeout)
+seq 675: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  250.568 ms
+seq 673: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.798 ms
+seq 674: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.648 ms
+seq 676: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.078 ms
+seq 678: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.841 ms
+seq 677: no response (timeout)
+seq 679: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.411 ms
+seq 680: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.128 ms
+seq 681: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.842 ms
+seq 682: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.663 ms
+seq 683: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.880 ms
+seq 685: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.749 ms
+seq 686: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.647 ms
+seq 684: no response (timeout)
+seq 689: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.159 ms
+seq 690: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.251 ms
+seq 688: no response (timeout)
+seq 687: no response (timeout)
+seq 691: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.852 ms
+seq 693: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.897 ms
+seq 692: no response (timeout)
+seq 695: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.980 ms
+seq 696: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.744 ms
+seq 694: no response (timeout)
+seq 697: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.494 ms
+seq 699: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.576 ms
+seq 698: no response (timeout)
+seq 701: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.397 ms
+seq 700: no response (timeout)
+seq 702: no response (timeout)
+seq 704: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.288 ms
+seq 705: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.632 ms
+seq 709: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.738 ms
+seq 710: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.157 ms
+seq 711: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.829 ms
+seq 706: no response (timeout)
+seq 703: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.994 ms
+seq 708: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.101 ms
+seq 707: no response (timeout)
+seq 714: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.346 ms
+seq 712: no response (timeout)
+seq 713: no response (timeout)
+seq 716: no response (timeout)
+seq 715: no response (timeout)
+seq 717: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.700 ms
+seq 718: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.144 ms
+seq 720: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.071 ms
+seq 721: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.905 ms
+seq 719: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.572 ms
+seq 723: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.160 ms
+seq 722: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.957 ms
+seq 724: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.442 ms
+seq 725: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  222.678 ms
+seq 726: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.983 ms
+seq 727: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.757 ms
+seq 728: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.447 ms
+seq 729: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.308 ms
+seq 730: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.959 ms
+seq 732: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.682 ms
+seq 731: no response (timeout)
+seq 735: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.755 ms
+seq 734: no response (timeout)
+seq 736: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.653 ms
+seq 739: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.990 ms
+seq 740: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.859 ms
+seq 738: no response (timeout)
+seq 733: no response (timeout)
+seq 737: no response (timeout)
+seq 742: no response (timeout)
+seq 744: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.855 ms
+seq 743: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.400 ms
+seq 741: no response (timeout)
+seq 745: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.372 ms
+seq 746: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.084 ms
+seq 747: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.268 ms
+seq 749: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.048 ms
+seq 750: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.954 ms
+seq 748: no response (timeout)
+seq 752: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.073 ms
+seq 751: no response (timeout)
+seq 755: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.485 ms
+seq 753: no response (timeout)
+seq 754: no response (timeout)
+seq 756: no response (timeout)
+seq 758: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.234 ms
+seq 757: no response (timeout)
+seq 759: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.489 ms
+seq 761: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.779 ms
+seq 760: no response (timeout)
+seq 762: no response (timeout)
+seq 765: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.218 ms
+seq 763: no response (timeout)
+seq 766: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.190 ms
+seq 764: no response (timeout)
+seq 768: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.720 ms
+seq 767: no response (timeout)
+seq 770: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.817 ms
+seq 771: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.665 ms
+seq 769: no response (timeout)
+seq 772: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.894 ms
+seq 773: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.801 ms
+seq 775: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.101 ms
+seq 776: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.720 ms
+seq 774: no response (timeout)
+seq 779: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.095 ms
+seq 777: no response (timeout)
+seq 781: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.380 ms
+seq 780: no response (timeout)
+seq 783: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.576 ms
+seq 782: no response (timeout)
+seq 778: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.839 ms
+seq 784: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.833 ms
+seq 786: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.618 ms
+seq 788: no response (timeout)
+seq 787: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.602 ms
+seq 785: no response (timeout)
+seq 790: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.803 ms
+seq 789: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.882 ms
+seq 792: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.264 ms
+seq 793: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.283 ms
+seq 794: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.982 ms
+seq 791: no response (timeout)
+seq 796: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.945 ms
+seq 795: no response (timeout)
+seq 798: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.149 ms
+seq 797: no response (timeout)
+seq 800: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.011 ms
+seq 801: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.598 ms
+seq 799: no response (timeout)
+seq 802: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  237.110 ms
+seq 803: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.274 ms
+seq 804: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  221.315 ms
+seq 805: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.496 ms
+seq 806: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.914 ms
+seq 807: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.412 ms
+seq 808: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.630 ms
+seq 809: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.521 ms
+seq 811: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.216 ms
+seq 810: no response (timeout)
+seq 813: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.617 ms
+seq 814: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.007 ms
+seq 812: no response (timeout)
+seq 815: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.844 ms
+seq 817: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.485 ms
+seq 816: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  460.068 ms
+seq 819: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.844 ms
+seq 818: no response (timeout)
+seq 822: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.294 ms
+seq 823: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.795 ms
+seq 821: no response (timeout)
+seq 820: no response (timeout)
+seq 824: no response (timeout)
+seq 825: no response (timeout)
+seq 827: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.076 ms
+seq 826: no response (timeout)
+seq 829: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.819 ms
+seq 830: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.688 ms
+seq 828: no response (timeout)
+seq 832: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.118 ms
+seq 833: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.832 ms
+seq 831: no response (timeout)
+seq 834: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.231 ms
+seq 835: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  240.925 ms
+seq 838: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.546 ms
+seq 836: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.742 ms
+seq 841: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.812 ms
+seq 837: no response (timeout)
+seq 840: no response (timeout)
+seq 839: no response (timeout)
+seq 842: no response (timeout)
+seq 843: no response (timeout)
+seq 846: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.899 ms
+seq 844: no response (timeout)
+seq 848: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.660 ms
+seq 845: no response (timeout)
+seq 847: no response (timeout)
+seq 851: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  250.742 ms
+seq 849: no response (timeout)
+seq 850: no response (timeout)
+seq 853: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.533 ms
+seq 852: no response (timeout)
+seq 855: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.710 ms
+seq 856: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.233 ms
+seq 854: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.846 ms
+seq 858: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  245.665 ms
+seq 857: no response (timeout)
+seq 860: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.850 ms
+seq 861: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.729 ms
+seq 859: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.667 ms
+seq 862: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.087 ms
+seq 863: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.248 ms
+seq 865: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.448 ms
+seq 866: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.506 ms
+seq 864: no response (timeout)
+seq 868: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.982 ms
+seq 870: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.731 ms
+seq 867: no response (timeout)
+seq 869: no response (timeout)
+seq 872: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.534 ms
+seq 873: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  241.181 ms
+seq 874: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.857 ms
+seq 871: no response (timeout)
+seq 875: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.983 ms
+seq 876: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.041 ms
+seq 877: no response (timeout)
+seq 880: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.341 ms
+seq 878: no response (timeout)
+seq 881: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.250 ms
+seq 883: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.776 ms
+seq 879: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.381 ms
+seq 882: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  445.238 ms
+seq 884: no response (timeout)
+seq 886: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.969 ms
+seq 885: no response (timeout)
+seq 887: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.658 ms
+seq 889: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.570 ms
+seq 888: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.907 ms
+seq 890: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.257 ms
+seq 892: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.121 ms
+seq 891: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.778 ms
+seq 893: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.122 ms
+seq 895: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.527 ms
+seq 894: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.839 ms
+seq 896: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.524 ms
+seq 897: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.343 ms
+seq 898: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.234 ms
+seq 899: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.332 ms
+seq 902: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.736 ms
+seq 900: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.017 ms
+seq 901: no response (timeout)
+seq 904: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.700 ms
+seq 905: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.978 ms
+seq 903: no response (timeout)
+seq 907: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.330 ms
+seq 906: no response (timeout)
+seq 910: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.087 ms
+seq 908: no response (timeout)
+seq 909: no response (timeout)
+seq 911: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.428 ms
+seq 912: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  218.335 ms
+seq 913: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.804 ms
+seq 915: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.978 ms
+seq 916: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.773 ms
+seq 914: no response (timeout)
+seq 918: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.033 ms
+seq 919: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.779 ms
+seq 920: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.290 ms
+seq 917: no response (timeout)
+seq 921: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.846 ms
+seq 923: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.965 ms
+seq 925: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.290 ms
+seq 922: no response (timeout)
+seq 924: no response (timeout)
+seq 926: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.685 ms
+seq 928: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.011 ms
+seq 929: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.702 ms
+seq 927: no response (timeout)
+seq 931: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.680 ms
+seq 932: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.569 ms
+seq 930: no response (timeout)
+seq 934: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.828 ms
+seq 933: no response (timeout)
+seq 937: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.351 ms
+seq 935: no response (timeout)
+seq 936: no response (timeout)
+seq 940: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.264 ms
+seq 938: no response (timeout)
+seq 941: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.870 ms
+seq 942: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.952 ms
+seq 943: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.117 ms
+seq 939: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.066 ms
+seq 944: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.427 ms
+seq 945: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.465 ms
+seq 946: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.518 ms
+seq 948: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.995 ms
+seq 949: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.631 ms
+seq 947: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.810 ms
+seq 951: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.897 ms
+seq 952: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.598 ms
+seq 950: no response (timeout)
+seq 954: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.552 ms
+seq 956: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.644 ms
+seq 958: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.720 ms
+seq 957: no response (timeout)
+seq 955: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.753 ms
+seq 960: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.913 ms
+seq 961: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.406 ms
+seq 964: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.073 ms
+seq 959: no response (timeout)
+seq 953: no response (timeout)
+seq 963: no response (timeout)
+seq 968: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.823 ms
+seq 966: no response (timeout)
+seq 965: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.578 ms
+seq 969: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.977 ms
+seq 971: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.175 ms
+seq 962: no response (timeout)
+seq 967: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.096 ms
+seq 972: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.792 ms
+seq 975: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.228 ms
+seq 970: no response (timeout)
+seq 973: no response (timeout)
+seq 977: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.221 ms
+seq 979: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.601 ms
+seq 974: no response (timeout)
+seq 976: no response (timeout)
+seq 980: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.790 ms
+seq 981: no response (timeout)
+seq 978: no response (timeout)
+seq 982: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.011 ms
+seq 983: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.580 ms
+seq 984: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.387 ms
+seq 985: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.912 ms
+seq 986: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.850 ms
+seq 988: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.720 ms
+seq 989: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.283 ms
+seq 987: no response (timeout)
+seq 991: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.926 ms
+seq 992: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.319 ms
+seq 990: no response (timeout)
+seq 993: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.452 ms
+seq 994: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.384 ms
+seq 995: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.517 ms
+seq 996: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.585 ms
+seq 998: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.677 ms
+seq 997: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.888 ms
+seq 999: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.150 ms
+seq 1000: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.019 ms
+seq 1003: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.479 ms
+seq 1005: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.013 ms
+seq 1001: no response (timeout)
+seq 1004: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.710 ms
+seq 1002: no response (timeout)
+seq 1007: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.516 ms
+seq 1006: no response (timeout)
+seq 1008: no response (timeout)
+seq 1009: no response (timeout)
+seq 1011: no response (timeout)
+seq 1010: no response (timeout)
+seq 1012: no response (timeout)
+seq 1015: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.849 ms
+seq 1017: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.036 ms
+seq 1013: no response (timeout)
+seq 1014: no response (timeout)
+seq 1018: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.308 ms
+seq 1016: no response (timeout)
+seq 1020: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.947 ms
+seq 1019: no response (timeout)
+seq 1023: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.727 ms
+seq 1021: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.530 ms
+seq 1022: no response (timeout)
+seq 1026: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.103 ms
+seq 1024: no response (timeout)
+seq 1025: no response (timeout)
+seq 1027: no response (timeout)
+seq 1029: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.371 ms
+seq 1028: no response (timeout)
+seq 1031: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.625 ms
+seq 1030: no response (timeout)
+seq 1033: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.009 ms
+seq 1032: no response (timeout)
+seq 1034: no response (timeout)
+seq 1035: no response (timeout)
+seq 1037: no response (timeout)
+seq 1036: no response (timeout)
+seq 1038: no response (timeout)
+seq 1041: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.985 ms
+seq 1039: no response (timeout)
+seq 1040: no response (timeout)
+seq 1044: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.595 ms
+seq 1042: no response (timeout)
+seq 1043: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.627 ms
+seq 1047: no response (timeout)
+seq 1048: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.696 ms
+seq 1045: no response (timeout)
+seq 1046: no response (timeout)
+seq 1051: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.771 ms
+seq 1049: no response (timeout)
+seq 1050: no response (timeout)
+seq 1053: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.119 ms
+seq 1054: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.949 ms
+seq 1052: no response (timeout)
+seq 1055: no response (timeout)
+seq 1057: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.766 ms
+seq 1056: no response (timeout)
+seq 1058: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.520 ms
+seq 1062: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.664 ms
+seq 1060: no response (timeout)
+seq 1059: no response (timeout)
+seq 1063: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.335 ms
+seq 1061: no response (timeout)
+seq 1065: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.751 ms
+seq 1064: no response (timeout)
+seq 1068: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.129 ms
+seq 1067: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.479 ms
+seq 1066: no response (timeout)
+seq 1071: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.768 ms
+seq 1072: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.112 ms
+seq 1069: no response (timeout)
+seq 1070: no response (timeout)
+seq 1074: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.783 ms
+seq 1076: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.861 ms
+seq 1073: no response (timeout)
+seq 1075: no response (timeout)
+seq 1078: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.936 ms
+seq 1079: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.204 ms
+seq 1077: no response (timeout)
+seq 1081: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.934 ms
+seq 1083: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.021 ms
+seq 1080: no response (timeout)
+seq 1084: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.674 ms
+seq 1085: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.092 ms
+seq 1086: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.639 ms
+seq 1087: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.805 ms
+seq 1082: no response (timeout)
+seq 1088: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.003 ms
+seq 1090: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.330 ms
+seq 1089: no response (timeout)
+seq 1092: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.595 ms
+seq 1091: no response (timeout)
+seq 1093: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.682 ms
+seq 1094: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.520 ms
+seq 1095: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.585 ms
+seq 1097: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.139 ms
+seq 1098: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.494 ms
+seq 1099: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.209 ms
+seq 1100: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.692 ms
+seq 1101: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.160 ms
+seq 1096: no response (timeout)
+seq 1102: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.282 ms
+seq 1104: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.649 ms
+seq 1103: no response (timeout)
+seq 1106: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.635 ms
+seq 1107: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.898 ms
+seq 1109: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.563 ms
+seq 1105: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.222 ms
+seq 1108: no response (timeout)
+seq 1110: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.911 ms
+seq 1111: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.055 ms
+seq 1113: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.808 ms
+seq 1112: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  242.810 ms
+seq 1114: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.273 ms
+seq 1115: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.399 ms
+seq 1116: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.581 ms
+seq 1117: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.687 ms
+seq 1118: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  241.892 ms
+seq 1119: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.875 ms
+seq 1120: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.772 ms
+seq 1122: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.055 ms
+seq 1123: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.928 ms
+seq 1121: no response (timeout)
+seq 1125: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  226.641 ms
+seq 1126: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.386 ms
+seq 1124: no response (timeout)
+seq 1127: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.405 ms
+seq 1128: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.288 ms
+seq 1132: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.535 ms
+seq 1130: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.812 ms
+seq 1133: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.078 ms
+seq 1129: no response (timeout)
+seq 1131: no response (timeout)
+seq 1135: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.272 ms
+seq 1137: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.085 ms
+seq 1138: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.296 ms
+seq 1141: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.125 ms
+seq 1134: no response (timeout)
+seq 1136: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.625 ms
+seq 1139: no response (timeout)
+seq 1142: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.480 ms
+seq 1140: no response (timeout)
+seq 1144: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.899 ms
+seq 1145: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.785 ms
+seq 1143: no response (timeout)
+seq 1147: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.697 ms
+seq 1149: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.259 ms
+seq 1148: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.327 ms
+seq 1146: no response (timeout)
+seq 1150: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  259.634 ms
+seq 1151: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.534 ms
+seq 1153: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.661 ms
+seq 1152: no response (timeout)
+seq 1155: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.286 ms
+seq 1154: no response (timeout)
+seq 1157: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.214 ms
+seq 1156: no response (timeout)
+seq 1159: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.276 ms
+seq 1158: no response (timeout)
+seq 1161: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.172 ms
+seq 1160: no response (timeout)
+seq 1162: no response (timeout)
+seq 1164: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.612 ms
+seq 1163: no response (timeout)
+seq 1166: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.266 ms
+seq 1165: no response (timeout)
+seq 1168: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.627 ms
+seq 1167: no response (timeout)
+seq 1170: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.252 ms
+seq 1169: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.057 ms
+seq 1172: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.682 ms
+seq 1174: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.910 ms
+seq 1175: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.700 ms
+seq 1173: no response (timeout)
+seq 1176: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.551 ms
+seq 1171: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.151 ms
+seq 1178: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.608 ms
+seq 1179: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.410 ms
+seq 1177: no response (timeout)
+seq 1182: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.162 ms
+seq 1184: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.258 ms
+seq 1181: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.184 ms
+seq 1183: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.749 ms
+seq 1180: no response (timeout)
+seq 1185: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.453 ms
+seq 1186: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.704 ms
+seq 1187: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.890 ms
+seq 1188: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.148 ms
+seq 1189: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.675 ms
+seq 1190: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.736 ms
+seq 1191: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.203 ms
+seq 1194: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.118 ms
+seq 1192: no response (timeout)
+seq 1193: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.909 ms
+seq 1195: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  248.886 ms
+seq 1196: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.830 ms
+seq 1198: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.607 ms
+seq 1197: no response (timeout)
+seq 1200: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.522 ms
+seq 1199: no response (timeout)
+seq 1202: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.376 ms
+seq 1201: no response (timeout)
+seq 1204: no response (timeout)
+seq 1203: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.713 ms
+seq 1206: no response (timeout)
+seq 1207: no response (timeout)
+seq 1205: no response (timeout)
+seq 1209: no response (timeout)
+seq 1210: no response (timeout)
+seq 1212: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.656 ms
+seq 1211: no response (timeout)
+seq 1208: no response (timeout)
+seq 1213: no response (timeout)
+seq 1214: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.403 ms
+seq 1216: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.304 ms
+seq 1215: no response (timeout)
+seq 1217: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  229.452 ms
+seq 1218: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.806 ms
+seq 1219: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.940 ms
+seq 1221: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.243 ms
+seq 1220: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.067 ms
+seq 1222: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.990 ms
+seq 1224: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.338 ms
+seq 1223: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.654 ms
+seq 1227: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.918 ms
+seq 1226: no response (timeout)
+seq 1225: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.412 ms
+seq 1229: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.500 ms
+seq 1228: no response (timeout)
+seq 1231: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.091 ms
+seq 1232: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.174 ms
+seq 1230: no response (timeout)
+seq 1234: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.960 ms
+seq 1233: no response (timeout)
+seq 1237: no response (timeout)
+seq 1235: no response (timeout)
+seq 1238: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.513 ms
+seq 1236: no response (timeout)
+seq 1241: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.343 ms
+seq 1239: no response (timeout)
+seq 1240: no response (timeout)
+seq 1242: no response (timeout)
+seq 1248: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.624 ms
+seq 1249: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.668 ms
+seq 1247: no response (timeout)
+seq 1245: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.336 ms
+seq 1243: no response (timeout)
+seq 1251: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.179 ms
+seq 1250: no response (timeout)
+seq 1252: no response (timeout)
+seq 1254: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.865 ms
+seq 1246: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  221.481 ms
+seq 1253: no response (timeout)
+seq 1257: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.523 ms
+seq 1244: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.482 ms
+seq 1255: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.088 ms
+seq 1258: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.649 ms
+seq 1256: no response (timeout)
+seq 1259: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.609 ms
+seq 1261: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.461 ms
+seq 1260: no response (timeout)
+seq 1262: no response (timeout)
+seq 1263: no response (timeout)
+seq 1266: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.759 ms
+seq 1264: no response (timeout)
+seq 1265: no response (timeout)
+seq 1268: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.787 ms
+seq 1267: no response (timeout)
+seq 1269: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.511 ms
+seq 1271: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.167 ms
+seq 1272: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.387 ms
+seq 1273: no response (timeout)
+seq 1270: no response (timeout)
+seq 1275: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.607 ms
+seq 1274: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.895 ms
+seq 1277: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.235 ms
+seq 1276: no response (timeout)
+seq 1279: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.756 ms
+seq 1280: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  219.593 ms
+seq 1278: no response (timeout)
+seq 1282: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.252 ms
+seq 1281: no response (timeout)
+seq 1285: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.959 ms
+seq 1284: no response (timeout)
+seq 1283: no response (timeout)
+seq 1286: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.862 ms
+seq 1289: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.365 ms
+seq 1287: no response (timeout)
+seq 1291: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.441 ms
+seq 1288: no response (timeout)
+seq 1290: no response (timeout)
+seq 1293: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.678 ms
+seq 1295: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.789 ms
+seq 1292: no response (timeout)
+seq 1294: no response (timeout)
+seq 1297: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.807 ms
+seq 1298: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.750 ms
+seq 1299: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.612 ms
+seq 1296: no response (timeout)
+seq 1301: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.782 ms
+seq 1300: no response (timeout)
+seq 1302: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.092 ms
+seq 1303: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.169 ms
+seq 1304: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.448 ms
+seq 1305: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.606 ms
+seq 1306: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.127 ms
+seq 1307: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.710 ms
+seq 1308: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.180 ms
+seq 1309: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.972 ms
+seq 1310: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.169 ms
+seq 1312: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.359 ms
+seq 1314: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.140 ms
+seq 1311: no response (timeout)
+seq 1313: no response (timeout)
+seq 1315: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.749 ms
+seq 1318: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.672 ms
+seq 1319: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.801 ms
+seq 1317: no response (timeout)
+seq 1316: no response (timeout)
+seq 1320: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.970 ms
+seq 1322: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.825 ms
+seq 1321: no response (timeout)
+seq 1323: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.843 ms
+seq 1324: no response (timeout)
+seq 1327: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.603 ms
+seq 1326: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.983 ms
+seq 1330: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.812 ms
+seq 1325: no response (timeout)
+seq 1331: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.329 ms
+seq 1328: no response (timeout)
+seq 1329: no response (timeout)
+seq 1332: no response (timeout)
+seq 1334: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.370 ms
+seq 1336: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  237.499 ms
+seq 1337: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.588 ms
+seq 1333: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.567 ms
+seq 1335: no response (timeout)
+seq 1338: no response (timeout)
+seq 1339: no response (timeout)
+seq 1340: no response (timeout)
+seq 1341: no response (timeout)
+seq 1342: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.654 ms
+seq 1343: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.352 ms
+seq 1346: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.415 ms
+seq 1344: no response (timeout)
+seq 1345: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.566 ms
+seq 1348: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.138 ms
+seq 1347: no response (timeout)
+seq 1349: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.468 ms
+seq 1352: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.421 ms
+seq 1350: no response (timeout)
+seq 1351: no response (timeout)
+seq 1353: no response (timeout)
+seq 1355: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.835 ms
+seq 1354: no response (timeout)
+seq 1357: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.361 ms
+seq 1358: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.854 ms
+seq 1356: no response (timeout)
+seq 1359: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.104 ms
+seq 1360: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.591 ms
+seq 1361: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.014 ms
+seq 1363: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.233 ms
+seq 1364: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.077 ms
+seq 1362: no response (timeout)
+seq 1366: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.038 ms
+seq 1367: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.788 ms
+seq 1365: no response (timeout)
+seq 1368: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.866 ms
+seq 1370: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.475 ms
+seq 1369: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.738 ms
+seq 1371: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.576 ms
+seq 1372: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.909 ms
+seq 1373: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.654 ms
+seq 1374: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.428 ms
+seq 1376: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.284 ms
+seq 1377: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.586 ms
+seq 1375: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.886 ms
+seq 1378: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.039 ms
+seq 1379: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.168 ms
+seq 1380: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.646 ms
+seq 1381: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.331 ms
+seq 1382: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.862 ms
+seq 1383: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.146 ms
+seq 1384: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.080 ms
+seq 1385: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.968 ms
+seq 1386: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.465 ms
+seq 1387: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.512 ms
+seq 1388: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.306 ms
+seq 1389: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.801 ms
+seq 1390: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.765 ms
+seq 1391: no response (timeout)
+seq 1393: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.843 ms
+seq 1392: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.133 ms
+seq 1394: no response (timeout)
+seq 1395: no response (timeout)
+seq 1396: no response (timeout)
+seq 1400: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.198 ms
+seq 1397: no response (timeout)
+seq 1399: no response (timeout)
+seq 1398: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.733 ms
+seq 1402: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.696 ms
+seq 1404: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.862 ms
+seq 1401: no response (timeout)
+seq 1405: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.227 ms
+seq 1403: no response (timeout)
+seq 1409: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.148 ms
+seq 1406: no response (timeout)
+seq 1407: no response (timeout)
+seq 1408: no response (timeout)
+seq 1410: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.524 ms
+seq 1411: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.099 ms
+seq 1412: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.085 ms
+seq 1413: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.476 ms
+seq 1414: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.853 ms
+seq 1416: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.800 ms
+seq 1417: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.264 ms
+seq 1415: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.248 ms
+seq 1419: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.094 ms
+seq 1421: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.158 ms
+seq 1422: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  227.163 ms
+seq 1423: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.977 ms
+seq 1418: no response (timeout)
+seq 1425: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.769 ms
+seq 1424: no response (timeout)
+seq 1426: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.003 ms
+seq 1428: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.042 ms
+seq 1420: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.570 ms
+seq 1429: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.970 ms
+seq 1430: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.822 ms
+seq 1431: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.427 ms
+seq 1432: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.140 ms
+seq 1433: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.281 ms
+seq 1427: no response (timeout)
+seq 1435: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.350 ms
+seq 1436: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.552 ms
+seq 1434: no response (timeout)
+seq 1438: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.869 ms
+seq 1441: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.204 ms
+seq 1439: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.310 ms
+seq 1437: no response (timeout)
+seq 1442: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.276 ms
+seq 1440: no response (timeout)
+seq 1444: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.173 ms
+seq 1445: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.977 ms
+seq 1446: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.741 ms
+seq 1447: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.708 ms
+seq 1449: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.016 ms
+seq 1443: no response (timeout)
+seq 1448: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.708 ms
+seq 1452: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  219.799 ms
+seq 1450: no response (timeout)
+seq 1454: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.336 ms
+seq 1453: no response (timeout)
+seq 1455: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.077 ms
+seq 1451: no response (timeout)
+seq 1456: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.214 ms
+seq 1458: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.994 ms
+seq 1457: no response (timeout)
+seq 1460: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.692 ms
+seq 1459: no response (timeout)
+seq 1464: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.510 ms
+seq 1461: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.867 ms
+seq 1463: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.177 ms
+seq 1465: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.686 ms
+seq 1462: no response (timeout)
+seq 1466: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.018 ms
+seq 1467: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.361 ms
+seq 1469: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.220 ms
+seq 1470: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.660 ms
+seq 1468: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  239.777 ms
+seq 1471: no response (timeout)
+seq 1472: no response (timeout)
+seq 1473: no response (timeout)
+seq 1474: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.641 ms
+seq 1476: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.231 ms
+seq 1477: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.560 ms
+seq 1475: no response (timeout)
+seq 1479: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.368 ms
+seq 1478: no response (timeout)
+seq 1481: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.146 ms
+seq 1480: no response (timeout)
+seq 1483: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.382 ms
+seq 1484: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.612 ms
+seq 1482: no response (timeout)
+seq 1487: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.157 ms
+seq 1488: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.756 ms
+seq 1485: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.590 ms
+seq 1486: no response (timeout)
+seq 1491: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.287 ms
+seq 1489: no response (timeout)
+seq 1490: no response (timeout)
+seq 1492: no response (timeout)
+seq 1494: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.422 ms
+seq 1493: no response (timeout)
+seq 1496: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.126 ms
+seq 1495: no response (timeout)
+seq 1497: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.097 ms
+seq 1500: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.571 ms
+seq 1499: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.162 ms
+seq 1498: no response (timeout)
+seq 1501: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.567 ms
+seq 1503: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.151 ms
+seq 1504: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.181 ms
+seq 1502: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.608 ms
+seq 1505: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.010 ms
+seq 1506: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.939 ms
+seq 1509: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.141 ms
+seq 1510: no response (timeout)
+seq 1512: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.077 ms
+seq 1513: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.262 ms
+seq 1514: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.738 ms
+seq 1515: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.899 ms
+seq 1516: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.296 ms
+seq 1511: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.617 ms
+seq 1517: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.363 ms
+seq 1518: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.405 ms
+seq 1507: no response (timeout)
+seq 1519: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.001 ms
+seq 1520: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.325 ms
+seq 1508: no response (timeout)
+seq 1521: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.481 ms
+seq 1522: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.243 ms
+seq 1523: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.061 ms
+seq 1525: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.928 ms
+seq 1526: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.139 ms
+seq 1524: no response (timeout)
+seq 1527: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.645 ms
+seq 1529: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.944 ms
+seq 1528: no response (timeout)
+seq 1531: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.442 ms
+seq 1532: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.048 ms
+seq 1530: no response (timeout)
+seq 1534: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  241.967 ms
+seq 1535: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.814 ms
+seq 1533: no response (timeout)
+seq 1536: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.089 ms
+seq 1537: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.996 ms
+seq 1539: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.178 ms
+seq 1538: no response (timeout)
+seq 1544: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.696 ms
+seq 1545: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.819 ms
+seq 1547: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.586 ms
+seq 1541: no response (timeout)
+seq 1542: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.683 ms
+seq 1543: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.012 ms
+seq 1540: no response (timeout)
+seq 1546: no response (timeout)
+seq 1548: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.465 ms
+seq 1549: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.145 ms
+seq 1550: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.177 ms
+seq 1551: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.573 ms
+seq 1552: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.774 ms
+seq 1553: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.929 ms
+seq 1554: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.194 ms
+seq 1555: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.229 ms
+seq 1558: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.783 ms
+seq 1556: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.876 ms
+seq 1557: no response (timeout)
+seq 1559: no response (timeout)
+seq 1561: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.706 ms
+seq 1562: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.551 ms
+seq 1560: no response (timeout)
+seq 1565: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.783 ms
+seq 1564: no response (timeout)
+seq 1566: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.787 ms
+seq 1567: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.992 ms
+seq 1568: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.680 ms
+seq 1563: no response (timeout)
+seq 1571: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.030 ms
+seq 1569: no response (timeout)
+seq 1570: no response (timeout)
+seq 1573: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.554 ms
+seq 1572: no response (timeout)
+seq 1577: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.794 ms
+seq 1574: no response (timeout)
+seq 1575: no response (timeout)
+seq 1576: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  233.465 ms
+seq 1581: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.773 ms
+seq 1578: no response (timeout)
+seq 1579: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.335 ms
+seq 1580: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.677 ms
+seq 1582: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.706 ms
+seq 1583: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.110 ms
+seq 1584: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.386 ms
+seq 1585: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.036 ms
+seq 1586: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.225 ms
+seq 1587: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.941 ms
+seq 1588: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.356 ms
+seq 1590: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.477 ms
+seq 1589: no response (timeout)
+seq 1591: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.568 ms
+seq 1593: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.714 ms
+seq 1595: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.580 ms
+seq 1592: no response (timeout)
+seq 1594: no response (timeout)
+seq 1597: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.701 ms
+seq 1600: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.491 ms
+seq 1599: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.929 ms
+seq 1598: no response (timeout)
+seq 1596: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.514 ms
+seq 1603: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.136 ms
+seq 1601: no response (timeout)
+seq 1602: no response (timeout)
+seq 1604: no response (timeout)
+seq 1606: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.239 ms
+seq 1605: no response (timeout)
+seq 1607: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.081 ms
+seq 1608: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.449 ms
+seq 1609: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.343 ms
+seq 1610: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.763 ms
+seq 1611: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.947 ms
+seq 1612: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.476 ms
+seq 1614: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.163 ms
+seq 1616: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.343 ms
+seq 1613: no response (timeout)
+seq 1615: no response (timeout)
+seq 1618: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.185 ms
+seq 1619: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.578 ms
+seq 1617: no response (timeout)
+seq 1621: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.200 ms
+seq 1620: no response (timeout)
+seq 1623: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.482 ms
+seq 1622: no response (timeout)
+seq 1624: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.918 ms
+seq 1627: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.479 ms
+seq 1626: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.018 ms
+seq 1625: no response (timeout)
+seq 1628: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.553 ms
+seq 1629: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.716 ms
+seq 1630: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.035 ms
+seq 1632: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.388 ms
+seq 1634: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.071 ms
+seq 1631: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.668 ms
+seq 1635: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.325 ms
+seq 1636: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.592 ms
+seq 1637: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.580 ms
+seq 1638: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.928 ms
+seq 1633: no response (timeout)
+seq 1639: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.720 ms
+seq 1640: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.582 ms
+seq 1641: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.697 ms
+seq 1643: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.162 ms
+seq 1644: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.590 ms
+seq 1645: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.849 ms
+seq 1642: no response (timeout)
+seq 1647: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.865 ms
+seq 1646: no response (timeout)
+seq 1649: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.482 ms
+seq 1648: no response (timeout)
+seq 1650: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.666 ms
+seq 1651: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.091 ms
+seq 1654: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.782 ms
+seq 1652: no response (timeout)
+seq 1655: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.288 ms
+seq 1658: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.791 ms
+seq 1656: no response (timeout)
+seq 1657: no response (timeout)
+seq 1653: no response (timeout)
+seq 1662: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.932 ms
+seq 1661: no response (timeout)
+seq 1660: no response (timeout)
+seq 1659: no response (timeout)
+seq 1665: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.625 ms
+seq 1663: no response (timeout)
+seq 1664: no response (timeout)
+seq 1668: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.814 ms
+seq 1669: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.750 ms
+seq 1666: no response (timeout)
+seq 1667: no response (timeout)
+seq 1671: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.413 ms
+seq 1670: no response (timeout)
+seq 1672: no response (timeout)
+seq 1674: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.576 ms
+seq 1675: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.959 ms
+seq 1673: no response (timeout)
+seq 1676: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.457 ms
+seq 1677: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.885 ms
+seq 1678: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.616 ms
+seq 1679: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.125 ms
+seq 1680: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.077 ms
+seq 1681: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.461 ms
+seq 1682: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.727 ms
+seq 1683: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.835 ms
+seq 1684: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.376 ms
+seq 1686: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.067 ms
+seq 1689: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.609 ms
+seq 1685: no response (timeout)
+seq 1687: no response (timeout)
+seq 1688: no response (timeout)
+seq 1691: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.664 ms
+seq 1690: no response (timeout)
+seq 1692: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.916 ms
+seq 1693: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.913 ms
+seq 1694: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.852 ms
+seq 1695: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.698 ms
+seq 1697: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.586 ms
+seq 1698: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.065 ms
+seq 1696: no response (timeout)
+seq 1700: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.400 ms
+seq 1699: no response (timeout)
+seq 1701: no response (timeout)
+seq 1702: no response (timeout)
+seq 1703: no response (timeout)
+seq 1705: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.463 ms
+seq 1704: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.030 ms
+seq 1706: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.500 ms
+seq 1707: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.670 ms
+seq 1709: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  217.837 ms
+seq 1710: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.857 ms
+seq 1708: no response (timeout)
+seq 1713: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.034 ms
+seq 1714: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.026 ms
+seq 1715: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  219.029 ms
+seq 1716: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.753 ms
+seq 1711: no response (timeout)
+seq 1712: no response (timeout)
+seq 1717: no response (timeout)
+seq 1720: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.947 ms
+seq 1721: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.003 ms
+seq 1722: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.460 ms
+seq 1718: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.062 ms
+seq 1719: no response (timeout)
+seq 1723: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.854 ms
+seq 1725: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.471 ms
+seq 1724: no response (timeout)
+seq 1727: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.918 ms
+seq 1728: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.656 ms
+seq 1726: no response (timeout)
+seq 1731: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.830 ms
+seq 1733: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.255 ms
+seq 1732: no response (timeout)
+seq 1729: no response (timeout)
+seq 1730: no response (timeout)
+seq 1734: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.844 ms
+seq 1737: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.206 ms
+seq 1735: no response (timeout)
+seq 1739: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.002 ms
+seq 1740: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.485 ms
+seq 1736: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.958 ms
+seq 1738: no response (timeout)
+seq 1741: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.583 ms
+seq 1742: no response (timeout)
+seq 1745: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.552 ms
+seq 1744: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.836 ms
+seq 1743: no response (timeout)
+seq 1747: no response (timeout)
+seq 1746: no response (timeout)
+seq 1748: no response (timeout)
+seq 1749: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.614 ms
+seq 1752: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.567 ms
+seq 1753: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.802 ms
+seq 1750: no response (timeout)
+seq 1751: no response (timeout)
+seq 1754: no response (timeout)
+seq 1755: no response (timeout)
+seq 1756: no response (timeout)
+seq 1758: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.310 ms
+seq 1757: no response (timeout)
+seq 1759: no response (timeout)
+seq 1763: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.663 ms
+seq 1762: no response (timeout)
+seq 1761: no response (timeout)
+seq 1764: no response (timeout)
+seq 1760: no response (timeout)
+seq 1767: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.778 ms
+seq 1765: no response (timeout)
+seq 1766: no response (timeout)
+seq 1769: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.894 ms
+seq 1772: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.666 ms
+seq 1773: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.021 ms
+seq 1771: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.447 ms
+seq 1768: no response (timeout)
+seq 1770: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.250 ms
+seq 1775: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.000 ms
+seq 1774: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.769 ms
+seq 1776: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.016 ms
+seq 1777: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.567 ms
+seq 1778: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.981 ms
+seq 1779: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.991 ms
+seq 1780: no response (timeout)
+seq 1782: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.788 ms
+seq 1781: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.101 ms
+seq 1783: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.752 ms
+seq 1785: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.539 ms
+seq 1786: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.525 ms
+seq 1784: no response (timeout)
+seq 1787: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.552 ms
+seq 1788: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.612 ms
+seq 1790: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.077 ms
+seq 1789: no response (timeout)
+seq 1791: no response (timeout)
+seq 1794: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.978 ms
+seq 1792: no response (timeout)
+seq 1795: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.627 ms
+seq 1793: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.914 ms
+seq 1796: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.976 ms
+seq 1797: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.586 ms
+seq 1799: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.765 ms
+seq 1800: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.716 ms
+seq 1798: no response (timeout)
+seq 1801: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.132 ms
+seq 1802: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.982 ms
+seq 1805: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.324 ms
+seq 1806: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.529 ms
+seq 1803: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.883 ms
+seq 1807: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.158 ms
+seq 1808: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.668 ms
+seq 1804: no response (timeout)
+seq 1809: no response (timeout)
+seq 1812: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.859 ms
+seq 1813: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.948 ms
+seq 1811: no response (timeout)
+seq 1810: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.325 ms
+seq 1814: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.387 ms
+seq 1815: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.952 ms
+seq 1816: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.915 ms
+seq 1817: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.270 ms
+seq 1818: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.617 ms
+seq 1821: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.822 ms
+seq 1822: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.637 ms
+seq 1820: no response (timeout)
+seq 1823: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.684 ms
+seq 1824: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.778 ms
+seq 1826: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.385 ms
+seq 1827: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  239.549 ms
+seq 1825: no response (timeout)
+seq 1819: no response (timeout)
+seq 1830: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.764 ms
+seq 1828: no response (timeout)
+seq 1829: no response (timeout)
+seq 1832: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.825 ms
+seq 1831: no response (timeout)
+seq 1833: no response (timeout)
+seq 1836: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.750 ms
+seq 1834: no response (timeout)
+seq 1837: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.278 ms
+seq 1835: no response (timeout)
+seq 1840: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  233.648 ms
+seq 1839: no response (timeout)
+seq 1838: no response (timeout)
+seq 1845: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.422 ms
+seq 1843: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.033 ms
+seq 1841: no response (timeout)
+seq 1844: no response (timeout)
+seq 1842: no response (timeout)
+seq 1846: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.882 ms
+seq 1847: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.672 ms
+seq 1849: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.855 ms
+seq 1848: no response (timeout)
+seq 1852: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.385 ms
+seq 1850: no response (timeout)
+seq 1853: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.671 ms
+seq 1854: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.830 ms
+seq 1855: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.980 ms
+seq 1851: no response (timeout)
+seq 1858: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.943 ms
+seq 1856: no response (timeout)
+seq 1857: no response (timeout)
+seq 1859: no response (timeout)
+seq 1861: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.447 ms
+seq 1860: no response (timeout)
+seq 1863: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.920 ms
+seq 1862: no response (timeout)
+seq 1864: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.473 ms
+seq 1866: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.573 ms
+seq 1865: no response (timeout)
+seq 1869: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.339 ms
+seq 1868: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.881 ms
+seq 1867: no response (timeout)
+seq 1870: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.658 ms
+seq 1871: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.977 ms
+seq 1873: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.389 ms
+seq 1874: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.318 ms
+seq 1872: no response (timeout)
+seq 1876: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.892 ms
+seq 1878: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.459 ms
+seq 1879: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  222.249 ms
+seq 1875: no response (timeout)
+seq 1881: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.144 ms
+seq 1882: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.907 ms
+seq 1877: no response (timeout)
+seq 1880: no response (timeout)
+seq 1883: no response (timeout)
+seq 1885: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.335 ms
+seq 1887: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.107 ms
+seq 1884: no response (timeout)
+seq 1886: no response (timeout)
+seq 1888: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.884 ms
+seq 1889: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.616 ms
+seq 1890: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.079 ms
+seq 1893: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.753 ms
+seq 1891: no response (timeout)
+seq 1892: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  237.131 ms
+seq 1896: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.455 ms
+seq 1894: no response (timeout)
+seq 1895: no response (timeout)
+seq 1897: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.193 ms
+seq 1899: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.016 ms
+seq 1900: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.497 ms
+seq 1902: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.648 ms
+seq 1898: no response (timeout)
+seq 1903: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.729 ms
+seq 1901: no response (timeout)
+seq 1904: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.694 ms
+seq 1906: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.605 ms
+seq 1905: no response (timeout)
+seq 1908: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.832 ms
+seq 1907: no response (timeout)
+seq 1911: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.342 ms
+seq 1909: no response (timeout)
+seq 1910: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.478 ms
+seq 1915: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.992 ms
+seq 1913: no response (timeout)
+seq 1917: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.559 ms
+seq 1912: no response (timeout)
+seq 1919: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.218 ms
+seq 1916: no response (timeout)
+seq 1914: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.185 ms
+seq 1922: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.960 ms
+seq 1918: no response (timeout)
+seq 1920: no response (timeout)
+seq 1924: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.445 ms
+seq 1925: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.561 ms
+seq 1923: no response (timeout)
+seq 1921: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.171 ms
+seq 1926: no response (timeout)
+seq 1927: no response (timeout)
+seq 1928: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.081 ms
+seq 1929: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.280 ms
+seq 1930: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.370 ms
+seq 1931: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.070 ms
+seq 1932: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.202 ms
+seq 1935: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.960 ms
+seq 1933: no response (timeout)
+seq 1937: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.523 ms
+seq 1934: no response (timeout)
+seq 1938: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.538 ms
+seq 1936: no response (timeout)
+seq 1939: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.128 ms
+seq 1941: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.961 ms
+seq 1940: no response (timeout)
+seq 1943: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.231 ms
+seq 1942: no response (timeout)
+seq 1945: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.483 ms
+seq 1944: no response (timeout)
+seq 1946: no response (timeout)
+seq 1947: no response (timeout)
+seq 1948: no response (timeout)
+seq 1950: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.121 ms
+seq 1949: no response (timeout)
+seq 1953: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.975 ms
+seq 1951: no response (timeout)
+seq 1952: no response (timeout)
+seq 1955: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.531 ms
+seq 1956: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.941 ms
+seq 1957: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.447 ms
+seq 1958: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.927 ms
+seq 1954: no response (timeout)
+seq 1959: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.881 ms
+seq 1961: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.404 ms
+seq 1962: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.914 ms
+seq 1960: no response (timeout)
+seq 1963: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.722 ms
+seq 1964: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.737 ms
+seq 1967: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.728 ms
+seq 1965: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.249 ms
+seq 1968: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.702 ms
+seq 1966: no response (timeout)
+seq 1969: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.598 ms
+seq 1970: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.037 ms
+seq 1971: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.958 ms
+seq 1975: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.674 ms
+seq 1972: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.956 ms
+seq 1973: no response (timeout)
+seq 1974: no response (timeout)
+seq 1976: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  674.614 ms
+seq 1978: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.924 ms
+seq 1979: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.175 ms
+seq 1977: no response (timeout)
+seq 1980: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.633 ms
+seq 1983: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.272 ms
+seq 1981: no response (timeout)
+seq 1984: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.712 ms
+seq 1982: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.984 ms
+seq 1985: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.515 ms
+seq 1986: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.117 ms
+seq 1987: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.849 ms
+seq 1988: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.927 ms
+seq 1989: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  240.547 ms
+seq 1990: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.144 ms
+seq 1992: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.428 ms
+seq 1991: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  217.693 ms
+seq 1993: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.290 ms
+seq 1994: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  228.448 ms
+seq 1995: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.098 ms
+seq 1996: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.700 ms
+seq 1997: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.700 ms
+seq 1999: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.688 ms
+seq 1998: no response (timeout)
+seq 2000: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.816 ms
+seq 2003: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.825 ms
+seq 2002: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.889 ms
+seq 2001: no response (timeout)
+seq 2005: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  239.769 ms
+seq 2004: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  240.930 ms
+seq 2007: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.707 ms
+seq 2006: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.425 ms
+seq 2010: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.993 ms
+seq 2009: no response (timeout)
+seq 2011: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.707 ms
+seq 2008: no response (timeout)
+seq 2014: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.282 ms
+seq 2015: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.537 ms
+seq 2012: no response (timeout)
+seq 2016: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.870 ms
+seq 2018: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.977 ms
+seq 2013: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.822 ms
+seq 2017: no response (timeout)
+seq 2021: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.392 ms
+seq 2019: no response (timeout)
+seq 2022: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.402 ms
+seq 2023: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.455 ms
+seq 2020: no response (timeout)
+seq 2025: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.140 ms
+seq 2024: no response (timeout)
+seq 2027: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.501 ms
+seq 2028: no response (timeout)
+seq 2030: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.706 ms
+seq 2026: no response (timeout)
+seq 2033: no response (timeout)
+seq 2034: no response (timeout)
+seq 2029: no response (timeout)
+seq 2035: no response (timeout)
+seq 2031: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.380 ms
+seq 2032: no response (timeout)
+seq 2040: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.959 ms
+seq 2036: no response (timeout)
+seq 2037: no response (timeout)
+seq 2038: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.597 ms
+seq 2039: no response (timeout)
+seq 2041: no response (timeout)
+seq 2043: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.921 ms
+seq 2046: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.702 ms
+seq 2045: no response (timeout)
+seq 2044: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.153 ms
+seq 2042: no response (timeout)
+seq 2047: no response (timeout)
+seq 2048: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.200 ms
+seq 2050: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.481 ms
+seq 2049: no response (timeout)
+seq 2052: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.210 ms
+seq 2051: no response (timeout)
+seq 2054: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.087 ms
+seq 2056: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.720 ms
+seq 2053: no response (timeout)
+seq 2057: no response (timeout)
+seq 2058: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.464 ms
+seq 2059: no response (timeout)
+seq 2060: no response (timeout)
+seq 2061: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  653.138 ms
+seq 2055: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.586 ms
+seq 2064: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.537 ms
+seq 2062: no response (timeout)
+seq 2063: no response (timeout)
+seq 2065: no response (timeout)
+seq 2067: no response (timeout)
+seq 2068: no response (timeout)
+seq 2069: no response (timeout)
+seq 2070: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.006 ms
+seq 2066: no response (timeout)
+seq 2074: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.521 ms
+seq 2072: no response (timeout)
+seq 2071: no response (timeout)
+seq 2073: no response (timeout)
+seq 2075: no response (timeout)
+seq 2078: no response (timeout)
+seq 2080: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.724 ms
+seq 2079: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  232.373 ms
+seq 2076: no response (timeout)
+seq 2077: no response (timeout)
+seq 2081: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.583 ms
+seq 2082: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.691 ms
+seq 2083: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.641 ms
+seq 2084: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.390 ms
+seq 2085: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.956 ms
+seq 2086: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.603 ms
+seq 2087: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.562 ms
+seq 2088: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.762 ms
+seq 2089: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.187 ms
+seq 2090: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  224.979 ms
+seq 2093: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.670 ms
+seq 2091: no response (timeout)
+seq 2095: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.158 ms
+seq 2096: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.212 ms
+seq 2094: no response (timeout)
+seq 2092: no response (timeout)
+seq 2097: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.172 ms
+seq 2099: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.184 ms
+seq 2100: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.544 ms
+seq 2098: no response (timeout)
+seq 2101: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.230 ms
+seq 2102: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.877 ms
+seq 2103: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.607 ms
+seq 2104: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.631 ms
+seq 2106: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.484 ms
+seq 2107: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.221 ms
+seq 2105: no response (timeout)
+seq 2109: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.085 ms
+seq 2110: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.614 ms
+seq 2108: no response (timeout)
+seq 2112: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.070 ms
+seq 2115: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.758 ms
+seq 2113: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.624 ms
+seq 2117: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.500 ms
+seq 2119: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.135 ms
+seq 2114: no response (timeout)
+seq 2111: no response (timeout)
+seq 2120: no response (timeout)
+seq 2121: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.783 ms
+seq 2122: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.669 ms
+seq 2125: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.967 ms
+seq 2123: no response (timeout)
+seq 2124: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.670 ms
+seq 2116: no response (timeout)
+seq 2118: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.351 ms
+seq 2128: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.147 ms
+seq 2126: no response (timeout)
+seq 2130: no response (timeout)
+seq 2132: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.492 ms
+seq 2131: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.701 ms
+seq 2127: no response (timeout)
+seq 2129: no response (timeout)
+seq 2133: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.629 ms
+seq 2134: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.861 ms
+seq 2135: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.707 ms
+seq 2137: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.180 ms
+seq 2139: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.801 ms
+seq 2138: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.884 ms
+seq 2136: no response (timeout)
+seq 2140: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.516 ms
+seq 2141: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.702 ms
+seq 2142: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.777 ms
+seq 2144: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.163 ms
+seq 2145: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.548 ms
+seq 2147: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.544 ms
+seq 2143: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.284 ms
+seq 2146: no response (timeout)
+seq 2149: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.791 ms
+seq 2148: no response (timeout)
+seq 2150: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.066 ms
+seq 2153: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.750 ms
+seq 2151: no response (timeout)
+seq 2152: no response (timeout)
+seq 2155: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.485 ms
+seq 2154: no response (timeout)
+seq 2156: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.668 ms
+seq 2157: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.903 ms
+seq 2159: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.019 ms
+seq 2158: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.850 ms
+seq 2160: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.573 ms
+seq 2161: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  244.373 ms
+seq 2163: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.152 ms
+seq 2162: no response (timeout)
+seq 2166: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.069 ms
+seq 2164: no response (timeout)
+seq 2168: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.664 ms
+seq 2169: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.786 ms
+seq 2165: no response (timeout)
+seq 2167: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.463 ms
+seq 2172: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.770 ms
+seq 2173: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.567 ms
+seq 2171: no response (timeout)
+seq 2170: no response (timeout)
+seq 2174: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.746 ms
+seq 2175: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.889 ms
+seq 2176: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.644 ms
+seq 2177: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.800 ms
+seq 2178: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.297 ms
+seq 2180: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.268 ms
+seq 2179: no response (timeout)
+seq 2181: no response (timeout)
+seq 2182: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.838 ms
+seq 2183: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.238 ms
+seq 2185: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  252.615 ms
+seq 2184: no response (timeout)
+seq 2187: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.821 ms
+seq 2186: no response (timeout)
+seq 2188: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.005 ms
+seq 2191: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.923 ms
+seq 2190: no response (timeout)
+seq 2189: no response (timeout)
+seq 2193: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.080 ms
+seq 2194: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.980 ms
+seq 2192: no response (timeout)
+seq 2195: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  228.184 ms
+seq 2196: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.794 ms
+seq 2197: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.057 ms
+seq 2201: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.648 ms
+seq 2200: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.172 ms
+seq 2198: no response (timeout)
+seq 2199: no response (timeout)
+seq 2202: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.147 ms
+seq 2203: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.708 ms
+seq 2205: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.577 ms
+seq 2206: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.627 ms
+seq 2204: no response (timeout)
+seq 2207: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.687 ms
+seq 2208: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.923 ms
+seq 2209: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.988 ms
+seq 2211: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.844 ms
+seq 2210: no response (timeout)
+seq 2212: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.529 ms
+seq 2213: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.857 ms
+seq 2214: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.623 ms
+seq 2216: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.742 ms
+seq 2215: no response (timeout)
+seq 2218: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.397 ms
+seq 2217: no response (timeout)
+seq 2219: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.012 ms
+seq 2220: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.817 ms
+seq 2221: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.848 ms
+seq 2222: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.402 ms
+seq 2225: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.074 ms
+seq 2224: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.777 ms
+seq 2223: no response (timeout)
+seq 2226: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.795 ms
+seq 2228: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.108 ms
+seq 2229: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.499 ms
+seq 2227: no response (timeout)
+seq 2230: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.917 ms
+seq 2231: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  230.198 ms
+seq 2232: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.492 ms
+seq 2233: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.659 ms
+seq 2234: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.589 ms
+seq 2236: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.559 ms
+seq 2235: no response (timeout)
+seq 2239: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.709 ms
+seq 2237: no response (timeout)
+seq 2238: no response (timeout)
+seq 2242: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.063 ms
+seq 2240: no response (timeout)
+seq 2241: no response (timeout)
+seq 2245: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.640 ms
+seq 2243: no response (timeout)
+seq 2244: no response (timeout)
+seq 2247: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.070 ms
+seq 2246: no response (timeout)
+seq 2248: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.714 ms
+seq 2250: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.868 ms
+seq 2249: no response (timeout)
+seq 2252: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.508 ms
+seq 2251: no response (timeout)
+seq 2253: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.246 ms
+seq 2255: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.382 ms
+seq 2256: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.792 ms
+seq 2254: no response (timeout)
+seq 2259: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.884 ms
+seq 2257: no response (timeout)
+seq 2258: no response (timeout)
+seq 2263: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.759 ms
+seq 2261: no response (timeout)
+seq 2267: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.601 ms
+seq 2265: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.181 ms
+seq 2260: no response (timeout)
+seq 2262: no response (timeout)
+seq 2264: no response (timeout)
+seq 2266: no response (timeout)
+seq 2268: no response (timeout)
+seq 2269: no response (timeout)
+seq 2270: no response (timeout)
+seq 2272: no response (timeout)
+seq 2271: no response (timeout)
+seq 2274: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.154 ms
+seq 2273: no response (timeout)
+seq 2276: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.222 ms
+seq 2275: no response (timeout)
+seq 2278: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.794 ms
+seq 2279: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.648 ms
+seq 2277: no response (timeout)
+seq 2282: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.293 ms
+seq 2280: no response (timeout)
+seq 2281: no response (timeout)
+seq 2285: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.523 ms
+seq 2287: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.064 ms
+seq 2283: no response (timeout)
+seq 2286: no response (timeout)
+seq 2284: no response (timeout)
+seq 2289: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  217.192 ms
+seq 2288: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.775 ms
+seq 2290: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.216 ms
+seq 2291: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.629 ms
+seq 2293: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.266 ms
+seq 2294: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.201 ms
+seq 2296: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.483 ms
+seq 2297: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.022 ms
+seq 2292: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.666 ms
+seq 2298: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.308 ms
+seq 2301: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.370 ms
+seq 2295: no response (timeout)
+seq 2300: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.787 ms
+seq 2299: no response (timeout)
+seq 2304: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.992 ms
+seq 2305: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.249 ms
+seq 2303: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.707 ms
+seq 2307: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.372 ms
+seq 2306: no response (timeout)
+seq 2308: no response (timeout)
+seq 2309: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.826 ms
+seq 2302: no response (timeout)
+seq 2311: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.887 ms
+seq 2310: no response (timeout)
+seq 2312: no response (timeout)
+seq 2313: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.695 ms
+seq 2314: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.650 ms
+seq 2315: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.404 ms
+seq 2316: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.020 ms
+seq 2318: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.566 ms
+seq 2317: no response (timeout)
+seq 2319: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.932 ms
+seq 2321: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.380 ms
+seq 2320: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  216.236 ms
+seq 2322: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.120 ms
+seq 2323: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.676 ms
+seq 2324: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.425 ms
+seq 2326: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.145 ms
+seq 2325: no response (timeout)
+seq 2327: no response (timeout)
+seq 2329: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.907 ms
+seq 2330: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.664 ms
+seq 2328: no response (timeout)
+seq 2332: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.671 ms
+seq 2334: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.141 ms
+seq 2331: no response (timeout)
+seq 2333: no response (timeout)
+seq 2336: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.009 ms
+seq 2337: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.737 ms
+seq 2335: no response (timeout)
+seq 2338: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.897 ms
+seq 2339: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.521 ms
+seq 2340: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.083 ms
+seq 2341: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.031 ms
+seq 2342: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.953 ms
+seq 2343: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.235 ms
+seq 2344: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.946 ms
+seq 2347: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.942 ms
+seq 2348: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.775 ms
+seq 2349: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.863 ms
+seq 2346: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.821 ms
+seq 2345: no response (timeout)
+seq 2350: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.853 ms
+seq 2351: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.009 ms
+seq 2354: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.048 ms
+seq 2353: no response (timeout)
+seq 2352: no response (timeout)
+seq 2356: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.626 ms
+seq 2355: no response (timeout)
+seq 2357: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.686 ms
+seq 2358: no response (timeout)
+seq 2361: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.525 ms
+seq 2363: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.029 ms
+seq 2359: no response (timeout)
+seq 2364: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.218 ms
+seq 2362: no response (timeout)
+seq 2366: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.898 ms
+seq 2360: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.135 ms
+seq 2367: no response (timeout)
+seq 2365: no response (timeout)
+seq 2368: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.103 ms
+seq 2369: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.673 ms
+seq 2371: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.175 ms
+seq 2372: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.806 ms
+seq 2373: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.763 ms
+seq 2376: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.040 ms
+seq 2377: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.752 ms
+seq 2370: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.428 ms
+seq 2375: no response (timeout)
+seq 2378: no response (timeout)
+seq 2379: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.118 ms
+seq 2380: no response (timeout)
+seq 2374: no response (timeout)
+seq 2382: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.947 ms
+seq 2383: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.575 ms
+seq 2381: no response (timeout)
+seq 2384: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.433 ms
+seq 2385: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.740 ms
+seq 2386: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.604 ms
+seq 2390: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.174 ms
+seq 2389: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.770 ms
+seq 2387: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.618 ms
+seq 2388: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.647 ms
+seq 2392: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.198 ms
+seq 2393: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.812 ms
+seq 2394: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.168 ms
+seq 2391: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.543 ms
+seq 2396: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.567 ms
+seq 2395: no response (timeout)
+seq 2398: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.716 ms
+seq 2397: no response (timeout)
+seq 2401: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.110 ms
+seq 2399: no response (timeout)
+seq 2404: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.783 ms
+seq 2403: no response (timeout)
+seq 2405: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.802 ms
+seq 2402: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  215.213 ms
+seq 2407: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.544 ms
+seq 2408: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.189 ms
+seq 2406: no response (timeout)
+seq 2400: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.541 ms
+seq 2411: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.761 ms
+seq 2412: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.623 ms
+seq 2413: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.263 ms
+seq 2409: no response (timeout)
+seq 2410: no response (timeout)
+seq 2414: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.575 ms
+seq 2416: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.970 ms
+seq 2415: no response (timeout)
+seq 2417: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.096 ms
+seq 2419: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.716 ms
+seq 2418: no response (timeout)
+seq 2421: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.065 ms
+seq 2420: no response (timeout)
+seq 2422: no response (timeout)
+seq 2424: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.196 ms
+seq 2423: no response (timeout)
+seq 2425: no response (timeout)
+seq 2427: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.498 ms
+seq 2426: no response (timeout)
+seq 2431: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.081 ms
+seq 2429: no response (timeout)
+seq 2433: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.455 ms
+seq 2428: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  249.928 ms
+seq 2432: no response (timeout)
+seq 2430: no response (timeout)
+seq 2434: no response (timeout)
+seq 2435: no response (timeout)
+seq 2436: no response (timeout)
+seq 2437: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.527 ms
+seq 2438: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.916 ms
+seq 2440: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.699 ms
+seq 2439: no response (timeout)
+seq 2443: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.913 ms
+seq 2444: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.451 ms
+seq 2441: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.079 ms
+seq 2442: no response (timeout)
+seq 2445: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  387.066 ms
+seq 2446: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.346 ms
+seq 2448: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.775 ms
+seq 2447: no response (timeout)
+seq 2450: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.956 ms
+seq 2451: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.274 ms
+seq 2449: no response (timeout)
+seq 2452: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.230 ms
+seq 2453: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.197 ms
+seq 2454: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.162 ms
+seq 2455: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.901 ms
+seq 2456: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.845 ms
+seq 2457: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.498 ms
+seq 2458: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.507 ms
+seq 2459: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.759 ms
+seq 2460: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.200 ms
+seq 2461: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.675 ms
+seq 2462: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.135 ms
+seq 2463: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.431 ms
+seq 2464: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.802 ms
+seq 2465: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.382 ms
+seq 2466: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.728 ms
+seq 2467: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.187 ms
+seq 2468: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.056 ms
+seq 2469: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.407 ms
+seq 2470: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.823 ms
+seq 2471: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.105 ms
+seq 2472: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.987 ms
+seq 2473: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.666 ms
+seq 2474: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.416 ms
+seq 2475: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.138 ms
+seq 2476: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.708 ms
+seq 2477: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.703 ms
+seq 2478: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.795 ms
+seq 2479: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.835 ms
+seq 2480: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.429 ms
+seq 2481: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.258 ms
+seq 2482: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.736 ms
+seq 2483: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.654 ms
+seq 2484: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.099 ms
+seq 2485: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.724 ms
+seq 2486: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.799 ms
+seq 2487: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.157 ms
+seq 2488: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.642 ms
+seq 2489: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.013 ms
+seq 2490: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  214.182 ms
+seq 2491: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.416 ms
+seq 2492: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.932 ms
+seq 2493: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.716 ms
+seq 2494: tcp response from ip-103-23-108-107.static.pixnet.tw (103.23.108.107) [open]  213.863 ms

@@ -1,0 +1,2696 @@
+seq 0: tcp response from 211.152.123.224 [open]  258.012 ms
+seq 1: tcp response from 111.206.227.118 [open]  456.076 ms
+seq 2: tcp response from 211.152.123.224 [open]  243.827 ms
+seq 3: tcp response from 111.206.227.118 [open]  463.993 ms
+seq 4: tcp response from 211.152.123.224 [open]  245.409 ms
+seq 6: tcp response from 211.152.123.224 [open]  246.045 ms
+seq 5: tcp response from 111.206.227.118 [open]  1647.831 ms
+seq 7: tcp response from 111.206.227.118 [open]  458.504 ms
+seq 8: tcp response from 211.152.123.224 [open]  259.479 ms
+seq 9: tcp response from 111.206.227.118 [open]  280.132 ms
+seq 10: tcp response from 211.152.123.224 [open]  258.118 ms
+seq 11: tcp response from 111.206.227.118 [open]  443.291 ms
+seq 13: tcp response from 111.206.227.118 [open]  476.533 ms
+seq 14: tcp response from 211.152.123.224 [open]  250.632 ms
+seq 12: no response (timeout)
+seq 15: tcp response from 111.206.227.118 [open]  466.944 ms
+seq 16: tcp response from 211.152.123.224 [open]  241.162 ms
+seq 17: tcp response from 111.206.227.118 [open]  1637.083 ms
+seq 20: tcp response from 211.152.123.224 [open]  255.425 ms
+seq 21: tcp response from 111.206.227.118 [open]  443.559 ms
+seq 18: tcp response from 211.152.123.224 [open]  1459.953 ms
+seq 22: tcp response from 211.152.123.224 [open]  245.904 ms
+seq 24: tcp response from 211.152.123.224 [open]  261.588 ms
+seq 23: tcp response from 111.206.227.118 [open]  213.621 ms
+seq 19: tcp response from 111.206.227.118 [open]  1649.554 ms
+seq 26: tcp response from 211.152.123.224 [open]  252.351 ms
+seq 25: tcp response from 111.206.227.118 [open]  1666.907 ms
+seq 28: tcp response from 211.152.123.224 [open]  251.465 ms
+seq 27: tcp response from 111.206.227.118 [open]  1472.632 ms
+seq 30: tcp response from 211.152.123.224 [open]  247.235 ms
+seq 29: no response (timeout)
+seq 32: tcp response from 211.152.123.224 [open]  243.816 ms
+seq 34: tcp response from 211.152.123.224 [open]  244.796 ms
+seq 31: tcp response from 111.206.227.118 [open]  469.792 ms
+seq 33: no response (timeout)
+seq 36: tcp response from 211.152.123.224 [open]  258.706 ms
+seq 35: no response (timeout)
+seq 39: tcp response from 111.206.227.118 [open]  444.945 ms
+seq 40: tcp response from 211.152.123.224 [open]  244.394 ms
+seq 42: tcp response from 211.152.123.224 [open]  236.757 ms
+seq 41: tcp response from 111.206.227.118 [open]  1639.646 ms
+seq 44: tcp response from 211.152.123.224 [open]  255.480 ms
+seq 38: tcp response from 211.152.123.224 [open]  254.694 ms
+seq 43: tcp response from 111.206.227.118 [open]  1666.163 ms
+seq 45: tcp response from 111.206.227.118 [open]  441.161 ms
+seq 37: no response (timeout)
+seq 47: tcp response from 111.206.227.118 [open]  474.146 ms
+seq 48: tcp response from 211.152.123.224 [open]  245.444 ms
+seq 46: no response (timeout)
+seq 49: tcp response from 111.206.227.118 [open]  214.933 ms
+seq 51: tcp response from 111.206.227.118 [open]  211.574 ms
+seq 50: no response (timeout)
+seq 52: tcp response from 211.152.123.224 [open]  255.546 ms
+seq 54: tcp response from 211.152.123.224 [open]  248.528 ms
+seq 55: tcp response from 111.206.227.118 [open]  216.508 ms
+seq 56: tcp response from 211.152.123.224 [open]  257.558 ms
+seq 53: tcp response from 111.206.227.118 [open]  454.449 ms
+seq 57: tcp response from 111.206.227.118 [unknown, ACK]  463.320 ms
+seq 58: tcp response from 211.152.123.224 [open]  258.336 ms
+seq 60: tcp response from 211.152.123.224 [open]  245.501 ms
+seq 59: tcp response from 111.206.227.118 [open]  1848.946 ms
+seq 61: tcp response from 111.206.227.118 [open]  465.393 ms
+seq 62: tcp response from 211.152.123.224 [open]  260.667 ms
+seq 63: tcp response from 111.206.227.118 [open]  215.790 ms
+seq 64: tcp response from 211.152.123.224 [open]  259.836 ms
+seq 65: tcp response from 111.206.227.118 [open]  464.750 ms
+seq 66: tcp response from 211.152.123.224 [open]  245.744 ms
+seq 67: tcp response from 111.206.227.118 [open]  443.359 ms
+seq 68: tcp response from 211.152.123.224 [open]  246.195 ms
+seq 69: tcp response from 111.206.227.118 [open]  451.602 ms
+seq 70: tcp response from 211.152.123.224 [open]  259.662 ms
+seq 72: tcp response from 211.152.123.224 [open]  258.686 ms
+seq 73: tcp response from 111.206.227.118 [open]  461.075 ms
+seq 71: no response (timeout)
+seq 75: tcp response from 111.206.227.118 [open]  455.710 ms
+seq 76: tcp response from 211.152.123.224 [open]  241.861 ms
+seq 74: no response (timeout)
+seq 77: tcp response from 111.206.227.118 [open]  1427.908 ms
+seq 78: no response (timeout)
+seq 81: tcp response from 111.206.227.118 [open]  454.460 ms
+seq 79: no response (timeout)
+seq 80: no response (timeout)
+seq 83: tcp response from 111.206.227.118 [open]  458.577 ms
+seq 84: tcp response from 211.152.123.224 [open]  258.031 ms
+seq 82: no response (timeout)
+seq 86: tcp response from 211.152.123.224 [open]  263.337 ms
+seq 87: tcp response from 111.206.227.118 [open]  211.168 ms
+seq 85: no response (timeout)
+seq 88: tcp response from 211.152.123.224 [open]  1258.767 ms
+seq 89: tcp response from 111.206.227.118 [open]  453.400 ms
+seq 90: tcp response from 211.152.123.224 [open]  241.563 ms
+seq 91: tcp response from 111.206.227.118 [open]  437.773 ms
+seq 92: tcp response from 211.152.123.224 [open]  257.132 ms
+seq 93: tcp response from 111.206.227.118 [open]  458.854 ms
+seq 94: tcp response from 211.152.123.224 [open]  246.100 ms
+seq 95: tcp response from 111.206.227.118 [open]  446.636 ms
+seq 96: tcp response from 111.206.227.118 [open]  214.710 ms
+seq 97: tcp response from 211.152.123.224 [open]  245.834 ms
+seq 98: tcp response from 111.206.227.118 [open]  457.595 ms
+seq 99: tcp response from 211.152.123.224 [open]  252.373 ms
+seq 100: tcp response from 111.206.227.118 [open]  215.807 ms
+seq 101: tcp response from 211.152.123.224 [open]  263.756 ms
+seq 103: tcp response from 211.152.123.224 [open]  245.939 ms
+seq 102: tcp response from 111.206.227.118 [open]  1652.377 ms
+seq 104: tcp response from 111.206.227.118 [open]  451.520 ms
+seq 105: tcp response from 211.152.123.224 [open]  259.470 ms
+seq 106: tcp response from 111.206.227.118 [open]  432.142 ms
+seq 107: tcp response from 211.152.123.224 [open]  261.632 ms
+seq 108: tcp response from 111.206.227.118 [open]  452.287 ms
+seq 109: tcp response from 211.152.123.224 [open]  243.472 ms
+seq 110: tcp response from 111.206.227.118 [open]  215.759 ms
+seq 111: tcp response from 211.152.123.224 [open]  249.462 ms
+seq 112: tcp response from 111.206.227.118 [open]  221.399 ms
+seq 113: tcp response from 211.152.123.224 [open]  252.214 ms
+seq 114: tcp response from 111.206.227.118 [open]  460.603 ms
+seq 115: tcp response from 211.152.123.224 [open]  262.293 ms
+seq 117: tcp response from 211.152.123.224 [open]  256.615 ms
+seq 116: tcp response from 111.206.227.118 [open]  1853.621 ms
+seq 118: tcp response from 111.206.227.118 [open]  465.913 ms
+seq 121: tcp response from 211.152.123.224 [open]  259.698 ms
+seq 120: tcp response from 111.206.227.118 [open]  440.422 ms
+seq 119: no response (timeout)
+seq 123: tcp response from 211.152.123.224 [open]  1246.107 ms
+seq 124: tcp response from 111.206.227.118 [open]  458.320 ms
+seq 122: no response (timeout)
+seq 127: tcp response from 211.152.123.224 [open]  258.205 ms
+seq 126: tcp response from 111.206.227.118 [open]  1449.679 ms
+seq 128: tcp response from 111.206.227.118 [open]  211.096 ms
+seq 129: tcp response from 211.152.123.224 [open]  258.556 ms
+seq 131: tcp response from 211.152.123.224 [open]  246.251 ms
+seq 130: tcp response from 111.206.227.118 [open]  1447.237 ms
+seq 125: no response (timeout)
+seq 133: tcp response from 211.152.123.224 [open]  245.523 ms
+seq 132: tcp response from 111.206.227.118 [open]  1661.040 ms
+seq 134: tcp response from 111.206.227.118 [open]  456.738 ms
+seq 135: tcp response from 211.152.123.224 [open]  246.223 ms
+seq 136: tcp response from 111.206.227.118 [open]  214.062 ms
+seq 137: tcp response from 211.152.123.224 [open]  243.340 ms
+seq 138: tcp response from 111.206.227.118 [open]  448.417 ms
+seq 139: tcp response from 211.152.123.224 [open]  253.937 ms
+seq 140: tcp response from 111.206.227.118 [open]  455.724 ms
+seq 141: tcp response from 211.152.123.224 [open]  242.195 ms
+seq 142: tcp response from 111.206.227.118 [open]  212.521 ms
+seq 143: tcp response from 211.152.123.224 [open]  259.864 ms
+seq 144: tcp response from 111.206.227.118 [open]  456.680 ms
+seq 145: tcp response from 211.152.123.224 [open]  249.945 ms
+seq 146: tcp response from 111.206.227.118 [open]  1839.867 ms
+seq 147: tcp response from 211.152.123.224 [open]  245.762 ms
+seq 149: tcp response from 211.152.123.224 [open]  259.351 ms
+seq 150: tcp response from 111.206.227.118 [open]  447.266 ms
+seq 148: tcp response from 111.206.227.118 [open]  1650.682 ms
+seq 151: tcp response from 211.152.123.224 [open]  242.812 ms
+seq 152: tcp response from 111.206.227.118 [open]  250.659 ms
+seq 153: tcp response from 211.152.123.224 [open]  258.951 ms
+seq 154: tcp response from 111.206.227.118 [open]  211.619 ms
+seq 156: tcp response from 111.206.227.118 [open]  460.420 ms
+seq 157: tcp response from 211.152.123.224 [open]  246.239 ms
+seq 155: no response (timeout)
+seq 158: tcp response from 111.206.227.118 [open]  445.713 ms
+seq 159: tcp response from 211.152.123.224 [open]  244.470 ms
+seq 160: tcp response from 111.206.227.118 [open]  458.536 ms
+seq 161: tcp response from 211.152.123.224 [open]  258.930 ms
+seq 162: tcp response from 111.206.227.118 [open]  448.240 ms
+seq 163: tcp response from 211.152.123.224 [open]  256.105 ms
+seq 165: tcp response from 211.152.123.224 [open]  263.102 ms
+seq 164: tcp response from 111.206.227.118 [open]  457.794 ms
+seq 167: tcp response from 211.152.123.224 [open]  280.319 ms
+seq 166: tcp response from 111.206.227.118 [open]  1635.131 ms
+seq 168: tcp response from 111.206.227.118 [open]  452.166 ms
+seq 169: tcp response from 211.152.123.224 [open]  270.289 ms
+seq 170: tcp response from 111.206.227.118 [open]  448.835 ms
+seq 171: tcp response from 211.152.123.224 [open]  243.904 ms
+seq 172: tcp response from 111.206.227.118 [open]  453.788 ms
+seq 174: tcp response from 111.206.227.118 [open]  447.442 ms
+seq 175: tcp response from 211.152.123.224 [open]  258.514 ms
+seq 173: tcp response from 211.152.123.224 [open]  244.810 ms
+seq 176: tcp response from 111.206.227.118 [open]  212.319 ms
+seq 177: tcp response from 211.152.123.224 [open]  255.670 ms
+seq 178: tcp response from 111.206.227.118 [open]  457.095 ms
+seq 179: tcp response from 211.152.123.224 [open]  246.456 ms
+seq 180: tcp response from 111.206.227.118 [open]  461.138 ms
+seq 182: tcp response from 111.206.227.118 [open]  444.924 ms
+seq 181: tcp response from 211.152.123.224 [open]  245.692 ms
+seq 183: tcp response from 211.152.123.224 [open]  1245.079 ms
+seq 184: tcp response from 111.206.227.118 [open]  434.809 ms
+seq 185: tcp response from 211.152.123.224 [open]  245.993 ms
+seq 186: tcp response from 111.206.227.118 [open]  463.524 ms
+seq 187: tcp response from 211.152.123.224 [open]  251.103 ms
+seq 188: tcp response from 111.206.227.118 [open]  435.664 ms
+seq 190: tcp response from 211.152.123.224 [open]  237.611 ms
+seq 191: tcp response from 111.206.227.118 [open]  459.131 ms
+seq 189: no response (timeout)
+seq 193: tcp response from 111.206.227.118 [open]  466.611 ms
+seq 192: tcp response from 211.152.123.224 [open]  1648.333 ms
+seq 194: tcp response from 211.152.123.224 [open]  245.327 ms
+seq 196: tcp response from 211.152.123.224 [open]  256.656 ms
+seq 195: tcp response from 111.206.227.118 [open]  1654.930 ms
+seq 197: tcp response from 111.206.227.118 [open]  459.604 ms
+seq 198: tcp response from 211.152.123.224 [open]  1658.491 ms
+seq 199: tcp response from 111.206.227.118 [open]  212.505 ms
+seq 200: tcp response from 211.152.123.224 [open]  245.442 ms
+seq 202: tcp response from 211.152.123.224 [open]  257.119 ms
+seq 201: tcp response from 111.206.227.118 [open]  461.116 ms
+seq 203: tcp response from 111.206.227.118 [open]  441.820 ms
+seq 204: tcp response from 211.152.123.224 [open]  246.286 ms
+seq 205: tcp response from 111.206.227.118 [open]  465.016 ms
+seq 207: tcp response from 111.206.227.118 [open]  430.271 ms
+seq 208: tcp response from 211.152.123.224 [open]  253.390 ms
+seq 209: tcp response from 111.206.227.118 [open]  462.372 ms
+seq 210: tcp response from 211.152.123.224 [open]  261.122 ms
+seq 211: tcp response from 111.206.227.118 [open]  444.910 ms
+seq 212: tcp response from 211.152.123.224 [open]  246.998 ms
+seq 206: tcp response from 211.152.123.224 [open]  235.458 ms
+seq 213: tcp response from 111.206.227.118 [open]  457.206 ms
+seq 214: tcp response from 211.152.123.224 [open]  260.580 ms
+seq 215: tcp response from 111.206.227.118 [open]  212.663 ms
+seq 216: tcp response from 211.152.123.224 [open]  254.879 ms
+seq 218: tcp response from 211.152.123.224 [open]  246.095 ms
+seq 217: tcp response from 111.206.227.118 [open]  454.033 ms
+seq 219: no response (timeout)
+seq 221: tcp response from 111.206.227.118 [open]  465.224 ms
+seq 223: tcp response from 111.206.227.118 [open]  454.792 ms
+seq 220: tcp response from 211.152.123.224 [open]  257.867 ms
+seq 222: no response (timeout)
+seq 225: tcp response from 111.206.227.118 [open]  456.143 ms
+seq 224: no response (timeout)
+seq 227: tcp response from 111.206.227.118 [open]  464.232 ms
+seq 228: tcp response from 211.152.123.224 [open]  245.487 ms
+seq 226: no response (timeout)
+seq 230: tcp response from 211.152.123.224 [open]  242.749 ms
+seq 232: tcp response from 211.152.123.224 [open]  251.971 ms
+seq 229: no response (timeout)
+seq 231: tcp response from 111.206.227.118 [open]  1837.402 ms
+seq 233: tcp response from 111.206.227.118 [open]  211.427 ms
+seq 234: tcp response from 211.152.123.224 [open]  250.917 ms
+seq 236: tcp response from 211.152.123.224 [open]  243.201 ms
+seq 237: tcp response from 111.206.227.118 [open]  467.863 ms
+seq 238: tcp response from 211.152.123.224 [open]  246.697 ms
+seq 235: no response (timeout)
+seq 239: tcp response from 111.206.227.118 [open]  462.901 ms
+seq 240: tcp response from 211.152.123.224 [open]  245.423 ms
+seq 241: tcp response from 111.206.227.118 [open]  456.602 ms
+seq 242: tcp response from 211.152.123.224 [open]  245.573 ms
+seq 243: tcp response from 111.206.227.118 [open]  484.586 ms
+seq 244: tcp response from 211.152.123.224 [open]  255.023 ms
+seq 245: tcp response from 111.206.227.118 [open]  460.581 ms
+seq 246: tcp response from 211.152.123.224 [open]  245.356 ms
+seq 249: tcp response from 111.206.227.118 [open]  455.047 ms
+seq 248: tcp response from 211.152.123.224 [open]  1657.956 ms
+seq 247: no response (timeout)
+seq 250: tcp response from 211.152.123.224 [open]  246.033 ms
+seq 252: tcp response from 211.152.123.224 [open]  244.564 ms
+seq 253: tcp response from 111.206.227.118 [open]  217.135 ms
+seq 251: no response (timeout)
+seq 255: tcp response from 111.206.227.118 [open]  484.527 ms
+seq 256: tcp response from 211.152.123.224 [open]  254.167 ms
+seq 254: no response (timeout)
+seq 257: tcp response from 111.206.227.118 [open]  1455.687 ms
+seq 259: tcp response from 111.206.227.118 [open]  463.614 ms
+seq 260: tcp response from 211.152.123.224 [open]  246.044 ms
+seq 261: tcp response from 111.206.227.118 [open]  212.724 ms
+seq 258: tcp response from 211.152.123.224 [open]  263.090 ms
+seq 262: tcp response from 211.152.123.224 [open]  257.573 ms
+seq 263: tcp response from 111.206.227.118 [open]  472.459 ms
+seq 264: tcp response from 211.152.123.224 [open]  254.215 ms
+seq 265: tcp response from 111.206.227.118 [open]  467.763 ms
+seq 266: tcp response from 211.152.123.224 [open]  257.210 ms
+seq 267: tcp response from 111.206.227.118 [open]  1862.505 ms
+seq 268: tcp response from 211.152.123.224 [open]  1246.079 ms
+seq 270: tcp response from 211.152.123.224 [open]  254.393 ms
+seq 269: tcp response from 111.206.227.118 [open]  1689.309 ms
+seq 271: tcp response from 111.206.227.118 [open]  1470.259 ms
+seq 272: tcp response from 211.152.123.224 [open]  245.062 ms
+seq 273: tcp response from 111.206.227.118 [open]  220.817 ms
+seq 274: tcp response from 211.152.123.224 [open]  259.256 ms
+seq 275: tcp response from 111.206.227.118 [open]  253.570 ms
+seq 276: tcp response from 211.152.123.224 [open]  258.794 ms
+seq 278: tcp response from 211.152.123.224 [open]  249.874 ms
+seq 279: tcp response from 111.206.227.118 [open]  466.526 ms
+seq 277: no response (timeout)
+seq 281: tcp response from 111.206.227.118 [open]  466.393 ms
+seq 282: tcp response from 211.152.123.224 [open]  262.302 ms
+seq 280: no response (timeout)
+seq 283: tcp response from 111.206.227.118 [open]  1860.177 ms
+seq 285: tcp response from 211.152.123.224 [open]  245.395 ms
+seq 284: no response (timeout)
+seq 287: tcp response from 211.152.123.224 [open]  259.035 ms
+seq 286: no response (timeout)
+seq 288: tcp response from 111.206.227.118 [open]  473.058 ms
+seq 289: tcp response from 211.152.123.224 [open]  257.780 ms
+seq 290: tcp response from 111.206.227.118 [open]  438.072 ms
+seq 292: tcp response from 111.206.227.118 [open]  217.824 ms
+seq 293: tcp response from 211.152.123.224 [open]  257.552 ms
+seq 291: no response (timeout)
+seq 295: tcp response from 211.152.123.224 [open]  247.226 ms
+seq 294: tcp response from 111.206.227.118 [open]  471.821 ms
+seq 296: tcp response from 111.206.227.118 [open]  477.167 ms
+seq 297: tcp response from 211.152.123.224 [open]  247.157 ms
+seq 299: tcp response from 211.152.123.224 [open]  246.366 ms
+seq 300: tcp response from 111.206.227.118 [open]  472.565 ms
+seq 298: no response (timeout)
+seq 303: tcp response from 211.152.123.224 [open]  246.729 ms
+seq 302: tcp response from 111.206.227.118 [open]  450.374 ms
+seq 301: no response (timeout)
+seq 304: tcp response from 111.206.227.118 [open]  214.962 ms
+seq 305: tcp response from 211.152.123.224 [open]  262.398 ms
+seq 309: tcp response from 211.152.123.224 [open]  244.048 ms
+seq 306: tcp response from 111.206.227.118 [open]  1897.698 ms
+seq 308: no response (timeout)
+seq 307: tcp response from 211.152.123.224 [open]  247.295 ms
+seq 310: tcp response from 111.206.227.118 [open]  211.802 ms
+seq 311: tcp response from 211.152.123.224 [open]  245.335 ms
+seq 312: tcp response from 111.206.227.118 [open]  456.028 ms
+seq 313: tcp response from 211.152.123.224 [open]  262.957 ms
+seq 315: tcp response from 211.152.123.224 [open]  246.336 ms
+seq 314: no response (timeout)
+seq 317: tcp response from 211.152.123.224 [open]  257.666 ms
+seq 318: tcp response from 111.206.227.118 [open]  215.137 ms
+seq 320: tcp response from 111.206.227.118 [open]  478.074 ms
+seq 316: tcp response from 111.206.227.118 [open]  1869.187 ms
+seq 319: no response (timeout)
+seq 324: tcp response from 111.206.227.118 [open]  454.748 ms
+seq 322: tcp response from 111.206.227.118 [open]  463.452 ms
+seq 323: tcp response from 211.152.123.224 [open]  243.737 ms
+seq 321: no response (timeout)
+seq 325: tcp response from 211.152.123.224 [open]  259.371 ms
+seq 326: tcp response from 111.206.227.118 [open]  452.731 ms
+seq 328: tcp response from 111.206.227.118 [open]  471.055 ms
+seq 329: tcp response from 211.152.123.224 [open]  248.037 ms
+seq 327: no response (timeout)
+seq 330: tcp response from 111.206.227.118 [open]  216.781 ms
+seq 331: tcp response from 211.152.123.224 [open]  256.748 ms
+seq 332: tcp response from 111.206.227.118 [open]  458.991 ms
+seq 333: tcp response from 211.152.123.224 [open]  249.427 ms
+seq 334: tcp response from 111.206.227.118 [open]  445.182 ms
+seq 335: tcp response from 211.152.123.224 [open]  248.853 ms
+seq 336: tcp response from 111.206.227.118 [open]  456.652 ms
+seq 339: tcp response from 211.152.123.224 [open]  254.130 ms
+seq 338: tcp response from 111.206.227.118 [open]  1846.011 ms
+seq 337: no response (timeout)
+seq 340: tcp response from 111.206.227.118 [open]  443.966 ms
+seq 341: tcp response from 211.152.123.224 [open]  242.869 ms
+seq 342: tcp response from 111.206.227.118 [open]  215.161 ms
+seq 344: tcp response from 111.206.227.118 [open]  211.061 ms
+seq 345: tcp response from 211.152.123.224 [open]  258.697 ms
+seq 343: no response (timeout)
+seq 347: tcp response from 211.152.123.224 [open]  259.289 ms
+seq 349: tcp response from 211.152.123.224 [open]  259.553 ms
+seq 346: no response (timeout)
+seq 348: no response (timeout)
+seq 350: tcp response from 111.206.227.118 [open]  472.898 ms
+seq 353: tcp response from 211.152.123.224 [open]  261.784 ms
+seq 352: tcp response from 111.206.227.118 [open]  1849.472 ms
+seq 351: no response (timeout)
+seq 354: tcp response from 111.206.227.118 [open]  1852.249 ms
+seq 355: tcp response from 211.152.123.224 [open]  243.865 ms
+seq 356: tcp response from 111.206.227.118 [open]  470.591 ms
+seq 358: tcp response from 111.206.227.118 [open]  213.079 ms
+seq 357: no response (timeout)
+seq 359: tcp response from 211.152.123.224 [open]  260.929 ms
+seq 360: tcp response from 111.206.227.118 [open]  214.831 ms
+seq 362: tcp response from 111.206.227.118 [open]  457.045 ms
+seq 361: tcp response from 211.152.123.224 [open]  247.689 ms
+seq 363: tcp response from 211.152.123.224 [open]  257.926 ms
+seq 365: tcp response from 211.152.123.224 [open]  246.169 ms
+seq 364: tcp response from 111.206.227.118 [open]  1876.182 ms
+seq 366: tcp response from 111.206.227.118 [open]  450.494 ms
+seq 367: tcp response from 211.152.123.224 [open]  244.227 ms
+seq 368: tcp response from 111.206.227.118 [open]  451.238 ms
+seq 369: tcp response from 211.152.123.224 [open]  261.841 ms
+seq 370: tcp response from 111.206.227.118 [open]  476.461 ms
+seq 371: tcp response from 211.152.123.224 [open]  246.296 ms
+seq 372: tcp response from 111.206.227.118 [open]  212.433 ms
+seq 373: tcp response from 211.152.123.224 [open]  258.353 ms
+seq 375: tcp response from 211.152.123.224 [open]  260.892 ms
+seq 374: tcp response from 111.206.227.118 [open]  1477.896 ms
+seq 377: tcp response from 211.152.123.224 [open]  258.855 ms
+seq 376: tcp response from 111.206.227.118 [open]  465.841 ms
+seq 379: tcp response from 211.152.123.224 [open]  247.344 ms
+seq 378: no response (timeout)
+seq 381: tcp response from 211.152.123.224 [open]  238.737 ms
+seq 380: tcp response from 111.206.227.118 [open]  216.081 ms
+seq 383: tcp response from 211.152.123.224 [open]  245.595 ms
+seq 384: tcp response from 111.206.227.118 [open]  469.641 ms
+seq 382: no response (timeout)
+seq 385: tcp response from 211.152.123.224 [open]  248.610 ms
+seq 386: tcp response from 111.206.227.118 [open]  464.181 ms
+seq 387: tcp response from 211.152.123.224 [open]  285.422 ms
+seq 388: tcp response from 111.206.227.118 [open]  449.008 ms
+seq 389: tcp response from 211.152.123.224 [open]  244.830 ms
+seq 390: tcp response from 111.206.227.118 [open]  449.110 ms
+seq 392: tcp response from 111.206.227.118 [open]  473.133 ms
+seq 393: tcp response from 211.152.123.224 [open]  259.043 ms
+seq 391: no response (timeout)
+seq 395: tcp response from 211.152.123.224 [open]  262.083 ms
+seq 396: tcp response from 111.206.227.118 [open]  459.253 ms
+seq 394: no response (timeout)
+seq 397: tcp response from 211.152.123.224 [open]  249.543 ms
+seq 398: tcp response from 111.206.227.118 [open]  465.928 ms
+seq 399: tcp response from 211.152.123.224 [open]  248.826 ms
+seq 401: tcp response from 211.152.123.224 [open]  263.222 ms
+seq 400: tcp response from 111.206.227.118 [open]  1841.261 ms
+seq 403: tcp response from 211.152.123.224 [open]  244.334 ms
+seq 402: no response (timeout)
+seq 405: tcp response from 211.152.123.224 [open]  244.773 ms
+seq 404: tcp response from 111.206.227.118 [open]  211.635 ms
+seq 406: tcp response from 111.206.227.118 [open]  454.911 ms
+seq 407: tcp response from 211.152.123.224 [open]  257.588 ms
+seq 408: tcp response from 111.206.227.118 [open]  475.098 ms
+seq 409: tcp response from 211.152.123.224 [open]  257.287 ms
+seq 410: tcp response from 111.206.227.118 [open]  473.471 ms
+seq 411: tcp response from 211.152.123.224 [open]  255.043 ms
+seq 412: tcp response from 111.206.227.118 [open]  449.658 ms
+seq 413: tcp response from 211.152.123.224 [open]  252.771 ms
+seq 414: tcp response from 111.206.227.118 [open]  481.472 ms
+seq 415: tcp response from 211.152.123.224 [open]  246.615 ms
+seq 416: tcp response from 111.206.227.118 [open]  455.557 ms
+seq 417: tcp response from 211.152.123.224 [open]  245.261 ms
+seq 419: tcp response from 211.152.123.224 [open]  245.227 ms
+seq 420: tcp response from 111.206.227.118 [open]  461.149 ms
+seq 418: no response (timeout)
+seq 422: tcp response from 111.206.227.118 [open]  474.113 ms
+seq 423: tcp response from 211.152.123.224 [open]  245.050 ms
+seq 421: no response (timeout)
+seq 426: tcp response from 111.206.227.118 [open]  212.919 ms
+seq 427: tcp response from 211.152.123.224 [open]  246.491 ms
+seq 424: tcp response from 111.206.227.118 [open]  441.182 ms
+seq 429: tcp response from 211.152.123.224 [open]  258.293 ms
+seq 428: tcp response from 111.206.227.118 [open]  1875.365 ms
+seq 431: tcp response from 211.152.123.224 [open]  289.216 ms
+seq 425: tcp response from 211.152.123.224 [open]  263.238 ms
+seq 434: tcp response from 111.206.227.118 [open]  214.458 ms
+seq 433: tcp response from 211.152.123.224 [open]  1260.684 ms
+seq 432: no response (timeout)
+seq 430: tcp response from 111.206.227.118 [open]  1475.541 ms
+seq 436: tcp response from 111.206.227.118 [open]  211.459 ms
+seq 437: tcp response from 211.152.123.224 [open]  260.032 ms
+seq 435: no response (timeout)
+seq 439: tcp response from 211.152.123.224 [open]  254.275 ms
+seq 438: tcp response from 111.206.227.118 [open]  475.888 ms
+seq 441: tcp response from 211.152.123.224 [open]  258.244 ms
+seq 440: tcp response from 111.206.227.118 [open]  1448.857 ms
+seq 442: tcp response from 111.206.227.118 [open]  460.106 ms
+seq 443: tcp response from 211.152.123.224 [open]  245.867 ms
+seq 445: tcp response from 211.152.123.224 [open]  252.382 ms
+seq 446: tcp response from 111.206.227.118 [open]  473.819 ms
+seq 444: tcp response from 111.206.227.118 [open]  465.551 ms
+seq 449: tcp response from 211.152.123.224 [open]  257.556 ms
+seq 447: no response (timeout)
+seq 448: no response (timeout)
+seq 450: no response (timeout)
+seq 452: tcp response from 111.206.227.118 [open]  1706.427 ms
+seq 453: tcp response from 211.152.123.224 [open]  1246.352 ms
+seq 451: no response (timeout)
+seq 456: tcp response from 111.206.227.118 [open]  468.344 ms
+seq 457: tcp response from 211.152.123.224 [open]  250.621 ms
+seq 454: no response (timeout)
+seq 455: no response (timeout)
+seq 459: tcp response from 211.152.123.224 [open]  245.254 ms
+seq 458: tcp response from 111.206.227.118 [open]  1836.120 ms
+seq 461: tcp response from 211.152.123.224 [open]  250.395 ms
+seq 462: tcp response from 111.206.227.118 [open]  452.641 ms
+seq 460: no response (timeout)
+seq 463: tcp response from 211.152.123.224 [open]  244.418 ms
+seq 465: tcp response from 211.152.123.224 [open]  262.396 ms
+seq 464: tcp response from 111.206.227.118 [open]  1457.981 ms
+seq 466: tcp response from 111.206.227.118 [open]  434.871 ms
+seq 472: tcp response from 111.206.227.118 [open]  441.387 ms
+seq 470: no response (timeout)
+seq 469: tcp response from 211.152.123.224 [open]  249.412 ms
+seq 467: tcp response from 211.152.123.224 [open]  259.652 ms
+seq 468: no response (timeout)
+seq 471: no response (timeout)
+seq 476: tcp response from 211.152.123.224 [open]  257.704 ms
+seq 478: tcp response from 111.206.227.118 [open]  466.999 ms
+seq 475: no response (timeout)
+seq 474: no response (timeout)
+seq 477: no response (timeout)
+seq 473: no response (timeout)
+seq 481: tcp response from 211.152.123.224 [open]  245.827 ms
+seq 479: tcp response from 211.152.123.224 [open]  247.234 ms
+seq 480: tcp response from 111.206.227.118 [open]  469.713 ms
+seq 482: tcp response from 111.206.227.118 [open]  443.788 ms
+seq 483: tcp response from 211.152.123.224 [open]  263.257 ms
+seq 484: tcp response from 111.206.227.118 [open]  471.485 ms
+seq 485: tcp response from 211.152.123.224 [open]  245.999 ms
+seq 487: tcp response from 211.152.123.224 [open]  257.172 ms
+seq 488: tcp response from 111.206.227.118 [open]  482.816 ms
+seq 486: no response (timeout)
+seq 489: tcp response from 211.152.123.224 [open]  244.119 ms
+seq 490: tcp response from 111.206.227.118 [open]  483.856 ms
+seq 491: tcp response from 211.152.123.224 [open]  245.142 ms
+seq 492: tcp response from 111.206.227.118 [open]  441.137 ms
+seq 493: tcp response from 211.152.123.224 [open]  258.878 ms
+seq 495: tcp response from 211.152.123.224 [open]  256.949 ms
+seq 496: tcp response from 111.206.227.118 [open]  441.300 ms
+seq 494: no response (timeout)
+seq 497: tcp response from 211.152.123.224 [open]  240.610 ms
+seq 499: tcp response from 211.152.123.224 [open]  259.322 ms
+seq 498: tcp response from 111.206.227.118 [open]  692.971 ms
+seq 501: tcp response from 211.152.123.224 [open]  259.043 ms
+seq 500: tcp response from 111.206.227.118 [open]  441.069 ms
+seq 502: tcp response from 111.206.227.118 [open]  458.055 ms
+seq 503: tcp response from 211.152.123.224 [open]  262.604 ms
+seq 505: tcp response from 211.152.123.224 [open]  249.640 ms
+seq 506: tcp response from 111.206.227.118 [open]  216.600 ms
+seq 504: no response (timeout)
+seq 507: tcp response from 211.152.123.224 [open]  245.413 ms
+seq 508: tcp response from 111.206.227.118 [open]  455.320 ms
+seq 509: tcp response from 211.152.123.224 [open]  257.941 ms
+seq 510: tcp response from 111.206.227.118 [open]  212.120 ms
+seq 511: tcp response from 211.152.123.224 [open]  250.420 ms
+seq 512: tcp response from 111.206.227.118 [open]  462.883 ms
+seq 513: tcp response from 211.152.123.224 [open]  245.085 ms
+seq 514: tcp response from 111.206.227.118 [open]  470.001 ms
+seq 515: tcp response from 211.152.123.224 [open]  246.399 ms
+seq 516: tcp response from 111.206.227.118 [open]  439.972 ms
+seq 517: tcp response from 211.152.123.224 [open]  256.089 ms
+seq 518: tcp response from 111.206.227.118 [open]  444.471 ms
+seq 519: tcp response from 211.152.123.224 [open]  262.123 ms
+seq 520: tcp response from 111.206.227.118 [open]  463.928 ms
+seq 521: tcp response from 211.152.123.224 [open]  258.896 ms
+seq 522: tcp response from 111.206.227.118 [open]  1847.193 ms
+seq 523: tcp response from 211.152.123.224 [open]  1454.647 ms
+seq 526: tcp response from 111.206.227.118 [open]  461.811 ms
+seq 527: tcp response from 211.152.123.224 [open]  244.183 ms
+seq 528: tcp response from 111.206.227.118 [open]  456.652 ms
+seq 525: tcp response from 211.152.123.224 [open]  253.841 ms
+seq 524: tcp response from 111.206.227.118 [open]  1655.184 ms
+seq 529: tcp response from 211.152.123.224 [open]  255.512 ms
+seq 530: tcp response from 111.206.227.118 [open]  444.784 ms
+seq 531: tcp response from 211.152.123.224 [open]  255.835 ms
+seq 532: tcp response from 111.206.227.118 [open]  434.305 ms
+seq 533: tcp response from 211.152.123.224 [open]  243.189 ms
+seq 534: tcp response from 111.206.227.118 [open]  461.557 ms
+seq 535: tcp response from 211.152.123.224 [open]  253.517 ms
+seq 536: tcp response from 111.206.227.118 [open]  466.341 ms
+seq 537: tcp response from 211.152.123.224 [open]  245.294 ms
+seq 539: tcp response from 211.152.123.224 [open]  248.472 ms
+seq 540: tcp response from 111.206.227.118 [open]  212.687 ms
+seq 538: no response (timeout)
+seq 541: tcp response from 211.152.123.224 [open]  245.881 ms
+seq 542: tcp response from 111.206.227.118 [open]  464.195 ms
+seq 545: tcp response from 211.152.123.224 [open]  253.610 ms
+seq 543: no response (timeout)
+seq 546: tcp response from 111.206.227.118 [open]  435.564 ms
+seq 544: no response (timeout)
+seq 547: tcp response from 211.152.123.224 [open]  263.121 ms
+seq 548: tcp response from 111.206.227.118 [open]  457.345 ms
+seq 549: tcp response from 211.152.123.224 [open]  244.156 ms
+seq 550: tcp response from 111.206.227.118 [open]  437.738 ms
+seq 551: tcp response from 211.152.123.224 [open]  1254.537 ms
+seq 552: tcp response from 111.206.227.118 [open]  1467.932 ms
+seq 553: tcp response from 211.152.123.224 [open]  244.037 ms
+seq 555: tcp response from 211.152.123.224 [open]  259.746 ms
+seq 556: tcp response from 111.206.227.118 [open]  459.374 ms
+seq 557: tcp response from 211.152.123.224 [open]  248.276 ms
+seq 554: no response (timeout)
+seq 559: tcp response from 211.152.123.224 [open]  261.634 ms
+seq 558: tcp response from 111.206.227.118 [open]  1857.596 ms
+seq 561: tcp response from 211.152.123.224 [open]  245.558 ms
+seq 560: no response (timeout)
+seq 562: tcp response from 111.206.227.118 [open]  451.413 ms
+seq 564: tcp response from 111.206.227.118 [open]  460.728 ms
+seq 565: tcp response from 211.152.123.224 [open]  260.556 ms
+seq 563: no response (timeout)
+seq 566: tcp response from 111.206.227.118 [open]  439.866 ms
+seq 567: tcp response from 211.152.123.224 [open]  255.928 ms
+seq 568: tcp response from 111.206.227.118 [open]  452.489 ms
+seq 569: tcp response from 211.152.123.224 [open]  253.262 ms
+seq 570: tcp response from 111.206.227.118 [open]  211.804 ms
+seq 571: tcp response from 211.152.123.224 [open]  257.474 ms
+seq 572: tcp response from 111.206.227.118 [open]  458.998 ms
+seq 573: tcp response from 211.152.123.224 [open]  262.850 ms
+seq 574: tcp response from 111.206.227.118 [open]  457.072 ms
+seq 576: tcp response from 111.206.227.118 [open]  218.242 ms
+seq 575: tcp response from 211.152.123.224 [open]  1446.633 ms
+seq 578: tcp response from 111.206.227.118 [open]  457.844 ms
+seq 577: tcp response from 211.152.123.224 [open]  259.659 ms
+seq 580: tcp response from 111.206.227.118 [open]  210.989 ms
+seq 581: tcp response from 211.152.123.224 [open]  256.326 ms
+seq 579: no response (timeout)
+seq 582: tcp response from 111.206.227.118 [open]  461.512 ms
+seq 585: tcp response from 211.152.123.224 [open]  246.321 ms
+seq 583: no response (timeout)
+seq 584: no response (timeout)
+seq 586: tcp response from 111.206.227.118 [open]  438.394 ms
+seq 589: tcp response from 211.152.123.224 [open]  258.016 ms
+seq 587: no response (timeout)
+seq 588: no response (timeout)
+seq 590: tcp response from 111.206.227.118 [open]  442.036 ms
+seq 592: tcp response from 111.206.227.118 [open]  456.559 ms
+seq 593: tcp response from 211.152.123.224 [open]  237.638 ms
+seq 591: no response (timeout)
+seq 595: tcp response from 211.152.123.224 [open]  232.298 ms
+seq 596: tcp response from 111.206.227.118 [open]  457.744 ms
+seq 594: no response (timeout)
+seq 597: tcp response from 211.152.123.224 [open]  253.265 ms
+seq 598: tcp response from 111.206.227.118 [open]  437.594 ms
+seq 599: tcp response from 211.152.123.224 [open]  259.807 ms
+seq 600: tcp response from 111.206.227.118 [open]  450.670 ms
+seq 601: tcp response from 211.152.123.224 [open]  246.030 ms
+seq 603: tcp response from 211.152.123.224 [open]  1460.497 ms
+seq 606: tcp response from 111.206.227.118 [open]  448.600 ms
+seq 602: no response (timeout)
+seq 605: tcp response from 211.152.123.224 [open]  255.649 ms
+seq 607: tcp response from 211.152.123.224 [open]  282.271 ms
+seq 604: tcp response from 111.206.227.118 [open]  1861.433 ms
+seq 609: tcp response from 211.152.123.224 [open]  258.886 ms
+seq 608: no response (timeout)
+seq 611: tcp response from 211.152.123.224 [open]  259.907 ms
+seq 613: tcp response from 211.152.123.224 [open]  237.981 ms
+seq 614: tcp response from 111.206.227.118 [open]  459.785 ms
+seq 612: no response (timeout)
+seq 610: no response (timeout)
+seq 615: tcp response from 211.152.123.224 [open]  1239.350 ms
+seq 617: tcp response from 211.152.123.224 [open]  240.722 ms
+seq 616: tcp response from 111.206.227.118 [open]  1846.826 ms
+seq 620: tcp response from 111.206.227.118 [open]  449.074 ms
+seq 619: tcp response from 211.152.123.224 [open]  252.068 ms
+seq 618: no response (timeout)
+seq 622: tcp response from 111.206.227.118 [open]  448.751 ms
+seq 621: no response (timeout)
+seq 624: tcp response from 111.206.227.118 [open]  449.384 ms
+seq 625: tcp response from 211.152.123.224 [open]  245.855 ms
+seq 623: no response (timeout)
+seq 626: tcp response from 111.206.227.118 [open]  451.668 ms
+seq 627: tcp response from 211.152.123.224 [open]  238.439 ms
+seq 628: tcp response from 111.206.227.118 [open]  456.274 ms
+seq 629: tcp response from 211.152.123.224 [open]  257.463 ms
+seq 630: tcp response from 111.206.227.118 [open]  453.730 ms
+seq 631: tcp response from 211.152.123.224 [open]  240.413 ms
+seq 632: tcp response from 111.206.227.118 [open]  461.670 ms
+seq 633: tcp response from 211.152.123.224 [open]  232.294 ms
+seq 634: tcp response from 111.206.227.118 [open]  215.014 ms
+seq 635: tcp response from 211.152.123.224 [open]  257.739 ms
+seq 636: tcp response from 111.206.227.118 [open]  444.918 ms
+seq 637: tcp response from 211.152.123.224 [open]  259.864 ms
+seq 638: tcp response from 111.206.227.118 [open]  461.363 ms
+seq 639: tcp response from 211.152.123.224 [open]  254.025 ms
+seq 640: tcp response from 111.206.227.118 [open]  463.621 ms
+seq 641: tcp response from 211.152.123.224 [open]  242.701 ms
+seq 643: tcp response from 211.152.123.224 [open]  246.829 ms
+seq 642: tcp response from 111.206.227.118 [open]  1844.900 ms
+seq 644: tcp response from 111.206.227.118 [open]  445.349 ms
+seq 646: tcp response from 111.206.227.118 [open]  456.022 ms
+seq 647: tcp response from 211.152.123.224 [open]  246.992 ms
+seq 645: tcp response from 211.152.123.224 [open]  258.680 ms
+seq 648: tcp response from 111.206.227.118 [open]  434.884 ms
+seq 649: tcp response from 211.152.123.224 [open]  244.109 ms
+seq 650: tcp response from 111.206.227.118 [open]  451.291 ms
+seq 651: tcp response from 211.152.123.224 [open]  259.970 ms
+seq 652: tcp response from 111.206.227.118 [open]  1655.026 ms
+seq 653: tcp response from 211.152.123.224 [open]  249.308 ms
+seq 654: tcp response from 111.206.227.118 [open]  444.656 ms
+seq 656: tcp response from 111.206.227.118 [open]  438.214 ms
+seq 657: tcp response from 211.152.123.224 [open]  259.175 ms
+seq 655: tcp response from 211.152.123.224 [open]  246.748 ms
+seq 658: tcp response from 111.206.227.118 [open]  451.123 ms
+seq 659: tcp response from 211.152.123.224 [open]  262.755 ms
+seq 660: tcp response from 111.206.227.118 [open]  459.248 ms
+seq 661: tcp response from 211.152.123.224 [open]  242.143 ms
+seq 662: tcp response from 111.206.227.118 [open]  214.886 ms
+seq 663: tcp response from 211.152.123.224 [open]  260.721 ms
+seq 664: tcp response from 111.206.227.118 [open]  211.798 ms
+seq 666: tcp response from 111.206.227.118 [open]  455.544 ms
+seq 667: tcp response from 211.152.123.224 [open]  244.525 ms
+seq 665: tcp response from 211.152.123.224 [open]  231.898 ms
+seq 669: tcp response from 211.152.123.224 [open]  252.969 ms
+seq 668: tcp response from 111.206.227.118 [open]  1855.301 ms
+seq 671: tcp response from 211.152.123.224 [open]  233.759 ms
+seq 670: tcp response from 111.206.227.118 [open]  1839.701 ms
+seq 672: tcp response from 111.206.227.118 [open]  452.195 ms
+seq 674: tcp response from 111.206.227.118 [open]  441.480 ms
+seq 675: tcp response from 211.152.123.224 [open]  258.906 ms
+seq 673: no response (timeout)
+seq 677: tcp response from 211.152.123.224 [open]  271.917 ms
+seq 678: tcp response from 111.206.227.118 [open]  435.664 ms
+seq 676: no response (timeout)
+seq 680: tcp response from 111.206.227.118 [open]  455.088 ms
+seq 681: tcp response from 211.152.123.224 [open]  259.194 ms
+seq 679: no response (timeout)
+seq 682: tcp response from 111.206.227.118 [open]  212.543 ms
+seq 684: tcp response from 111.206.227.118 [open]  457.684 ms
+seq 685: tcp response from 211.152.123.224 [open]  261.683 ms
+seq 683: no response (timeout)
+seq 686: tcp response from 111.206.227.118 [open]  215.011 ms
+seq 687: tcp response from 211.152.123.224 [open]  249.377 ms
+seq 688: tcp response from 111.206.227.118 [open]  451.083 ms
+seq 691: tcp response from 211.152.123.224 [open]  261.870 ms
+seq 689: no response (timeout)
+seq 690: tcp response from 111.206.227.118 [open]  215.851 ms
+seq 693: tcp response from 211.152.123.224 [open]  258.419 ms
+seq 692: no response (timeout)
+seq 694: tcp response from 111.206.227.118 [open]  460.781 ms
+seq 696: tcp response from 111.206.227.118 [open]  435.050 ms
+seq 697: tcp response from 211.152.123.224 [open]  244.702 ms
+seq 698: tcp response from 111.206.227.118 [open]  465.033 ms
+seq 695: no response (timeout)
+seq 699: tcp response from 211.152.123.224 [open]  244.023 ms
+seq 701: tcp response from 211.152.123.224 [open]  253.809 ms
+seq 702: tcp response from 111.206.227.118 [open]  457.588 ms
+seq 700: no response (timeout)
+seq 704: tcp response from 111.206.227.118 [open]  445.974 ms
+seq 703: tcp response from 211.152.123.224 [open]  1457.150 ms
+seq 705: tcp response from 211.152.123.224 [open]  249.789 ms
+seq 706: tcp response from 111.206.227.118 [open]  437.915 ms
+seq 708: tcp response from 111.206.227.118 [open]  469.057 ms
+seq 709: tcp response from 211.152.123.224 [open]  252.228 ms
+seq 707: no response (timeout)
+seq 710: tcp response from 111.206.227.118 [open]  458.588 ms
+seq 711: tcp response from 211.152.123.224 [open]  262.075 ms
+seq 712: tcp response from 111.206.227.118 [open]  214.834 ms
+seq 713: tcp response from 211.152.123.224 [open]  247.557 ms
+seq 715: tcp response from 211.152.123.224 [open]  248.630 ms
+seq 714: tcp response from 111.206.227.118 [open]  1872.011 ms
+seq 716: tcp response from 111.206.227.118 [open]  444.053 ms
+seq 717: tcp response from 211.152.123.224 [open]  262.200 ms
+seq 718: tcp response from 111.206.227.118 [open]  438.910 ms
+seq 721: tcp response from 211.152.123.224 [open]  242.288 ms
+seq 720: tcp response from 111.206.227.118 [open]  437.937 ms
+seq 719: no response (timeout)
+seq 723: tcp response from 211.152.123.224 [open]  258.688 ms
+seq 722: no response (timeout)
+seq 725: tcp response from 211.152.123.224 [open]  258.457 ms
+seq 724: tcp response from 111.206.227.118 [open]  1839.003 ms
+seq 727: tcp response from 211.152.123.224 [open]  245.845 ms
+seq 728: tcp response from 111.206.227.118 [open]  449.374 ms
+seq 729: tcp response from 211.152.123.224 [open]  247.685 ms
+seq 726: no response (timeout)
+seq 731: tcp response from 211.152.123.224 [open]  258.647 ms
+seq 732: tcp response from 111.206.227.118 [open]  430.948 ms
+seq 730: tcp response from 111.206.227.118 [open]  1644.345 ms
+seq 733: tcp response from 211.152.123.224 [open]  262.078 ms
+seq 735: tcp response from 211.152.123.224 [open]  244.612 ms
+seq 734: tcp response from 111.206.227.118 [open]  1436.424 ms
+seq 737: tcp response from 211.152.123.224 [open]  247.733 ms
+seq 738: tcp response from 111.206.227.118 [open]  442.099 ms
+seq 736: no response (timeout)
+seq 740: tcp response from 111.206.227.118 [open]  441.414 ms
+seq 741: tcp response from 211.152.123.224 [open]  258.745 ms
+seq 739: no response (timeout)
+seq 743: tcp response from 211.152.123.224 [open]  244.468 ms
+seq 744: tcp response from 111.206.227.118 [open]  442.128 ms
+seq 742: no response (timeout)
+seq 745: tcp response from 111.206.227.118 [open]  464.087 ms
+seq 746: tcp response from 211.152.123.224 [open]  281.743 ms
+seq 748: tcp response from 211.152.123.224 [open]  257.776 ms
+seq 749: tcp response from 111.206.227.118 [open]  343.697 ms
+seq 750: tcp response from 211.152.123.224 [open]  258.977 ms
+seq 747: tcp response from 111.206.227.118 [open]  214.923 ms
+seq 752: tcp response from 211.152.123.224 [open]  246.449 ms
+seq 751: tcp response from 111.206.227.118 [open]  1864.733 ms
+seq 753: tcp response from 111.206.227.118 [open]  465.457 ms
+seq 754: tcp response from 211.152.123.224 [open]  248.835 ms
+seq 756: tcp response from 211.152.123.224 [open]  256.395 ms
+seq 755: tcp response from 111.206.227.118 [open]  1849.329 ms
+seq 757: tcp response from 111.206.227.118 [open]  446.466 ms
+seq 758: tcp response from 211.152.123.224 [open]  290.799 ms
+seq 760: tcp response from 211.152.123.224 [open]  246.910 ms
+seq 759: tcp response from 111.206.227.118 [open]  1869.685 ms
+seq 762: tcp response from 211.152.123.224 [open]  255.954 ms
+seq 763: tcp response from 111.206.227.118 [open]  471.832 ms
+seq 761: no response (timeout)
+seq 764: tcp response from 211.152.123.224 [open]  245.104 ms
+seq 766: tcp response from 211.152.123.224 [open]  417.452 ms
+seq 765: tcp response from 111.206.227.118 [open]  1855.363 ms
+seq 767: tcp response from 111.206.227.118 [open]  1215.727 ms
+seq 768: tcp response from 211.152.123.224 [open]  262.675 ms
+seq 769: tcp response from 111.206.227.118 [open]  467.497 ms
+seq 770: tcp response from 211.152.123.224 [open]  261.986 ms
+seq 772: tcp response from 211.152.123.224 [open]  253.407 ms
+seq 771: tcp response from 111.206.227.118 [open]  1650.275 ms
+seq 773: tcp response from 111.206.227.118 [open]  446.078 ms
+seq 774: tcp response from 211.152.123.224 [open]  251.645 ms
+seq 776: tcp response from 211.152.123.224 [open]  244.769 ms
+seq 777: tcp response from 111.206.227.118 [open]  464.808 ms
+seq 775: no response (timeout)
+seq 778: tcp response from 211.152.123.224 [open]  259.267 ms
+seq 780: tcp response from 211.152.123.224 [open]  249.742 ms
+seq 781: tcp response from 111.206.227.118 [open]  454.553 ms
+seq 782: tcp response from 211.152.123.224 [open]  1449.224 ms
+seq 783: tcp response from 111.206.227.118 [open]  447.548 ms
+seq 779: no response (timeout)
+seq 784: tcp response from 211.152.123.224 [open]  258.284 ms
+seq 786: tcp response from 211.152.123.224 [open]  247.264 ms
+seq 785: tcp response from 111.206.227.118 [open]  448.417 ms
+seq 788: tcp response from 211.152.123.224 [open]  259.816 ms
+seq 790: tcp response from 211.152.123.224 [open]  260.941 ms
+seq 787: tcp response from 111.206.227.118 [open]  1211.835 ms
+seq 791: tcp response from 111.206.227.118 [open]  453.087 ms
+seq 792: tcp response from 211.152.123.224 [open]  247.228 ms
+seq 793: tcp response from 111.206.227.118 [open]  455.006 ms
+seq 789: tcp response from 111.206.227.118 [open]  214.884 ms
+seq 795: tcp response from 111.206.227.118 [open]  454.192 ms
+seq 794: tcp response from 211.152.123.224 [open]  245.238 ms
+seq 796: tcp response from 211.152.123.224 [open]  251.105 ms
+seq 797: tcp response from 111.206.227.118 [open]  461.559 ms
+seq 799: tcp response from 111.206.227.118 [open]  448.319 ms
+seq 798: tcp response from 211.152.123.224 [open]  246.283 ms
+seq 800: tcp response from 211.152.123.224 [open]  260.400 ms
+seq 801: tcp response from 111.206.227.118 [open]  216.218 ms
+seq 802: tcp response from 211.152.123.224 [open]  258.070 ms
+seq 804: tcp response from 211.152.123.224 [open]  253.836 ms
+seq 805: tcp response from 111.206.227.118 [open]  456.920 ms
+seq 806: tcp response from 211.152.123.224 [open]  243.362 ms
+seq 803: no response (timeout)
+seq 807: tcp response from 111.206.227.118 [open]  458.516 ms
+seq 809: tcp response from 111.206.227.118 [open]  441.531 ms
+seq 810: tcp response from 211.152.123.224 [open]  247.454 ms
+seq 808: tcp response from 211.152.123.224 [open]  248.922 ms
+seq 812: tcp response from 211.152.123.224 [open]  255.259 ms
+seq 811: tcp response from 111.206.227.118 [open]  1469.021 ms
+seq 813: tcp response from 111.206.227.118 [open]  443.770 ms
+seq 814: tcp response from 211.152.123.224 [open]  245.904 ms
+seq 815: tcp response from 111.206.227.118 [open]  460.471 ms
+seq 817: tcp response from 111.206.227.118 [open]  211.617 ms
+seq 820: tcp response from 211.152.123.224 [open]  246.191 ms
+seq 819: tcp response from 111.206.227.118 [open]  1465.654 ms
+seq 816: no response (timeout)
+seq 818: no response (timeout)
+seq 823: tcp response from 211.152.123.224 [open]  246.115 ms
+seq 821: no response (timeout)
+seq 825: tcp response from 111.206.227.118 [open]  456.743 ms
+seq 824: no response (timeout)
+seq 822: tcp response from 111.206.227.118 [open]  1641.729 ms
+seq 828: tcp response from 211.152.123.224 [open]  261.716 ms
+seq 826: no response (timeout)
+seq 830: tcp response from 211.152.123.224 [open]  261.148 ms
+seq 827: no response (timeout)
+seq 829: no response (timeout)
+seq 831: tcp response from 111.206.227.118 [open]  440.294 ms
+seq 832: tcp response from 211.152.123.224 [open]  246.525 ms
+seq 833: tcp response from 211.152.123.224 [open]  248.041 ms
+seq 834: tcp response from 111.206.227.118 [open]  453.465 ms
+seq 835: tcp response from 211.152.123.224 [open]  248.423 ms
+seq 837: tcp response from 211.152.123.224 [open]  245.882 ms
+seq 836: tcp response from 111.206.227.118 [open]  1839.614 ms
+seq 838: tcp response from 111.206.227.118 [open]  462.445 ms
+seq 840: tcp response from 111.206.227.118 [open]  1444.112 ms
+seq 841: tcp response from 211.152.123.224 [open]  1250.193 ms
+seq 839: no response (timeout)
+seq 842: tcp response from 111.206.227.118 [open]  455.297 ms
+seq 844: tcp response from 111.206.227.118 [open]  456.410 ms
+seq 845: tcp response from 211.152.123.224 [open]  248.084 ms
+seq 843: no response (timeout)
+seq 846: tcp response from 111.206.227.118 [open]  1463.107 ms
+seq 849: tcp response from 211.152.123.224 [open]  262.772 ms
+seq 847: tcp response from 211.152.123.224 [open]  250.510 ms
+seq 850: tcp response from 111.206.227.118 [open]  454.761 ms
+seq 848: tcp response from 111.206.227.118 [open]  215.790 ms
+seq 851: tcp response from 211.152.123.224 [open]  245.578 ms
+seq 853: tcp response from 211.152.123.224 [open]  257.757 ms
+seq 854: tcp response from 111.206.227.118 [open]  444.253 ms
+seq 852: no response (timeout)
+seq 856: tcp response from 111.206.227.118 [open]  429.683 ms
+seq 857: tcp response from 211.152.123.224 [open]  242.802 ms
+seq 855: no response (timeout)
+seq 859: tcp response from 211.152.123.224 [open]  258.355 ms
+seq 858: no response (timeout)
+seq 861: tcp response from 211.152.123.224 [open]  232.977 ms
+seq 863: tcp response from 211.152.123.224 [open]  260.241 ms
+seq 864: tcp response from 111.206.227.118 [open]  469.059 ms
+seq 865: tcp response from 211.152.123.224 [open]  249.041 ms
+seq 860: no response (timeout)
+seq 862: tcp response from 111.206.227.118 [open]  461.126 ms
+seq 866: tcp response from 111.206.227.118 [open]  469.002 ms
+seq 868: tcp response from 111.206.227.118 [open]  442.070 ms
+seq 869: tcp response from 211.152.123.224 [open]  239.668 ms
+seq 867: no response (timeout)
+seq 871: tcp response from 211.152.123.224 [open]  245.967 ms
+seq 872: tcp response from 111.206.227.118 [open]  212.341 ms
+seq 870: no response (timeout)
+seq 873: tcp response from 211.152.123.224 [open]  255.276 ms
+seq 875: tcp response from 211.152.123.224 [open]  261.410 ms
+seq 874: tcp response from 111.206.227.118 [open]  1665.708 ms
+seq 876: tcp response from 111.206.227.118 [open]  456.269 ms
+seq 877: tcp response from 211.152.123.224 [open]  245.822 ms
+seq 878: tcp response from 111.206.227.118 [open]  449.665 ms
+seq 879: tcp response from 211.152.123.224 [open]  255.212 ms
+seq 880: tcp response from 111.206.227.118 [open]  436.405 ms
+seq 883: tcp response from 211.152.123.224 [open]  261.425 ms
+seq 881: no response (timeout)
+seq 882: tcp response from 111.206.227.118 [open]  462.063 ms
+seq 885: tcp response from 211.152.123.224 [open]  255.054 ms
+seq 884: tcp response from 111.206.227.118 [open]  1455.130 ms
+seq 886: tcp response from 111.206.227.118 [open]  458.622 ms
+seq 887: tcp response from 211.152.123.224 [open]  292.366 ms
+seq 889: tcp response from 211.152.123.224 [open]  247.656 ms
+seq 890: tcp response from 111.206.227.118 [open]  455.672 ms
+seq 888: tcp response from 111.206.227.118 [open]  444.906 ms
+seq 891: tcp response from 211.152.123.224 [open]  236.020 ms
+seq 893: tcp response from 211.152.123.224 [open]  245.869 ms
+seq 892: tcp response from 111.206.227.118 [open]  1863.833 ms
+seq 894: no response (timeout)
+seq 895: no response (timeout)
+seq 896: tcp response from 111.206.227.118 [open]  471.020 ms
+seq 897: tcp response from 211.152.123.224 [open]  260.591 ms
+seq 899: tcp response from 211.152.123.224 [open]  262.053 ms
+seq 898: tcp response from 111.206.227.118 [open]  1660.221 ms
+seq 900: tcp response from 111.206.227.118 [open]  442.450 ms
+seq 901: tcp response from 211.152.123.224 [open]  246.523 ms
+seq 902: tcp response from 111.206.227.118 [open]  455.042 ms
+seq 903: tcp response from 211.152.123.224 [open]  260.883 ms
+seq 904: tcp response from 111.206.227.118 [open]  463.256 ms
+seq 905: tcp response from 211.152.123.224 [open]  257.853 ms
+seq 906: tcp response from 111.206.227.118 [open]  448.959 ms
+seq 907: tcp response from 211.152.123.224 [open]  244.613 ms
+seq 908: tcp response from 111.206.227.118 [open]  463.062 ms
+seq 910: tcp response from 111.206.227.118 [open]  451.791 ms
+seq 909: tcp response from 211.152.123.224 [open]  255.263 ms
+seq 911: tcp response from 211.152.123.224 [open]  259.722 ms
+seq 912: tcp response from 111.206.227.118 [open]  450.703 ms
+seq 913: tcp response from 211.152.123.224 [open]  256.377 ms
+seq 915: tcp response from 211.152.123.224 [open]  241.997 ms
+seq 916: tcp response from 111.206.227.118 [open]  439.201 ms
+seq 914: no response (timeout)
+seq 918: tcp response from 111.206.227.118 [open]  457.428 ms
+seq 917: no response (timeout)
+seq 919: tcp response from 211.152.123.224 [open]  245.858 ms
+seq 920: tcp response from 111.206.227.118 [open]  212.746 ms
+seq 921: tcp response from 211.152.123.224 [open]  257.404 ms
+seq 925: tcp response from 111.206.227.118 [open]  455.701 ms
+seq 923: tcp response from 111.206.227.118 [open]  449.770 ms
+seq 922: tcp response from 111.206.227.118 [open]  439.592 ms
+seq 924: tcp response from 111.206.227.118 [open]  456.750 ms
+seq 926: tcp response from 111.206.227.118 [open]  463.021 ms
+seq 929: tcp response from 211.152.123.224 [open]  253.026 ms
+seq 928: no response (timeout)
+seq 931: tcp response from 211.152.123.224 [open]  247.748 ms
+seq 930: tcp response from 111.206.227.118 [open]  460.102 ms
+seq 927: no response (timeout)
+seq 933: tcp response from 211.152.123.224 [open]  262.548 ms
+seq 932: tcp response from 111.206.227.118 [open]  1644.229 ms
+seq 935: tcp response from 211.152.123.224 [open]  252.312 ms
+seq 934: tcp response from 111.206.227.118 [open]  1649.895 ms
+seq 936: tcp response from 111.206.227.118 [open]  212.105 ms
+seq 937: tcp response from 211.152.123.224 [open]  257.457 ms
+seq 938: tcp response from 111.206.227.118 [open]  435.952 ms
+seq 940: tcp response from 111.206.227.118 [open]  440.586 ms
+seq 941: tcp response from 211.152.123.224 [open]  245.785 ms
+seq 939: tcp response from 211.152.123.224 [open]  258.824 ms
+seq 942: tcp response from 111.206.227.118 [open]  456.568 ms
+seq 943: tcp response from 211.152.123.224 [open]  486.610 ms
+seq 944: tcp response from 111.206.227.118 [open]  439.740 ms
+seq 945: tcp response from 211.152.123.224 [open]  257.976 ms
+seq 947: tcp response from 211.152.123.224 [open]  246.107 ms
+seq 946: tcp response from 111.206.227.118 [open]  1646.856 ms
+seq 949: tcp response from 211.152.123.224 [open]  248.993 ms
+seq 950: tcp response from 111.206.227.118 [open]  212.342 ms
+seq 948: no response (timeout)
+seq 951: tcp response from 211.152.123.224 [open]  287.242 ms
+seq 953: tcp response from 211.152.123.224 [open]  259.841 ms
+seq 952: tcp response from 111.206.227.118 [open]  488.072 ms
+seq 954: tcp response from 111.206.227.118 [open]  1652.646 ms
+seq 955: tcp response from 211.152.123.224 [open]  246.101 ms
+seq 958: tcp response from 111.206.227.118 [open]  445.438 ms
+seq 957: tcp response from 211.152.123.224 [open]  243.466 ms
+seq 956: no response (timeout)
+seq 960: tcp response from 111.206.227.118 [open]  472.816 ms
+seq 961: tcp response from 211.152.123.224 [open]  249.327 ms
+seq 959: no response (timeout)
+seq 962: tcp response from 111.206.227.118 [open]  463.726 ms
+seq 963: tcp response from 211.152.123.224 [open]  261.685 ms
+seq 965: tcp response from 211.152.123.224 [open]  259.244 ms
+seq 964: tcp response from 111.206.227.118 [open]  457.586 ms
+seq 966: tcp response from 111.206.227.118 [open]  215.138 ms
+seq 967: tcp response from 211.152.123.224 [open]  245.331 ms
+seq 969: tcp response from 211.152.123.224 [open]  245.756 ms
+seq 968: tcp response from 111.206.227.118 [open]  444.265 ms
+seq 971: tcp response from 211.152.123.224 [open]  261.402 ms
+seq 972: tcp response from 111.206.227.118 [open]  458.668 ms
+seq 973: tcp response from 211.152.123.224 [open]  257.663 ms
+seq 970: no response (timeout)
+seq 974: tcp response from 111.206.227.118 [open]  214.728 ms
+seq 975: tcp response from 211.152.123.224 [open]  250.340 ms
+seq 976: tcp response from 111.206.227.118 [open]  1867.415 ms
+seq 978: tcp response from 111.206.227.118 [open]  467.076 ms
+seq 977: no response (timeout)
+seq 981: tcp response from 211.152.123.224 [open]  258.373 ms
+seq 980: tcp response from 111.206.227.118 [open]  446.180 ms
+seq 979: tcp response from 211.152.123.224 [open]  1459.735 ms
+seq 982: no response (timeout)
+seq 984: tcp response from 111.206.227.118 [open]  1414.814 ms
+seq 983: tcp response from 211.152.123.224 [open]  252.461 ms
+seq 985: tcp response from 211.152.123.224 [open]  263.593 ms
+seq 986: tcp response from 111.206.227.118 [open]  458.144 ms
+seq 987: tcp response from 211.152.123.224 [open]  1249.400 ms
+seq 990: tcp response from 111.206.227.118 [open]  458.402 ms
+seq 989: tcp response from 211.152.123.224 [open]  262.568 ms
+seq 988: tcp response from 111.206.227.118 [open]  1674.457 ms
+seq 992: tcp response from 111.206.227.118 [open]  468.259 ms
+seq 991: tcp response from 211.152.123.224 [open]  1447.402 ms
+seq 993: tcp response from 211.152.123.224 [open]  277.294 ms
+seq 994: tcp response from 111.206.227.118 [open]  212.217 ms
+seq 996: tcp response from 111.206.227.118 [open]  475.818 ms
+seq 995: tcp response from 211.152.123.224 [open]  262.355 ms
+seq 997: tcp response from 211.152.123.224 [open]  252.283 ms
+seq 998: tcp response from 111.206.227.118 [open]  473.017 ms
+seq 999: tcp response from 211.152.123.224 [open]  262.168 ms
+seq 1000: tcp response from 111.206.227.118 [open]  454.535 ms
+seq 1001: tcp response from 211.152.123.224 [open]  249.065 ms
+seq 1004: tcp response from 111.206.227.118 [open]  440.890 ms
+seq 1002: no response (timeout)
+seq 1005: tcp response from 211.152.123.224 [open]  263.157 ms
+seq 1003: tcp response from 211.152.123.224 [open]  248.707 ms
+seq 1006: tcp response from 111.206.227.118 [open]  458.839 ms
+seq 1007: tcp response from 211.152.123.224 [open]  245.872 ms
+seq 1008: tcp response from 111.206.227.118 [open]  216.095 ms
+seq 1009: tcp response from 211.152.123.224 [open]  257.322 ms
+seq 1011: tcp response from 211.152.123.224 [open]  258.888 ms
+seq 1010: tcp response from 111.206.227.118 [open]  464.397 ms
+seq 1013: tcp response from 211.152.123.224 [open]  258.855 ms
+seq 1012: tcp response from 111.206.227.118 [open]  1453.995 ms
+seq 1014: tcp response from 111.206.227.118 [open]  451.820 ms
+seq 1016: tcp response from 211.152.123.224 [open]  256.061 ms
+seq 1015: tcp response from 111.206.227.118 [open]  1450.979 ms
+seq 1017: tcp response from 111.206.227.118 [open]  458.786 ms
+seq 1018: tcp response from 211.152.123.224 [open]  250.909 ms
+seq 1019: tcp response from 111.206.227.118 [open]  443.294 ms
+seq 1020: tcp response from 211.152.123.224 [open]  246.050 ms
+seq 1021: tcp response from 111.206.227.118 [open]  445.262 ms
+seq 1022: tcp response from 211.152.123.224 [open]  255.516 ms
+seq 1023: tcp response from 111.206.227.118 [open]  454.236 ms
+seq 1024: tcp response from 211.152.123.224 [open]  515.218 ms
+seq 1026: tcp response from 211.152.123.224 [open]  254.878 ms
+seq 1025: tcp response from 111.206.227.118 [open]  1658.490 ms
+seq 1027: tcp response from 111.206.227.118 [open]  1444.582 ms
+seq 1029: tcp response from 111.206.227.118 [open]  463.610 ms
+seq 1030: tcp response from 211.152.123.224 [open]  249.677 ms
+seq 1028: tcp response from 211.152.123.224 [open]  251.160 ms
+seq 1031: tcp response from 111.206.227.118 [open]  461.013 ms
+seq 1032: tcp response from 211.152.123.224 [open]  262.454 ms
+seq 1033: tcp response from 111.206.227.118 [open]  453.046 ms
+seq 1034: tcp response from 211.152.123.224 [open]  260.112 ms
+seq 1035: tcp response from 111.206.227.118 [open]  447.476 ms
+seq 1036: tcp response from 211.152.123.224 [open]  260.585 ms
+seq 1037: tcp response from 111.206.227.118 [open]  466.511 ms
+seq 1038: tcp response from 211.152.123.224 [open]  245.832 ms
+seq 1039: tcp response from 111.206.227.118 [open]  217.393 ms
+seq 1040: tcp response from 211.152.123.224 [open]  257.652 ms
+seq 1041: tcp response from 111.206.227.118 [open]  469.686 ms
+seq 1042: tcp response from 211.152.123.224 [open]  245.105 ms
+seq 1043: tcp response from 111.206.227.118 [open]  447.471 ms
+seq 1044: tcp response from 211.152.123.224 [open]  257.313 ms
+seq 1046: tcp response from 211.152.123.224 [open]  248.499 ms
+seq 1045: tcp response from 111.206.227.118 [open]  1470.871 ms
+seq 1048: tcp response from 211.152.123.224 [open]  260.115 ms
+seq 1049: tcp response from 111.206.227.118 [open]  465.760 ms
+seq 1051: tcp response from 111.206.227.118 [open]  452.056 ms
+seq 1047: tcp response from 111.206.227.118 [open]  445.198 ms
+seq 1052: tcp response from 211.152.123.224 [open]  253.042 ms
+seq 1050: tcp response from 211.152.123.224 [open]  255.815 ms
+seq 1053: tcp response from 111.206.227.118 [open]  454.008 ms
+seq 1055: tcp response from 111.206.227.118 [open]  459.505 ms
+seq 1056: tcp response from 211.152.123.224 [open]  248.272 ms
+seq 1057: tcp response from 111.206.227.118 [open]  451.216 ms
+seq 1054: tcp response from 211.152.123.224 [open]  248.618 ms
+seq 1058: tcp response from 211.152.123.224 [open]  244.483 ms
+seq 1059: tcp response from 111.206.227.118 [open]  445.339 ms
+seq 1060: tcp response from 211.152.123.224 [open]  261.854 ms
+seq 1061: tcp response from 111.206.227.118 [open]  450.078 ms
+seq 1062: tcp response from 211.152.123.224 [open]  285.172 ms
+seq 1063: tcp response from 111.206.227.118 [open]  460.067 ms
+seq 1064: tcp response from 211.152.123.224 [open]  262.546 ms
+seq 1065: tcp response from 111.206.227.118 [open]  220.594 ms
+seq 1066: tcp response from 211.152.123.224 [open]  262.477 ms
+seq 1067: tcp response from 111.206.227.118 [open]  458.215 ms
+seq 1068: tcp response from 211.152.123.224 [open]  249.479 ms
+seq 1069: tcp response from 111.206.227.118 [open]  456.296 ms
+seq 1070: tcp response from 211.152.123.224 [open]  248.446 ms
+seq 1071: tcp response from 111.206.227.118 [open]  450.715 ms
+seq 1072: tcp response from 211.152.123.224 [open]  261.331 ms
+seq 1073: tcp response from 111.206.227.118 [open]  497.927 ms
+seq 1074: tcp response from 211.152.123.224 [open]  244.608 ms
+seq 1076: tcp response from 211.152.123.224 [open]  254.270 ms
+seq 1075: tcp response from 111.206.227.118 [open]  1462.908 ms
+seq 1078: tcp response from 211.152.123.224 [open]  255.212 ms
+seq 1077: no response (timeout)
+seq 1080: tcp response from 211.152.123.224 [open]  261.990 ms
+seq 1079: tcp response from 111.206.227.118 [open]  1856.165 ms
+seq 1081: tcp response from 111.206.227.118 [open]  444.270 ms
+seq 1082: tcp response from 211.152.123.224 [open]  262.376 ms
+seq 1083: tcp response from 111.206.227.118 [open]  463.455 ms
+seq 1085: tcp response from 111.206.227.118 [open]  215.551 ms
+seq 1084: no response (timeout)
+seq 1086: tcp response from 211.152.123.224 [open]  261.568 ms
+seq 1087: tcp response from 111.206.227.118 [open]  476.942 ms
+seq 1090: tcp response from 211.152.123.224 [open]  262.549 ms
+seq 1088: no response (timeout)
+seq 1089: tcp response from 111.206.227.118 [open]  1847.550 ms
+seq 1092: tcp response from 211.152.123.224 [open]  245.593 ms
+seq 1091: no response (timeout)
+seq 1093: tcp response from 111.206.227.118 [open]  451.043 ms
+seq 1094: tcp response from 211.152.123.224 [open]  253.157 ms
+seq 1096: tcp response from 211.152.123.224 [open]  260.273 ms
+seq 1095: tcp response from 111.206.227.118 [open]  1854.721 ms
+seq 1098: tcp response from 211.152.123.224 [open]  262.576 ms
+seq 1099: tcp response from 111.206.227.118 [open]  456.129 ms
+seq 1097: tcp response from 111.206.227.118 [open]  439.779 ms
+seq 1100: tcp response from 211.152.123.224 [open]  256.977 ms
+seq 1101: tcp response from 111.206.227.118 [open]  447.796 ms
+seq 1102: tcp response from 211.152.123.224 [open]  245.670 ms
+seq 1104: tcp response from 211.152.123.224 [open]  258.838 ms
+seq 1103: tcp response from 111.206.227.118 [open]  1864.978 ms
+seq 1105: tcp response from 111.206.227.118 [open]  217.316 ms
+seq 1106: tcp response from 211.152.123.224 [open]  249.318 ms
+seq 1110: no response (timeout)
+seq 1107: tcp response from 211.152.123.224 [open]  261.162 ms
+seq 1108: tcp response from 211.152.123.224 [open]  248.463 ms
+seq 1109: tcp response from 211.152.123.224 [open]  253.213 ms
+seq 1113: tcp response from 211.152.123.224 [open]  260.056 ms
+seq 1111: no response (timeout)
+seq 1114: tcp response from 211.152.123.224 [open]  1246.753 ms
+seq 1112: no response (timeout)
+seq 1119: tcp response from 111.206.227.118 [open]  229.978 ms
+seq 1115: tcp response from 111.206.227.118 [open]  450.432 ms
+seq 1117: no response (timeout)
+seq 1120: tcp response from 211.152.123.224 [open]  244.800 ms
+seq 1118: no response (timeout)
+seq 1116: no response (timeout)
+seq 1124: tcp response from 211.152.123.224 [open]  249.870 ms
+seq 1122: tcp response from 211.152.123.224 [open]  259.063 ms
+seq 1123: tcp response from 111.206.227.118 [open]  457.540 ms
+seq 1125: tcp response from 111.206.227.118 [open]  455.549 ms
+seq 1121: no response (timeout)
+seq 1126: tcp response from 211.152.123.224 [open]  247.658 ms
+seq 1127: tcp response from 111.206.227.118 [open]  453.992 ms
+seq 1128: tcp response from 211.152.123.224 [open]  250.835 ms
+seq 1130: tcp response from 211.152.123.224 [open]  258.769 ms
+seq 1131: tcp response from 111.206.227.118 [open]  450.915 ms
+seq 1129: tcp response from 111.206.227.118 [open]  256.433 ms
+seq 1132: tcp response from 211.152.123.224 [open]  261.301 ms
+seq 1134: tcp response from 211.152.123.224 [open]  1245.742 ms
+seq 1135: tcp response from 111.206.227.118 [open]  467.086 ms
+seq 1133: no response (timeout)
+seq 1136: tcp response from 211.152.123.224 [open]  251.236 ms
+seq 1137: tcp response from 111.206.227.118 [open]  455.124 ms
+seq 1139: tcp response from 111.206.227.118 [open]  444.915 ms
+seq 1140: tcp response from 211.152.123.224 [open]  250.105 ms
+seq 1138: no response (timeout)
+seq 1141: tcp response from 111.206.227.118 [open]  215.558 ms
+seq 1143: tcp response from 111.206.227.118 [open]  240.389 ms
+seq 1142: no response (timeout)
+seq 1145: tcp response from 111.206.227.118 [open]  451.970 ms
+seq 1144: no response (timeout)
+seq 1147: tcp response from 111.206.227.118 [open]  215.648 ms
+seq 1146: tcp response from 211.152.123.224 [open]  1461.529 ms
+seq 1150: tcp response from 211.152.123.224 [open]  250.209 ms
+seq 1149: tcp response from 111.206.227.118 [open]  1882.594 ms
+seq 1148: no response (timeout)
+seq 1151: tcp response from 111.206.227.118 [open]  453.796 ms
+seq 1153: tcp response from 111.206.227.118 [open]  440.591 ms
+seq 1154: tcp response from 211.152.123.224 [open]  262.416 ms
+seq 1152: no response (timeout)
+seq 1155: tcp response from 111.206.227.118 [open]  466.519 ms
+seq 1157: tcp response from 111.206.227.118 [open]  212.470 ms
+seq 1156: no response (timeout)
+seq 1158: no response (timeout)
+seq 1160: tcp response from 211.152.123.224 [open]  242.142 ms
+seq 1159: no response (timeout)
+seq 1162: tcp response from 211.152.123.224 [open]  260.655 ms
+seq 1161: tcp response from 111.206.227.118 [open]  1836.313 ms
+seq 1163: tcp response from 111.206.227.118 [open]  215.278 ms
+seq 1164: tcp response from 211.152.123.224 [open]  249.475 ms
+seq 1165: tcp response from 111.206.227.118 [open]  473.322 ms
+seq 1166: tcp response from 211.152.123.224 [open]  245.855 ms
+seq 1167: tcp response from 111.206.227.118 [open]  232.758 ms
+seq 1169: tcp response from 111.206.227.118 [open]  490.497 ms
+seq 1168: tcp response from 211.152.123.224 [open]  1459.375 ms
+seq 1170: tcp response from 211.152.123.224 [open]  262.240 ms
+seq 1172: tcp response from 211.152.123.224 [open]  244.537 ms
+seq 1171: tcp response from 111.206.227.118 [open]  2176.221 ms
+seq 1173: tcp response from 111.206.227.118 [open]  470.975 ms
+seq 1175: tcp response from 111.206.227.118 [open]  1635.134 ms
+seq 1176: tcp response from 211.152.123.224 [open]  249.403 ms
+seq 1174: no response (timeout)
+seq 1178: tcp response from 211.152.123.224 [open]  257.917 ms
+seq 1177: no response (timeout)
+seq 1180: tcp response from 211.152.123.224 [open]  262.035 ms
+seq 1179: no response (timeout)
+seq 1182: tcp response from 211.152.123.224 [open]  248.719 ms
+seq 1181: no response (timeout)
+seq 1184: tcp response from 211.152.123.224 [open]  257.400 ms
+seq 1183: no response (timeout)
+seq 1186: tcp response from 211.152.123.224 [open]  242.344 ms
+seq 1185: tcp response from 111.206.227.118 [open]  1852.417 ms
+seq 1187: tcp response from 111.206.227.118 [open]  438.355 ms
+seq 1188: tcp response from 211.152.123.224 [open]  262.636 ms
+seq 1190: tcp response from 211.152.123.224 [open]  251.028 ms
+seq 1189: tcp response from 111.206.227.118 [open]  1456.036 ms
+seq 1192: tcp response from 211.152.123.224 [open]  256.415 ms
+seq 1194: tcp response from 211.152.123.224 [open]  262.837 ms
+seq 1195: tcp response from 111.206.227.118 [open]  230.442 ms
+seq 1193: no response (timeout)
+seq 1198: tcp response from 111.206.227.118 [open]  447.479 ms
+seq 1196: tcp response from 111.206.227.118 [open]  214.532 ms
+seq 1191: tcp response from 111.206.227.118 [open]  1835.319 ms
+seq 1197: no response (timeout)
+seq 1200: tcp response from 111.206.227.118 [open]  215.432 ms
+seq 1199: tcp response from 211.152.123.224 [open]  251.115 ms
+seq 1201: tcp response from 211.152.123.224 [open]  1456.664 ms
+seq 1202: tcp response from 111.206.227.118 [open]  215.584 ms
+seq 1203: tcp response from 211.152.123.224 [open]  258.581 ms
+seq 1204: tcp response from 111.206.227.118 [open]  456.438 ms
+seq 1205: tcp response from 211.152.123.224 [open]  264.476 ms
+seq 1207: tcp response from 211.152.123.224 [open]  246.999 ms
+seq 1206: no response (timeout)
+seq 1208: tcp response from 111.206.227.118 [open]  1845.573 ms
+seq 1209: tcp response from 211.152.123.224 [open]  262.019 ms
+seq 1210: tcp response from 111.206.227.118 [open]  458.236 ms
+seq 1212: tcp response from 111.206.227.118 [open]  212.671 ms
+seq 1213: tcp response from 211.152.123.224 [open]  262.000 ms
+seq 1211: no response (timeout)
+seq 1215: tcp response from 211.152.123.224 [open]  249.096 ms
+seq 1214: tcp response from 111.206.227.118 [open]  1414.686 ms
+seq 1216: tcp response from 111.206.227.118 [open]  460.021 ms
+seq 1217: tcp response from 211.152.123.224 [open]  247.828 ms
+seq 1218: tcp response from 111.206.227.118 [open]  456.544 ms
+seq 1219: tcp response from 211.152.123.224 [open]  262.467 ms
+seq 1221: tcp response from 111.206.227.118 [open]  1834.088 ms
+seq 1220: tcp response from 211.152.123.224 [open]  260.803 ms
+seq 1222: tcp response from 211.152.123.224 [open]  244.742 ms
+seq 1225: tcp response from 211.152.123.224 [open]  254.698 ms
+seq 1224: no response (timeout)
+seq 1223: no response (timeout)
+seq 1226: tcp response from 111.206.227.118 [open]  463.079 ms
+seq 1227: tcp response from 211.152.123.224 [open]  244.032 ms
+seq 1230: tcp response from 111.206.227.118 [open]  457.816 ms
+seq 1229: tcp response from 211.152.123.224 [open]  1457.993 ms
+seq 1228: no response (timeout)
+seq 1231: tcp response from 211.152.123.224 [open]  261.494 ms
+seq 1233: tcp response from 211.152.123.224 [open]  274.481 ms
+seq 1232: tcp response from 111.206.227.118 [open]  1851.084 ms
+seq 1235: tcp response from 211.152.123.224 [open]  260.781 ms
+seq 1236: tcp response from 111.206.227.118 [open]  216.454 ms
+seq 1234: no response (timeout)
+seq 1238: tcp response from 111.206.227.118 [open]  215.293 ms
+seq 1237: tcp response from 211.152.123.224 [open]  258.865 ms
+seq 1239: tcp response from 211.152.123.224 [open]  262.714 ms
+seq 1240: tcp response from 111.206.227.118 [open]  456.854 ms
+seq 1241: tcp response from 211.152.123.224 [open]  250.054 ms
+seq 1243: tcp response from 211.152.123.224 [open]  247.413 ms
+seq 1244: tcp response from 111.206.227.118 [open]  449.272 ms
+seq 1246: tcp response from 111.206.227.118 [open]  445.283 ms
+seq 1242: no response (timeout)
+seq 1245: tcp response from 211.152.123.224 [open]  261.098 ms
+seq 1247: tcp response from 211.152.123.224 [open]  261.265 ms
+seq 1248: tcp response from 111.206.227.118 [open]  454.994 ms
+seq 1249: tcp response from 211.152.123.224 [open]  249.360 ms
+seq 1250: tcp response from 111.206.227.118 [open]  1450.870 ms
+seq 1251: tcp response from 211.152.123.224 [open]  1460.423 ms
+seq 1252: tcp response from 111.206.227.118 [open]  1457.510 ms
+seq 1253: tcp response from 211.152.123.224 [open]  258.022 ms
+seq 1254: tcp response from 111.206.227.118 [open]  223.354 ms
+seq 1255: tcp response from 211.152.123.224 [open]  249.199 ms
+seq 1256: tcp response from 111.206.227.118 [open]  1848.137 ms
+seq 1258: tcp response from 111.206.227.118 [open]  215.417 ms
+seq 1257: tcp response from 211.152.123.224 [open]  256.010 ms
+seq 1260: tcp response from 111.206.227.118 [open]  456.963 ms
+seq 1261: tcp response from 211.152.123.224 [open]  249.392 ms
+seq 1259: tcp response from 211.152.123.224 [open]  262.567 ms
+seq 1262: tcp response from 111.206.227.118 [open]  466.979 ms
+seq 1263: tcp response from 211.152.123.224 [open]  259.079 ms
+seq 1264: tcp response from 111.206.227.118 [open]  217.209 ms
+seq 1266: tcp response from 111.206.227.118 [open]  213.756 ms
+seq 1269: tcp response from 211.152.123.224 [open]  245.908 ms
+seq 1265: tcp response from 211.152.123.224 [open]  257.645 ms
+seq 1267: no response (timeout)
+seq 1268: no response (timeout)
+seq 1270: tcp response from 111.206.227.118 [open]  1856.600 ms
+seq 1272: tcp response from 111.206.227.118 [open]  214.601 ms
+seq 1271: no response (timeout)
+seq 1273: tcp response from 211.152.123.224 [open]  665.771 ms
+seq 1276: tcp response from 111.206.227.118 [open]  457.265 ms
+seq 1274: no response (timeout)
+seq 1275: no response (timeout)
+seq 1277: tcp response from 211.152.123.224 [open]  460.904 ms
+seq 1279: tcp response from 211.152.123.224 [open]  261.398 ms
+seq 1280: tcp response from 111.206.227.118 [open]  218.833 ms
+seq 1278: no response (timeout)
+seq 1281: no response (timeout)
+seq 1284: tcp response from 111.206.227.118 [open]  657.847 ms
+seq 1283: tcp response from 111.206.227.118 [open]  212.014 ms
+seq 1282: no response (timeout)
+seq 1285: no response (timeout)
+seq 1287: tcp response from 111.206.227.118 [open]  458.815 ms
+seq 1289: tcp response from 111.206.227.118 [open]  455.815 ms
+seq 1290: tcp response from 211.152.123.224 [open]  258.177 ms
+seq 1286: tcp response from 211.152.123.224 [open]  1437.291 ms
+seq 1288: no response (timeout)
+seq 1291: tcp response from 111.206.227.118 [open]  467.485 ms
+seq 1292: tcp response from 211.152.123.224 [open]  259.400 ms
+seq 1293: tcp response from 111.206.227.118 [open]  470.043 ms
+seq 1294: tcp response from 211.152.123.224 [open]  258.645 ms
+seq 1295: tcp response from 111.206.227.118 [open]  218.817 ms
+seq 1296: tcp response from 211.152.123.224 [open]  256.157 ms
+seq 1297: tcp response from 111.206.227.118 [open]  452.843 ms
+seq 1299: tcp response from 111.206.227.118 [open]  471.972 ms
+seq 1300: tcp response from 211.152.123.224 [open]  260.645 ms
+seq 1301: tcp response from 111.206.227.118 [open]  214.612 ms
+seq 1298: tcp response from 211.152.123.224 [open]  255.450 ms
+seq 1303: tcp response from 111.206.227.118 [open]  214.604 ms
+seq 1304: tcp response from 211.152.123.224 [open]  257.281 ms
+seq 1302: tcp response from 211.152.123.224 [open]  232.140 ms
+seq 1305: tcp response from 111.206.227.118 [open]  212.724 ms
+seq 1306: tcp response from 211.152.123.224 [open]  261.528 ms
+seq 1307: tcp response from 111.206.227.118 [open]  457.412 ms
+seq 1309: tcp response from 111.206.227.118 [open]  450.358 ms
+seq 1308: no response (timeout)
+seq 1310: tcp response from 211.152.123.224 [open]  262.337 ms
+seq 1311: tcp response from 111.206.227.118 [open]  467.015 ms
+seq 1312: tcp response from 211.152.123.224 [open]  455.487 ms
+seq 1313: tcp response from 111.206.227.118 [open]  471.635 ms
+seq 1314: tcp response from 211.152.123.224 [open]  261.198 ms
+seq 1315: tcp response from 111.206.227.118 [open]  466.265 ms
+seq 1316: tcp response from 211.152.123.224 [open]  239.141 ms
+seq 1317: tcp response from 111.206.227.118 [open]  447.406 ms
+seq 1318: tcp response from 211.152.123.224 [open]  244.620 ms
+seq 1319: tcp response from 111.206.227.118 [open]  448.230 ms
+seq 1321: tcp response from 111.206.227.118 [open]  215.001 ms
+seq 1320: tcp response from 211.152.123.224 [open]  258.794 ms
+seq 1322: tcp response from 211.152.123.224 [open]  1457.996 ms
+seq 1324: tcp response from 211.152.123.224 [open]  258.124 ms
+seq 1323: tcp response from 111.206.227.118 [open]  1865.332 ms
+seq 1326: tcp response from 211.152.123.224 [open]  261.394 ms
+seq 1327: tcp response from 111.206.227.118 [open]  461.497 ms
+seq 1325: no response (timeout)
+seq 1328: tcp response from 211.152.123.224 [open]  258.532 ms
+seq 1330: tcp response from 211.152.123.224 [open]  248.975 ms
+seq 1331: tcp response from 111.206.227.118 [open]  214.846 ms
+seq 1332: tcp response from 211.152.123.224 [open]  234.612 ms
+seq 1334: tcp response from 211.152.123.224 [open]  245.532 ms
+seq 1333: tcp response from 111.206.227.118 [open]  214.785 ms
+seq 1329: no response (timeout)
+seq 1335: tcp response from 111.206.227.118 [open]  1447.663 ms
+seq 1336: tcp response from 211.152.123.224 [open]  252.979 ms
+seq 1339: tcp response from 111.206.227.118 [open]  213.154 ms
+seq 1337: tcp response from 111.206.227.118 [open]  462.056 ms
+seq 1338: tcp response from 211.152.123.224 [open]  258.993 ms
+seq 1340: tcp response from 211.152.123.224 [open]  258.205 ms
+seq 1342: tcp response from 211.152.123.224 [open]  256.682 ms
+seq 1341: no response (timeout)
+seq 1344: tcp response from 211.152.123.224 [open]  253.245 ms
+seq 1343: tcp response from 111.206.227.118 [open]  463.532 ms
+seq 1345: tcp response from 111.206.227.118 [open]  447.725 ms
+seq 1346: tcp response from 211.152.123.224 [open]  263.658 ms
+seq 1347: tcp response from 111.206.227.118 [open]  464.951 ms
+seq 1349: tcp response from 111.206.227.118 [open]  217.819 ms
+seq 1348: tcp response from 211.152.123.224 [open]  1460.392 ms
+seq 1350: tcp response from 211.152.123.224 [open]  260.768 ms
+seq 1351: tcp response from 111.206.227.118 [open]  211.531 ms
+seq 1352: tcp response from 211.152.123.224 [open]  244.773 ms
+seq 1353: tcp response from 111.206.227.118 [open]  462.384 ms
+seq 1355: tcp response from 111.206.227.118 [open]  466.058 ms
+seq 1354: tcp response from 211.152.123.224 [open]  263.151 ms
+seq 1356: tcp response from 211.152.123.224 [open]  249.889 ms
+seq 1358: tcp response from 211.152.123.224 [open]  245.054 ms
+seq 1359: tcp response from 111.206.227.118 [open]  449.937 ms
+seq 1360: tcp response from 211.152.123.224 [open]  257.045 ms
+seq 1361: tcp response from 111.206.227.118 [open]  439.171 ms
+seq 1357: tcp response from 111.206.227.118 [open]  1652.603 ms
+seq 1362: tcp response from 211.152.123.224 [open]  260.972 ms
+seq 1364: tcp response from 211.152.123.224 [open]  303.949 ms
+seq 1366: tcp response from 211.152.123.224 [open]  254.184 ms
+seq 1363: no response (timeout)
+seq 1365: no response (timeout)
+seq 1368: tcp response from 211.152.123.224 [open]  244.164 ms
+seq 1367: no response (timeout)
+seq 1370: tcp response from 211.152.123.224 [open]  238.701 ms
+seq 1371: tcp response from 111.206.227.118 [open]  462.425 ms
+seq 1369: no response (timeout)
+seq 1373: tcp response from 111.206.227.118 [open]  446.364 ms
+seq 1372: no response (timeout)
+seq 1377: tcp response from 111.206.227.118 [open]  212.425 ms
+seq 1378: tcp response from 211.152.123.224 [open]  261.466 ms
+seq 1379: tcp response from 111.206.227.118 [open]  482.250 ms
+seq 1374: no response (timeout)
+seq 1375: no response (timeout)
+seq 1376: no response (timeout)
+seq 1380: tcp response from 211.152.123.224 [open]  248.490 ms
+seq 1381: tcp response from 111.206.227.118 [open]  474.887 ms
+seq 1382: tcp response from 211.152.123.224 [open]  256.562 ms
+seq 1384: tcp response from 211.152.123.224 [open]  262.625 ms
+seq 1385: tcp response from 111.206.227.118 [open]  215.586 ms
+seq 1383: no response (timeout)
+seq 1388: tcp response from 211.152.123.224 [open]  252.369 ms
+seq 1387: tcp response from 111.206.227.118 [open]  1469.650 ms
+seq 1386: no response (timeout)
+seq 1389: tcp response from 111.206.227.118 [open]  472.292 ms
+seq 1390: tcp response from 211.152.123.224 [open]  278.582 ms
+seq 1391: tcp response from 111.206.227.118 [open]  453.089 ms
+seq 1392: tcp response from 211.152.123.224 [open]  261.420 ms
+seq 1394: tcp response from 211.152.123.224 [open]  247.191 ms
+seq 1393: tcp response from 111.206.227.118 [open]  1469.199 ms
+seq 1395: tcp response from 111.206.227.118 [open]  214.584 ms
+seq 1396: tcp response from 211.152.123.224 [open]  261.733 ms
+seq 1398: tcp response from 211.152.123.224 [open]  260.959 ms
+seq 1399: tcp response from 111.206.227.118 [open]  211.912 ms
+seq 1397: no response (timeout)
+seq 1400: tcp response from 211.152.123.224 [open]  259.111 ms
+seq 1401: tcp response from 111.206.227.118 [open]  1865.205 ms
+seq 1404: tcp response from 211.152.123.224 [open]  248.095 ms
+seq 1403: tcp response from 111.206.227.118 [open]  1448.979 ms
+seq 1402: no response (timeout)
+seq 1406: tcp response from 211.152.123.224 [open]  250.299 ms
+seq 1405: tcp response from 111.206.227.118 [open]  453.889 ms
+seq 1407: tcp response from 111.206.227.118 [open]  448.408 ms
+seq 1408: tcp response from 211.152.123.224 [open]  262.369 ms
+seq 1409: tcp response from 111.206.227.118 [open]  211.351 ms
+seq 1410: tcp response from 211.152.123.224 [open]  246.984 ms
+seq 1411: tcp response from 111.206.227.118 [open]  457.352 ms
+seq 1412: tcp response from 211.152.123.224 [open]  261.957 ms
+seq 1413: tcp response from 111.206.227.118 [open]  464.249 ms
+seq 1414: tcp response from 211.152.123.224 [open]  249.755 ms
+seq 1415: tcp response from 111.206.227.118 [open]  216.138 ms
+seq 1416: tcp response from 211.152.123.224 [open]  261.651 ms
+seq 1417: tcp response from 111.206.227.118 [open]  467.230 ms
+seq 1418: tcp response from 211.152.123.224 [open]  259.211 ms
+seq 1419: tcp response from 111.206.227.118 [open]  460.833 ms
+seq 1420: tcp response from 211.152.123.224 [open]  259.096 ms
+seq 1421: tcp response from 111.206.227.118 [open]  448.227 ms
+seq 1422: tcp response from 211.152.123.224 [open]  244.757 ms
+seq 1423: tcp response from 111.206.227.118 [open]  444.137 ms
+seq 1425: tcp response from 111.206.227.118 [open]  450.371 ms
+seq 1424: tcp response from 211.152.123.224 [open]  244.506 ms
+seq 1427: tcp response from 111.206.227.118 [open]  465.400 ms
+seq 1426: tcp response from 211.152.123.224 [open]  262.920 ms
+seq 1428: tcp response from 211.152.123.224 [open]  247.633 ms
+seq 1429: tcp response from 111.206.227.118 [open]  215.712 ms
+seq 1430: tcp response from 211.152.123.224 [open]  261.108 ms
+seq 1432: tcp response from 211.152.123.224 [open]  260.094 ms
+seq 1431: tcp response from 111.206.227.118 [open]  439.781 ms
+seq 1434: tcp response from 211.152.123.224 [open]  254.703 ms
+seq 1433: tcp response from 111.206.227.118 [open]  450.428 ms
+seq 1435: tcp response from 111.206.227.118 [open]  468.419 ms
+seq 1437: tcp response from 111.206.227.118 [open]  453.006 ms
+seq 1438: tcp response from 211.152.123.224 [open]  260.801 ms
+seq 1439: tcp response from 111.206.227.118 [open]  215.141 ms
+seq 1436: no response (timeout)
+seq 1440: tcp response from 211.152.123.224 [open]  248.922 ms
+seq 1441: tcp response from 111.206.227.118 [open]  273.488 ms
+seq 1442: tcp response from 211.152.123.224 [open]  237.340 ms
+seq 1443: tcp response from 111.206.227.118 [open]  443.139 ms
+seq 1444: tcp response from 211.152.123.224 [open]  289.124 ms
+seq 1445: tcp response from 111.206.227.118 [open]  471.683 ms
+seq 1446: tcp response from 211.152.123.224 [open]  260.956 ms
+seq 1448: tcp response from 211.152.123.224 [open]  249.817 ms
+seq 1447: no response (timeout)
+seq 1450: tcp response from 211.152.123.224 [open]  260.642 ms
+seq 1449: no response (timeout)
+seq 1452: tcp response from 211.152.123.224 [open]  260.164 ms
+seq 1451: tcp response from 111.206.227.118 [open]  464.711 ms
+seq 1453: tcp response from 111.206.227.118 [open]  441.751 ms
+seq 1454: tcp response from 211.152.123.224 [open]  262.402 ms
+seq 1455: tcp response from 111.206.227.118 [open]  215.945 ms
+seq 1456: tcp response from 211.152.123.224 [open]  249.917 ms
+seq 1457: tcp response from 111.206.227.118 [open]  467.383 ms
+seq 1458: tcp response from 211.152.123.224 [open]  257.821 ms
+seq 1459: tcp response from 111.206.227.118 [open]  463.866 ms
+seq 1460: tcp response from 211.152.123.224 [open]  262.169 ms
+seq 1461: tcp response from 111.206.227.118 [open]  215.819 ms
+seq 1463: tcp response from 111.206.227.118 [open]  216.206 ms
+seq 1464: tcp response from 211.152.123.224 [open]  256.762 ms
+seq 1462: no response (timeout)
+seq 1465: tcp response from 111.206.227.118 [open]  216.488 ms
+seq 1467: tcp response from 111.206.227.118 [open]  211.623 ms
+seq 1466: no response (timeout)
+seq 1469: tcp response from 111.206.227.118 [open]  442.927 ms
+seq 1468: no response (timeout)
+seq 1470: tcp response from 211.152.123.224 [open]  256.580 ms
+seq 1472: tcp response from 211.152.123.224 [open]  256.486 ms
+seq 1471: no response (timeout)
+seq 1473: tcp response from 111.206.227.118 [open]  464.340 ms
+seq 1474: tcp response from 211.152.123.224 [open]  259.058 ms
+seq 1475: tcp response from 111.206.227.118 [open]  215.442 ms
+seq 1476: tcp response from 211.152.123.224 [open]  262.185 ms
+seq 1477: tcp response from 111.206.227.118 [open]  460.753 ms
+seq 1478: tcp response from 211.152.123.224 [open]  241.925 ms
+seq 1479: tcp response from 111.206.227.118 [open]  469.307 ms
+seq 1480: tcp response from 211.152.123.224 [open]  232.544 ms
+seq 1481: tcp response from 111.206.227.118 [open]  463.280 ms
+seq 1482: tcp response from 211.152.123.224 [open]  258.478 ms
+seq 1483: tcp response from 111.206.227.118 [open]  457.742 ms
+seq 1485: tcp response from 111.206.227.118 [open]  463.755 ms
+seq 1484: tcp response from 211.152.123.224 [open]  1685.877 ms
+seq 1488: tcp response from 211.152.123.224 [open]  249.610 ms
+seq 1487: tcp response from 111.206.227.118 [open]  214.860 ms
+seq 1486: no response (timeout)
+seq 1489: tcp response from 111.206.227.118 [open]  215.064 ms
+seq 1490: tcp response from 211.152.123.224 [open]  260.679 ms
+seq 1491: tcp response from 111.206.227.118 [open]  213.287 ms
+seq 1492: tcp response from 211.152.123.224 [open]  258.961 ms
+seq 1493: tcp response from 111.206.227.118 [open]  433.115 ms
+seq 1494: tcp response from 211.152.123.224 [open]  248.955 ms
+seq 1495: tcp response from 111.206.227.118 [open]  444.429 ms
+seq 1496: tcp response from 211.152.123.224 [open]  248.683 ms
+seq 1497: tcp response from 111.206.227.118 [open]  215.224 ms
+seq 1498: tcp response from 211.152.123.224 [open]  258.862 ms
+seq 1500: tcp response from 211.152.123.224 [open]  262.598 ms
+seq 1501: tcp response from 111.206.227.118 [open]  447.309 ms
+seq 1499: no response (timeout)
+seq 1504: tcp response from 211.152.123.224 [open]  232.425 ms
+seq 1502: tcp response from 211.152.123.224 [open]  239.378 ms
+seq 1503: tcp response from 111.206.227.118 [open]  463.751 ms
+seq 1505: tcp response from 111.206.227.118 [open]  437.527 ms
+seq 1506: tcp response from 211.152.123.224 [open]  261.179 ms
+seq 1507: tcp response from 111.206.227.118 [open]  452.263 ms
+seq 1508: tcp response from 211.152.123.224 [open]  258.939 ms
+seq 1509: tcp response from 111.206.227.118 [open]  448.992 ms
+seq 1510: tcp response from 211.152.123.224 [open]  260.067 ms
+seq 1511: tcp response from 111.206.227.118 [open]  214.904 ms
+seq 1512: tcp response from 211.152.123.224 [open]  236.891 ms
+seq 1514: tcp response from 211.152.123.224 [open]  253.151 ms
+seq 1515: tcp response from 111.206.227.118 [open]  466.002 ms
+seq 1516: tcp response from 211.152.123.224 [open]  259.571 ms
+seq 1513: no response (timeout)
+seq 1518: tcp response from 211.152.123.224 [open]  261.431 ms
+seq 1517: tcp response from 111.206.227.118 [open]  1653.358 ms
+seq 1520: tcp response from 211.152.123.224 [open]  245.194 ms
+seq 1519: tcp response from 111.206.227.118 [open]  1215.175 ms
+seq 1521: tcp response from 111.206.227.118 [open]  454.945 ms
+seq 1522: no response (timeout)
+seq 1523: tcp response from 111.206.227.118 [open]  1849.738 ms
+seq 1524: tcp response from 211.152.123.224 [open]  258.477 ms
+seq 1526: tcp response from 211.152.123.224 [open]  258.786 ms
+seq 1525: tcp response from 111.206.227.118 [open]  1224.460 ms
+seq 1529: tcp response from 111.206.227.118 [open]  216.065 ms
+seq 1527: no response (timeout)
+seq 1528: no response (timeout)
+seq 1532: tcp response from 211.152.123.224 [open]  246.944 ms
+seq 1531: tcp response from 111.206.227.118 [open]  439.650 ms
+seq 1530: no response (timeout)
+seq 1533: tcp response from 111.206.227.118 [open]  456.542 ms
+seq 1535: tcp response from 111.206.227.118 [open]  216.048 ms
+seq 1534: tcp response from 211.152.123.224 [open]  245.731 ms
+seq 1536: tcp response from 211.152.123.224 [open]  256.581 ms
+seq 1537: tcp response from 111.206.227.118 [open]  432.944 ms
+seq 1538: tcp response from 211.152.123.224 [open]  261.644 ms
+seq 1539: tcp response from 111.206.227.118 [open]  435.521 ms
+seq 1540: tcp response from 211.152.123.224 [open]  261.760 ms
+seq 1541: tcp response from 111.206.227.118 [open]  1855.094 ms
+seq 1542: tcp response from 211.152.123.224 [open]  250.277 ms
+seq 1543: tcp response from 111.206.227.118 [open]  434.348 ms
+seq 1545: tcp response from 111.206.227.118 [open]  443.208 ms
+seq 1544: tcp response from 211.152.123.224 [open]  232.421 ms
+seq 1547: tcp response from 111.206.227.118 [open]  447.177 ms
+seq 1548: tcp response from 211.152.123.224 [open]  261.859 ms
+seq 1546: no response (timeout)
+seq 1549: no response (timeout)
+seq 1550: tcp response from 211.152.123.224 [open]  239.157 ms
+seq 1551: tcp response from 111.206.227.118 [open]  440.539 ms
+seq 1552: tcp response from 211.152.123.224 [open]  257.622 ms
+seq 1554: tcp response from 111.206.227.118 [open]  450.579 ms
+seq 1555: tcp response from 211.152.123.224 [open]  255.365 ms
+seq 1556: tcp response from 111.206.227.118 [open]  214.913 ms
+seq 1557: tcp response from 211.152.123.224 [open]  243.061 ms
+seq 1558: tcp response from 111.206.227.118 [open]  441.004 ms
+seq 1553: tcp response from 211.152.123.224 [open]  1460.791 ms
+seq 1559: tcp response from 211.152.123.224 [open]  262.485 ms
+seq 1561: tcp response from 211.152.123.224 [open]  248.607 ms
+seq 1562: tcp response from 111.206.227.118 [open]  444.861 ms
+seq 1560: no response (timeout)
+seq 1564: tcp response from 111.206.227.118 [open]  492.311 ms
+seq 1565: tcp response from 211.152.123.224 [open]  239.944 ms
+seq 1563: no response (timeout)
+seq 1567: tcp response from 211.152.123.224 [open]  247.635 ms
+seq 1568: tcp response from 111.206.227.118 [open]  453.182 ms
+seq 1566: no response (timeout)
+seq 1570: tcp response from 111.206.227.118 [open]  456.119 ms
+seq 1571: tcp response from 211.152.123.224 [open]  232.805 ms
+seq 1569: no response (timeout)
+seq 1572: tcp response from 111.206.227.118 [open]  442.912 ms
+seq 1573: tcp response from 211.152.123.224 [open]  234.892 ms
+seq 1574: tcp response from 111.206.227.118 [open]  211.587 ms
+seq 1575: tcp response from 211.152.123.224 [open]  259.741 ms
+seq 1576: tcp response from 111.206.227.118 [open]  435.189 ms
+seq 1577: tcp response from 211.152.123.224 [open]  243.979 ms
+seq 1578: tcp response from 111.206.227.118 [open]  484.263 ms
+seq 1580: tcp response from 111.206.227.118 [open]  212.346 ms
+seq 1579: tcp response from 211.152.123.224 [open]  258.441 ms
+seq 1581: tcp response from 211.152.123.224 [open]  246.579 ms
+seq 1582: tcp response from 111.206.227.118 [open]  457.612 ms
+seq 1583: tcp response from 211.152.123.224 [open]  257.892 ms
+seq 1584: tcp response from 111.206.227.118 [open]  441.022 ms
+seq 1585: tcp response from 211.152.123.224 [open]  253.981 ms
+seq 1586: tcp response from 111.206.227.118 [open]  213.561 ms
+seq 1587: tcp response from 211.152.123.224 [open]  260.298 ms
+seq 1588: tcp response from 111.206.227.118 [open]  445.887 ms
+seq 1589: tcp response from 211.152.123.224 [open]  259.834 ms
+seq 1590: tcp response from 111.206.227.118 [open]  453.585 ms
+seq 1591: tcp response from 211.152.123.224 [open]  277.470 ms
+seq 1593: tcp response from 211.152.123.224 [open]  243.807 ms
+seq 1594: tcp response from 111.206.227.118 [open]  438.786 ms
+seq 1592: no response (timeout)
+seq 1596: tcp response from 111.206.227.118 [open]  460.567 ms
+seq 1597: tcp response from 211.152.123.224 [open]  263.078 ms
+seq 1598: tcp response from 111.206.227.118 [open]  214.115 ms
+seq 1599: tcp response from 211.152.123.224 [open]  262.580 ms
+seq 1601: tcp response from 211.152.123.224 [open]  247.726 ms
+seq 1595: no response (timeout)
+seq 1602: tcp response from 111.206.227.118 [open]  472.499 ms
+seq 1600: no response (timeout)
+seq 1603: tcp response from 211.152.123.224 [open]  258.930 ms
+seq 1605: tcp response from 211.152.123.224 [open]  243.762 ms
+seq 1604: tcp response from 111.206.227.118 [open]  1650.840 ms
+seq 1608: tcp response from 111.206.227.118 [open]  211.933 ms
+seq 1607: tcp response from 211.152.123.224 [open]  256.864 ms
+seq 1606: tcp response from 111.206.227.118 [open]  453.672 ms
+seq 1609: no response (timeout)
+seq 1611: tcp response from 211.152.123.224 [open]  252.388 ms
+seq 1610: tcp response from 111.206.227.118 [open]  1457.423 ms
+seq 1612: tcp response from 111.206.227.118 [open]  448.898 ms
+seq 1614: tcp response from 111.206.227.118 [open]  449.900 ms
+seq 1615: tcp response from 211.152.123.224 [open]  258.417 ms
+seq 1613: no response (timeout)
+seq 1617: tcp response from 211.152.123.224 [open]  258.281 ms
+seq 1616: tcp response from 111.206.227.118 [open]  1839.299 ms
+seq 1618: tcp response from 111.206.227.118 [open]  435.880 ms
+seq 1620: tcp response from 111.206.227.118 [open]  211.471 ms
+seq 1619: no response (timeout)
+seq 1621: tcp response from 211.152.123.224 [open]  246.988 ms
+seq 1622: tcp response from 111.206.227.118 [open]  456.812 ms
+seq 1623: tcp response from 211.152.123.224 [open]  244.891 ms
+seq 1625: tcp response from 211.152.123.224 [open]  243.338 ms
+seq 1624: tcp response from 111.206.227.118 [open]  1845.700 ms
+seq 1626: tcp response from 111.206.227.118 [open]  443.835 ms
+seq 1627: tcp response from 211.152.123.224 [open]  257.360 ms
+seq 1628: tcp response from 111.206.227.118 [open]  441.221 ms
+seq 1629: tcp response from 211.152.123.224 [open]  260.621 ms
+seq 1630: tcp response from 111.206.227.118 [open]  215.228 ms
+seq 1631: tcp response from 211.152.123.224 [open]  255.840 ms
+seq 1632: tcp response from 111.206.227.118 [open]  444.584 ms
+seq 1633: tcp response from 211.152.123.224 [open]  246.050 ms
+seq 1634: tcp response from 111.206.227.118 [open]  450.354 ms
+seq 1635: tcp response from 211.152.123.224 [open]  258.691 ms
+seq 1636: tcp response from 111.206.227.118 [open]  212.120 ms
+seq 1637: tcp response from 211.152.123.224 [open]  257.827 ms
+seq 1639: tcp response from 211.152.123.224 [open]  261.744 ms
+seq 1640: tcp response from 111.206.227.118 [open]  453.159 ms
+seq 1638: no response (timeout)
+seq 1643: tcp response from 211.152.123.224 [open]  254.170 ms
+seq 1642: tcp response from 111.206.227.118 [open]  1652.611 ms
+seq 1641: no response (timeout)
+seq 1644: tcp response from 111.206.227.118 [open]  443.401 ms
+seq 1645: tcp response from 211.152.123.224 [open]  253.948 ms
+seq 1646: tcp response from 111.206.227.118 [open]  447.989 ms
+seq 1647: tcp response from 111.206.227.118 [open]  212.796 ms
+seq 1648: tcp response from 211.152.123.224 [open]  257.833 ms
+seq 1649: tcp response from 111.206.227.118 [open]  437.664 ms
+seq 1650: tcp response from 211.152.123.224 [open]  247.716 ms
+seq 1652: tcp response from 211.152.123.224 [open]  246.244 ms
+seq 1651: tcp response from 111.206.227.118 [open]  1659.348 ms
+seq 1654: tcp response from 211.152.123.224 [open]  259.458 ms
+seq 1655: tcp response from 111.206.227.118 [open]  462.778 ms
+seq 1653: tcp response from 111.206.227.118 [open]  443.401 ms
+seq 1656: tcp response from 211.152.123.224 [open]  261.026 ms
+seq 1658: tcp response from 211.152.123.224 [open]  250.886 ms
+seq 1657: no response (timeout)
+seq 1661: tcp response from 111.206.227.118 [open]  439.182 ms
+seq 1662: tcp response from 211.152.123.224 [open]  255.840 ms
+seq 1660: tcp response from 211.152.123.224 [open]  245.832 ms
+seq 1659: tcp response from 111.206.227.118 [open]  1414.048 ms
+seq 1665: tcp response from 111.206.227.118 [open]  211.466 ms
+seq 1666: tcp response from 211.152.123.224 [open]  244.975 ms
+seq 1663: tcp response from 111.206.227.118 [open]  1213.468 ms
+seq 1667: tcp response from 111.206.227.118 [open]  215.282 ms
+seq 1664: tcp response from 211.152.123.224 [open]  253.311 ms
+seq 1668: tcp response from 211.152.123.224 [open]  256.164 ms
+seq 1669: tcp response from 111.206.227.118 [open]  444.283 ms
+seq 1670: tcp response from 211.152.123.224 [open]  245.444 ms
+seq 1671: tcp response from 111.206.227.118 [open]  457.325 ms
+seq 1672: tcp response from 211.152.123.224 [open]  248.030 ms
+seq 1673: tcp response from 111.206.227.118 [open]  437.871 ms
+seq 1674: tcp response from 211.152.123.224 [open]  262.359 ms
+seq 1675: tcp response from 111.206.227.118 [open]  457.463 ms
+seq 1677: tcp response from 111.206.227.118 [open]  464.070 ms
+seq 1676: tcp response from 211.152.123.224 [open]  258.224 ms
+seq 1680: tcp response from 211.152.123.224 [open]  247.741 ms
+seq 1679: tcp response from 111.206.227.118 [open]  1435.173 ms
+seq 1678: no response (timeout)
+seq 1681: tcp response from 111.206.227.118 [open]  462.774 ms
+seq 1682: tcp response from 211.152.123.224 [open]  259.668 ms
+seq 1683: tcp response from 111.206.227.118 [open]  439.977 ms
+seq 1684: tcp response from 211.152.123.224 [open]  1261.266 ms
+seq 1685: tcp response from 111.206.227.118 [open]  454.948 ms
+seq 1686: tcp response from 211.152.123.224 [open]  258.018 ms
+seq 1689: tcp response from 111.206.227.118 [open]  212.239 ms
+seq 1688: tcp response from 211.152.123.224 [open]  1446.146 ms
+seq 1687: no response (timeout)
+seq 1690: tcp response from 211.152.123.224 [open]  259.321 ms
+seq 1691: tcp response from 111.206.227.118 [open]  389.721 ms
+seq 1693: tcp response from 111.206.227.118 [open]  438.892 ms
+seq 1694: tcp response from 211.152.123.224 [open]  249.604 ms
+seq 1692: no response (timeout)
+seq 1696: tcp response from 211.152.123.224 [open]  263.053 ms
+seq 1697: tcp response from 111.206.227.118 [open]  212.701 ms
+seq 1695: no response (timeout)
+seq 1699: tcp response from 111.206.227.118 [open]  439.026 ms
+seq 1698: no response (timeout)
+seq 1701: tcp response from 111.206.227.118 [open]  441.832 ms
+seq 1700: no response (timeout)
+seq 1703: tcp response from 111.206.227.118 [open]  223.527 ms
+seq 1702: no response (timeout)
+seq 1704: tcp response from 211.152.123.224 [open]  258.588 ms
+seq 1705: tcp response from 111.206.227.118 [open]  434.442 ms
+seq 1706: tcp response from 211.152.123.224 [open]  245.950 ms
+seq 1707: tcp response from 111.206.227.118 [open]  459.794 ms
+seq 1710: tcp response from 211.152.123.224 [open]  248.630 ms
+seq 1709: tcp response from 111.206.227.118 [open]  1841.618 ms
+seq 1708: no response (timeout)
+seq 1711: tcp response from 111.206.227.118 [open]  456.771 ms
+seq 1713: tcp response from 111.206.227.118 [open]  439.733 ms
+seq 1714: tcp response from 211.152.123.224 [open]  263.842 ms
+seq 1712: no response (timeout)
+seq 1716: tcp response from 211.152.123.224 [open]  262.842 ms
+seq 1717: tcp response from 111.206.227.118 [open]  451.319 ms
+seq 1718: tcp response from 211.152.123.224 [open]  249.234 ms
+seq 1715: no response (timeout)
+seq 1719: tcp response from 111.206.227.118 [open]  591.958 ms
+seq 1720: tcp response from 211.152.123.224 [open]  261.379 ms
+seq 1722: tcp response from 211.152.123.224 [open]  258.706 ms
+seq 1721: tcp response from 111.206.227.118 [open]  216.919 ms
+seq 1723: tcp response from 111.206.227.118 [open]  437.286 ms
+seq 1724: tcp response from 211.152.123.224 [unknown, ACK]  232.907 ms
+seq 1725: tcp response from 111.206.227.118 [open]  216.455 ms
+seq 1726: tcp response from 211.152.123.224 [open]  259.149 ms
+seq 1727: tcp response from 111.206.227.118 [open]  216.209 ms
+seq 1728: tcp response from 211.152.123.224 [open]  242.947 ms
+seq 1729: tcp response from 111.206.227.118 [open]  437.458 ms
+seq 1730: tcp response from 211.152.123.224 [open]  249.428 ms
+seq 1731: tcp response from 111.206.227.118 [open]  460.464 ms
+seq 1732: tcp response from 211.152.123.224 [open]  261.916 ms
+seq 1733: tcp response from 111.206.227.118 [open]  437.548 ms
+seq 1734: tcp response from 111.206.227.118 [open]  462.595 ms
+seq 1735: tcp response from 211.152.123.224 [open]  248.504 ms
+seq 1736: tcp response from 111.206.227.118 [open]  464.378 ms
+seq 1737: tcp response from 211.152.123.224 [open]  263.025 ms
+seq 1738: tcp response from 111.206.227.118 [open]  212.442 ms
+seq 1739: tcp response from 211.152.123.224 [open]  232.956 ms
+seq 1740: tcp response from 111.206.227.118 [open]  216.832 ms
+seq 1741: tcp response from 211.152.123.224 [open]  253.347 ms
+seq 1742: tcp response from 111.206.227.118 [open]  214.935 ms
+seq 1743: tcp response from 211.152.123.224 [open]  245.481 ms
+seq 1744: tcp response from 111.206.227.118 [open]  214.025 ms
+seq 1745: tcp response from 211.152.123.224 [open]  262.713 ms
+seq 1746: tcp response from 111.206.227.118 [open]  216.095 ms
+seq 1747: tcp response from 211.152.123.224 [open]  255.683 ms
+seq 1750: tcp response from 111.206.227.118 [open]  439.964 ms
+seq 1749: tcp response from 211.152.123.224 [open]  245.413 ms
+seq 1751: tcp response from 211.152.123.224 [open]  236.537 ms
+seq 1752: tcp response from 111.206.227.118 [open]  402.138 ms
+seq 1753: tcp response from 211.152.123.224 [open]  255.532 ms
+seq 1755: tcp response from 211.152.123.224 [open]  250.263 ms
+seq 1748: no response (timeout)
+seq 1754: tcp response from 111.206.227.118 [open]  1863.461 ms
+seq 1759: tcp response from 111.206.227.118 [open]  458.662 ms
+seq 1760: tcp response from 211.152.123.224 [open]  248.814 ms
+seq 1758: tcp response from 211.152.123.224 [open]  252.431 ms
+seq 1756: tcp response from 111.206.227.118 [open]  445.739 ms
+seq 1761: tcp response from 111.206.227.118 [open]  215.342 ms
+seq 1757: tcp response from 211.152.123.224 [open]  260.103 ms
+seq 1762: tcp response from 111.206.227.118 [open]  466.774 ms
+seq 1763: tcp response from 211.152.123.224 [open]  260.616 ms
+seq 1764: tcp response from 111.206.227.118 [open]  464.924 ms
+seq 1765: tcp response from 211.152.123.224 [open]  260.264 ms
+seq 1766: tcp response from 111.206.227.118 [open]  438.634 ms
+seq 1767: tcp response from 211.152.123.224 [open]  248.726 ms
+seq 1768: tcp response from 111.206.227.118 [open]  446.191 ms
+seq 1770: tcp response from 111.206.227.118 [open]  459.324 ms
+seq 1769: tcp response from 211.152.123.224 [open]  262.378 ms
+seq 1773: tcp response from 211.152.123.224 [open]  234.983 ms
+seq 1772: tcp response from 111.206.227.118 [open]  1453.676 ms
+seq 1775: tcp response from 211.152.123.224 [open]  253.203 ms
+seq 1771: no response (timeout)
+seq 1774: tcp response from 111.206.227.118 [open]  1842.268 ms
+seq 1777: tcp response from 211.152.123.224 [open]  258.881 ms
+seq 1779: tcp response from 111.206.227.118 [open]  211.560 ms
+seq 1776: tcp response from 111.206.227.118 [open]  1848.378 ms
+seq 1778: tcp response from 111.206.227.118 [open]  463.603 ms
+seq 1780: no response (timeout)
+seq 1782: tcp response from 111.206.227.118 [open]  453.368 ms
+seq 1781: tcp response from 211.152.123.224 [open]  1649.995 ms
+seq 1783: tcp response from 211.152.123.224 [open]  253.026 ms
+seq 1784: tcp response from 111.206.227.118 [open]  216.865 ms
+seq 1785: tcp response from 211.152.123.224 [open]  246.088 ms
+seq 1786: tcp response from 111.206.227.118 [open]  1646.159 ms
+seq 1787: tcp response from 211.152.123.224 [open]  258.096 ms
+seq 1788: tcp response from 111.206.227.118 [open]  212.065 ms
+seq 1789: tcp response from 211.152.123.224 [open]  258.779 ms
+seq 1791: tcp response from 211.152.123.224 [open]  262.118 ms
+seq 1792: tcp response from 111.206.227.118 [open]  463.468 ms
+seq 1793: tcp response from 211.152.123.224 [open]  259.251 ms
+seq 1794: tcp response from 111.206.227.118 [open]  453.771 ms
+seq 1790: no response (timeout)
+seq 1796: tcp response from 111.206.227.118 [open]  214.430 ms
+seq 1797: tcp response from 211.152.123.224 [open]  258.840 ms
+seq 1795: no response (timeout)
+seq 1798: tcp response from 111.206.227.118 [open]  215.131 ms
+seq 1799: tcp response from 211.152.123.224 [open]  256.798 ms
+seq 1802: tcp response from 111.206.227.118 [open]  215.484 ms
+seq 1801: tcp response from 211.152.123.224 [open]  253.937 ms
+seq 1800: no response (timeout)
+seq 1805: tcp response from 211.152.123.224 [open]  262.836 ms
+seq 1803: no response (timeout)
+seq 1804: no response (timeout)
+seq 1806: no response (timeout)
+seq 1809: tcp response from 211.152.123.224 [open]  249.993 ms
+seq 1807: no response (timeout)
+seq 1808: no response (timeout)
+seq 1810: tcp response from 111.206.227.118 [open]  480.169 ms
+seq 1812: tcp response from 111.206.227.118 [open]  215.049 ms
+seq 1813: tcp response from 211.152.123.224 [open]  386.722 ms
+seq 1811: no response (timeout)
+seq 1815: tcp response from 211.152.123.224 [open]  251.673 ms
+seq 1816: tcp response from 111.206.227.118 [open]  491.370 ms
+seq 1814: no response (timeout)
+seq 1818: tcp response from 111.206.227.118 [open]  214.287 ms
+seq 1819: tcp response from 211.152.123.224 [open]  252.095 ms
+seq 1817: no response (timeout)
+seq 1820: tcp response from 111.206.227.118 [open]  461.211 ms
+seq 1822: tcp response from 111.206.227.118 [open]  215.178 ms
+seq 1821: tcp response from 211.152.123.224 [open]  1436.280 ms
+seq 1823: tcp response from 211.152.123.224 [open]  261.822 ms
+seq 1825: tcp response from 111.206.227.118 [open]  445.766 ms
+seq 1824: tcp response from 211.152.123.224 [open]  1461.865 ms
+seq 1828: tcp response from 211.152.123.224 [open]  255.476 ms
+seq 1826: tcp response from 211.152.123.224 [open]  261.102 ms
+seq 1827: tcp response from 111.206.227.118 [open]  1211.995 ms
+seq 1829: tcp response from 111.206.227.118 [open]  1464.170 ms
+seq 1831: tcp response from 111.206.227.118 [open]  215.478 ms
+seq 1830: no response (timeout)
+seq 1832: tcp response from 211.152.123.224 [open]  257.689 ms
+seq 1833: tcp response from 111.206.227.118 [open]  470.309 ms
+seq 1834: tcp response from 211.152.123.224 [open]  249.691 ms
+seq 1835: tcp response from 111.206.227.118 [open]  470.843 ms
+seq 1836: tcp response from 211.152.123.224 [open]  247.815 ms
+seq 1837: tcp response from 111.206.227.118 [open]  467.488 ms
+seq 1838: tcp response from 211.152.123.224 [open]  262.195 ms
+seq 1839: tcp response from 111.206.227.118 [open]  212.305 ms
+seq 1840: tcp response from 211.152.123.224 [open]  245.612 ms
+seq 1841: tcp response from 111.206.227.118 [open]  458.727 ms
+seq 1842: tcp response from 211.152.123.224 [open]  249.980 ms
+seq 1844: tcp response from 211.152.123.224 [open]  259.500 ms
+seq 1843: no response (timeout)
+seq 1845: tcp response from 111.206.227.118 [open]  214.933 ms
+seq 1847: tcp response from 111.206.227.118 [open]  442.499 ms
+seq 1846: no response (timeout)
+seq 1848: tcp response from 211.152.123.224 [open]  249.123 ms
+seq 1849: tcp response from 111.206.227.118 [open]  1680.932 ms
+seq 1850: tcp response from 211.152.123.224 [open]  259.708 ms
+seq 1852: tcp response from 211.152.123.224 [open]  248.946 ms
+seq 1853: tcp response from 111.206.227.118 [open]  473.030 ms
+seq 1851: no response (timeout)
+seq 1855: tcp response from 111.206.227.118 [open]  471.964 ms
+seq 1856: tcp response from 211.152.123.224 [open]  268.313 ms
+seq 1854: no response (timeout)
+seq 1857: tcp response from 111.206.227.118 [open]  477.385 ms
+seq 1858: tcp response from 211.152.123.224 [open]  1659.314 ms
+seq 1859: tcp response from 111.206.227.118 [open]  460.659 ms
+seq 1861: tcp response from 111.206.227.118 [open]  469.098 ms
+seq 1862: tcp response from 211.152.123.224 [open]  256.601 ms
+seq 1860: no response (timeout)
+seq 1863: tcp response from 111.206.227.118 [open]  214.932 ms
+seq 1864: tcp response from 211.152.123.224 [open]  244.458 ms
+seq 1866: tcp response from 211.152.123.224 [open]  247.848 ms
+seq 1865: tcp response from 111.206.227.118 [open]  450.249 ms
+seq 1868: tcp response from 211.152.123.224 [open]  261.410 ms
+seq 1867: no response (timeout)
+seq 1869: tcp response from 111.206.227.118 [open]  215.441 ms
+seq 1870: tcp response from 211.152.123.224 [open]  247.396 ms
+seq 1871: tcp response from 111.206.227.118 [open]  442.520 ms
+seq 1872: tcp response from 211.152.123.224 [open]  259.270 ms
+seq 1874: tcp response from 211.152.123.224 [open]  256.596 ms
+seq 1873: tcp response from 111.206.227.118 [open]  1869.517 ms
+seq 1876: tcp response from 211.152.123.224 [open]  255.131 ms
+seq 1875: no response (timeout)
+seq 1879: tcp response from 111.206.227.118 [open]  211.923 ms
+seq 1877: tcp response from 111.206.227.118 [open]  214.896 ms
+seq 1878: no response (timeout)
+seq 1880: tcp response from 211.152.123.224 [open]  263.473 ms
+seq 1881: tcp response from 111.206.227.118 [open]  454.849 ms
+seq 1882: tcp response from 211.152.123.224 [open]  250.070 ms
+seq 1884: tcp response from 211.152.123.224 [open]  260.223 ms
+seq 1883: no response (timeout)
+seq 1885: no response (timeout)
+seq 1887: tcp response from 111.206.227.118 [open]  1478.500 ms
+seq 1888: tcp response from 211.152.123.224 [open]  258.403 ms
+seq 1886: no response (timeout)
+seq 1890: tcp response from 211.152.123.224 [open]  248.009 ms
+seq 1889: tcp response from 111.206.227.118 [open]  471.976 ms
+seq 1891: tcp response from 111.206.227.118 [open]  1855.494 ms
+seq 1893: tcp response from 111.206.227.118 [open]  456.109 ms
+seq 1894: tcp response from 211.152.123.224 [open]  249.838 ms
+seq 1895: tcp response from 111.206.227.118 [open]  475.769 ms
+seq 1892: tcp response from 211.152.123.224 [open]  260.710 ms
+seq 1898: tcp response from 211.152.123.224 [open]  246.453 ms
+seq 1899: tcp response from 111.206.227.118 [open]  214.978 ms
+seq 1897: no response (timeout)
+seq 1896: tcp response from 211.152.123.224 [open]  257.567 ms
+seq 1902: tcp response from 211.152.123.224 [open]  285.330 ms
+seq 1900: tcp response from 211.152.123.224 [open]  252.766 ms
+seq 1901: no response (timeout)
+seq 1904: tcp response from 211.152.123.224 [open]  268.500 ms
+seq 1903: no response (timeout)
+seq 1905: tcp response from 111.206.227.118 [open]  443.527 ms
+seq 1908: tcp response from 211.152.123.224 [open]  254.042 ms
+seq 1906: no response (timeout)
+seq 1907: no response (timeout)
+seq 1909: tcp response from 111.206.227.118 [open]  215.172 ms
+seq 1911: tcp response from 111.206.227.118 [open]  459.308 ms
+seq 1912: tcp response from 211.152.123.224 [open]  259.021 ms
+seq 1910: no response (timeout)
+seq 1914: tcp response from 211.152.123.224 [open]  233.889 ms
+seq 1915: tcp response from 211.152.123.224 [open]  256.451 ms
+seq 1913: no response (timeout)
+seq 1916: no response (timeout)
+seq 1919: tcp response from 211.152.123.224 [open]  261.464 ms
+seq 1917: no response (timeout)
+seq 1918: no response (timeout)
+seq 1921: tcp response from 211.152.123.224 [open]  235.500 ms
+seq 1922: tcp response from 111.206.227.118 [open]  469.172 ms
+seq 1920: no response (timeout)
+seq 1924: tcp response from 111.206.227.118 [open]  442.230 ms
+seq 1925: tcp response from 211.152.123.224 [open]  238.215 ms
+seq 1923: no response (timeout)
+seq 1927: tcp response from 211.152.123.224 [open]  260.132 ms
+seq 1926: tcp response from 111.206.227.118 [open]  1871.423 ms
+seq 1929: tcp response from 211.152.123.224 [open]  262.179 ms
+seq 1930: tcp response from 111.206.227.118 [open]  463.963 ms
+seq 1928: no response (timeout)
+seq 1932: tcp response from 111.206.227.118 [open]  612.888 ms
+seq 1933: tcp response from 211.152.123.224 [open]  262.609 ms
+seq 1931: tcp response from 211.152.123.224 [open]  236.523 ms
+seq 1934: tcp response from 111.206.227.118 [open]  475.029 ms
+seq 1935: tcp response from 211.152.123.224 [open]  262.780 ms
+seq 1936: tcp response from 111.206.227.118 [open]  440.121 ms
+seq 1937: tcp response from 211.152.123.224 [open]  238.135 ms
+seq 1938: tcp response from 111.206.227.118 [open]  470.753 ms
+seq 1939: tcp response from 211.152.123.224 [open]  259.248 ms
+seq 1940: tcp response from 111.206.227.118 [open]  215.268 ms
+seq 1941: tcp response from 211.152.123.224 [open]  256.373 ms
+seq 1942: tcp response from 111.206.227.118 [open]  455.915 ms
+seq 1944: tcp response from 111.206.227.118 [open]  1215.404 ms
+seq 1945: tcp response from 211.152.123.224 [open]  260.025 ms
+seq 1943: tcp response from 211.152.123.224 [open]  258.300 ms
+seq 1947: tcp response from 211.152.123.224 [open]  238.848 ms
+seq 1948: tcp response from 111.206.227.118 [open]  467.777 ms
+seq 1949: tcp response from 211.152.123.224 [open]  262.939 ms
+seq 1950: tcp response from 111.206.227.118 [open]  212.183 ms
+seq 1951: tcp response from 211.152.123.224 [open]  238.164 ms
+seq 1946: tcp response from 111.206.227.118 [open]  460.024 ms
+seq 1953: tcp response from 211.152.123.224 [open]  233.181 ms
+seq 1952: tcp response from 111.206.227.118 [open]  1663.457 ms
+seq 1954: tcp response from 111.206.227.118 [open]  453.318 ms
+seq 1955: tcp response from 211.152.123.224 [open]  272.255 ms
+seq 1956: tcp response from 111.206.227.118 [open]  461.945 ms
+seq 1959: tcp response from 211.152.123.224 [open]  239.423 ms
+seq 1960: tcp response from 111.206.227.118 [open]  215.786 ms
+seq 1958: tcp response from 111.206.227.118 [open]  469.473 ms
+seq 1957: no response (timeout)
+seq 1961: tcp response from 211.152.123.224 [open]  263.587 ms
+seq 1962: tcp response from 111.206.227.118 [open]  450.524 ms
+seq 1964: tcp response from 111.206.227.118 [open]  214.468 ms
+seq 1965: tcp response from 211.152.123.224 [open]  246.402 ms
+seq 1967: tcp response from 211.152.123.224 [open]  256.561 ms
+seq 1963: tcp response from 211.152.123.224 [open]  259.100 ms
+seq 1966: tcp response from 111.206.227.118 [open]  1867.387 ms
+seq 1969: tcp response from 211.152.123.224 [open]  254.737 ms
+seq 1970: tcp response from 111.206.227.118 [open]  215.418 ms
+seq 1968: no response (timeout)
+seq 1972: tcp response from 111.206.227.118 [open]  215.091 ms
+seq 1973: tcp response from 211.152.123.224 [open]  262.370 ms
+seq 1975: tcp response from 211.152.123.224 [open]  245.741 ms
+seq 1971: no response (timeout)
+seq 1976: tcp response from 111.206.227.118 [open]  464.855 ms
+seq 1977: tcp response from 211.152.123.224 [open]  257.023 ms
+seq 1974: tcp response from 111.206.227.118 [open]  457.287 ms
+seq 1979: tcp response from 211.152.123.224 [open]  256.104 ms
+seq 1981: tcp response from 211.152.123.224 [open]  262.157 ms
+seq 1980: no response (timeout)
+seq 1983: tcp response from 211.152.123.224 [open]  259.840 ms
+seq 1984: tcp response from 111.206.227.118 [open]  458.832 ms
+seq 1985: tcp response from 211.152.123.224 [open]  260.712 ms
+seq 1982: tcp response from 111.206.227.118 [open]  1845.537 ms
+seq 1978: tcp response from 111.206.227.118 [open]  445.648 ms
+seq 1988: tcp response from 111.206.227.118 [open]  1533.764 ms
+seq 1986: no response (timeout)
+seq 1987: no response (timeout)
+seq 1989: tcp response from 211.152.123.224 [open]  249.638 ms
+seq 1990: tcp response from 111.206.227.118 [open]  460.699 ms
+seq 1991: tcp response from 211.152.123.224 [open]  256.137 ms
+seq 1992: tcp response from 111.206.227.118 [open]  214.699 ms
+seq 1994: tcp response from 111.206.227.118 [open]  215.415 ms
+seq 1995: tcp response from 211.152.123.224 [open]  260.755 ms
+seq 1996: tcp response from 111.206.227.118 [open]  445.147 ms
+seq 1993: tcp response from 211.152.123.224 [open]  1452.966 ms
+seq 1997: tcp response from 211.152.123.224 [open]  1460.947 ms
+seq 1999: tcp response from 211.152.123.224 [open]  247.454 ms
+seq 1998: no response (timeout)
+seq 2000: tcp response from 111.206.227.118 [open]  1412.269 ms
+seq 2001: tcp response from 211.152.123.224 [open]  243.854 ms
+seq 2003: tcp response from 211.152.123.224 [open]  260.645 ms
+seq 2002: tcp response from 111.206.227.118 [open]  1442.294 ms
+seq 2004: tcp response from 111.206.227.118 [open]  446.471 ms
+seq 2005: tcp response from 211.152.123.224 [open]  283.145 ms
+seq 2006: tcp response from 111.206.227.118 [open]  1198.980 ms
+seq 2008: tcp response from 111.206.227.118 [open]  466.238 ms
+seq 2007: tcp response from 211.152.123.224 [open]  258.826 ms
+seq 2009: tcp response from 211.152.123.224 [open]  308.113 ms
+seq 2010: tcp response from 111.206.227.118 [open]  215.559 ms
+seq 2011: tcp response from 211.152.123.224 [open]  257.240 ms
+seq 2013: tcp response from 211.152.123.224 [open]  239.597 ms
+seq 2012: tcp response from 111.206.227.118 [open]  1844.332 ms
+seq 2015: tcp response from 211.152.123.224 [open]  262.680 ms
+seq 2016: tcp response from 111.206.227.118 [open]  214.732 ms
+seq 2014: no response (timeout)
+seq 2018: tcp response from 111.206.227.118 [open]  460.748 ms
+seq 2019: tcp response from 211.152.123.224 [open]  243.710 ms
+seq 2017: no response (timeout)
+seq 2020: tcp response from 111.206.227.118 [open]  469.492 ms
+seq 2021: tcp response from 211.152.123.224 [open]  260.944 ms
+seq 2023: tcp response from 211.152.123.224 [open]  256.128 ms
+seq 2022: tcp response from 111.206.227.118 [open]  479.870 ms
+seq 2024: tcp response from 111.206.227.118 [open]  215.520 ms
+seq 2025: tcp response from 211.152.123.224 [open]  238.114 ms
+seq 2027: tcp response from 211.152.123.224 [open]  259.848 ms
+seq 2026: tcp response from 111.206.227.118 [open]  1848.752 ms
+seq 2028: tcp response from 111.206.227.118 [open]  435.033 ms
+seq 2030: tcp response from 111.206.227.118 [open]  460.162 ms
+seq 2031: tcp response from 211.152.123.224 [open]  262.602 ms
+seq 2029: no response (timeout)
+seq 2035: tcp response from 211.152.123.224 [open]  262.427 ms
+seq 2032: tcp response from 111.206.227.118 [open]  443.463 ms
+seq 2033: tcp response from 211.152.123.224 [open]  260.896 ms
+seq 2036: tcp response from 111.206.227.118 [open]  468.259 ms
+seq 2034: tcp response from 111.206.227.118 [open]  1843.405 ms
+seq 2037: tcp response from 211.152.123.224 [open]  259.711 ms
+seq 2038: tcp response from 111.206.227.118 [open]  446.411 ms
+seq 2039: tcp response from 211.152.123.224 [open]  250.746 ms
+seq 2040: tcp response from 111.206.227.118 [open]  465.943 ms
+seq 2041: tcp response from 211.152.123.224 [open]  244.847 ms
+seq 2042: tcp response from 111.206.227.118 [open]  214.781 ms
+seq 2043: tcp response from 211.152.123.224 [open]  261.083 ms
+seq 2044: tcp response from 111.206.227.118 [open]  443.679 ms
+seq 2045: tcp response from 211.152.123.224 [open]  260.404 ms
+seq 2046: tcp response from 111.206.227.118 [open]  215.830 ms
+seq 2048: tcp response from 111.206.227.118 [open]  461.389 ms
+seq 2050: tcp response from 111.206.227.118 [open]  452.330 ms
+seq 2051: tcp response from 211.152.123.224 [open]  260.661 ms
+seq 2049: no response (timeout)
+seq 2047: tcp response from 211.152.123.224 [open]  246.254 ms
+seq 2052: tcp response from 111.206.227.118 [open]  433.518 ms
+seq 2053: tcp response from 211.152.123.224 [open]  1462.978 ms
+seq 2054: tcp response from 111.206.227.118 [open]  1853.170 ms
+seq 2055: no response (timeout)
+seq 2056: no response (timeout)
+seq 2059: tcp response from 211.152.123.224 [open]  259.336 ms
+seq 2058: no response (timeout)
+seq 2060: tcp response from 111.206.227.118 [open]  1471.744 ms
+seq 2062: tcp response from 111.206.227.118 [open]  464.976 ms
+seq 2061: tcp response from 211.152.123.224 [open]  258.544 ms
+seq 2057: no response (timeout)
+seq 2063: tcp response from 211.152.123.224 [open]  260.922 ms
+seq 2065: tcp response from 211.152.123.224 [open]  261.651 ms
+seq 2067: tcp response from 211.152.123.224 [open]  260.228 ms
+seq 2064: tcp response from 111.206.227.118 [open]  240.336 ms
+seq 2066: tcp response from 111.206.227.118 [open]  1658.693 ms
+seq 2068: tcp response from 111.206.227.118 [open]  445.219 ms
+seq 2070: tcp response from 111.206.227.118 [open]  433.135 ms
+seq 2071: tcp response from 211.152.123.224 [open]  259.443 ms
+seq 2069: no response (timeout)
+seq 2073: tcp response from 211.152.123.224 [open]  260.003 ms
+seq 2072: no response (timeout)
+seq 2074: no response (timeout)
+seq 2076: tcp response from 111.206.227.118 [open]  446.905 ms
+seq 2077: tcp response from 211.152.123.224 [open]  259.547 ms
+seq 2075: tcp response from 211.152.123.224 [open]  258.904 ms
+seq 2079: tcp response from 211.152.123.224 [open]  262.534 ms
+seq 2078: no response (timeout)
+seq 2080: tcp response from 111.206.227.118 [open]  457.433 ms
+seq 2082: tcp response from 111.206.227.118 [open]  435.938 ms
+seq 2081: tcp response from 211.152.123.224 [open]  1260.161 ms
+seq 2085: tcp response from 211.152.123.224 [open]  248.843 ms
+seq 2084: tcp response from 111.206.227.118 [open]  1454.817 ms
+seq 2083: no response (timeout)
+seq 2087: tcp response from 211.152.123.224 [open]  262.782 ms
+seq 2086: tcp response from 111.206.227.118 [open]  1830.573 ms
+seq 2089: tcp response from 211.152.123.224 [open]  248.818 ms
+seq 2088: no response (timeout)
+seq 2091: tcp response from 111.206.227.118 [open]  215.593 ms
+seq 2090: tcp response from 111.206.227.118 [open]  453.345 ms
+seq 2092: tcp response from 111.206.227.118 [open]  1650.886 ms
+seq 2095: tcp response from 111.206.227.118 [open]  216.339 ms
+seq 2093: no response (timeout)
+seq 2096: tcp response from 211.152.123.224 [open]  244.634 ms
+seq 2097: tcp response from 111.206.227.118 [open]  434.550 ms
+seq 2098: tcp response from 211.152.123.224 [open]  259.442 ms
+seq 2100: tcp response from 211.152.123.224 [open]  257.954 ms
+seq 2101: tcp response from 111.206.227.118 [open]  449.286 ms
+seq 2102: tcp response from 211.152.123.224 [open]  258.314 ms
+seq 2103: tcp response from 111.206.227.118 [open]  435.300 ms
+seq 2094: no response (timeout)
+seq 2104: tcp response from 211.152.123.224 [open]  261.919 ms
+seq 2099: tcp response from 111.206.227.118 [open]  447.588 ms
+seq 2105: tcp response from 111.206.227.118 [open]  441.460 ms
+seq 2107: tcp response from 111.206.227.118 [open]  453.681 ms
+seq 2106: tcp response from 211.152.123.224 [open]  262.366 ms
+seq 2109: tcp response from 111.206.227.118 [open]  215.877 ms
+seq 2110: tcp response from 211.152.123.224 [open]  255.787 ms
+seq 2108: no response (timeout)
+seq 2112: tcp response from 211.152.123.224 [open]  255.893 ms
+seq 2113: tcp response from 111.206.227.118 [open]  439.051 ms
+seq 2111: tcp response from 111.206.227.118 [open]  458.027 ms
+seq 2114: tcp response from 211.152.123.224 [open]  248.123 ms
+seq 2115: tcp response from 111.206.227.118 [open]  441.478 ms
+seq 2116: tcp response from 211.152.123.224 [open]  260.256 ms
+seq 2117: tcp response from 111.206.227.118 [open]  447.338 ms
+seq 2118: tcp response from 211.152.123.224 [open]  240.489 ms
+seq 2120: tcp response from 211.152.123.224 [open]  241.101 ms
+seq 2121: tcp response from 111.206.227.118 [open]  435.730 ms
+seq 2119: no response (timeout)
+seq 2123: tcp response from 111.206.227.118 [open]  440.173 ms
+seq 2122: no response (timeout)
+seq 2124: tcp response from 211.152.123.224 [open]  255.297 ms
+seq 2126: tcp response from 211.152.123.224 [open]  248.368 ms
+seq 2125: no response (timeout)
+seq 2128: tcp response from 211.152.123.224 [open]  245.226 ms
+seq 2129: tcp response from 111.206.227.118 [open]  446.444 ms
+seq 2127: no response (timeout)
+seq 2131: tcp response from 111.206.227.118 [open]  453.134 ms
+seq 2132: tcp response from 211.152.123.224 [open]  261.250 ms
+seq 2133: tcp response from 111.206.227.118 [open]  217.593 ms
+seq 2134: tcp response from 211.152.123.224 [open]  262.477 ms
+seq 2130: no response (timeout)
+seq 2135: tcp response from 111.206.227.118 [open]  446.432 ms
+seq 2136: tcp response from 211.152.123.224 [open]  241.658 ms
+seq 2137: tcp response from 111.206.227.118 [open]  440.385 ms
+seq 2138: tcp response from 211.152.123.224 [open]  247.470 ms
+seq 2139: tcp response from 111.206.227.118 [open]  433.729 ms
+seq 2141: tcp response from 111.206.227.118 [open]  435.852 ms
+seq 2140: tcp response from 211.152.123.224 [open]  259.712 ms
+seq 2142: tcp response from 211.152.123.224 [open]  263.192 ms
+seq 2143: tcp response from 111.206.227.118 [open]  211.057 ms
+seq 2144: tcp response from 211.152.123.224 [open]  260.621 ms
+seq 2145: tcp response from 111.206.227.118 [open]  435.256 ms
+seq 2146: tcp response from 211.152.123.224 [open]  236.464 ms
+seq 2148: tcp response from 211.152.123.224 [open]  258.299 ms
+seq 2147: tcp response from 111.206.227.118 [open]  1835.595 ms
+seq 2150: tcp response from 211.152.123.224 [open]  256.797 ms
+seq 2151: tcp response from 111.206.227.118 [open]  217.181 ms
+seq 2149: no response (timeout)
+seq 2153: tcp response from 111.206.227.118 [open]  215.359 ms
+seq 2154: tcp response from 211.152.123.224 [open]  260.000 ms
+seq 2152: no response (timeout)
+seq 2155: tcp response from 111.206.227.118 [open]  459.578 ms
+seq 2156: no response (timeout)
+seq 2159: tcp response from 111.206.227.118 [open]  442.796 ms
+seq 2158: tcp response from 211.152.123.224 [open]  262.245 ms
+seq 2161: tcp response from 111.206.227.118 [open]  448.994 ms
+seq 2160: no response (timeout)
+seq 2157: tcp response from 111.206.227.118 [open]  1645.353 ms
+seq 2163: tcp response from 111.206.227.118 [open]  215.656 ms
+seq 2162: no response (timeout)
+seq 2164: tcp response from 211.152.123.224 [open]  248.978 ms
+seq 2165: tcp response from 111.206.227.118 [open]  1456.253 ms
+seq 2166: tcp response from 211.152.123.224 [open]  241.824 ms
+seq 2168: tcp response from 211.152.123.224 [open]  251.451 ms
+seq 2169: tcp response from 111.206.227.118 [open]  437.255 ms
+seq 2167: tcp response from 111.206.227.118 [open]  456.008 ms
+seq 2170: tcp response from 211.152.123.224 [open]  242.259 ms
+seq 2174: tcp response from 211.152.123.224 [open]  252.900 ms
+seq 2173: no response (timeout)
+seq 2172: tcp response from 211.152.123.224 [open]  244.466 ms
+seq 2171: tcp response from 111.206.227.118 [open]  1655.107 ms
+seq 2175: no response (timeout)
+seq 2176: tcp response from 211.152.123.224 [open]  259.353 ms
+seq 2178: tcp response from 211.152.123.224 [open]  261.875 ms
+seq 2179: tcp response from 111.206.227.118 [open]  448.045 ms
+seq 2177: no response (timeout)
+seq 2180: no response (timeout)
+seq 2184: tcp response from 111.206.227.118 [open]  212.234 ms
+seq 2181: tcp response from 111.206.227.118 [open]  429.976 ms
+seq 2182: tcp response from 111.206.227.118 [open]  433.059 ms
+seq 2183: no response (timeout)
+seq 2186: tcp response from 111.206.227.118 [open]  211.089 ms
+seq 2185: no response (timeout)
+seq 2187: tcp response from 211.152.123.224 [open]  245.776 ms
+seq 2189: tcp response from 211.152.123.224 [open]  259.910 ms
+seq 2190: tcp response from 111.206.227.118 [open]  215.112 ms
+seq 2192: tcp response from 111.206.227.118 [open]  217.806 ms
+seq 2193: tcp response from 211.152.123.224 [open]  256.455 ms
+seq 2188: no response (timeout)
+seq 2195: tcp response from 211.152.123.224 [open]  259.597 ms
+seq 2196: tcp response from 111.206.227.118 [open]  216.764 ms
+seq 2194: no response (timeout)
+seq 2191: no response (timeout)
+seq 2199: tcp response from 211.152.123.224 [open]  248.755 ms
+seq 2197: no response (timeout)
+seq 2200: tcp response from 111.206.227.118 [open]  448.363 ms
+seq 2201: tcp response from 211.152.123.224 [open]  1242.747 ms
+seq 2198: tcp response from 111.206.227.118 [open]  439.031 ms
+seq 2202: tcp response from 111.206.227.118 [open]  451.542 ms
+seq 2203: tcp response from 211.152.123.224 [open]  262.328 ms
+seq 2205: tcp response from 211.152.123.224 [open]  246.618 ms
+seq 2206: tcp response from 111.206.227.118 [open]  450.737 ms
+seq 2204: no response (timeout)
+seq 2207: tcp response from 211.152.123.224 [open]  248.652 ms
+seq 2208: tcp response from 111.206.227.118 [open]  438.504 ms
+seq 2209: tcp response from 211.152.123.224 [open]  240.304 ms
+seq 2210: tcp response from 111.206.227.118 [open]  431.265 ms
+seq 2211: tcp response from 211.152.123.224 [open]  249.907 ms
+seq 2213: tcp response from 211.152.123.224 [open]  248.136 ms
+seq 2212: tcp response from 111.206.227.118 [open]  439.954 ms
+seq 2214: tcp response from 111.206.227.118 [open]  465.653 ms
+seq 2215: tcp response from 211.152.123.224 [open]  262.822 ms
+seq 2216: tcp response from 111.206.227.118 [open]  215.468 ms
+seq 2217: tcp response from 211.152.123.224 [open]  255.100 ms
+seq 2218: tcp response from 111.206.227.118 [open]  464.737 ms
+seq 2220: tcp response from 111.206.227.118 [open]  458.023 ms
+seq 2221: tcp response from 211.152.123.224 [open]  246.926 ms
+seq 2219: no response (timeout)
+seq 2222: tcp response from 111.206.227.118 [open]  446.078 ms
+seq 2223: tcp response from 211.152.123.224 [open]  259.389 ms
+seq 2224: tcp response from 111.206.227.118 [open]  215.142 ms
+seq 2225: tcp response from 211.152.123.224 [open]  248.550 ms
+seq 2226: tcp response from 111.206.227.118 [open]  227.449 ms
+seq 2227: tcp response from 211.152.123.224 [open]  259.942 ms
+seq 2229: tcp response from 211.152.123.224 [open]  257.826 ms
+seq 2228: tcp response from 111.206.227.118 [open]  215.374 ms
+seq 2230: tcp response from 111.206.227.118 [open]  459.214 ms
+seq 2231: tcp response from 211.152.123.224 [open]  259.104 ms
+seq 2232: tcp response from 111.206.227.118 [open]  445.277 ms
+seq 2233: tcp response from 211.152.123.224 [open]  248.131 ms
+seq 2235: tcp response from 211.152.123.224 [open]  262.490 ms
+seq 2234: no response (timeout)
+seq 2237: tcp response from 211.152.123.224 [open]  255.209 ms
+seq 2236: no response (timeout)
+seq 2239: tcp response from 211.152.123.224 [open]  249.378 ms
+seq 2238: tcp response from 111.206.227.118 [open]  1870.636 ms
+seq 2242: tcp response from 111.206.227.118 [open]  457.911 ms
+seq 2240: no response (timeout)
+seq 2241: no response (timeout)
+seq 2245: tcp response from 211.152.123.224 [open]  245.952 ms
+seq 2246: tcp response from 111.206.227.118 [open]  1641.852 ms
+seq 2248: tcp response from 111.206.227.118 [open]  424.466 ms
+seq 2247: tcp response from 211.152.123.224 [open]  253.030 ms
+seq 2249: tcp response from 211.152.123.224 [open]  260.351 ms
+seq 2250: tcp response from 111.206.227.118 [open]  441.316 ms
+seq 2243: no response (timeout)
+seq 2252: tcp response from 111.206.227.118 [open]  456.942 ms
+seq 2244: tcp response from 111.206.227.118 [open]  1843.980 ms
+seq 2253: tcp response from 211.152.123.224 [open]  259.396 ms
+seq 2251: no response (timeout)
+seq 2254: tcp response from 111.206.227.118 [open]  438.353 ms
+seq 2255: tcp response from 211.152.123.224 [open]  253.271 ms
+seq 2256: tcp response from 111.206.227.118 [open]  456.188 ms
+seq 2257: tcp response from 211.152.123.224 [open]  248.836 ms
+seq 2258: tcp response from 111.206.227.118 [open]  441.425 ms
+seq 2259: tcp response from 211.152.123.224 [open]  257.686 ms
+seq 2260: tcp response from 111.206.227.118 [open]  450.436 ms
+seq 2263: tcp response from 211.152.123.224 [open]  259.381 ms
+seq 2262: tcp response from 111.206.227.118 [open]  215.805 ms
+seq 2261: no response (timeout)
+seq 2264: tcp response from 111.206.227.118 [open]  455.934 ms
+seq 2266: tcp response from 211.152.123.224 [open]  244.216 ms
+seq 2265: no response (timeout)
+seq 2268: tcp response from 211.152.123.224 [open]  248.852 ms
+seq 2267: no response (timeout)
+seq 2270: tcp response from 211.152.123.224 [open]  258.984 ms
+seq 2269: no response (timeout)
+seq 2271: tcp response from 111.206.227.118 [open]  437.935 ms
+seq 2273: tcp response from 111.206.227.118 [open]  214.893 ms
+seq 2274: tcp response from 211.152.123.224 [open]  255.414 ms
+seq 2272: no response (timeout)
+seq 2276: tcp response from 211.152.123.224 [open]  249.312 ms
+seq 2277: tcp response from 111.206.227.118 [open]  215.081 ms
+seq 2278: tcp response from 211.152.123.224 [open]  256.296 ms
+seq 2275: no response (timeout)
+seq 2279: tcp response from 111.206.227.118 [open]  1615.807 ms
+seq 2280: tcp response from 211.152.123.224 [open]  261.085 ms
+seq 2281: tcp response from 111.206.227.118 [open]  445.728 ms
+seq 2282: tcp response from 211.152.123.224 [open]  247.909 ms
+seq 2284: tcp response from 211.152.123.224 [open]  259.350 ms
+seq 2283: tcp response from 111.206.227.118 [open]  1855.386 ms
+seq 2285: tcp response from 111.206.227.118 [open]  226.042 ms
+seq 2287: tcp response from 111.206.227.118 [open]  463.510 ms
+seq 2288: tcp response from 211.152.123.224 [open]  259.298 ms
+seq 2286: tcp response from 211.152.123.224 [open]  253.426 ms
+seq 2290: tcp response from 211.152.123.224 [open]  257.933 ms
+seq 2289: tcp response from 111.206.227.118 [open]  1837.748 ms
+seq 2292: tcp response from 211.152.123.224 [open]  249.506 ms
+seq 2293: tcp response from 111.206.227.118 [open]  215.713 ms
+seq 2291: no response (timeout)
+seq 2294: tcp response from 211.152.123.224 [open]  258.756 ms
+seq 2295: tcp response from 111.206.227.118 [open]  214.916 ms
+seq 2296: tcp response from 211.152.123.224 [open]  262.944 ms
+seq 2297: tcp response from 111.206.227.118 [open]  452.275 ms
+seq 2298: tcp response from 211.152.123.224 [open]  414.688 ms
+seq 2299: tcp response from 111.206.227.118 [open]  455.755 ms
+seq 2300: tcp response from 211.152.123.224 [open]  248.297 ms
+seq 2301: tcp response from 111.206.227.118 [open]  452.347 ms
+seq 2303: tcp response from 111.206.227.118 [open]  432.675 ms
+seq 2304: tcp response from 211.152.123.224 [open]  262.421 ms
+seq 2302: no response (timeout)
+seq 2305: tcp response from 111.206.227.118 [open]  1840.781 ms
+seq 2307: tcp response from 111.206.227.118 [open]  449.064 ms
+seq 2306: tcp response from 211.152.123.224 [open]  241.796 ms
+seq 2310: tcp response from 211.152.123.224 [open]  262.437 ms
+seq 2308: no response (timeout)
+seq 2309: tcp response from 111.206.227.118 [open]  1663.341 ms
+seq 2312: tcp response from 211.152.123.224 [open]  256.721 ms
+seq 2311: tcp response from 111.206.227.118 [open]  447.961 ms
+seq 2313: tcp response from 111.206.227.118 [open]  458.025 ms
+seq 2314: tcp response from 211.152.123.224 [open]  249.157 ms
+seq 2315: tcp response from 111.206.227.118 [open]  216.695 ms
+seq 2316: tcp response from 211.152.123.224 [open]  260.440 ms
+seq 2317: tcp response from 111.206.227.118 [open]  215.354 ms
+seq 2318: tcp response from 211.152.123.224 [open]  245.077 ms
+seq 2319: tcp response from 111.206.227.118 [open]  445.026 ms
+seq 2320: tcp response from 211.152.123.224 [open]  257.562 ms
+seq 2322: tcp response from 211.152.123.224 [open]  257.564 ms
+seq 2321: tcp response from 111.206.227.118 [open]  1468.991 ms
+seq 2323: tcp response from 111.206.227.118 [open]  215.523 ms
+seq 2325: tcp response from 111.206.227.118 [open]  214.949 ms
+seq 2326: tcp response from 211.152.123.224 [open]  300.797 ms
+seq 2324: no response (timeout)
+seq 2327: tcp response from 111.206.227.118 [open]  1649.084 ms
+seq 2328: tcp response from 211.152.123.224 [open]  249.046 ms
+seq 2331: tcp response from 111.206.227.118 [open]  215.482 ms
+seq 2330: tcp response from 211.152.123.224 [open]  1253.623 ms
+seq 2329: no response (timeout)
+seq 2333: tcp response from 111.206.227.118 [open]  458.381 ms
+seq 2332: tcp response from 211.152.123.224 [open]  259.944 ms
+seq 2334: tcp response from 211.152.123.224 [open]  243.820 ms
+seq 2335: no response (timeout)
+seq 2338: tcp response from 211.152.123.224 [open]  259.305 ms
+seq 2336: no response (timeout)
+seq 2337: tcp response from 111.206.227.118 [open]  1664.178 ms
+seq 2339: tcp response from 111.206.227.118 [open]  463.775 ms
+seq 2340: tcp response from 211.152.123.224 [open]  259.366 ms
+seq 2341: tcp response from 111.206.227.118 [open]  447.153 ms
+seq 2342: tcp response from 211.152.123.224 [open]  255.218 ms
+seq 2343: tcp response from 111.206.227.118 [open]  216.593 ms
+seq 2344: tcp response from 211.152.123.224 [open]  249.093 ms
+seq 2345: tcp response from 111.206.227.118 [open]  454.339 ms
+seq 2346: tcp response from 211.152.123.224 [open]  252.231 ms
+seq 2348: tcp response from 211.152.123.224 [open]  254.692 ms
+seq 2349: tcp response from 111.206.227.118 [open]  214.844 ms
+seq 2350: tcp response from 211.152.123.224 [open]  256.817 ms
+seq 2347: no response (timeout)
+seq 2352: tcp response from 211.152.123.224 [open]  246.134 ms
+seq 2353: tcp response from 111.206.227.118 [open]  568.648 ms
+seq 2355: tcp response from 111.206.227.118 [open]  440.480 ms
+seq 2351: no response (timeout)
+seq 2356: tcp response from 211.152.123.224 [open]  258.136 ms
+seq 2354: no response (timeout)
+seq 2358: tcp response from 211.152.123.224 [open]  1460.623 ms
+seq 2359: tcp response from 111.206.227.118 [open]  449.786 ms
+seq 2357: tcp response from 111.206.227.118 [open]  1441.673 ms
+seq 2360: tcp response from 211.152.123.224 [open]  257.453 ms
+seq 2361: tcp response from 111.206.227.118 [open]  467.088 ms
+seq 2362: tcp response from 211.152.123.224 [open]  257.592 ms
+seq 2363: tcp response from 111.206.227.118 [open]  215.295 ms
+seq 2365: tcp response from 111.206.227.118 [open]  214.847 ms
+seq 2364: tcp response from 211.152.123.224 [open]  1449.413 ms
+seq 2367: tcp response from 111.206.227.118 [open]  215.723 ms
+seq 2366: no response (timeout)
+seq 2368: tcp response from 211.152.123.224 [open]  254.936 ms
+seq 2369: tcp response from 111.206.227.118 [open]  456.004 ms
+seq 2370: tcp response from 211.152.123.224 [open]  259.796 ms
+seq 2372: tcp response from 211.152.123.224 [open]  245.587 ms
+seq 2371: no response (timeout)
+seq 2373: tcp response from 111.206.227.118 [open]  1850.738 ms
+seq 2375: tcp response from 111.206.227.118 [open]  442.598 ms
+seq 2374: no response (timeout)
+seq 2376: tcp response from 211.152.123.224 [open]  256.211 ms
+seq 2377: tcp response from 111.206.227.118 [open]  455.110 ms
+seq 2378: tcp response from 211.152.123.224 [open]  262.055 ms
+seq 2379: tcp response from 111.206.227.118 [open]  456.653 ms
+seq 2380: tcp response from 211.152.123.224 [open]  249.846 ms
+seq 2381: tcp response from 111.206.227.118 [open]  450.334 ms
+seq 2382: tcp response from 211.152.123.224 [open]  257.841 ms
+seq 2383: tcp response from 111.206.227.118 [open]  215.991 ms
+seq 2384: tcp response from 211.152.123.224 [open]  1459.590 ms
+seq 2385: tcp response from 111.206.227.118 [open]  471.320 ms
+seq 2386: tcp response from 211.152.123.224 [open]  263.018 ms
+seq 2387: tcp response from 111.206.227.118 [open]  470.449 ms
+seq 2388: tcp response from 211.152.123.224 [open]  258.384 ms
+seq 2390: tcp response from 211.152.123.224 [open]  247.627 ms
+seq 2391: tcp response from 111.206.227.118 [open]  460.849 ms
+seq 2392: tcp response from 211.152.123.224 [open]  261.889 ms
+seq 2389: no response (timeout)
+seq 2393: tcp response from 111.206.227.118 [open]  450.894 ms
+seq 2394: tcp response from 211.152.123.224 [open]  256.522 ms
+seq 2397: no response (timeout)
+seq 2395: no response (timeout)
+seq 2396: tcp response from 211.152.123.224 [open]  249.008 ms
+seq 2398: no response (timeout)
+seq 2400: tcp response from 211.152.123.224 [open]  262.598 ms
+seq 2399: tcp response from 111.206.227.118 [open]  215.699 ms
+seq 2403: tcp response from 111.206.227.118 [open]  461.726 ms
+seq 2402: tcp response from 111.206.227.118 [open]  448.758 ms
+seq 2405: tcp response from 111.206.227.118 [open]  215.573 ms
+seq 2401: no response (timeout)
+seq 2406: tcp response from 211.152.123.224 [open]  261.216 ms
+seq 2404: no response (timeout)
+seq 2408: tcp response from 211.152.123.224 [open]  257.729 ms
+seq 2407: tcp response from 111.206.227.118 [open]  1670.410 ms
+seq 2409: tcp response from 111.206.227.118 [open]  466.205 ms
+seq 2410: tcp response from 211.152.123.224 [open]  260.813 ms
+seq 2411: tcp response from 111.206.227.118 [open]  457.046 ms
+seq 2412: tcp response from 211.152.123.224 [open]  261.557 ms
+seq 2413: tcp response from 111.206.227.118 [open]  442.793 ms
+seq 2415: tcp response from 111.206.227.118 [open]  448.913 ms
+seq 2414: tcp response from 211.152.123.224 [open]  261.318 ms
+seq 2416: tcp response from 211.152.123.224 [open]  262.100 ms
+seq 2418: tcp response from 211.152.123.224 [open]  253.191 ms
+seq 2419: tcp response from 111.206.227.118 [open]  215.138 ms
+seq 2420: tcp response from 211.152.123.224 [open]  248.758 ms
+seq 2421: tcp response from 111.206.227.118 [open]  214.898 ms
+seq 2422: tcp response from 211.152.123.224 [open]  261.569 ms
+seq 2417: tcp response from 111.206.227.118 [open]  448.337 ms
+seq 2423: tcp response from 111.206.227.118 [open]  215.118 ms
+seq 2424: tcp response from 211.152.123.224 [open]  254.128 ms
+seq 2425: tcp response from 111.206.227.118 [open]  437.311 ms
+seq 2427: tcp response from 111.206.227.118 [open]  457.863 ms
+seq 2426: tcp response from 211.152.123.224 [open]  261.388 ms
+seq 2428: tcp response from 211.152.123.224 [open]  249.894 ms
+seq 2429: tcp response from 111.206.227.118 [open]  216.124 ms
+seq 2430: tcp response from 211.152.123.224 [open]  260.210 ms
+seq 2431: tcp response from 111.206.227.118 [open]  453.025 ms
+seq 2432: tcp response from 211.152.123.224 [open]  247.037 ms
+seq 2433: tcp response from 111.206.227.118 [open]  1850.739 ms
+seq 2435: tcp response from 111.206.227.118 [open]  445.487 ms
+seq 2434: tcp response from 211.152.123.224 [open]  1247.636 ms
+seq 2437: tcp response from 111.206.227.118 [open]  444.355 ms
+seq 2436: no response (timeout)
+seq 2438: tcp response from 211.152.123.224 [open]  1262.659 ms
+seq 2439: tcp response from 111.206.227.118 [open]  459.459 ms
+seq 2441: tcp response from 111.206.227.118 [open]  482.339 ms
+seq 2442: tcp response from 111.206.227.118 [open]  215.941 ms
+seq 2440: no response (timeout)
+seq 2444: tcp response from 111.206.227.118 [open]  491.761 ms
+seq 2445: tcp response from 211.152.123.224 [open]  263.042 ms
+seq 2443: tcp response from 211.152.123.224 [open]  250.373 ms
+seq 2446: tcp response from 111.206.227.118 [open]  476.024 ms
+seq 2447: tcp response from 211.152.123.224 [open]  260.965 ms
+seq 2448: tcp response from 111.206.227.118 [open]  461.450 ms
+seq 2449: tcp response from 211.152.123.224 [open]  242.408 ms
+seq 2450: tcp response from 111.206.227.118 [open]  451.872 ms
+seq 2451: tcp response from 211.152.123.224 [open]  258.451 ms
+seq 2454: tcp response from 111.206.227.118 [open]  448.454 ms
+seq 2453: tcp response from 211.152.123.224 [open]  262.530 ms
+seq 2455: tcp response from 211.152.123.224 [open]  259.722 ms
+seq 2452: tcp response from 111.206.227.118 [open]  1444.632 ms
+seq 2456: tcp response from 111.206.227.118 [open]  468.233 ms
+seq 2457: tcp response from 211.152.123.224 [open]  257.088 ms
+seq 2458: tcp response from 111.206.227.118 [open]  214.983 ms
+seq 2459: tcp response from 211.152.123.224 [open]  246.294 ms
+seq 2461: tcp response from 211.152.123.224 [open]  262.020 ms
+seq 2462: tcp response from 111.206.227.118 [open]  214.492 ms
+seq 2460: no response (timeout)
+seq 2463: tcp response from 211.152.123.224 [open]  251.647 ms
+seq 2464: tcp response from 111.206.227.118 [open]  445.835 ms
+seq 2466: tcp response from 211.152.123.224 [open]  258.088 ms
+seq 2465: tcp response from 111.206.227.118 [open]  215.220 ms
+seq 2468: tcp response from 111.206.227.118 [open]  215.684 ms
+seq 2467: tcp response from 211.152.123.224 [open]  258.216 ms
+seq 2469: tcp response from 211.152.123.224 [open]  254.438 ms
+seq 2470: tcp response from 111.206.227.118 [open]  215.243 ms
+seq 2471: tcp response from 211.152.123.224 [open]  259.848 ms
+seq 2472: tcp response from 111.206.227.118 [open]  442.923 ms
+seq 2474: tcp response from 111.206.227.118 [open]  461.420 ms
+seq 2475: tcp response from 211.152.123.224 [open]  262.858 ms
+seq 2473: no response (timeout)
+seq 2476: tcp response from 111.206.227.118 [open]  215.612 ms
+seq 2477: tcp response from 211.152.123.224 [open]  259.541 ms
+seq 2478: tcp response from 111.206.227.118 [open]  464.284 ms
+seq 2479: tcp response from 211.152.123.224 [open]  259.831 ms
+seq 2480: tcp response from 111.206.227.118 [open]  440.227 ms
+seq 2481: tcp response from 211.152.123.224 [open]  255.536 ms
+seq 2483: tcp response from 211.152.123.224 [open]  244.252 ms
+seq 2482: no response (timeout)
+seq 2487: tcp response from 211.152.123.224 [open]  256.117 ms
+seq 2488: tcp response from 111.206.227.118 [open]  439.821 ms
+seq 2486: tcp response from 111.206.227.118 [open]  1447.194 ms
+seq 2489: tcp response from 211.152.123.224 [open]  243.540 ms
+seq 2490: tcp response from 111.206.227.118 [open]  450.483 ms
+seq 2485: tcp response from 211.152.123.224 [open]  247.647 ms
+seq 2484: tcp response from 111.206.227.118 [open]  1859.131 ms
+seq 2491: tcp response from 211.152.123.224 [open]  258.830 ms
+seq 2492: tcp response from 111.206.227.118 [open]  214.928 ms
+seq 2493: tcp response from 211.152.123.224 [open]  262.372 ms
+seq 2495: tcp response from 211.152.123.224 [open]  257.983 ms
+seq 2494: tcp response from 111.206.227.118 [open]  1452.327 ms
+seq 2497: tcp response from 211.152.123.224 [open]  256.009 ms
+seq 2499: tcp response from 211.152.123.224 [open]  249.154 ms
+seq 2496: tcp response from 111.206.227.118 [open]  1862.982 ms
+seq 2498: tcp response from 111.206.227.118 [open]  1461.075 ms
+seq 2500: tcp response from 111.206.227.118 [open]  444.385 ms
+seq 2503: tcp response from 211.152.123.224 [open]  248.262 ms
+seq 2502: tcp response from 111.206.227.118 [open]  1744.246 ms
+seq 2501: no response (timeout)
+seq 2505: tcp response from 211.152.123.224 [open]  330.382 ms
+seq 2506: tcp response from 111.206.227.118 [open]  231.643 ms
+seq 2504: no response (timeout)
+seq 2508: tcp response from 111.206.227.118 [open]  461.891 ms
+seq 2509: tcp response from 211.152.123.224 [open]  280.940 ms
+seq 2507: no response (timeout)
+seq 2510: tcp response from 111.206.227.118 [open]  441.074 ms
+seq 2511: tcp response from 211.152.123.224 [open]  262.818 ms
+seq 2512: tcp response from 111.206.227.118 [open]  1456.236 ms
+seq 2515: tcp response from 211.152.123.224 [open]  253.645 ms
+seq 2514: tcp response from 111.206.227.118 [open]  1614.764 ms
+seq 2513: no response (timeout)
+seq 2517: tcp response from 211.152.123.224 [open]  262.427 ms
+seq 2516: tcp response from 111.206.227.118 [open]  460.291 ms
+seq 2518: tcp response from 111.206.227.118 [open]  458.059 ms
+seq 2519: tcp response from 211.152.123.224 [open]  246.714 ms
+seq 2521: tcp response from 211.152.123.224 [open]  262.332 ms
+seq 2522: tcp response from 111.206.227.118 [open]  459.409 ms
+seq 2520: no response (timeout)
+seq 2524: tcp response from 111.206.227.118 [open]  217.196 ms
+seq 2525: tcp response from 211.152.123.224 [open]  253.853 ms
+seq 2523: no response (timeout)
+seq 2527: tcp response from 211.152.123.224 [open]  258.719 ms
+seq 2526: tcp response from 111.206.227.118 [open]  452.889 ms
+seq 2529: tcp response from 211.152.123.224 [open]  249.754 ms
+seq 2528: tcp response from 111.206.227.118 [open]  1216.782 ms
+seq 2530: tcp response from 111.206.227.118 [open]  217.444 ms
+seq 2532: tcp response from 211.152.123.224 [open]  259.265 ms
+seq 2531: tcp response from 211.152.123.224 [open]  259.735 ms
+seq 2534: tcp response from 211.152.123.224 [open]  247.535 ms
+seq 2535: tcp response from 111.206.227.118 [open]  449.439 ms
+seq 2536: tcp response from 211.152.123.224 [open]  261.204 ms
+seq 2533: tcp response from 111.206.227.118 [open]  217.888 ms
+seq 2538: tcp response from 211.152.123.224 [open]  261.668 ms
+seq 2537: tcp response from 111.206.227.118 [open]  1896.708 ms
+seq 2539: tcp response from 111.206.227.118 [open]  237.447 ms
+seq 2540: tcp response from 211.152.123.224 [open]  259.642 ms
+seq 2541: tcp response from 111.206.227.118 [open]  459.007 ms
+seq 2542: tcp response from 211.152.123.224 [open]  246.361 ms
+seq 2543: tcp response from 111.206.227.118 [open]  447.703 ms
+seq 2545: tcp response from 111.206.227.118 [open]  438.757 ms
+seq 2544: tcp response from 211.152.123.224 [open]  1648.609 ms
+seq 2546: tcp response from 211.152.123.224 [open]  257.210 ms
+seq 2547: tcp response from 111.206.227.118 [open]  456.579 ms
+seq 2548: tcp response from 211.152.123.224 [open]  262.292 ms
+seq 2550: tcp response from 211.152.123.224 [open]  248.366 ms
+seq 2552: tcp response from 211.152.123.224 [open]  262.538 ms
+seq 2549: tcp response from 111.206.227.118 [open]  1861.358 ms
+seq 2551: no response (timeout)
+seq 2553: tcp response from 111.206.227.118 [open]  216.596 ms
+seq 2554: tcp response from 211.152.123.224 [open]  260.359 ms
+seq 2555: tcp response from 111.206.227.118 [open]  462.171 ms
+seq 2556: tcp response from 211.152.123.224 [open]  247.204 ms
+seq 2557: tcp response from 111.206.227.118 [open]  454.120 ms
+seq 2558: tcp response from 211.152.123.224 [open]  245.717 ms
+seq 2559: tcp response from 111.206.227.118 [open]  441.690 ms
+seq 2561: tcp response from 111.206.227.118 [open]  212.758 ms
+seq 2562: tcp response from 211.152.123.224 [open]  253.896 ms
+seq 2560: no response (timeout)
+seq 2563: tcp response from 111.206.227.118 [open]  1852.621 ms
+seq 2564: tcp response from 211.152.123.224 [open]  247.476 ms
+seq 2566: tcp response from 211.152.123.224 [open]  261.905 ms
+seq 2565: no response (timeout)
+seq 2568: tcp response from 211.152.123.224 [open]  233.319 ms
+seq 2567: tcp response from 111.206.227.118 [open]  1852.917 ms
+seq 2571: tcp response from 111.206.227.118 [open]  211.177 ms
+seq 2572: tcp response from 211.152.123.224 [open]  242.528 ms
+seq 2569: tcp response from 111.206.227.118 [open]  444.970 ms
+seq 2570: tcp response from 211.152.123.224 [open]  234.918 ms
+seq 2573: tcp response from 111.206.227.118 [open]  1861.016 ms
+seq 2574: tcp response from 211.152.123.224 [open]  249.687 ms
+seq 2576: tcp response from 111.206.227.118 [open]  445.000 ms
+seq 2578: tcp response from 211.152.123.224 [open]  1247.153 ms
+seq 2575: no response (timeout)
+seq 2577: no response (timeout)
+seq 2579: tcp response from 111.206.227.118 [open]  1473.858 ms
+seq 2583: tcp response from 111.206.227.118 [open]  468.653 ms
+seq 2580: no response (timeout)
+seq 2584: tcp response from 211.152.123.224 [open]  262.252 ms
+seq 2582: no response (timeout)
+seq 2581: no response (timeout)
+seq 2585: tcp response from 111.206.227.118 [open]  451.636 ms
+seq 2587: tcp response from 111.206.227.118 [open]  214.641 ms
+seq 2586: no response (timeout)
+seq 2590: tcp response from 211.152.123.224 [open]  248.536 ms
+seq 2589: tcp response from 111.206.227.118 [open]  215.344 ms
+seq 2588: no response (timeout)
+seq 2592: tcp response from 211.152.123.224 [open]  457.483 ms
+seq 2591: no response (timeout)
+seq 2594: tcp response from 211.152.123.224 [open]  261.645 ms
+seq 2593: tcp response from 111.206.227.118 [open]  1858.604 ms
+seq 2596: tcp response from 211.152.123.224 [open]  261.836 ms
+seq 2597: tcp response from 111.206.227.118 [open]  215.455 ms
+seq 2595: no response (timeout)
+seq 2600: tcp response from 211.152.123.224 [open]  261.757 ms
+seq 2598: no response (timeout)
+seq 2602: tcp response from 211.152.123.224 [open]  261.519 ms
+seq 2601: tcp response from 111.206.227.118 [open]  1848.416 ms
+seq 2599: tcp response from 111.206.227.118 [open]  1463.288 ms
+seq 2605: tcp response from 111.206.227.118 [open]  426.222 ms
+seq 2603: no response (timeout)
+seq 2604: no response (timeout)
+seq 2608: tcp response from 211.152.123.224 [open]  256.790 ms
+seq 2607: tcp response from 111.206.227.118 [open]  1846.315 ms
+seq 2606: no response (timeout)
+seq 2610: tcp response from 211.152.123.224 [open]  253.422 ms
+seq 2609: tcp response from 111.206.227.118 [open]  1832.563 ms
+seq 2611: tcp response from 111.206.227.118 [open]  446.775 ms
+seq 2612: tcp response from 211.152.123.224 [open]  246.522 ms
+seq 2613: tcp response from 111.206.227.118 [open]  457.796 ms
+seq 2614: tcp response from 211.152.123.224 [open]  261.445 ms
+seq 2615: tcp response from 111.206.227.118 [open]  215.908 ms
+seq 2616: tcp response from 211.152.123.224 [open]  256.940 ms
+seq 2617: tcp response from 111.206.227.118 [open]  466.229 ms
+seq 2618: tcp response from 211.152.123.224 [open]  470.193 ms
+seq 2620: tcp response from 211.152.123.224 [open]  253.715 ms
+seq 2621: tcp response from 111.206.227.118 [open]  453.217 ms
+seq 2619: no response (timeout)
+seq 2623: tcp response from 111.206.227.118 [open]  453.738 ms
+seq 2622: no response (timeout)
+seq 2625: tcp response from 111.206.227.118 [open]  452.023 ms
+seq 2626: tcp response from 211.152.123.224 [open]  262.849 ms
+seq 2624: no response (timeout)
+seq 2627: tcp response from 111.206.227.118 [open]  215.346 ms
+seq 2628: tcp response from 211.152.123.224 [open]  242.469 ms
+seq 2629: tcp response from 111.206.227.118 [open]  430.832 ms
+seq 2631: tcp response from 111.206.227.118 [open]  438.702 ms
+seq 2632: tcp response from 211.152.123.224 [open]  259.089 ms
+seq 2630: no response (timeout)
+seq 2633: tcp response from 111.206.227.118 [open]  442.299 ms
+seq 2634: tcp response from 211.152.123.224 [open]  259.739 ms
+seq 2635: tcp response from 111.206.227.118 [open]  448.775 ms
+seq 2636: tcp response from 211.152.123.224 [open]  242.955 ms
+seq 2638: tcp response from 111.206.227.118 [open]  438.094 ms
+seq 2639: tcp response from 211.152.123.224 [open]  255.110 ms
+seq 2641: tcp response from 111.206.227.118 [open]  214.755 ms
+seq 2637: tcp response from 111.206.227.118 [open]  1413.871 ms
+seq 2642: tcp response from 211.152.123.224 [open]  249.173 ms
+seq 2640: no response (timeout)
+seq 2643: tcp response from 111.206.227.118 [open]  214.963 ms
+seq 2644: tcp response from 211.152.123.224 [open]  260.491 ms
+seq 2645: tcp response from 111.206.227.118 [open]  215.082 ms
+seq 2646: tcp response from 211.152.123.224 [open]  259.217 ms
+seq 2647: tcp response from 111.206.227.118 [open]  215.593 ms
+seq 2648: tcp response from 211.152.123.224 [open]  245.286 ms
+seq 2649: tcp response from 111.206.227.118 [open]  443.208 ms
+seq 2650: tcp response from 211.152.123.224 [open]  248.702 ms
+seq 2652: tcp response from 211.152.123.224 [open]  261.718 ms
+seq 2651: tcp response from 111.206.227.118 [open]  1467.928 ms
+seq 2654: tcp response from 211.152.123.224 [open]  256.533 ms
+seq 2653: tcp response from 111.206.227.118 [open]  1838.163 ms
+seq 2655: tcp response from 111.206.227.118 [open]  451.412 ms
+seq 2656: tcp response from 211.152.123.224 [open]  259.760 ms
+seq 2657: tcp response from 111.206.227.118 [open]  457.890 ms
+seq 2659: tcp response from 111.206.227.118 [open]  214.681 ms
+seq 2658: tcp response from 211.152.123.224 [open]  1249.192 ms
+seq 2660: tcp response from 211.152.123.224 [open]  263.939 ms
+seq 2662: tcp response from 211.152.123.224 [open]  259.802 ms
+seq 2663: tcp response from 111.206.227.118 [open]  216.547 ms
+seq 2661: no response (timeout)
+seq 2664: tcp response from 211.152.123.224 [open]  248.064 ms
+seq 2665: tcp response from 111.206.227.118 [open]  488.330 ms
+seq 2666: tcp response from 211.152.123.224 [open]  256.340 ms
+seq 2668: tcp response from 211.152.123.224 [open]  244.628 ms
+seq 2667: tcp response from 111.206.227.118 [open]  1884.385 ms
+seq 2669: tcp response from 111.206.227.118 [open]  461.419 ms
+seq 2670: tcp response from 211.152.123.224 [open]  265.303 ms
+seq 2672: tcp response from 211.152.123.224 [open]  260.849 ms
+seq 2671: tcp response from 111.206.227.118 [open]  1838.591 ms
+seq 2673: tcp response from 111.206.227.118 [open]  466.205 ms
+seq 2674: tcp response from 211.152.123.224 [open]  254.383 ms
+seq 2675: tcp response from 111.206.227.118 [open]  467.266 ms
+seq 2676: tcp response from 211.152.123.224 [open]  284.518 ms
+seq 2677: tcp response from 111.206.227.118 [open]  217.513 ms
+seq 2678: tcp response from 211.152.123.224 [open]  262.588 ms
+seq 2679: tcp response from 111.206.227.118 [open]  214.230 ms
+seq 2680: tcp response from 211.152.123.224 [open]  249.395 ms
+seq 2681: tcp response from 111.206.227.118 [open]  228.873 ms
+seq 2682: tcp response from 211.152.123.224 [open]  253.647 ms
+seq 2683: tcp response from 111.206.227.118 [open]  456.168 ms
+seq 2684: tcp response from 211.152.123.224 [open]  250.198 ms
+seq 2686: tcp response from 211.152.123.224 [open]  255.811 ms
+seq 2685: tcp response from 111.206.227.118 [open]  1839.842 ms
+seq 2687: tcp response from 111.206.227.118 [open]  447.985 ms
+seq 2688: tcp response from 211.152.123.224 [open]  259.375 ms
+seq 2689: tcp response from 111.206.227.118 [open]  467.001 ms
+seq 2690: tcp response from 211.152.123.224 [open]  259.528 ms
+seq 2691: tcp response from 111.206.227.118 [open]  456.762 ms
+seq 2692: tcp response from 211.152.123.224 [open]  248.421 ms
+seq 2693: tcp response from 111.206.227.118 [open]  469.418 ms
+seq 2694: tcp response from 211.152.123.224 [open]  261.989 ms
+seq 2696: tcp response from 211.152.123.224 [open]  262.223 ms

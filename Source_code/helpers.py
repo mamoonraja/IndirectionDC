@@ -2,6 +2,17 @@ import sys
 import os
 import glob
 
+'''
+   Helper functions used by Pinger:
+      do_ssh
+      do_scp
+      get_scp
+      make_exp_dir
+      copy_files
+      run_code
+   run_dc and run_simple will be used for throughput experiments, not tested yet
+'''
+
 class Helpers(object): # Helper
 	def __init__(self,Key,Username):
 		self.key=Key
@@ -24,6 +35,26 @@ class Helpers(object): # Helper
 
 	def run_code(self,hostname,sendto,direc,port,source_file,exp_num,duration): # run source code at remote host
 		os.system('''ssh  -o "StrictHostKeyChecking no" -l '''+self.uname+''' -i '''+self.key+ ''' '''+hostname+''' 'screen -S experiment'''+str(exp_num)+''' -d -m nohup sudo python '''+direc+'''/'''+source_file+''' '''+str(port)+''' '''+sendto+''' '''+str(duration)+''' '''+direc+'''/'''+sendto+'''_'''+hostname+'''_'''+str(exp_num)+''' ' ''')
+
+	def run_ping(self,direc,duration,server,hostname,hostlocation,expnum,pingtype):
+		if pingtype is 'tcpping':
+			os.system('''ssh  -o "StrictHostKeyChecking no" -l '''+self.uname+''' -i '''+self.key+''' '''+hostname+''' '(cd  '''+direc+''' ; screen -S '''+server+hostname+''' -d -m -L sudo timeout '''+str(duration)+'''s '''+pingtype+''' '''+server+''' )' ''')
+		elif pingtype is 'ping':
+			os.system('''ssh  -o "StrictHostKeyChecking no" -l '''+self.uname+''' -i '''+self.key+''' '''+hostname+''' '(cd '''+direc+''' ;  \
+				screen -S '''+server+hostname+''' -d -m -L sudo '''+pingtype+''' -c 1000 '''+server+''' )' ''')
+		
+	def installer(self,node_file):
+		for node in node_file:
+			print node
+			node=node.split(',')[0].strip('\n\r')
+			self.do_ssh(node,'mkdir Mamoon')
+			self.do_scp(node,'install_libraries','~/Mamoon/')
+			self.do_ssh(node,'chmod 755 ~/Mamoon/install_libraries')
+			self.do_ssh(node,'~/Mamoon/install_libraries')
+
+	def copy_from(self,direc,expnum,f_disc,copyto):
+		for node in f_disc:
+			self.get_scp(node.split(',')[0].strip('\n\r'),direc+str(expnum)+'/*',copyto)
 
 	def run_simple(self,port,expnum,direc,pl_node_file): # run receiver _ sender pair here, dc nodes are already running
 		f = open(active_nodes, 'r')# get these old results by using PL_LINK_INFO_OLD file
@@ -48,21 +79,3 @@ class Helpers(object): # Helper
 			self.copy_files(node.split(',')[0],direc,'udp_dc.py')
 			self.run_code(node.split(',')[0],direc+expnum,direc,port,'udp_dc.py',0,0) 
 
-	def run_ping(self,direc,duration,server,hostname,hostlocation,expnum,pingtype):
-		if pingtype is 'tcpping':
-			os.system('''ssh  -o "StrictHostKeyChecking no" -l '''+self.uname+''' -i '''+self.key+''' '''+hostname+''' '(cd  '''+direc+''' ; screen -S '''+server+hostname+''' -d -m -L sudo timeout '''+str(duration)+'''s '''+pingtype+''' '''+server+''' )' ''')
-		elif pingtype is 'ping':
-			os.system('''ssh  -o "StrictHostKeyChecking no" -l '''+self.uname+''' -i '''+self.key+''' '''+hostname+''' '(cd '''+direc+''' ; screen -S '''+server+hostname+''' -d -m -L sudo '''+pingtype+''' -c 1000 '''+server+''' )' ''')
-		
-	def installer(self,node_file):
-		for node in node_file:
-			print node
-			node=node.split(',')[0].strip('\n\r')
-			self.do_ssh(node,'mkdir Mamoon')
-			self.do_scp(node,'install_libraries','~/Mamoon/')
-			self.do_ssh(node,'chmod 755 ~/Mamoon/install_libraries')
-			self.do_ssh(node,'~/Mamoon/install_libraries')
-
-	def copy_from(self,direc,expnum,f_disc,copyto):
-		for node in f_disc:
-			self.get_scp(node.split(',')[0].strip('\n\r'),direc+str(expnum)+'/*',copyto)

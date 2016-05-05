@@ -2,7 +2,16 @@ import sys
 import os
 import glob
 from helpers import Helpers
-#Class Pinger to Ping from hosts to servers for ping experiments
+
+'''
+    Class Pinger to Ping from hosts to servers for latency experiments, using following methods
+	    install_libs
+	    get_files
+	    run_dc_ping
+	    ping_servers
+	    run_pl_ping    
+
+'''
 class Pinger(object): 
 	def __init__(self,Key,Username_PL,Username_DC):
 		self.key=Key
@@ -22,7 +31,6 @@ class Pinger(object):
 		self.dcs.copy_from(direc,expnum,open(f1,'r'),copyto)
 		self.plab.copy_from(direc,expnum,open(f2,'r'),copyto)
 
-
 	def run_dc_ping(self,direc,duration,expnum,f_dc,f_servers): #ping servers and plabs from DC
 		for node in f_dc:
 			self.ping_servers(direc,duration,expnum,node.split(',')[0].strip('\r\n'),f_servers,'tcpping',self.dcs)
@@ -35,7 +43,6 @@ class Pinger(object):
 			node_obj.do_scp(node,'batch_ping.py',direc)
 			node_obj.do_ssh(node,'python '+direc+'/batch_ping.py '+ \
 				node+' '+f_s+' '+str(expnum)+' '+direc+' '+str(duration)+' '+pingtype)
-
 
 	def run_pl_ping(self,direc,duration,expnum,f_pl,f_servers,exptype):  #ping DC and servers from pl pair, and ping between pl nodes
 		for node in f_pl:

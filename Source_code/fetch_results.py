@@ -3,26 +3,55 @@ import csv
 import copy
 import matplotlib.pyplot as plt
 import numpy as np
+
+'''
+   Parse the results here using following method:
+   		initialize
+   		parse_file
+   		parse_ping
+   		parse_tcpping
+   		partition_parsed_results
+   		parse_pair
+   		mobileIPstretch
+   		diff_in_keys
+   		IndirectionStretch
+   		get_latency_stretch
+   		get_best_DC
+   		get_min_DC
+   		filterList
+   		compare_outliers
+   		plot_cdf
+   		plot_hist
+
+'''
 class Parsers(object):
-	def __init__(self,folder,writer,f1,f2,f3,f4):
-		self.dc_serv={}
-		self.dc_plab={}
-		self.plab_serv={}
+	def __init__(self,folder,filelist):
+		self.dc_serv={}  # store dc to server latencies in form on key value where key is of form 'DCnode_SERVERnode'
+		self.dc_plab={}  # DC to Planet lab nodes latencies
+		self.plab_serv={} 
 		self.plab_plab={}
-		self.mob_ls={}
-		self.ind_ls={}
-		self.results={}
-		self.folder=folder
-		self.fw=writer
-		self.file1=f1
-		self.file2=f2
-		self.file3=f3
-		self.file4=f4
+		self.mob_ls={} # to store mobilIP latency stretch
+		self.ind_ls={} # to store IndirectionDC latency stretch
+		self.results={} # store all latencies
+		self.folder=folder # folder to fetch results from
+		self.fw=open(folder+'/outliers.csv','w')
+		self.fw.write('type,node,server,direct_path,node_to_dc,DC_to_server,stretch\n')
+		self.fwi=open(folder+'/improved.csv','w')
+		self.fwi.write('type,node,server,direct_path,node_to_dc,DC_to_server,stretch\n')		
+		self.filelist=filelist 
 		self.all=[]
 		self.outliers=[]
+		self.outliers_lat=[]
+		self.improved=[]
+		self.double_lat=[]
+
+	def initialize(self,direc):
+		dirs= os.walk('./'+direc+'/').next()[1]
+		for elem in dirs:
+			self.parse_file(elem+'/screenlog.0')
+
 
 	def parse_file(self,datafile):
-#		print self.folder+'/'+datafile
 		try:
 			f=open(self.folder+'/'+datafile,'r')
 		except:
@@ -43,7 +72,6 @@ class Parsers(object):
 			if "rtt" in line:
 				self.results[datafile.split('/')[0].split(',')[0]]=line.split('/')[4]
 				return 0
-		self.results[datafile.split('/')[0].split(',')[0]]=0
 
 	def parse_tcpping(self,datafile):
 		f=open(self.folder+'/'+datafile,'r')
@@ -65,13 +93,13 @@ class Parsers(object):
 		try:
 			self.results[datafile.split('/')[0].split(',')[0]]=str(float(sum(rtt)/len(rtt)))
 		except:
-			self.results[datafile.split('/')[0].split(',')[0]]=str(000)
+			pass
 
 	def partition_parsed_results(self):
-		self.dc_serv=self.parse_pair(self.file3,self.file2)
-		self.dc_plab=self.parse_pair(self.file3,self.file1)
-		self.plab_serv=self.parse_pair(self.file1,self.file2)
-		self.plab_plab=self.parse_pair(self.file1,self.file1)
+		self.dc_serv=self.parse_pair(self.filelist[2],self.filelist[1])
+		self.dc_plab=self.parse_pair(self.filelist[2],self.filelist[0])
+		self.plab_serv=self.parse_pair(self.filelist[0],self.filelist[1])
+		self.plab_plab=self.parse_pair(self.filelist[0],self.filelist[0])
 
 	def parse_pair(self,first_file,second_file):
 		out={}
@@ -120,63 +148,125 @@ class Parsers(object):
 		S_r=difflib.SequenceMatcher(None,k1,k2).ratio()
 		df=float((len(k1)-1))/float(len(k1))
 		if S_r == df or S_r == df:
-			print k1,k2, "ratio" , S_r,df
 			return False
 		return True
 
 	def IndirectionStretch(self,fl1,fl2,fldc):
 		f1=open(fl1,'r')
-		lat_stretch=[]
-		for line1 in f1:
+		lat_stretch_best=[]
+		lat_stretch_nearest=[]
+		for node1 in f1:
 			f2=open(fl2,'r')
-			[dc_path,dcnode]=self.get_min_dc(fldc,line1.split(',')[0])
-			for line2 in f2:
-				n1=line1.split(',')[0].strip('\n\r')
-				n2=line2.strip('\n\r')
-				if n1 != n2 and self.diff_in_keys(n1,n2):
-					direct_path=self.plab_serv[n1+'_'+n2]
-					dc_serv= self.dc_serv[dcnode+'_'+n2]
+			try:
+				[dc_path_from_src,dcnode1]=self.get_min_dc(fldc,node1.split(',')[0],self.dc_plab) # nearest DC from source
+			except:
+				pass
+			else:
+				for node2 in f2:
+					n1=node1.split(',')[0].strip('\n\r')
+					n2=node2.strip('\n\r')
 					try:
-						lat=(float(dc_path)+float(dc_serv) ) / float(direct_path)
+						[dc_path_from_dst,dcnode2]=self.get_min_dc(fldc,node2.split(',')[0],self.dc_serv) # nearest DC from dest	
 					except:
 						pass
 					else:
-						lat_stretch.append(lat)
-						self.all.append(float(direct_path))
-						if lat>5:
-							self.outliers.append(float(direct_path))
-							self.fw.write('IndirectionDC,'+n1+','+n2+','+str(direct_path)+ \
-								','+str(dc_path)+','+str(dc_serv)+','+str(lat)+'\n')
-		return lat_stretch
+						l2=self.get_latency_stretch(n1,n2,dc_path_from_src,dcnode1,False) # nearest to source
+						if l2!="NA":
+							lat_stretch_nearest.append(l2)
+					try:
+						[dc_path,dcnode]=self.get_best_dc(dc_path_from_dst,dc_path_from_src,dcnode1,dcnode2)	
+					except:
+						pass
+					else:
+						l1=self.get_latency_stretch(n1,n2,dc_path,dcnode,True) # best dc
+						if l1!="NA":
+							lat_stretch_best.append(l1)
+		print "lens ",len(lat_stretch_best),len(lat_stretch_nearest)
+		return [lat_stretch_best,lat_stretch_nearest]
 
-	def get_min_dc(self, filedc, node):
+	def get_latency_stretch(self,n1,n2,dc_path,dcnode,record_anom):
+		lat_stretch=[]
+		if n1 != n2 and self.diff_in_keys(n1,n2):
+			try:
+				direct_path=self.plab_serv[n1+'_'+n2]
+			except:
+				return "NA"
+			try:
+				dc_serv= self.dc_serv[dcnode+'_'+n2]
+			except:
+				return "NA"
+			try:
+				lat=(float(dc_path)+float(dc_serv) ) / float(direct_path)
+			except:
+				pass
+			else:
+#				lat_stretch.append(lat)
+				if record_anom:
+					self.all.append(float(direct_path))
+					if lat>5: #storing outliers
+						self.outliers.append(float(direct_path))
+						self.outliers_lat.append(float(float(dc_path)+float(dc_serv)))
+						self.fw.write('IndirectionDC,'+n1+','+n2+','+str(direct_path)+ \
+							','+str(dc_path)+','+str(dc_serv)+','+str(lat)+'\n')
+					if lat>2: #when stretch>2
+						self.double_lat.append(float(float(dc_path)+float(dc_serv)))
+					if lat<=1:
+						self.improved.append(float(direct_path))
+						self.fwi.write('IndirectionDC,'+n1+','+n2+','+str(direct_path)+ \
+							','+str(dc_path)+','+str(dc_serv)+','+str(lat)+'\n')
+				return lat
+
+	def get_best_dc(self,p1,p2,n1,n2):
+		if p1<p2:
+			return p1,n1
+		else:
+			return p2,n2
+
+	def get_min_dc(self, filedc, node,src_dest):
 		f=open(filedc,'r')
 		lats=[]
 		nodes=[]
 		for line in f:
-			lats.append(self.dc_plab[line.split(',')[0]+'_'+node.strip('\n\r')])
-			nodes.append(line.split(',')[0])
+			try:
+				lats.append(src_dest[line.split(',')[0]+'_'+node.strip('\n\r')])
+				nodes.append(line.split(',')[0])
+			except:
+				pass
 		return min(lats),nodes[lats.index(min(lats))]
 
+	def filterlist(self,lst,latency):
+			return [s for s in lst if s < latency]
+
 	def compare_outliers(self):
-		print len(self.all),len(self.outliers)
-		a = [self.outliers]
-		self.plot_cdf(a,['outliers'],'latency (ms)')
-		a = [self.all,self.outliers]
-		self.plot_cdf(a,['all','outliers'],'latency (ms)')
+		colors = ['red', 'tan', 'lime']
+		a = [self.filterlist(self.outliers,200),self.filterlist(self.improved,200),self.filterlist(self.all,200)]
+		self.plot_hist(a,['Outliers','Latency stretch less than 1','All'],'Latency (ms)' \
+			,colors,'Direct route latencies for different scenarios')
+		self.plot_hist(self.double_lat,'Latency stretch greater than 2','Latency (ms)'\
+			,'red','InDirect route latencies Outliers')
 
 	def plot_cdf(self,datas,labels,xl):
+		linestyles = ['-', '--', '-.', ':']
 		ind=0
 		for data in datas:
 			data_sorted = np.sort(data)
-			# calculate the proportional values of samples
 			p = 1. * np.arange(len(data)) / (len(data) - 1)
-			# plot the sorted data:
-			plt.plot(data_sorted,p,label=labels[ind])
+			plt.plot(data_sorted,p,label=labels[ind],linestyle=linestyles[ind],linewidth=3)
+			plt.xscale("log", nonposx='clip')
 			ind+=1
 			plt.hold(True)
 			plt.grid(True)
-		plt.legend()
-		plt.xlabel(xl)
-		plt.ylabel('cdf')
+		plt.legend(loc=4)
+		plt.title('Latency stretch using Indirection', fontsize=14)
+		plt.xlabel(xl,fontsize=14)
+		plt.ylabel('CDF',fontsize=14)
+		plt.show()
+
+	def plot_hist(self,datas,labels,xl,colors,figtitle):
+		n_bins = 20
+		plt.hist(datas, n_bins,normed=1,histtype='bar', color=colors, label=labels)
+		plt.legend(prop={'size': 10})
+		plt.title(figtitle,fontsize=14)
+		plt.xlabel(xl,fontsize =14)
+		plt.ylabel('Normalized Frequency',fontsize=14)
 		plt.show()

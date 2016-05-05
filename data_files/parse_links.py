@@ -1,6 +1,13 @@
 import os
 from test_pings import Test_pings
 from ip_to_city import IP_to_Loc
+'''
+   Parser for Iplane dataset files
+   generates:
+             Any_vX_pairs  => list of node pairs
+   and       Any_vX_nodelits => only node list
+   where X is for version number
+'''
 class iplane_extract(object):
 	def __init__(self):
 		self.AS_IP_map={}
@@ -19,7 +26,6 @@ class iplane_extract(object):
 		writer=open(city+'_pairs.txt','w')
 		writer2=open(city+'_node_list','w')
 		for line in f:
-			print "found ",i
 			lsplit=line.split() # got list in form of pop1,as1,pop,as2
 			try:
 				ip1=self.AS_IP_map[lsplit[1]+'_'+lsplit[3]].split('_')[0]

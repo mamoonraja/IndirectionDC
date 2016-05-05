@@ -1,0 +1,2500 @@
+seq 0: tcp response from 42.156.162.55 [open]  445.256 ms
+seq 1: tcp response from 42.156.162.55 [open]  412.105 ms
+seq 2: tcp response from 42.156.162.55 [open]  366.784 ms
+seq 3: tcp response from 42.156.162.55 [open]  471.645 ms
+seq 4: tcp response from 42.156.162.55 [open]  418.353 ms
+seq 6: tcp response from 42.156.162.55 [open]  263.347 ms
+seq 7: tcp response from 42.156.162.55 [open]  447.532 ms
+seq 5: no response (timeout)
+seq 9: tcp response from 42.156.162.55 [open]  362.017 ms
+seq 8: no response (timeout)
+seq 11: tcp response from 42.156.162.55 [open]  371.243 ms
+seq 10: no response (timeout)
+seq 12: tcp response from 42.156.162.55 [open]  370.510 ms
+seq 14: tcp response from 42.156.162.55 [open]  471.163 ms
+seq 15: tcp response from 42.156.162.55 [open]  372.064 ms
+seq 13: no response (timeout)
+seq 18: tcp response from 42.156.162.55 [open]  273.805 ms
+seq 19: tcp response from 42.156.162.55 [open]  370.845 ms
+seq 16: tcp response from 42.156.162.55 [open]  372.335 ms
+seq 17: tcp response from 42.156.162.55 [open]  371.750 ms
+seq 21: tcp response from 42.156.162.55 [open]  331.039 ms
+seq 22: tcp response from 42.156.162.55 [open]  373.338 ms
+seq 20: no response (timeout)
+seq 25: tcp response from 42.156.162.55 [open]  318.504 ms
+seq 23: no response (timeout)
+seq 24: tcp response from 42.156.162.55 [open]  353.055 ms
+seq 26: tcp response from 42.156.162.55 [open]  472.328 ms
+seq 27: tcp response from 42.156.162.55 [open]  461.436 ms
+seq 29: tcp response from 42.156.162.55 [open]  472.203 ms
+seq 28: no response (timeout)
+seq 31: tcp response from 42.156.162.55 [open]  471.948 ms
+seq 33: tcp response from 42.156.162.55 [open]  375.075 ms
+seq 30: no response (timeout)
+seq 32: tcp response from 42.156.162.55 [open]  400.995 ms
+seq 36: tcp response from 42.156.162.55 [open]  472.278 ms
+seq 34: tcp response from 42.156.162.55 [open]  472.738 ms
+seq 35: no response (timeout)
+seq 39: tcp response from 42.156.162.55 [open]  373.618 ms
+seq 37: no response (timeout)
+seq 40: no response (timeout)
+seq 38: no response (timeout)
+seq 41: no response (timeout)
+seq 43: tcp response from 42.156.162.55 [open]  307.000 ms
+seq 46: tcp response from 42.156.162.55 [open]  459.880 ms
+seq 49: tcp response from 42.156.162.55 [open]  471.914 ms
+seq 48: no response (timeout)
+seq 45: no response (timeout)
+seq 42: no response (timeout)
+seq 44: no response (timeout)
+seq 50: no response (timeout)
+seq 53: tcp response from 42.156.162.55 [open]  372.869 ms
+seq 51: no response (timeout)
+seq 52: tcp response from 42.156.162.55 [open]  372.938 ms
+seq 56: tcp response from 42.156.162.55 [open]  347.676 ms
+seq 55: no response (timeout)
+seq 57: no response (timeout)
+seq 54: no response (timeout)
+seq 58: tcp response from 42.156.162.55 [open]  374.275 ms
+seq 59: tcp response from 42.156.162.55 [open]  447.858 ms
+seq 61: no response (timeout)
+seq 60: tcp response from 42.156.162.55 [open]  365.495 ms
+seq 63: tcp response from 42.156.162.55 [open]  374.192 ms
+seq 47: no response (timeout)
+seq 65: tcp response from 42.156.162.55 [open]  373.102 ms
+seq 64: tcp response from 42.156.162.55 [open]  372.297 ms
+seq 62: tcp response from 42.156.162.55 [open]  472.533 ms
+seq 67: tcp response from 42.156.162.55 [open]  264.714 ms
+seq 69: tcp response from 42.156.162.55 [open]  422.176 ms
+seq 71: tcp response from 42.156.162.55 [open]  460.169 ms
+seq 68: tcp response from 42.156.162.55 [open]  324.418 ms
+seq 66: no response (timeout)
+seq 70: no response (timeout)
+seq 72: tcp response from 42.156.162.55 [open]  439.499 ms
+seq 75: tcp response from 42.156.162.55 [open]  294.973 ms
+seq 74: no response (timeout)
+seq 73: no response (timeout)
+seq 76: tcp response from 42.156.162.55 [open]  351.901 ms
+seq 77: tcp response from 42.156.162.55 [open]  373.594 ms
+seq 78: tcp response from 42.156.162.55 [open]  374.348 ms
+seq 79: tcp response from 42.156.162.55 [open]  473.371 ms
+seq 80: tcp response from 42.156.162.55 [open]  375.036 ms
+seq 81: tcp response from 42.156.162.55 [open]  373.225 ms
+seq 82: tcp response from 42.156.162.55 [open]  363.585 ms
+seq 85: tcp response from 42.156.162.55 [open]  510.000 ms
+seq 86: tcp response from 42.156.162.55 [open]  342.121 ms
+seq 84: no response (timeout)
+seq 87: tcp response from 42.156.162.55 [open]  262.818 ms
+seq 83: no response (timeout)
+seq 89: tcp response from 42.156.162.55 [open]  420.678 ms
+seq 88: no response (timeout)
+seq 92: tcp response from 42.156.162.55 [open]  392.646 ms
+seq 90: no response (timeout)
+seq 91: no response (timeout)
+seq 95: tcp response from 42.156.162.55 [open]  358.134 ms
+seq 93: tcp response from 42.156.162.55 [open]  470.102 ms
+seq 94: tcp response from 42.156.162.55 [open]  471.595 ms
+seq 97: tcp response from 42.156.162.55 [open]  255.416 ms
+seq 96: no response (timeout)
+seq 98: tcp response from 42.156.162.55 [open]  372.634 ms
+seq 100: tcp response from 42.156.162.55 [open]  372.369 ms
+seq 101: tcp response from 42.156.162.55 [open]  298.286 ms
+seq 99: no response (timeout)
+seq 104: tcp response from 42.156.162.55 [open]  359.839 ms
+seq 102: no response (timeout)
+seq 103: no response (timeout)
+seq 107: tcp response from 42.156.162.55 [open]  389.313 ms
+seq 105: no response (timeout)
+seq 106: no response (timeout)
+seq 108: no response (timeout)
+seq 109: no response (timeout)
+seq 110: tcp response from 42.156.162.55 [open]  459.899 ms
+seq 113: tcp response from 42.156.162.55 [open]  471.696 ms
+seq 111: no response (timeout)
+seq 114: tcp response from 42.156.162.55 [open]  439.379 ms
+seq 112: no response (timeout)
+seq 116: tcp response from 42.156.162.55 [open]  373.220 ms
+seq 117: tcp response from 42.156.162.55 [open]  306.077 ms
+seq 115: no response (timeout)
+seq 118: tcp response from 42.156.162.55 [open]  313.195 ms
+seq 119: tcp response from 42.156.162.55 [open]  373.716 ms
+seq 120: tcp response from 42.156.162.55 [open]  470.869 ms
+seq 121: tcp response from 42.156.162.55 [open]  341.160 ms
+seq 122: tcp response from 42.156.162.55 [open]  393.372 ms
+seq 125: tcp response from 42.156.162.55 [open]  441.725 ms
+seq 124: no response (timeout)
+seq 123: no response (timeout)
+seq 128: tcp response from 42.156.162.55 [open]  373.466 ms
+seq 126: no response (timeout)
+seq 127: no response (timeout)
+seq 129: tcp response from 42.156.162.55 [open]  360.176 ms
+seq 130: tcp response from 42.156.162.55 [open]  473.113 ms
+seq 131: tcp response from 42.156.162.55 [open]  471.140 ms
+seq 132: tcp response from 42.156.162.55 [open]  439.128 ms
+seq 133: tcp response from 42.156.162.55 [open]  468.754 ms
+seq 134: tcp response from 42.156.162.55 [open]  471.846 ms
+seq 137: tcp response from 42.156.162.55 [open]  392.361 ms
+seq 135: tcp response from 42.156.162.55 [open]  466.528 ms
+seq 136: no response (timeout)
+seq 138: no response (timeout)
+seq 141: tcp response from 42.156.162.55 [open]  352.635 ms
+seq 139: no response (timeout)
+seq 140: no response (timeout)
+seq 142: tcp response from 42.156.162.55 [open]  326.136 ms
+seq 143: tcp response from 42.156.162.55 [open]  322.665 ms
+seq 144: tcp response from 42.156.162.55 [open]  470.275 ms
+seq 145: tcp response from 42.156.162.55 [open]  471.039 ms
+seq 147: tcp response from 42.156.162.55 [open]  430.627 ms
+seq 146: no response (timeout)
+seq 148: no response (timeout)
+seq 149: tcp response from 42.156.162.55 [open]  354.436 ms
+seq 151: no response (timeout)
+seq 152: tcp response from 42.156.162.55 [open]  281.564 ms
+seq 150: no response (timeout)
+seq 153: tcp response from 42.156.162.55 [open]  337.892 ms
+seq 154: tcp response from 42.156.162.55 [open]  372.729 ms
+seq 155: tcp response from 42.156.162.55 [open]  466.932 ms
+seq 157: tcp response from 42.156.162.55 [open]  472.500 ms
+seq 158: tcp response from 42.156.162.55 [open]  458.832 ms
+seq 156: no response (timeout)
+seq 159: tcp response from 42.156.162.55 [open]  278.106 ms
+seq 160: tcp response from 42.156.162.55 [open]  363.453 ms
+seq 161: tcp response from 42.156.162.55 [open]  407.119 ms
+seq 163: tcp response from 42.156.162.55 [open]  449.591 ms
+seq 164: tcp response from 42.156.162.55 [open]  266.546 ms
+seq 162: no response (timeout)
+seq 165: tcp response from 42.156.162.55 [open]  429.137 ms
+seq 167: tcp response from 42.156.162.55 [open]  411.986 ms
+seq 166: tcp response from 42.156.162.55 [open]  398.965 ms
+seq 171: tcp response from 42.156.162.55 [open]  330.953 ms
+seq 169: no response (timeout)
+seq 170: no response (timeout)
+seq 168: no response (timeout)
+seq 176: tcp response from 42.156.162.55 [open]  403.187 ms
+seq 172: no response (timeout)
+seq 173: no response (timeout)
+seq 175: no response (timeout)
+seq 180: tcp response from 42.156.162.55 [open]  472.023 ms
+seq 174: no response (timeout)
+seq 178: no response (timeout)
+seq 177: no response (timeout)
+seq 181: no response (timeout)
+seq 182: no response (timeout)
+seq 179: no response (timeout)
+seq 183: no response (timeout)
+seq 184: no response (timeout)
+seq 185: tcp response from 42.156.162.55 [open]  370.482 ms
+seq 186: tcp response from 42.156.162.55 [open]  278.903 ms
+seq 187: tcp response from 42.156.162.55 [open]  372.214 ms
+seq 188: tcp response from 42.156.162.55 [open]  367.169 ms
+seq 189: tcp response from 42.156.162.55 [open]  405.000 ms
+seq 190: tcp response from 42.156.162.55 [open]  377.781 ms
+seq 191: tcp response from 42.156.162.55 [open]  331.672 ms
+seq 193: tcp response from 42.156.162.55 [open]  356.057 ms
+seq 194: tcp response from 42.156.162.55 [open]  471.812 ms
+seq 196: tcp response from 42.156.162.55 [open]  321.622 ms
+seq 192: tcp response from 42.156.162.55 [open]  336.461 ms
+seq 195: no response (timeout)
+seq 197: tcp response from 42.156.162.55 [open]  461.330 ms
+seq 199: tcp response from 42.156.162.55 [open]  470.599 ms
+seq 200: tcp response from 42.156.162.55 [open]  471.694 ms
+seq 198: no response (timeout)
+seq 201: tcp response from 42.156.162.55 [open]  472.831 ms
+seq 202: no response (timeout)
+seq 203: no response (timeout)
+seq 204: no response (timeout)
+seq 205: no response (timeout)
+seq 206: no response (timeout)
+seq 208: tcp response from 42.156.162.55 [open]  555.260 ms
+seq 209: tcp response from 42.156.162.55 [open]  350.764 ms
+seq 207: no response (timeout)
+seq 210: tcp response from 42.156.162.55 [open]  430.584 ms
+seq 213: tcp response from 42.156.162.55 [open]  471.841 ms
+seq 214: tcp response from 42.156.162.55 [open]  469.546 ms
+seq 212: no response (timeout)
+seq 211: tcp response from 42.156.162.55 [open]  300.605 ms
+seq 215: tcp response from 42.156.162.55 [open]  397.394 ms
+seq 218: tcp response from 42.156.162.55 [open]  379.133 ms
+seq 216: no response (timeout)
+seq 219: tcp response from 42.156.162.55 [open]  375.246 ms
+seq 217: no response (timeout)
+seq 220: tcp response from 42.156.162.55 [open]  309.165 ms
+seq 221: tcp response from 42.156.162.55 [open]  310.478 ms
+seq 222: tcp response from 42.156.162.55 [open]  399.894 ms
+seq 224: tcp response from 42.156.162.55 [open]  456.261 ms
+seq 223: no response (timeout)
+seq 226: tcp response from 42.156.162.55 [open]  402.691 ms
+seq 225: no response (timeout)
+seq 227: tcp response from 42.156.162.55 [open]  476.812 ms
+seq 229: tcp response from 42.156.162.55 [open]  377.978 ms
+seq 230: tcp response from 42.156.162.55 [open]  378.552 ms
+seq 228: no response (timeout)
+seq 232: tcp response from 42.156.162.55 [open]  345.319 ms
+seq 233: tcp response from 42.156.162.55 [open]  376.873 ms
+seq 231: no response (timeout)
+seq 234: tcp response from 42.156.162.55 [open]  485.709 ms
+seq 236: tcp response from 42.156.162.55 [open]  377.883 ms
+seq 235: no response (timeout)
+seq 238: tcp response from 42.156.162.55 [open]  314.463 ms
+seq 239: tcp response from 42.156.162.55 [open]  424.984 ms
+seq 237: no response (timeout)
+seq 240: tcp response from 42.156.162.55 [open]  363.665 ms
+seq 241: tcp response from 42.156.162.55 [open]  362.915 ms
+seq 242: tcp response from 42.156.162.55 [open]  400.892 ms
+seq 243: tcp response from 42.156.162.55 [open]  421.554 ms
+seq 245: tcp response from 42.156.162.55 [open]  407.361 ms
+seq 244: no response (timeout)
+seq 248: tcp response from 42.156.162.55 [open]  332.008 ms
+seq 246: no response (timeout)
+seq 249: tcp response from 42.156.162.55 [open]  270.348 ms
+seq 247: no response (timeout)
+seq 251: tcp response from 42.156.162.55 [open]  281.993 ms
+seq 252: tcp response from 42.156.162.55 [open]  432.457 ms
+seq 250: no response (timeout)
+seq 253: tcp response from 42.156.162.55 [open]  285.473 ms
+seq 254: tcp response from 42.156.162.55 [open]  383.609 ms
+seq 255: tcp response from 42.156.162.55 [open]  423.488 ms
+seq 256: no response (timeout)
+seq 258: tcp response from 42.156.162.55 [open]  363.530 ms
+seq 257: no response (timeout)
+seq 259: tcp response from 42.156.162.55 [open]  269.897 ms
+seq 260: tcp response from 42.156.162.55 [open]  345.142 ms
+seq 261: tcp response from 42.156.162.55 [open]  335.635 ms
+seq 262: tcp response from 42.156.162.55 [open]  326.477 ms
+seq 263: tcp response from 42.156.162.55 [open]  437.472 ms
+seq 264: tcp response from 42.156.162.55 [open]  367.638 ms
+seq 265: tcp response from 42.156.162.55 [open]  302.858 ms
+seq 266: tcp response from 42.156.162.55 [open]  367.487 ms
+seq 267: tcp response from 42.156.162.55 [open]  361.791 ms
+seq 268: tcp response from 42.156.162.55 [open]  410.811 ms
+seq 269: tcp response from 42.156.162.55 [open]  428.640 ms
+seq 271: tcp response from 42.156.162.55 [open]  381.869 ms
+seq 270: tcp response from 42.156.162.55 [open]  412.558 ms
+seq 273: tcp response from 42.156.162.55 [open]  338.801 ms
+seq 274: tcp response from 42.156.162.55 [open]  316.959 ms
+seq 275: tcp response from 42.156.162.55 [open]  366.851 ms
+seq 272: tcp response from 42.156.162.55 [open]  411.705 ms
+seq 276: tcp response from 42.156.162.55 [open]  238.340 ms
+seq 278: tcp response from 42.156.162.55 [open]  279.776 ms
+seq 277: tcp response from 42.156.162.55 [open]  372.624 ms
+seq 280: tcp response from 42.156.162.55 [open]  326.220 ms
+seq 279: tcp response from 42.156.162.55 [open]  307.910 ms
+seq 283: tcp response from 42.156.162.55 [open]  471.745 ms
+seq 281: no response (timeout)
+seq 282: no response (timeout)
+seq 286: tcp response from 42.156.162.55 [open]  377.423 ms
+seq 284: no response (timeout)
+seq 288: tcp response from 42.156.162.55 [open]  305.613 ms
+seq 285: no response (timeout)
+seq 289: tcp response from 42.156.162.55 [open]  552.208 ms
+seq 291: tcp response from 42.156.162.55 [open]  291.518 ms
+seq 287: no response (timeout)
+seq 293: tcp response from 42.156.162.55 [open]  392.727 ms
+seq 292: tcp response from 42.156.162.55 [open]  364.967 ms
+seq 290: no response (timeout)
+seq 295: tcp response from 42.156.162.55 [open]  388.758 ms
+seq 296: tcp response from 42.156.162.55 [open]  435.797 ms
+seq 294: no response (timeout)
+seq 297: no response (timeout)
+seq 298: tcp response from 42.156.162.55 [open]  302.003 ms
+seq 301: tcp response from 42.156.162.55 [open]  289.599 ms
+seq 299: no response (timeout)
+seq 300: no response (timeout)
+seq 303: tcp response from 42.156.162.55 [open]  268.696 ms
+seq 302: no response (timeout)
+seq 304: no response (timeout)
+seq 306: tcp response from 42.156.162.55 [open]  378.473 ms
+seq 305: no response (timeout)
+seq 308: tcp response from 42.156.162.55 [open]  423.071 ms
+seq 307: no response (timeout)
+seq 310: tcp response from 42.156.162.55 [open]  469.603 ms
+seq 309: no response (timeout)
+seq 312: tcp response from 42.156.162.55 [open]  287.158 ms
+seq 311: no response (timeout)
+seq 313: tcp response from 42.156.162.55 [open]  282.416 ms
+seq 314: tcp response from 42.156.162.55 [open]  334.845 ms
+seq 315: tcp response from 42.156.162.55 [open]  285.447 ms
+seq 316: tcp response from 42.156.162.55 [open]  383.882 ms
+seq 317: tcp response from 42.156.162.55 [open]  268.086 ms
+seq 318: tcp response from 42.156.162.55 [open]  390.950 ms
+seq 319: tcp response from 42.156.162.55 [open]  366.809 ms
+seq 320: tcp response from 42.156.162.55 [open]  268.885 ms
+seq 321: tcp response from 42.156.162.55 [open]  457.108 ms
+seq 324: tcp response from 42.156.162.55 [open]  364.370 ms
+seq 323: tcp response from 42.156.162.55 [open]  362.400 ms
+seq 322: no response (timeout)
+seq 325: tcp response from 42.156.162.55 [open]  416.394 ms
+seq 327: tcp response from 42.156.162.55 [open]  306.296 ms
+seq 328: tcp response from 42.156.162.55 [open]  269.926 ms
+seq 326: no response (timeout)
+seq 330: tcp response from 42.156.162.55 [open]  521.261 ms
+seq 331: tcp response from 42.156.162.55 [open]  284.197 ms
+seq 329: no response (timeout)
+seq 332: tcp response from 42.156.162.55 [open]  293.916 ms
+seq 334: tcp response from 42.156.162.55 [open]  435.651 ms
+seq 333: tcp response from 42.156.162.55 [open]  334.546 ms
+seq 336: tcp response from 42.156.162.55 [open]  433.463 ms
+seq 337: tcp response from 42.156.162.55 [open]  376.790 ms
+seq 335: no response (timeout)
+seq 338: tcp response from 42.156.162.55 [open]  338.141 ms
+seq 339: tcp response from 42.156.162.55 [open]  328.487 ms
+seq 340: no response (timeout)
+seq 343: tcp response from 42.156.162.55 [open]  426.576 ms
+seq 341: no response (timeout)
+seq 342: no response (timeout)
+seq 345: tcp response from 42.156.162.55 [open]  378.529 ms
+seq 344: no response (timeout)
+seq 346: tcp response from 42.156.162.55 [open]  361.146 ms
+seq 347: tcp response from 42.156.162.55 [open]  362.200 ms
+seq 348: tcp response from 42.156.162.55 [open]  394.378 ms
+seq 349: tcp response from 42.156.162.55 [open]  368.680 ms
+seq 350: tcp response from 42.156.162.55 [open]  370.413 ms
+seq 351: tcp response from 42.156.162.55 [open]  262.433 ms
+seq 353: tcp response from 42.156.162.55 [open]  472.856 ms
+seq 352: no response (timeout)
+seq 355: tcp response from 42.156.162.55 [open]  361.206 ms
+seq 354: no response (timeout)
+seq 356: tcp response from 42.156.162.55 [open]  261.866 ms
+seq 357: tcp response from 42.156.162.55 [open]  365.685 ms
+seq 358: tcp response from 42.156.162.55 [open]  270.399 ms
+seq 360: tcp response from 42.156.162.55 [open]  376.670 ms
+seq 362: tcp response from 42.156.162.55 [open]  431.832 ms
+seq 359: no response (timeout)
+seq 361: no response (timeout)
+seq 363: tcp response from 42.156.162.55 [open]  469.011 ms
+seq 364: no response (timeout)
+seq 367: tcp response from 42.156.162.55 [open]  368.828 ms
+seq 365: no response (timeout)
+seq 366: no response (timeout)
+seq 369: tcp response from 42.156.162.55 [open]  341.344 ms
+seq 368: tcp response from 42.156.162.55 [open]  558.734 ms
+seq 370: tcp response from 42.156.162.55 [open]  279.566 ms
+seq 373: tcp response from 42.156.162.55 [open]  372.319 ms
+seq 374: tcp response from 42.156.162.55 [open]  375.587 ms
+seq 371: no response (timeout)
+seq 372: no response (timeout)
+seq 375: tcp response from 42.156.162.55 [open]  306.383 ms
+seq 376: tcp response from 42.156.162.55 [open]  301.747 ms
+seq 377: tcp response from 42.156.162.55 [open]  374.470 ms
+seq 379: tcp response from 42.156.162.55 [open]  362.637 ms
+seq 381: tcp response from 42.156.162.55 [open]  358.183 ms
+seq 380: tcp response from 42.156.162.55 [open]  360.267 ms
+seq 382: tcp response from 42.156.162.55 [open]  360.200 ms
+seq 378: tcp response from 42.156.162.55 [open]  476.516 ms
+seq 383: tcp response from 42.156.162.55 [open]  415.033 ms
+seq 384: no response (timeout)
+seq 387: tcp response from 42.156.162.55 [open]  365.534 ms
+seq 385: no response (timeout)
+seq 386: no response (timeout)
+seq 389: tcp response from 42.156.162.55 [open]  408.774 ms
+seq 392: tcp response from 42.156.162.55 [open]  419.870 ms
+seq 388: tcp response from 42.156.162.55 [open]  361.379 ms
+seq 391: tcp response from 42.156.162.55 [open]  430.368 ms
+seq 394: tcp response from 42.156.162.55 [open]  363.265 ms
+seq 390: tcp response from 42.156.162.55 [open]  403.441 ms
+seq 396: tcp response from 42.156.162.55 [open]  361.776 ms
+seq 398: tcp response from 42.156.162.55 [open]  369.226 ms
+seq 393: no response (timeout)
+seq 395: no response (timeout)
+seq 399: tcp response from 42.156.162.55 [open]  319.279 ms
+seq 397: no response (timeout)
+seq 400: tcp response from 42.156.162.55 [open]  411.553 ms
+seq 402: tcp response from 42.156.162.55 [open]  335.424 ms
+seq 401: tcp response from 42.156.162.55 [open]  310.007 ms
+seq 403: tcp response from 42.156.162.55 [open]  367.107 ms
+seq 404: tcp response from 42.156.162.55 [open]  262.377 ms
+seq 406: tcp response from 42.156.162.55 [open]  367.972 ms
+seq 407: tcp response from 42.156.162.55 [open]  277.108 ms
+seq 405: no response (timeout)
+seq 409: tcp response from 42.156.162.55 [open]  406.361 ms
+seq 408: no response (timeout)
+seq 410: no response (timeout)
+seq 412: tcp response from 42.156.162.55 [open]  328.776 ms
+seq 411: tcp response from 42.156.162.55 [open]  471.733 ms
+seq 413: tcp response from 42.156.162.55 [open]  410.537 ms
+seq 414: tcp response from 42.156.162.55 [open]  433.890 ms
+seq 415: tcp response from 42.156.162.55 [open]  381.685 ms
+seq 416: tcp response from 42.156.162.55 [open]  402.360 ms
+seq 417: tcp response from 42.156.162.55 [open]  455.400 ms
+seq 418: tcp response from 42.156.162.55 [open]  371.509 ms
+seq 419: tcp response from 42.156.162.55 [open]  376.414 ms
+seq 420: tcp response from 42.156.162.55 [open]  363.034 ms
+seq 421: tcp response from 42.156.162.55 [open]  270.569 ms
+seq 423: tcp response from 42.156.162.55 [open]  368.613 ms
+seq 422: no response (timeout)
+seq 424: tcp response from 42.156.162.55 [open]  265.149 ms
+seq 425: tcp response from 42.156.162.55 [open]  427.263 ms
+seq 426: tcp response from 42.156.162.55 [open]  307.063 ms
+seq 427: tcp response from 42.156.162.55 [open]  358.505 ms
+seq 429: tcp response from 42.156.162.55 [open]  412.552 ms
+seq 428: no response (timeout)
+seq 430: tcp response from 42.156.162.55 [open]  263.512 ms
+seq 431: tcp response from 42.156.162.55 [open]  361.587 ms
+seq 432: tcp response from 42.156.162.55 [open]  383.221 ms
+seq 433: tcp response from 42.156.162.55 [open]  472.027 ms
+seq 434: tcp response from 42.156.162.55 [open]  472.717 ms
+seq 438: tcp response from 42.156.162.55 [open]  471.618 ms
+seq 435: no response (timeout)
+seq 437: no response (timeout)
+seq 436: no response (timeout)
+seq 440: tcp response from 42.156.162.55 [open]  373.834 ms
+seq 439: no response (timeout)
+seq 441: no response (timeout)
+seq 442: no response (timeout)
+seq 445: tcp response from 42.156.162.55 [open]  395.316 ms
+seq 446: tcp response from 42.156.162.55 [open]  361.433 ms
+seq 447: tcp response from 42.156.162.55 [open]  363.213 ms
+seq 443: no response (timeout)
+seq 444: no response (timeout)
+seq 448: no response (timeout)
+seq 451: tcp response from 42.156.162.55 [open]  361.317 ms
+seq 449: no response (timeout)
+seq 450: no response (timeout)
+seq 452: tcp response from 42.156.162.55 [open]  314.253 ms
+seq 453: tcp response from 42.156.162.55 [open]  396.586 ms
+seq 454: tcp response from 42.156.162.55 [open]  302.164 ms
+seq 455: tcp response from 42.156.162.55 [open]  403.026 ms
+seq 457: tcp response from 42.156.162.55 [open]  264.646 ms
+seq 458: tcp response from 42.156.162.55 [open]  354.860 ms
+seq 456: no response (timeout)
+seq 459: no response (timeout)
+seq 460: no response (timeout)
+seq 462: tcp response from 42.156.162.55 [open]  373.321 ms
+seq 461: tcp response from 42.156.162.55 [open]  371.657 ms
+seq 464: no response (timeout)
+seq 468: tcp response from 42.156.162.55 [open]  302.796 ms
+seq 465: tcp response from 42.156.162.55 [open]  466.437 ms
+seq 463: tcp response from 42.156.162.55 [open]  466.639 ms
+seq 466: no response (timeout)
+seq 467: no response (timeout)
+seq 471: tcp response from 42.156.162.55 [open]  273.612 ms
+seq 469: no response (timeout)
+seq 472: tcp response from 42.156.162.55 [open]  387.590 ms
+seq 470: no response (timeout)
+seq 473: tcp response from 42.156.162.55 [open]  359.677 ms
+seq 475: tcp response from 42.156.162.55 [open]  384.587 ms
+seq 476: tcp response from 42.156.162.55 [open]  435.731 ms
+seq 474: no response (timeout)
+seq 477: tcp response from 42.156.162.55 [open]  410.813 ms
+seq 478: tcp response from 42.156.162.55 [open]  453.553 ms
+seq 481: tcp response from 42.156.162.55 [open]  280.706 ms
+seq 479: no response (timeout)
+seq 480: no response (timeout)
+seq 484: tcp response from 42.156.162.55 [open]  469.530 ms
+seq 482: no response (timeout)
+seq 483: tcp response from 42.156.162.55 [open]  361.728 ms
+seq 486: tcp response from 42.156.162.55 [open]  469.575 ms
+seq 485: no response (timeout)
+seq 489: tcp response from 42.156.162.55 [open]  360.834 ms
+seq 487: tcp response from 42.156.162.55 [open]  467.719 ms
+seq 492: tcp response from 42.156.162.55 [open]  309.622 ms
+seq 490: no response (timeout)
+seq 488: tcp response from 42.156.162.55 [open]  363.316 ms
+seq 491: no response (timeout)
+seq 494: tcp response from 42.156.162.55 [open]  359.830 ms
+seq 493: no response (timeout)
+seq 496: tcp response from 42.156.162.55 [open]  365.533 ms
+seq 495: no response (timeout)
+seq 497: no response (timeout)
+seq 498: tcp response from 42.156.162.55 [open]  504.754 ms
+seq 499: tcp response from 42.156.162.55 [open]  269.302 ms
+seq 500: tcp response from 42.156.162.55 [open]  331.100 ms
+seq 501: tcp response from 42.156.162.55 [open]  416.859 ms
+seq 503: tcp response from 42.156.162.55 [open]  458.866 ms
+seq 504: tcp response from 42.156.162.55 [open]  472.086 ms
+seq 502: no response (timeout)
+seq 506: tcp response from 42.156.162.55 [open]  361.181 ms
+seq 507: tcp response from 42.156.162.55 [open]  359.730 ms
+seq 505: no response (timeout)
+seq 509: tcp response from 42.156.162.55 [open]  409.642 ms
+seq 510: tcp response from 42.156.162.55 [open]  339.824 ms
+seq 508: no response (timeout)
+seq 511: no response (timeout)
+seq 514: tcp response from 42.156.162.55 [open]  402.331 ms
+seq 513: no response (timeout)
+seq 512: tcp response from 42.156.162.55 [open]  332.279 ms
+seq 515: no response (timeout)
+seq 516: no response (timeout)
+seq 519: tcp response from 42.156.162.55 [open]  363.249 ms
+seq 518: tcp response from 42.156.162.55 [open]  394.191 ms
+seq 520: tcp response from 42.156.162.55 [open]  266.788 ms
+seq 521: tcp response from 42.156.162.55 [open]  398.978 ms
+seq 524: tcp response from 42.156.162.55 [open]  377.545 ms
+seq 517: no response (timeout)
+seq 522: no response (timeout)
+seq 523: no response (timeout)
+seq 527: tcp response from 42.156.162.55 [open]  314.320 ms
+seq 528: tcp response from 42.156.162.55 [open]  275.340 ms
+seq 525: no response (timeout)
+seq 530: tcp response from 42.156.162.55 [open]  310.133 ms
+seq 532: tcp response from 42.156.162.55 [open]  265.018 ms
+seq 534: tcp response from 42.156.162.55 [open]  291.334 ms
+seq 529: tcp response from 42.156.162.55 [open]  301.433 ms
+seq 535: tcp response from 42.156.162.55 [open]  469.219 ms
+seq 526: tcp response from 42.156.162.55 [open]  327.761 ms
+seq 533: no response (timeout)
+seq 531: tcp response from 42.156.162.55 [open]  370.412 ms
+seq 537: tcp response from 42.156.162.55 [open]  445.772 ms
+seq 538: tcp response from 42.156.162.55 [open]  263.423 ms
+seq 536: no response (timeout)
+seq 541: tcp response from 42.156.162.55 [open]  439.045 ms
+seq 539: no response (timeout)
+seq 540: no response (timeout)
+seq 544: tcp response from 42.156.162.55 [open]  423.995 ms
+seq 542: no response (timeout)
+seq 543: no response (timeout)
+seq 546: tcp response from 42.156.162.55 [open]  361.171 ms
+seq 547: tcp response from 42.156.162.55 [open]  335.753 ms
+seq 545: no response (timeout)
+seq 550: tcp response from 42.156.162.55 [open]  373.704 ms
+seq 548: no response (timeout)
+seq 549: no response (timeout)
+seq 552: tcp response from 42.156.162.55 [open]  429.464 ms
+seq 551: no response (timeout)
+seq 553: tcp response from 42.156.162.55 [open]  327.197 ms
+seq 554: tcp response from 42.156.162.55 [open]  430.855 ms
+seq 556: tcp response from 42.156.162.55 [open]  265.352 ms
+seq 555: no response (timeout)
+seq 557: tcp response from 42.156.162.55 [open]  361.282 ms
+seq 558: tcp response from 42.156.162.55 [open]  327.042 ms
+seq 559: tcp response from 42.156.162.55 [open]  472.700 ms
+seq 560: tcp response from 42.156.162.55 [open]  425.730 ms
+seq 562: tcp response from 42.156.162.55 [open]  469.052 ms
+seq 563: tcp response from 42.156.162.55 [open]  371.103 ms
+seq 561: no response (timeout)
+seq 566: tcp response from 42.156.162.55 [open]  362.055 ms
+seq 567: tcp response from 42.156.162.55 [open]  261.259 ms
+seq 564: no response (timeout)
+seq 565: no response (timeout)
+seq 568: tcp response from 42.156.162.55 [open]  362.549 ms
+seq 569: tcp response from 42.156.162.55 [open]  368.404 ms
+seq 571: tcp response from 42.156.162.55 [open]  362.355 ms
+seq 572: tcp response from 42.156.162.55 [open]  362.200 ms
+seq 570: no response (timeout)
+seq 573: tcp response from 42.156.162.55 [open]  446.360 ms
+seq 575: tcp response from 42.156.162.55 [open]  409.240 ms
+seq 576: tcp response from 42.156.162.55 [open]  297.586 ms
+seq 574: tcp response from 42.156.162.55 [open]  427.049 ms
+seq 578: tcp response from 42.156.162.55 [open]  414.881 ms
+seq 579: tcp response from 42.156.162.55 [open]  445.637 ms
+seq 577: no response (timeout)
+seq 581: tcp response from 42.156.162.55 [open]  360.796 ms
+seq 582: tcp response from 42.156.162.55 [open]  325.715 ms
+seq 580: no response (timeout)
+seq 584: tcp response from 42.156.162.55 [open]  471.339 ms
+seq 585: tcp response from 42.156.162.55 [open]  306.754 ms
+seq 583: no response (timeout)
+seq 586: no response (timeout)
+seq 587: tcp response from 42.156.162.55 [open]  371.283 ms
+seq 589: tcp response from 42.156.162.55 [open]  396.586 ms
+seq 588: no response (timeout)
+seq 591: tcp response from 42.156.162.55 [open]  380.811 ms
+seq 592: tcp response from 42.156.162.55 [open]  359.891 ms
+seq 590: no response (timeout)
+seq 594: tcp response from 42.156.162.55 [open]  379.310 ms
+seq 595: tcp response from 42.156.162.55 [open]  391.678 ms
+seq 593: no response (timeout)
+seq 597: tcp response from 42.156.162.55 [open]  361.388 ms
+seq 598: tcp response from 42.156.162.55 [open]  278.248 ms
+seq 596: no response (timeout)
+seq 600: tcp response from 42.156.162.55 [open]  380.782 ms
+seq 599: no response (timeout)
+seq 602: tcp response from 42.156.162.55 [open]  468.265 ms
+seq 601: no response (timeout)
+seq 604: tcp response from 42.156.162.55 [open]  362.661 ms
+seq 603: tcp response from 42.156.162.55 [open]  375.165 ms
+seq 605: tcp response from 42.156.162.55 [open]  263.955 ms
+seq 608: tcp response from 42.156.162.55 [open]  471.850 ms
+seq 607: tcp response from 42.156.162.55 [open]  470.794 ms
+seq 606: tcp response from 42.156.162.55 [open]  390.317 ms
+seq 611: tcp response from 42.156.162.55 [open]  374.799 ms
+seq 610: tcp response from 42.156.162.55 [open]  373.345 ms
+seq 609: no response (timeout)
+seq 613: tcp response from 42.156.162.55 [open]  472.232 ms
+seq 616: tcp response from 42.156.162.55 [open]  470.044 ms
+seq 614: no response (timeout)
+seq 612: no response (timeout)
+seq 618: no response (timeout)
+seq 615: tcp response from 42.156.162.55 [open]  373.960 ms
+seq 620: no response (timeout)
+seq 619: no response (timeout)
+seq 617: no response (timeout)
+seq 621: no response (timeout)
+seq 622: no response (timeout)
+seq 624: tcp response from 42.156.162.55 [open]  361.650 ms
+seq 623: no response (timeout)
+seq 629: tcp response from 42.156.162.55 [open]  277.175 ms
+seq 625: no response (timeout)
+seq 626: no response (timeout)
+seq 627: no response (timeout)
+seq 628: no response (timeout)
+seq 633: tcp response from 42.156.162.55 [open]  336.666 ms
+seq 631: tcp response from 42.156.162.55 [open]  363.305 ms
+seq 630: no response (timeout)
+seq 635: tcp response from 42.156.162.55 [open]  372.396 ms
+seq 639: tcp response from 42.156.162.55 [open]  374.278 ms
+seq 640: tcp response from 42.156.162.55 [open]  472.464 ms
+seq 637: no response (timeout)
+seq 634: no response (timeout)
+seq 636: tcp response from 42.156.162.55 [open]  372.794 ms
+seq 632: no response (timeout)
+seq 638: no response (timeout)
+seq 645: tcp response from 42.156.162.55 [open]  264.125 ms
+seq 642: tcp response from 42.156.162.55 [open]  447.805 ms
+seq 643: tcp response from 42.156.162.55 [open]  404.663 ms
+seq 641: tcp response from 42.156.162.55 [open]  429.763 ms
+seq 644: tcp response from 42.156.162.55 [open]  360.941 ms
+seq 646: tcp response from 42.156.162.55 [open]  280.052 ms
+seq 647: tcp response from 42.156.162.55 [open]  361.721 ms
+seq 648: tcp response from 42.156.162.55 [open]  264.666 ms
+seq 649: tcp response from 42.156.162.55 [open]  419.124 ms
+seq 650: tcp response from 42.156.162.55 [open]  433.450 ms
+seq 651: tcp response from 42.156.162.55 [open]  305.035 ms
+seq 652: tcp response from 42.156.162.55 [open]  431.014 ms
+seq 653: tcp response from 42.156.162.55 [open]  458.883 ms
+seq 654: tcp response from 42.156.162.55 [open]  430.818 ms
+seq 657: tcp response from 42.156.162.55 [open]  387.412 ms
+seq 655: no response (timeout)
+seq 656: no response (timeout)
+seq 659: tcp response from 42.156.162.55 [open]  262.819 ms
+seq 658: no response (timeout)
+seq 660: tcp response from 42.156.162.55 [open]  347.407 ms
+seq 663: tcp response from 42.156.162.55 [open]  363.372 ms
+seq 661: no response (timeout)
+seq 665: tcp response from 42.156.162.55 [open]  390.583 ms
+seq 662: tcp response from 42.156.162.55 [open]  370.575 ms
+seq 664: no response (timeout)
+seq 666: tcp response from 42.156.162.55 [open]  274.113 ms
+seq 667: tcp response from 42.156.162.55 [open]  379.664 ms
+seq 669: tcp response from 42.156.162.55 [open]  264.945 ms
+seq 668: no response (timeout)
+seq 670: tcp response from 42.156.162.55 [open]  361.379 ms
+seq 671: tcp response from 42.156.162.55 [open]  359.679 ms
+seq 672: tcp response from 42.156.162.55 [open]  407.115 ms
+seq 674: tcp response from 42.156.162.55 [open]  413.312 ms
+seq 675: tcp response from 42.156.162.55 [open]  383.550 ms
+seq 676: tcp response from 42.156.162.55 [open]  414.180 ms
+seq 673: no response (timeout)
+seq 678: tcp response from 42.156.162.55 [open]  277.461 ms
+seq 679: tcp response from 42.156.162.55 [open]  411.257 ms
+seq 680: tcp response from 42.156.162.55 [open]  275.002 ms
+seq 681: tcp response from 42.156.162.55 [open]  365.924 ms
+seq 677: tcp response from 42.156.162.55 [open]  270.110 ms
+seq 682: tcp response from 42.156.162.55 [open]  429.976 ms
+seq 684: tcp response from 42.156.162.55 [open]  471.988 ms
+seq 685: tcp response from 42.156.162.55 [open]  474.147 ms
+seq 683: no response (timeout)
+seq 686: tcp response from 42.156.162.55 [open]  368.731 ms
+seq 688: tcp response from 42.156.162.55 [open]  361.857 ms
+seq 687: tcp response from 42.156.162.55 [open]  459.820 ms
+seq 689: tcp response from 42.156.162.55 [open]  268.771 ms
+seq 691: tcp response from 42.156.162.55 [open]  359.943 ms
+seq 692: tcp response from 42.156.162.55 [open]  363.615 ms
+seq 690: tcp response from 42.156.162.55 [open]  305.265 ms
+seq 694: tcp response from 42.156.162.55 [open]  363.052 ms
+seq 693: tcp response from 42.156.162.55 [open]  361.218 ms
+seq 695: tcp response from 42.156.162.55 [open]  262.748 ms
+seq 696: tcp response from 42.156.162.55 [open]  264.252 ms
+seq 697: tcp response from 42.156.162.55 [open]  403.606 ms
+seq 698: tcp response from 42.156.162.55 [open]  287.434 ms
+seq 700: tcp response from 42.156.162.55 [open]  267.192 ms
+seq 701: tcp response from 42.156.162.55 [open]  405.804 ms
+seq 699: no response (timeout)
+seq 703: tcp response from 42.156.162.55 [open]  380.775 ms
+seq 704: tcp response from 42.156.162.55 [open]  368.962 ms
+seq 702: no response (timeout)
+seq 706: tcp response from 42.156.162.55 [open]  375.519 ms
+seq 705: tcp response from 42.156.162.55 [open]  307.160 ms
+seq 707: no response (timeout)
+seq 709: tcp response from 42.156.162.55 [open]  406.611 ms
+seq 710: tcp response from 42.156.162.55 [open]  372.205 ms
+seq 713: tcp response from 42.156.162.55 [open]  471.079 ms
+seq 708: tcp response from 42.156.162.55 [open]  367.829 ms
+seq 711: no response (timeout)
+seq 712: no response (timeout)
+seq 714: tcp response from 42.156.162.55 [open]  263.966 ms
+seq 717: tcp response from 42.156.162.55 [open]  362.510 ms
+seq 715: no response (timeout)
+seq 718: tcp response from 42.156.162.55 [open]  235.395 ms
+seq 719: tcp response from 42.156.162.55 [open]  372.568 ms
+seq 716: tcp response from 42.156.162.55 [open]  362.355 ms
+seq 720: tcp response from 42.156.162.55 [open]  275.188 ms
+seq 722: tcp response from 42.156.162.55 [open]  371.264 ms
+seq 721: tcp response from 42.156.162.55 [open]  371.866 ms
+seq 723: tcp response from 42.156.162.55 [open]  365.190 ms
+seq 726: tcp response from 42.156.162.55 [open]  357.163 ms
+seq 724: no response (timeout)
+seq 725: tcp response from 42.156.162.55 [open]  431.430 ms
+seq 727: tcp response from 42.156.162.55 [open]  368.335 ms
+seq 728: tcp response from 42.156.162.55 [open]  265.205 ms
+seq 730: tcp response from 42.156.162.55 [open]  298.411 ms
+seq 731: tcp response from 42.156.162.55 [open]  360.857 ms
+seq 729: no response (timeout)
+seq 732: tcp response from 42.156.162.55 [open]  436.255 ms
+seq 734: tcp response from 42.156.162.55 [open]  465.905 ms
+seq 735: tcp response from 42.156.162.55 [open]  429.243 ms
+seq 736: tcp response from 42.156.162.55 [open]  465.062 ms
+seq 739: tcp response from 42.156.162.55 [open]  298.500 ms
+seq 733: no response (timeout)
+seq 737: tcp response from 42.156.162.55 [open]  470.859 ms
+seq 738: no response (timeout)
+seq 741: tcp response from 42.156.162.55 [open]  264.040 ms
+seq 742: tcp response from 42.156.162.55 [open]  364.834 ms
+seq 740: no response (timeout)
+seq 744: tcp response from 42.156.162.55 [open]  363.951 ms
+seq 743: no response (timeout)
+seq 746: tcp response from 42.156.162.55 [open]  363.217 ms
+seq 745: no response (timeout)
+seq 748: tcp response from 42.156.162.55 [open]  311.144 ms
+seq 747: no response (timeout)
+seq 750: tcp response from 42.156.162.55 [open]  400.655 ms
+seq 751: tcp response from 42.156.162.55 [open]  401.866 ms
+seq 749: no response (timeout)
+seq 752: tcp response from 42.156.162.55 [open]  385.069 ms
+seq 753: tcp response from 42.156.162.55 [open]  361.015 ms
+seq 756: tcp response from 42.156.162.55 [open]  312.631 ms
+seq 754: no response (timeout)
+seq 755: tcp response from 42.156.162.55 [open]  366.602 ms
+seq 757: tcp response from 42.156.162.55 [open]  414.083 ms
+seq 758: tcp response from 42.156.162.55 [open]  468.973 ms
+seq 760: tcp response from 42.156.162.55 [open]  414.377 ms
+seq 761: tcp response from 42.156.162.55 [open]  437.169 ms
+seq 759: no response (timeout)
+seq 763: tcp response from 42.156.162.55 [open]  277.123 ms
+seq 764: tcp response from 42.156.162.55 [open]  362.023 ms
+seq 762: no response (timeout)
+seq 766: tcp response from 42.156.162.55 [open]  371.731 ms
+seq 765: tcp response from 42.156.162.55 [open]  263.759 ms
+seq 767: tcp response from 42.156.162.55 [open]  265.290 ms
+seq 768: tcp response from 42.156.162.55 [open]  371.867 ms
+seq 769: tcp response from 42.156.162.55 [open]  361.437 ms
+seq 770: tcp response from 42.156.162.55 [open]  358.470 ms
+seq 771: tcp response from 42.156.162.55 [open]  361.872 ms
+seq 772: tcp response from 42.156.162.55 [open]  387.656 ms
+seq 774: tcp response from 42.156.162.55 [open]  403.121 ms
+seq 775: tcp response from 42.156.162.55 [open]  416.762 ms
+seq 776: tcp response from 42.156.162.55 [open]  391.271 ms
+seq 773: tcp response from 42.156.162.55 [open]  428.611 ms
+seq 778: tcp response from 42.156.162.55 [open]  374.597 ms
+seq 777: no response (timeout)
+seq 779: tcp response from 42.156.162.55 [open]  360.445 ms
+seq 781: tcp response from 42.156.162.55 [open]  265.379 ms
+seq 782: tcp response from 42.156.162.55 [open]  374.848 ms
+seq 780: no response (timeout)
+seq 785: tcp response from 42.156.162.55 [open]  290.492 ms
+seq 786: tcp response from 42.156.162.55 [open]  362.364 ms
+seq 784: no response (timeout)
+seq 783: no response (timeout)
+seq 788: tcp response from 42.156.162.55 [open]  362.747 ms
+seq 787: no response (timeout)
+seq 789: tcp response from 42.156.162.55 [open]  360.621 ms
+seq 790: tcp response from 42.156.162.55 [open]  361.687 ms
+seq 793: tcp response from 42.156.162.55 [open]  362.394 ms
+seq 791: no response (timeout)
+seq 792: tcp response from 42.156.162.55 [open]  274.730 ms
+seq 794: tcp response from 42.156.162.55 [open]  362.228 ms
+seq 795: no response (timeout)
+seq 796: no response (timeout)
+seq 798: tcp response from 42.156.162.55 [open]  283.567 ms
+seq 797: no response (timeout)
+seq 800: tcp response from 42.156.162.55 [open]  455.638 ms
+seq 801: tcp response from 42.156.162.55 [open]  435.423 ms
+seq 799: no response (timeout)
+seq 802: tcp response from 42.156.162.55 [open]  375.244 ms
+seq 807: tcp response from 42.156.162.55 [open]  275.153 ms
+seq 804: no response (timeout)
+seq 803: no response (timeout)
+seq 806: tcp response from 42.156.162.55 [open]  371.127 ms
+seq 805: tcp response from 42.156.162.55 [open]  372.442 ms
+seq 809: tcp response from 42.156.162.55 [open]  272.873 ms
+seq 808: no response (timeout)
+seq 811: tcp response from 42.156.162.55 [open]  446.459 ms
+seq 810: no response (timeout)
+seq 814: tcp response from 42.156.162.55 [open]  318.320 ms
+seq 812: no response (timeout)
+seq 815: tcp response from 42.156.162.55 [open]  360.306 ms
+seq 817: tcp response from 42.156.162.55 [open]  362.201 ms
+seq 816: tcp response from 42.156.162.55 [open]  363.469 ms
+seq 813: no response (timeout)
+seq 819: tcp response from 42.156.162.55 [open]  268.410 ms
+seq 820: tcp response from 42.156.162.55 [open]  361.027 ms
+seq 818: no response (timeout)
+seq 821: no response (timeout)
+seq 823: tcp response from 42.156.162.55 [open]  479.663 ms
+seq 822: no response (timeout)
+seq 824: no response (timeout)
+seq 825: no response (timeout)
+seq 828: tcp response from 42.156.162.55 [open]  374.442 ms
+seq 826: no response (timeout)
+seq 827: no response (timeout)
+seq 829: tcp response from 42.156.162.55 [open]  379.325 ms
+seq 831: tcp response from 42.156.162.55 [open]  391.823 ms
+seq 830: no response (timeout)
+seq 834: tcp response from 42.156.162.55 [open]  362.696 ms
+seq 835: tcp response from 42.156.162.55 [open]  264.889 ms
+seq 832: no response (timeout)
+seq 837: tcp response from 42.156.162.55 [open]  444.673 ms
+seq 833: no response (timeout)
+seq 836: no response (timeout)
+seq 838: no response (timeout)
+seq 841: tcp response from 42.156.162.55 [open]  363.920 ms
+seq 839: no response (timeout)
+seq 840: no response (timeout)
+seq 842: no response (timeout)
+seq 846: tcp response from 42.156.162.55 [open]  265.105 ms
+seq 844: tcp response from 42.156.162.55 [open]  265.480 ms
+seq 843: tcp response from 42.156.162.55 [open]  367.500 ms
+seq 847: tcp response from 42.156.162.55 [open]  367.783 ms
+seq 845: no response (timeout)
+seq 848: tcp response from 42.156.162.55 [open]  407.012 ms
+seq 849: tcp response from 42.156.162.55 [open]  470.193 ms
+seq 852: tcp response from 42.156.162.55 [open]  361.334 ms
+seq 850: no response (timeout)
+seq 851: no response (timeout)
+seq 854: tcp response from 42.156.162.55 [open]  270.714 ms
+seq 853: no response (timeout)
+seq 856: tcp response from 42.156.162.55 [open]  458.691 ms
+seq 855: no response (timeout)
+seq 857: no response (timeout)
+seq 858: tcp response from 42.156.162.55 [open]  477.858 ms
+seq 859: tcp response from 42.156.162.55 [open]  470.393 ms
+seq 860: tcp response from 42.156.162.55 [open]  372.509 ms
+seq 862: tcp response from 42.156.162.55 [open]  373.546 ms
+seq 863: tcp response from 42.156.162.55 [open]  470.281 ms
+seq 861: no response (timeout)
+seq 866: tcp response from 42.156.162.55 [open]  426.939 ms
+seq 864: tcp response from 42.156.162.55 [open]  372.444 ms
+seq 867: tcp response from 42.156.162.55 [open]  362.693 ms
+seq 865: no response (timeout)
+seq 868: tcp response from 42.156.162.55 [open]  361.230 ms
+seq 870: tcp response from 42.156.162.55 [open]  392.608 ms
+seq 869: no response (timeout)
+seq 872: tcp response from 42.156.162.55 [open]  447.687 ms
+seq 874: tcp response from 42.156.162.55 [open]  273.266 ms
+seq 875: tcp response from 42.156.162.55 [open]  363.874 ms
+seq 876: tcp response from 42.156.162.55 [open]  367.702 ms
+seq 877: tcp response from 42.156.162.55 [open]  290.575 ms
+seq 871: no response (timeout)
+seq 873: tcp response from 42.156.162.55 [open]  453.306 ms
+seq 879: tcp response from 42.156.162.55 [open]  470.372 ms
+seq 878: tcp response from 42.156.162.55 [open]  404.792 ms
+seq 881: tcp response from 42.156.162.55 [open]  427.703 ms
+seq 882: tcp response from 42.156.162.55 [open]  398.080 ms
+seq 880: no response (timeout)
+seq 883: tcp response from 42.156.162.55 [open]  419.965 ms
+seq 884: tcp response from 42.156.162.55 [open]  435.316 ms
+seq 885: tcp response from 42.156.162.55 [open]  362.816 ms
+seq 886: tcp response from 42.156.162.55 [open]  297.593 ms
+seq 887: tcp response from 42.156.162.55 [open]  269.159 ms
+seq 889: tcp response from 42.156.162.55 [open]  263.416 ms
+seq 888: no response (timeout)
+seq 892: tcp response from 42.156.162.55 [open]  274.864 ms
+seq 890: no response (timeout)
+seq 893: tcp response from 42.156.162.55 [open]  370.816 ms
+seq 894: tcp response from 42.156.162.55 [open]  372.354 ms
+seq 891: tcp response from 42.156.162.55 [open]  347.956 ms
+seq 895: no response (timeout)
+seq 898: tcp response from 42.156.162.55 [open]  327.591 ms
+seq 897: no response (timeout)
+seq 896: no response (timeout)
+seq 899: no response (timeout)
+seq 902: tcp response from 42.156.162.55 [open]  360.416 ms
+seq 900: no response (timeout)
+seq 901: no response (timeout)
+seq 904: tcp response from 42.156.162.55 [open]  423.512 ms
+seq 903: no response (timeout)
+seq 905: no response (timeout)
+seq 906: tcp response from 42.156.162.55 [open]  365.600 ms
+seq 910: tcp response from 42.156.162.55 [open]  337.479 ms
+seq 907: tcp response from 42.156.162.55 [open]  308.192 ms
+seq 908: tcp response from 42.156.162.55 [open]  404.757 ms
+seq 909: no response (timeout)
+seq 911: tcp response from 42.156.162.55 [open]  374.241 ms
+seq 912: tcp response from 42.156.162.55 [open]  359.972 ms
+seq 913: tcp response from 42.156.162.55 [open]  272.847 ms
+seq 915: tcp response from 42.156.162.55 [open]  282.066 ms
+seq 916: tcp response from 42.156.162.55 [open]  359.290 ms
+seq 914: no response (timeout)
+seq 917: tcp response from 42.156.162.55 [open]  264.238 ms
+seq 918: tcp response from 42.156.162.55 [open]  362.238 ms
+seq 919: no response (timeout)
+seq 920: tcp response from 42.156.162.55 [open]  270.107 ms
+seq 923: tcp response from 42.156.162.55 [open]  471.095 ms
+seq 921: no response (timeout)
+seq 922: tcp response from 42.156.162.55 [open]  471.904 ms
+seq 925: tcp response from 42.156.162.55 [open]  362.348 ms
+seq 924: no response (timeout)
+seq 926: tcp response from 42.156.162.55 [open]  468.173 ms
+seq 927: tcp response from 42.156.162.55 [open]  357.781 ms
+seq 928: tcp response from 42.156.162.55 [open]  363.286 ms
+seq 929: tcp response from 42.156.162.55 [open]  265.365 ms
+seq 930: tcp response from 42.156.162.55 [open]  378.041 ms
+seq 931: tcp response from 42.156.162.55 [open]  399.429 ms
+seq 932: tcp response from 42.156.162.55 [open]  327.197 ms
+seq 934: tcp response from 42.156.162.55 [open]  448.502 ms
+seq 935: tcp response from 42.156.162.55 [open]  368.188 ms
+seq 933: no response (timeout)
+seq 937: tcp response from 42.156.162.55 [open]  384.338 ms
+seq 939: tcp response from 42.156.162.55 [open]  262.508 ms
+seq 936: no response (timeout)
+seq 938: no response (timeout)
+seq 940: no response (timeout)
+seq 943: tcp response from 42.156.162.55 [open]  277.568 ms
+seq 941: no response (timeout)
+seq 942: no response (timeout)
+seq 945: tcp response from 42.156.162.55 [open]  265.653 ms
+seq 944: no response (timeout)
+seq 946: no response (timeout)
+seq 947: no response (timeout)
+seq 948: no response (timeout)
+seq 950: tcp response from 42.156.162.55 [open]  361.505 ms
+seq 949: no response (timeout)
+seq 953: tcp response from 42.156.162.55 [open]  444.643 ms
+seq 951: no response (timeout)
+seq 954: tcp response from 42.156.162.55 [open]  359.407 ms
+seq 955: tcp response from 42.156.162.55 [open]  369.697 ms
+seq 958: tcp response from 42.156.162.55 [open]  332.617 ms
+seq 957: tcp response from 42.156.162.55 [open]  382.711 ms
+seq 952: tcp response from 42.156.162.55 [open]  470.399 ms
+seq 961: tcp response from 42.156.162.55 [open]  409.033 ms
+seq 959: no response (timeout)
+seq 960: no response (timeout)
+seq 956: no response (timeout)
+seq 965: tcp response from 42.156.162.55 [open]  361.812 ms
+seq 962: no response (timeout)
+seq 964: no response (timeout)
+seq 966: no response (timeout)
+seq 969: tcp response from 42.156.162.55 [open]  361.306 ms
+seq 967: no response (timeout)
+seq 968: no response (timeout)
+seq 963: tcp response from 42.156.162.55 [open]  360.888 ms
+seq 973: tcp response from 42.156.162.55 [open]  300.710 ms
+seq 972: no response (timeout)
+seq 971: tcp response from 42.156.162.55 [open]  316.027 ms
+seq 970: no response (timeout)
+seq 974: tcp response from 42.156.162.55 [open]  263.303 ms
+seq 975: tcp response from 42.156.162.55 [open]  359.701 ms
+seq 976: tcp response from 42.156.162.55 [open]  394.420 ms
+seq 977: tcp response from 42.156.162.55 [open]  411.398 ms
+seq 979: tcp response from 42.156.162.55 [open]  361.081 ms
+seq 980: tcp response from 42.156.162.55 [open]  373.364 ms
+seq 981: tcp response from 42.156.162.55 [open]  371.072 ms
+seq 978: tcp response from 42.156.162.55 [open]  334.808 ms
+seq 982: tcp response from 42.156.162.55 [open]  372.162 ms
+seq 983: tcp response from 42.156.162.55 [open]  330.151 ms
+seq 984: tcp response from 42.156.162.55 [open]  436.815 ms
+seq 985: tcp response from 42.156.162.55 [open]  380.525 ms
+seq 986: tcp response from 42.156.162.55 [open]  263.143 ms
+seq 987: tcp response from 42.156.162.55 [open]  394.614 ms
+seq 988: tcp response from 42.156.162.55 [open]  298.523 ms
+seq 989: tcp response from 42.156.162.55 [open]  360.036 ms
+seq 990: tcp response from 42.156.162.55 [open]  362.398 ms
+seq 991: tcp response from 42.156.162.55 [open]  382.189 ms
+seq 992: tcp response from 42.156.162.55 [open]  359.913 ms
+seq 994: tcp response from 42.156.162.55 [open]  361.617 ms
+seq 995: tcp response from 42.156.162.55 [open]  386.941 ms
+seq 993: no response (timeout)
+seq 997: tcp response from 42.156.162.55 [open]  373.876 ms
+seq 998: tcp response from 42.156.162.55 [open]  339.359 ms
+seq 996: no response (timeout)
+seq 1000: tcp response from 42.156.162.55 [open]  455.219 ms
+seq 1001: tcp response from 42.156.162.55 [open]  304.058 ms
+seq 999: no response (timeout)
+seq 1003: tcp response from 42.156.162.55 [open]  418.875 ms
+seq 1004: tcp response from 42.156.162.55 [open]  263.924 ms
+seq 1002: no response (timeout)
+seq 1005: tcp response from 42.156.162.55 [open]  436.925 ms
+seq 1006: tcp response from 42.156.162.55 [open]  353.849 ms
+seq 1007: tcp response from 42.156.162.55 [open]  451.025 ms
+seq 1010: tcp response from 42.156.162.55 [open]  376.231 ms
+seq 1008: no response (timeout)
+seq 1009: no response (timeout)
+seq 1011: no response (timeout)
+seq 1012: no response (timeout)
+seq 1013: tcp response from 42.156.162.55 [open]  361.958 ms
+seq 1014: tcp response from 42.156.162.55 [open]  359.419 ms
+seq 1017: tcp response from 42.156.162.55 [open]  285.385 ms
+seq 1018: tcp response from 42.156.162.55 [open]  378.710 ms
+seq 1016: no response (timeout)
+seq 1015: no response (timeout)
+seq 1020: tcp response from 42.156.162.55 [open]  319.328 ms
+seq 1019: no response (timeout)
+seq 1023: tcp response from 42.156.162.55 [open]  436.162 ms
+seq 1022: no response (timeout)
+seq 1027: tcp response from 42.156.162.55 [open]  299.887 ms
+seq 1025: no response (timeout)
+seq 1030: tcp response from 42.156.162.55 [open]  381.400 ms
+seq 1021: tcp response from 42.156.162.55 [open]  384.140 ms
+seq 1026: tcp response from 42.156.162.55 [open]  378.039 ms
+seq 1028: no response (timeout)
+seq 1029: no response (timeout)
+seq 1024: no response (timeout)
+seq 1031: no response (timeout)
+seq 1032: tcp response from 42.156.162.55 [open]  473.590 ms
+seq 1034: no response (timeout)
+seq 1033: no response (timeout)
+seq 1035: no response (timeout)
+seq 1038: tcp response from 42.156.162.55 [open]  375.019 ms
+seq 1036: no response (timeout)
+seq 1037: no response (timeout)
+seq 1039: no response (timeout)
+seq 1041: tcp response from 42.156.162.55 [open]  470.806 ms
+seq 1040: no response (timeout)
+seq 1044: tcp response from 42.156.162.55 [open]  439.548 ms
+seq 1042: no response (timeout)
+seq 1043: no response (timeout)
+seq 1046: tcp response from 42.156.162.55 [open]  363.744 ms
+seq 1045: no response (timeout)
+seq 1048: tcp response from 42.156.162.55 [open]  417.241 ms
+seq 1047: no response (timeout)
+seq 1051: tcp response from 42.156.162.55 [open]  264.311 ms
+seq 1050: no response (timeout)
+seq 1049: no response (timeout)
+seq 1052: tcp response from 42.156.162.55 [open]  268.123 ms
+seq 1054: tcp response from 42.156.162.55 [open]  290.223 ms
+seq 1055: tcp response from 42.156.162.55 [open]  455.084 ms
+seq 1053: no response (timeout)
+seq 1056: no response (timeout)
+seq 1059: tcp response from 42.156.162.55 [open]  462.564 ms
+seq 1057: no response (timeout)
+seq 1058: no response (timeout)
+seq 1061: tcp response from 42.156.162.55 [open]  292.552 ms
+seq 1060: tcp response from 42.156.162.55 [open]  389.254 ms
+seq 1062: tcp response from 42.156.162.55 [open]  383.757 ms
+seq 1064: tcp response from 42.156.162.55 [open]  433.890 ms
+seq 1063: no response (timeout)
+seq 1066: tcp response from 42.156.162.55 [open]  417.032 ms
+seq 1067: tcp response from 42.156.162.55 [open]  342.936 ms
+seq 1065: no response (timeout)
+seq 1069: tcp response from 42.156.162.55 [open]  373.207 ms
+seq 1070: tcp response from 42.156.162.55 [open]  371.569 ms
+seq 1068: no response (timeout)
+seq 1072: tcp response from 42.156.162.55 [open]  293.520 ms
+seq 1071: tcp response from 42.156.162.55 [open]  414.953 ms
+seq 1073: tcp response from 42.156.162.55 [open]  361.538 ms
+seq 1074: tcp response from 42.156.162.55 [open]  363.023 ms
+seq 1076: tcp response from 42.156.162.55 [open]  376.637 ms
+seq 1075: no response (timeout)
+seq 1078: tcp response from 42.156.162.55 [open]  334.348 ms
+seq 1079: tcp response from 42.156.162.55 [open]  405.495 ms
+seq 1081: tcp response from 42.156.162.55 [open]  276.072 ms
+seq 1077: no response (timeout)
+seq 1082: tcp response from 42.156.162.55 [open]  342.779 ms
+seq 1080: no response (timeout)
+seq 1083: tcp response from 42.156.162.55 [open]  363.022 ms
+seq 1084: tcp response from 42.156.162.55 [open]  362.709 ms
+seq 1085: tcp response from 42.156.162.55 [open]  362.334 ms
+seq 1086: tcp response from 42.156.162.55 [open]  361.494 ms
+seq 1087: tcp response from 42.156.162.55 [open]  385.813 ms
+seq 1088: tcp response from 42.156.162.55 [open]  456.522 ms
+seq 1089: tcp response from 42.156.162.55 [open]  353.815 ms
+seq 1090: tcp response from 42.156.162.55 [open]  464.155 ms
+seq 1092: tcp response from 42.156.162.55 [open]  404.062 ms
+seq 1091: no response (timeout)
+seq 1094: tcp response from 42.156.162.55 [open]  450.503 ms
+seq 1093: no response (timeout)
+seq 1095: tcp response from 42.156.162.55 [open]  414.760 ms
+seq 1098: no response (timeout)
+seq 1100: tcp response from 42.156.162.55 [open]  377.648 ms
+seq 1102: tcp response from 42.156.162.55 [open]  380.323 ms
+seq 1096: no response (timeout)
+seq 1103: no response (timeout)
+seq 1099: tcp response from 42.156.162.55 [open]  340.358 ms
+seq 1101: no response (timeout)
+seq 1097: no response (timeout)
+seq 1107: tcp response from 42.156.162.55 [open]  265.458 ms
+seq 1104: tcp response from 42.156.162.55 [open]  362.145 ms
+seq 1108: tcp response from 42.156.162.55 [open]  381.557 ms
+seq 1105: no response (timeout)
+seq 1106: no response (timeout)
+seq 1110: no response (timeout)
+seq 1109: tcp response from 42.156.162.55 [open]  363.497 ms
+seq 1112: tcp response from 42.156.162.55 [open]  470.886 ms
+seq 1111: no response (timeout)
+seq 1113: no response (timeout)
+seq 1116: tcp response from 42.156.162.55 [open]  346.381 ms
+seq 1115: no response (timeout)
+seq 1114: tcp response from 42.156.162.55 [open]  470.752 ms
+seq 1118: tcp response from 42.156.162.55 [open]  266.543 ms
+seq 1117: no response (timeout)
+seq 1121: tcp response from 42.156.162.55 [open]  262.613 ms
+seq 1119: tcp response from 42.156.162.55 [open]  361.219 ms
+seq 1123: tcp response from 42.156.162.55 [open]  366.729 ms
+seq 1120: no response (timeout)
+seq 1122: no response (timeout)
+seq 1124: tcp response from 42.156.162.55 [open]  413.688 ms
+seq 1126: tcp response from 42.156.162.55 [open]  416.423 ms
+seq 1128: tcp response from 42.156.162.55 [open]  263.209 ms
+seq 1125: no response (timeout)
+seq 1129: no response (timeout)
+seq 1130: tcp response from 42.156.162.55 [open]  306.443 ms
+seq 1127: no response (timeout)
+seq 1133: tcp response from 42.156.162.55 [open]  362.129 ms
+seq 1132: no response (timeout)
+seq 1134: tcp response from 42.156.162.55 [open]  361.456 ms
+seq 1131: no response (timeout)
+seq 1135: no response (timeout)
+seq 1137: tcp response from 42.156.162.55 [open]  361.228 ms
+seq 1136: no response (timeout)
+seq 1140: tcp response from 42.156.162.55 [open]  372.701 ms
+seq 1138: no response (timeout)
+seq 1141: tcp response from 42.156.162.55 [open]  463.816 ms
+seq 1139: no response (timeout)
+seq 1143: tcp response from 42.156.162.55 [open]  265.719 ms
+seq 1144: tcp response from 42.156.162.55 [open]  362.562 ms
+seq 1142: no response (timeout)
+seq 1146: tcp response from 42.156.162.55 [open]  261.526 ms
+seq 1147: tcp response from 42.156.162.55 [open]  353.036 ms
+seq 1145: no response (timeout)
+seq 1149: tcp response from 42.156.162.55 [open]  373.587 ms
+seq 1148: no response (timeout)
+seq 1150: tcp response from 42.156.162.55 [open]  372.721 ms
+seq 1152: tcp response from 42.156.162.55 [open]  376.273 ms
+seq 1153: tcp response from 42.156.162.55 [open]  271.717 ms
+seq 1151: no response (timeout)
+seq 1154: tcp response from 42.156.162.55 [open]  361.131 ms
+seq 1155: no response (timeout)
+seq 1157: no response (timeout)
+seq 1160: tcp response from 42.156.162.55 [open]  375.783 ms
+seq 1156: no response (timeout)
+seq 1158: tcp response from 42.156.162.55 [open]  362.959 ms
+seq 1161: tcp response from 42.156.162.55 [open]  367.098 ms
+seq 1159: no response (timeout)
+seq 1165: tcp response from 42.156.162.55 [open]  472.075 ms
+seq 1166: tcp response from 42.156.162.55 [open]  363.336 ms
+seq 1163: tcp response from 42.156.162.55 [open]  344.221 ms
+seq 1162: no response (timeout)
+seq 1164: no response (timeout)
+seq 1167: tcp response from 42.156.162.55 [open]  384.408 ms
+seq 1170: tcp response from 42.156.162.55 [open]  387.501 ms
+seq 1171: tcp response from 42.156.162.55 [open]  370.251 ms
+seq 1168: tcp response from 42.156.162.55 [open]  296.219 ms
+seq 1173: tcp response from 42.156.162.55 [open]  369.518 ms
+seq 1172: no response (timeout)
+seq 1169: tcp response from 42.156.162.55 [open]  263.885 ms
+seq 1174: tcp response from 42.156.162.55 [open]  401.376 ms
+seq 1175: tcp response from 42.156.162.55 [open]  370.637 ms
+seq 1176: tcp response from 42.156.162.55 [open]  364.503 ms
+seq 1177: tcp response from 42.156.162.55 [open]  264.894 ms
+seq 1178: tcp response from 42.156.162.55 [open]  265.239 ms
+seq 1179: tcp response from 42.156.162.55 [open]  264.506 ms
+seq 1181: tcp response from 42.156.162.55 [open]  263.825 ms
+seq 1180: no response (timeout)
+seq 1183: tcp response from 42.156.162.55 [open]  452.399 ms
+seq 1182: no response (timeout)
+seq 1184: tcp response from 42.156.162.55 [open]  356.019 ms
+seq 1186: tcp response from 42.156.162.55 [open]  384.570 ms
+seq 1187: tcp response from 42.156.162.55 [open]  339.068 ms
+seq 1185: no response (timeout)
+seq 1190: tcp response from 42.156.162.55 [open]  368.046 ms
+seq 1191: tcp response from 42.156.162.55 [open]  341.649 ms
+seq 1188: no response (timeout)
+seq 1189: tcp response from 42.156.162.55 [open]  471.248 ms
+seq 1193: tcp response from 42.156.162.55 [open]  362.633 ms
+seq 1194: tcp response from 42.156.162.55 [open]  362.159 ms
+seq 1192: no response (timeout)
+seq 1196: tcp response from 42.156.162.55 [open]  375.146 ms
+seq 1197: tcp response from 42.156.162.55 [open]  388.526 ms
+seq 1198: tcp response from 42.156.162.55 [open]  447.284 ms
+seq 1195: no response (timeout)
+seq 1199: tcp response from 42.156.162.55 [open]  468.513 ms
+seq 1201: tcp response from 42.156.162.55 [open]  284.745 ms
+seq 1200: no response (timeout)
+seq 1202: tcp response from 42.156.162.55 [open]  264.289 ms
+seq 1203: tcp response from 42.156.162.55 [open]  362.587 ms
+seq 1204: tcp response from 42.156.162.55 [open]  330.149 ms
+seq 1205: tcp response from 42.156.162.55 [open]  361.423 ms
+seq 1207: tcp response from 42.156.162.55 [open]  359.608 ms
+seq 1206: no response (timeout)
+seq 1210: tcp response from 42.156.162.55 [open]  424.808 ms
+seq 1208: no response (timeout)
+seq 1209: tcp response from 42.156.162.55 [open]  470.226 ms
+seq 1212: no response (timeout)
+seq 1211: tcp response from 42.156.162.55 [open]  313.685 ms
+seq 1213: tcp response from 42.156.162.55 [open]  341.582 ms
+seq 1214: no response (timeout)
+seq 1218: tcp response from 42.156.162.55 [open]  397.429 ms
+seq 1216: no response (timeout)
+seq 1217: no response (timeout)
+seq 1219: tcp response from 42.156.162.55 [open]  361.778 ms
+seq 1215: tcp response from 42.156.162.55 [open]  348.057 ms
+seq 1220: no response (timeout)
+seq 1223: tcp response from 42.156.162.55 [open]  268.881 ms
+seq 1224: tcp response from 42.156.162.55 [open]  426.932 ms
+seq 1222: tcp response from 42.156.162.55 [open]  362.522 ms
+seq 1225: tcp response from 42.156.162.55 [open]  420.491 ms
+seq 1221: tcp response from 42.156.162.55 [open]  362.539 ms
+seq 1227: tcp response from 42.156.162.55 [open]  448.170 ms
+seq 1226: tcp response from 42.156.162.55 [open]  437.466 ms
+seq 1228: tcp response from 42.156.162.55 [open]  397.445 ms
+seq 1229: tcp response from 42.156.162.55 [open]  362.853 ms
+seq 1230: tcp response from 42.156.162.55 [open]  406.790 ms
+seq 1231: tcp response from 42.156.162.55 [open]  262.014 ms
+seq 1232: tcp response from 42.156.162.55 [open]  263.771 ms
+seq 1233: tcp response from 42.156.162.55 [open]  411.033 ms
+seq 1234: tcp response from 42.156.162.55 [open]  381.167 ms
+seq 1237: tcp response from 42.156.162.55 [open]  403.818 ms
+seq 1235: tcp response from 42.156.162.55 [open]  279.162 ms
+seq 1240: tcp response from 42.156.162.55 [open]  373.364 ms
+seq 1238: no response (timeout)
+seq 1241: tcp response from 42.156.162.55 [open]  373.702 ms
+seq 1242: tcp response from 42.156.162.55 [open]  362.952 ms
+seq 1243: tcp response from 42.156.162.55 [open]  373.147 ms
+seq 1244: tcp response from 42.156.162.55 [open]  305.377 ms
+seq 1245: tcp response from 42.156.162.55 [open]  263.812 ms
+seq 1236: no response (timeout)
+seq 1246: tcp response from 42.156.162.55 [open]  362.185 ms
+seq 1248: tcp response from 42.156.162.55 [open]  386.304 ms
+seq 1249: tcp response from 42.156.162.55 [open]  361.289 ms
+seq 1247: no response (timeout)
+seq 1239: tcp response from 42.156.162.55 [open]  373.358 ms
+seq 1251: tcp response from 42.156.162.55 [open]  410.380 ms
+seq 1252: tcp response from 42.156.162.55 [open]  347.077 ms
+seq 1250: no response (timeout)
+seq 1253: tcp response from 42.156.162.55 [open]  436.160 ms
+seq 1254: tcp response from 42.156.162.55 [open]  324.809 ms
+seq 1255: tcp response from 42.156.162.55 [open]  330.278 ms
+seq 1257: tcp response from 42.156.162.55 [open]  472.503 ms
+seq 1258: tcp response from 42.156.162.55 [open]  371.695 ms
+seq 1256: no response (timeout)
+seq 1260: tcp response from 42.156.162.55 [open]  470.772 ms
+seq 1261: tcp response from 42.156.162.55 [open]  472.056 ms
+seq 1259: no response (timeout)
+seq 1263: tcp response from 42.156.162.55 [open]  370.417 ms
+seq 1262: no response (timeout)
+seq 1265: tcp response from 42.156.162.55 [open]  466.710 ms
+seq 1264: no response (timeout)
+seq 1266: tcp response from 42.156.162.55 [open]  369.009 ms
+seq 1268: tcp response from 42.156.162.55 [open]  432.868 ms
+seq 1267: no response (timeout)
+seq 1270: tcp response from 42.156.162.55 [open]  263.888 ms
+seq 1269: no response (timeout)
+seq 1271: tcp response from 42.156.162.55 [open]  266.284 ms
+seq 1274: tcp response from 42.156.162.55 [open]  261.438 ms
+seq 1272: no response (timeout)
+seq 1273: tcp response from 42.156.162.55 [open]  282.939 ms
+seq 1276: no response (timeout)
+seq 1275: no response (timeout)
+seq 1277: tcp response from 42.156.162.55 [open]  398.969 ms
+seq 1278: tcp response from 42.156.162.55 [open]  263.889 ms
+seq 1279: tcp response from 42.156.162.55 [open]  265.115 ms
+seq 1280: tcp response from 42.156.162.55 [open]  364.800 ms
+seq 1281: no response (timeout)
+seq 1282: tcp response from 42.156.162.55 [open]  377.624 ms
+seq 1283: tcp response from 42.156.162.55 [open]  264.379 ms
+seq 1284: tcp response from 42.156.162.55 [open]  345.573 ms
+seq 1285: tcp response from 42.156.162.55 [open]  324.037 ms
+seq 1287: tcp response from 42.156.162.55 [open]  407.260 ms
+seq 1288: tcp response from 42.156.162.55 [open]  418.636 ms
+seq 1286: no response (timeout)
+seq 1290: tcp response from 42.156.162.55 [open]  374.059 ms
+seq 1289: no response (timeout)
+seq 1291: tcp response from 42.156.162.55 [open]  399.608 ms
+seq 1293: no response (timeout)
+seq 1294: no response (timeout)
+seq 1296: tcp response from 42.156.162.55 [open]  367.700 ms
+seq 1297: tcp response from 42.156.162.55 [open]  362.157 ms
+seq 1298: tcp response from 42.156.162.55 [open]  398.407 ms
+seq 1295: tcp response from 42.156.162.55 [open]  263.810 ms
+seq 1292: no response (timeout)
+seq 1300: tcp response from 42.156.162.55 [open]  335.204 ms
+seq 1299: no response (timeout)
+seq 1301: tcp response from 42.156.162.55 [open]  366.022 ms
+seq 1302: tcp response from 42.156.162.55 [open]  327.328 ms
+seq 1303: tcp response from 42.156.162.55 [open]  322.469 ms
+seq 1304: tcp response from 42.156.162.55 [open]  379.735 ms
+seq 1307: tcp response from 42.156.162.55 [open]  359.186 ms
+seq 1308: tcp response from 42.156.162.55 [open]  430.766 ms
+seq 1305: tcp response from 42.156.162.55 [open]  265.026 ms
+seq 1309: tcp response from 42.156.162.55 [open]  406.555 ms
+seq 1306: tcp response from 42.156.162.55 [open]  361.082 ms
+seq 1310: tcp response from 42.156.162.55 [open]  294.601 ms
+seq 1311: tcp response from 42.156.162.55 [open]  393.166 ms
+seq 1313: tcp response from 42.156.162.55 [open]  283.717 ms
+seq 1312: no response (timeout)
+seq 1316: tcp response from 42.156.162.55 [open]  440.858 ms
+seq 1314: no response (timeout)
+seq 1315: no response (timeout)
+seq 1318: tcp response from 42.156.162.55 [open]  367.457 ms
+seq 1317: no response (timeout)
+seq 1319: tcp response from 42.156.162.55 [open]  381.795 ms
+seq 1321: tcp response from 42.156.162.55 [open]  263.474 ms
+seq 1320: no response (timeout)
+seq 1322: tcp response from 42.156.162.55 [open]  361.452 ms
+seq 1324: tcp response from 42.156.162.55 [open]  268.795 ms
+seq 1325: tcp response from 42.156.162.55 [open]  377.293 ms
+seq 1323: no response (timeout)
+seq 1326: tcp response from 42.156.162.55 [open]  341.590 ms
+seq 1327: tcp response from 42.156.162.55 [open]  371.538 ms
+seq 1328: tcp response from 42.156.162.55 [open]  292.869 ms
+seq 1329: tcp response from 42.156.162.55 [open]  371.949 ms
+seq 1330: tcp response from 42.156.162.55 [open]  361.475 ms
+seq 1332: tcp response from 42.156.162.55 [open]  362.167 ms
+seq 1333: tcp response from 42.156.162.55 [open]  263.826 ms
+seq 1331: no response (timeout)
+seq 1334: tcp response from 42.156.162.55 [open]  470.614 ms
+seq 1337: tcp response from 42.156.162.55 [open]  378.528 ms
+seq 1335: no response (timeout)
+seq 1336: no response (timeout)
+seq 1339: tcp response from 42.156.162.55 [open]  408.961 ms
+seq 1338: no response (timeout)
+seq 1342: tcp response from 42.156.162.55 [open]  321.296 ms
+seq 1340: no response (timeout)
+seq 1341: no response (timeout)
+seq 1343: no response (timeout)
+seq 1346: tcp response from 42.156.162.55 [open]  263.447 ms
+seq 1344: no response (timeout)
+seq 1345: no response (timeout)
+seq 1347: tcp response from 42.156.162.55 [open]  368.019 ms
+seq 1348: tcp response from 42.156.162.55 [open]  279.054 ms
+seq 1349: tcp response from 42.156.162.55 [open]  361.701 ms
+seq 1351: tcp response from 42.156.162.55 [open]  333.043 ms
+seq 1350: no response (timeout)
+seq 1352: tcp response from 42.156.162.55 [open]  328.379 ms
+seq 1354: tcp response from 42.156.162.55 [open]  468.197 ms
+seq 1353: no response (timeout)
+seq 1356: tcp response from 42.156.162.55 [open]  362.689 ms
+seq 1355: no response (timeout)
+seq 1358: tcp response from 42.156.162.55 [open]  362.928 ms
+seq 1359: tcp response from 42.156.162.55 [open]  324.938 ms
+seq 1357: no response (timeout)
+seq 1361: tcp response from 42.156.162.55 [open]  401.553 ms
+seq 1362: tcp response from 42.156.162.55 [open]  268.969 ms
+seq 1360: no response (timeout)
+seq 1364: tcp response from 42.156.162.55 [open]  262.017 ms
+seq 1363: no response (timeout)
+seq 1365: tcp response from 42.156.162.55 [open]  471.113 ms
+seq 1366: tcp response from 42.156.162.55 [open]  324.743 ms
+seq 1367: tcp response from 42.156.162.55 [open]  372.566 ms
+seq 1370: tcp response from 42.156.162.55 [open]  303.247 ms
+seq 1368: tcp response from 42.156.162.55 [open]  339.930 ms
+seq 1374: tcp response from 42.156.162.55 [open]  362.054 ms
+seq 1371: tcp response from 42.156.162.55 [open]  310.646 ms
+seq 1376: tcp response from 42.156.162.55 [open]  396.289 ms
+seq 1373: tcp response from 42.156.162.55 [open]  361.103 ms
+seq 1372: no response (timeout)
+seq 1369: no response (timeout)
+seq 1378: tcp response from 42.156.162.55 [open]  295.645 ms
+seq 1377: no response (timeout)
+seq 1379: tcp response from 42.156.162.55 [open]  357.567 ms
+seq 1380: tcp response from 42.156.162.55 [open]  335.798 ms
+seq 1381: tcp response from 42.156.162.55 [open]  298.397 ms
+seq 1384: no response (timeout)
+seq 1383: tcp response from 42.156.162.55 [open]  409.409 ms
+seq 1387: tcp response from 42.156.162.55 [open]  372.634 ms
+seq 1386: tcp response from 42.156.162.55 [open]  266.246 ms
+seq 1382: no response (timeout)
+seq 1385: tcp response from 42.156.162.55 [open]  267.859 ms
+seq 1375: no response (timeout)
+seq 1388: tcp response from 42.156.162.55 [open]  364.683 ms
+seq 1390: tcp response from 42.156.162.55 [open]  471.368 ms
+seq 1391: tcp response from 42.156.162.55 [open]  293.934 ms
+seq 1389: no response (timeout)
+seq 1392: tcp response from 42.156.162.55 [open]  419.819 ms
+seq 1393: tcp response from 42.156.162.55 [open]  334.313 ms
+seq 1395: tcp response from 42.156.162.55 [open]  361.912 ms
+seq 1394: no response (timeout)
+seq 1396: no response (timeout)
+seq 1397: no response (timeout)
+seq 1399: tcp response from 42.156.162.55 [open]  461.161 ms
+seq 1398: tcp response from 42.156.162.55 [open]  274.302 ms
+seq 1400: tcp response from 42.156.162.55 [open]  379.041 ms
+seq 1404: tcp response from 42.156.162.55 [open]  467.851 ms
+seq 1403: tcp response from 42.156.162.55 [open]  377.842 ms
+seq 1402: no response (timeout)
+seq 1405: tcp response from 42.156.162.55 [open]  350.203 ms
+seq 1407: tcp response from 42.156.162.55 [open]  287.104 ms
+seq 1408: tcp response from 42.156.162.55 [open]  314.402 ms
+seq 1406: no response (timeout)
+seq 1401: no response (timeout)
+seq 1411: tcp response from 42.156.162.55 [open]  428.751 ms
+seq 1409: no response (timeout)
+seq 1412: tcp response from 42.156.162.55 [open]  265.636 ms
+seq 1413: tcp response from 42.156.162.55 [open]  357.206 ms
+seq 1414: tcp response from 42.156.162.55 [open]  275.289 ms
+seq 1410: no response (timeout)
+seq 1415: tcp response from 42.156.162.55 [open]  372.945 ms
+seq 1416: tcp response from 42.156.162.55 [open]  373.086 ms
+seq 1418: tcp response from 42.156.162.55 [open]  401.058 ms
+seq 1419: tcp response from 42.156.162.55 [open]  380.698 ms
+seq 1420: tcp response from 42.156.162.55 [open]  361.150 ms
+seq 1422: tcp response from 42.156.162.55 [open]  268.928 ms
+seq 1417: no response (timeout)
+seq 1423: tcp response from 42.156.162.55 [open]  339.232 ms
+seq 1421: no response (timeout)
+seq 1425: tcp response from 42.156.162.55 [open]  331.144 ms
+seq 1426: tcp response from 42.156.162.55 [open]  437.645 ms
+seq 1424: no response (timeout)
+seq 1428: tcp response from 42.156.162.55 [open]  373.592 ms
+seq 1429: tcp response from 42.156.162.55 [open]  287.123 ms
+seq 1427: no response (timeout)
+seq 1431: tcp response from 42.156.162.55 [open]  419.702 ms
+seq 1433: tcp response from 42.156.162.55 [open]  471.764 ms
+seq 1434: tcp response from 42.156.162.55 [open]  376.318 ms
+seq 1432: no response (timeout)
+seq 1435: tcp response from 42.156.162.55 [open]  374.168 ms
+seq 1436: tcp response from 42.156.162.55 [open]  466.862 ms
+seq 1438: tcp response from 42.156.162.55 [open]  374.548 ms
+seq 1430: no response (timeout)
+seq 1440: tcp response from 42.156.162.55 [open]  472.164 ms
+seq 1439: no response (timeout)
+seq 1441: tcp response from 42.156.162.55 [open]  465.524 ms
+seq 1442: tcp response from 42.156.162.55 [open]  464.796 ms
+seq 1437: tcp response from 42.156.162.55 [open]  465.347 ms
+seq 1443: no response (timeout)
+seq 1446: no response (timeout)
+seq 1444: no response (timeout)
+seq 1450: tcp response from 42.156.162.55 [open]  363.996 ms
+seq 1445: no response (timeout)
+seq 1447: tcp response from 42.156.162.55 [open]  264.912 ms
+seq 1448: no response (timeout)
+seq 1449: tcp response from 42.156.162.55 [open]  277.239 ms
+seq 1451: tcp response from 42.156.162.55 [open]  410.437 ms
+seq 1452: tcp response from 42.156.162.55 [open]  412.231 ms
+seq 1455: tcp response from 42.156.162.55 [open]  316.638 ms
+seq 1456: tcp response from 42.156.162.55 [open]  470.884 ms
+seq 1453: tcp response from 42.156.162.55 [open]  395.505 ms
+seq 1454: no response (timeout)
+seq 1458: tcp response from 42.156.162.55 [open]  469.716 ms
+seq 1460: tcp response from 42.156.162.55 [open]  416.634 ms
+seq 1461: tcp response from 42.156.162.55 [open]  261.888 ms
+seq 1462: tcp response from 42.156.162.55 [open]  403.010 ms
+seq 1459: tcp response from 42.156.162.55 [open]  374.806 ms
+seq 1463: tcp response from 42.156.162.55 [open]  378.562 ms
+seq 1464: tcp response from 42.156.162.55 [open]  451.595 ms
+seq 1457: no response (timeout)
+seq 1465: tcp response from 42.156.162.55 [open]  469.304 ms
+seq 1466: tcp response from 42.156.162.55 [open]  338.717 ms
+seq 1467: tcp response from 42.156.162.55 [open]  268.772 ms
+seq 1469: tcp response from 42.156.162.55 [open]  439.945 ms
+seq 1470: tcp response from 42.156.162.55 [open]  316.614 ms
+seq 1471: tcp response from 42.156.162.55 [open]  360.206 ms
+seq 1473: tcp response from 42.156.162.55 [open]  392.205 ms
+seq 1468: no response (timeout)
+seq 1474: tcp response from 42.156.162.55 [open]  340.382 ms
+seq 1472: no response (timeout)
+seq 1476: tcp response from 42.156.162.55 [open]  382.210 ms
+seq 1477: tcp response from 42.156.162.55 [open]  389.179 ms
+seq 1475: tcp response from 42.156.162.55 [open]  382.755 ms
+seq 1480: tcp response from 42.156.162.55 [open]  411.643 ms
+seq 1478: no response (timeout)
+seq 1479: no response (timeout)
+seq 1482: tcp response from 42.156.162.55 [open]  412.629 ms
+seq 1481: no response (timeout)
+seq 1483: tcp response from 42.156.162.55 [open]  325.117 ms
+seq 1484: tcp response from 42.156.162.55 [open]  362.754 ms
+seq 1485: tcp response from 42.156.162.55 [open]  362.910 ms
+seq 1486: tcp response from 42.156.162.55 [open]  375.763 ms
+seq 1487: tcp response from 42.156.162.55 [open]  378.423 ms
+seq 1490: tcp response from 42.156.162.55 [open]  319.779 ms
+seq 1488: no response (timeout)
+seq 1491: tcp response from 42.156.162.55 [open]  361.312 ms
+seq 1489: no response (timeout)
+seq 1493: tcp response from 42.156.162.55 [open]  469.376 ms
+seq 1494: tcp response from 42.156.162.55 [open]  389.209 ms
+seq 1492: no response (timeout)
+seq 1496: tcp response from 42.156.162.55 [open]  265.032 ms
+seq 1497: tcp response from 42.156.162.55 [open]  360.202 ms
+seq 1495: no response (timeout)
+seq 1499: tcp response from 42.156.162.55 [open]  264.693 ms
+seq 1500: tcp response from 42.156.162.55 [open]  419.069 ms
+seq 1498: tcp response from 42.156.162.55 [open]  267.660 ms
+seq 1502: tcp response from 42.156.162.55 [open]  378.525 ms
+seq 1503: tcp response from 42.156.162.55 [open]  373.522 ms
+seq 1501: no response (timeout)
+seq 1504: tcp response from 42.156.162.55 [open]  371.128 ms
+seq 1506: tcp response from 42.156.162.55 [open]  372.639 ms
+seq 1505: no response (timeout)
+seq 1508: tcp response from 42.156.162.55 [open]  471.044 ms
+seq 1507: no response (timeout)
+seq 1509: tcp response from 42.156.162.55 [open]  363.169 ms
+seq 1511: tcp response from 42.156.162.55 [open]  421.882 ms
+seq 1514: tcp response from 42.156.162.55 [open]  320.254 ms
+seq 1512: tcp response from 42.156.162.55 [open]  337.902 ms
+seq 1515: tcp response from 42.156.162.55 [open]  473.691 ms
+seq 1518: tcp response from 42.156.162.55 [open]  429.132 ms
+seq 1510: no response (timeout)
+seq 1516: no response (timeout)
+seq 1517: no response (timeout)
+seq 1519: tcp response from 42.156.162.55 [open]  361.469 ms
+seq 1520: tcp response from 42.156.162.55 [open]  406.050 ms
+seq 1513: tcp response from 42.156.162.55 [open]  425.132 ms
+seq 1521: tcp response from 42.156.162.55 [open]  362.206 ms
+seq 1524: tcp response from 42.156.162.55 [open]  270.605 ms
+seq 1522: no response (timeout)
+seq 1523: no response (timeout)
+seq 1525: tcp response from 42.156.162.55 [open]  408.746 ms
+seq 1526: tcp response from 42.156.162.55 [open]  308.726 ms
+seq 1527: tcp response from 42.156.162.55 [open]  325.166 ms
+seq 1528: tcp response from 42.156.162.55 [open]  384.779 ms
+seq 1530: tcp response from 42.156.162.55 [open]  370.043 ms
+seq 1529: no response (timeout)
+seq 1533: tcp response from 42.156.162.55 [open]  439.179 ms
+seq 1531: no response (timeout)
+seq 1532: no response (timeout)
+seq 1535: tcp response from 42.156.162.55 [open]  374.672 ms
+seq 1534: tcp response from 42.156.162.55 [open]  300.850 ms
+seq 1537: tcp response from 42.156.162.55 [open]  390.182 ms
+seq 1536: tcp response from 42.156.162.55 [open]  361.465 ms
+seq 1538: tcp response from 42.156.162.55 [open]  362.110 ms
+seq 1539: tcp response from 42.156.162.55 [open]  360.312 ms
+seq 1540: tcp response from 42.156.162.55 [open]  529.904 ms
+seq 1544: tcp response from 42.156.162.55 [open]  454.961 ms
+seq 1543: no response (timeout)
+seq 1541: no response (timeout)
+seq 1547: tcp response from 42.156.162.55 [open]  263.590 ms
+seq 1546: no response (timeout)
+seq 1549: tcp response from 42.156.162.55 [open]  416.333 ms
+seq 1542: no response (timeout)
+seq 1548: no response (timeout)
+seq 1545: no response (timeout)
+seq 1552: tcp response from 42.156.162.55 [open]  345.098 ms
+seq 1551: no response (timeout)
+seq 1550: no response (timeout)
+seq 1553: tcp response from 42.156.162.55 [open]  460.421 ms
+seq 1554: tcp response from 42.156.162.55 [open]  448.426 ms
+seq 1555: tcp response from 42.156.162.55 [open]  408.158 ms
+seq 1558: tcp response from 42.156.162.55 [open]  466.373 ms
+seq 1557: no response (timeout)
+seq 1559: tcp response from 42.156.162.55 [open]  362.485 ms
+seq 1561: tcp response from 42.156.162.55 [open]  329.061 ms
+seq 1556: no response (timeout)
+seq 1560: no response (timeout)
+seq 1562: no response (timeout)
+seq 1563: no response (timeout)
+seq 1566: no response (timeout)
+seq 1564: tcp response from 42.156.162.55 [open]  365.711 ms
+seq 1569: tcp response from 42.156.162.55 [open]  360.414 ms
+seq 1568: no response (timeout)
+seq 1570: tcp response from 42.156.162.55 [open]  361.495 ms
+seq 1567: tcp response from 42.156.162.55 [open]  299.966 ms
+seq 1571: tcp response from 42.156.162.55 [open]  312.737 ms
+seq 1565: no response (timeout)
+seq 1572: tcp response from 42.156.162.55 [open]  274.056 ms
+seq 1574: tcp response from 42.156.162.55 [open]  292.608 ms
+seq 1573: no response (timeout)
+seq 1576: tcp response from 42.156.162.55 [open]  441.664 ms
+seq 1575: no response (timeout)
+seq 1578: tcp response from 42.156.162.55 [open]  368.500 ms
+seq 1579: tcp response from 42.156.162.55 [open]  365.151 ms
+seq 1577: no response (timeout)
+seq 1580: tcp response from 42.156.162.55 [open]  361.245 ms
+seq 1582: tcp response from 42.156.162.55 [open]  415.489 ms
+seq 1581: tcp response from 42.156.162.55 [open]  264.882 ms
+seq 1584: tcp response from 42.156.162.55 [open]  361.462 ms
+seq 1583: tcp response from 42.156.162.55 [open]  360.895 ms
+seq 1585: tcp response from 42.156.162.55 [open]  371.846 ms
+seq 1586: tcp response from 42.156.162.55 [open]  276.294 ms
+seq 1587: tcp response from 42.156.162.55 [open]  296.169 ms
+seq 1588: tcp response from 42.156.162.55 [open]  264.378 ms
+seq 1589: tcp response from 42.156.162.55 [open]  362.233 ms
+seq 1591: tcp response from 42.156.162.55 [open]  358.198 ms
+seq 1590: no response (timeout)
+seq 1593: tcp response from 42.156.162.55 [open]  263.648 ms
+seq 1592: no response (timeout)
+seq 1595: tcp response from 42.156.162.55 [open]  449.800 ms
+seq 1594: no response (timeout)
+seq 1596: tcp response from 42.156.162.55 [open]  389.834 ms
+seq 1599: tcp response from 42.156.162.55 [open]  409.518 ms
+seq 1597: no response (timeout)
+seq 1598: no response (timeout)
+seq 1601: tcp response from 42.156.162.55 [open]  336.955 ms
+seq 1602: tcp response from 42.156.162.55 [open]  354.691 ms
+seq 1600: no response (timeout)
+seq 1603: no response (timeout)
+seq 1605: tcp response from 42.156.162.55 [open]  406.373 ms
+seq 1604: no response (timeout)
+seq 1606: tcp response from 42.156.162.55 [open]  379.363 ms
+seq 1607: tcp response from 42.156.162.55 [open]  280.905 ms
+seq 1608: tcp response from 42.156.162.55 [open]  362.815 ms
+seq 1609: tcp response from 42.156.162.55 [open]  351.863 ms
+seq 1610: tcp response from 42.156.162.55 [open]  364.626 ms
+seq 1611: tcp response from 42.156.162.55 [open]  362.287 ms
+seq 1612: tcp response from 42.156.162.55 [open]  265.100 ms
+seq 1613: tcp response from 42.156.162.55 [open]  261.251 ms
+seq 1614: tcp response from 42.156.162.55 [open]  361.257 ms
+seq 1615: tcp response from 42.156.162.55 [open]  362.339 ms
+seq 1616: tcp response from 42.156.162.55 [open]  271.638 ms
+seq 1619: tcp response from 42.156.162.55 [open]  263.187 ms
+seq 1618: tcp response from 42.156.162.55 [open]  381.875 ms
+seq 1617: no response (timeout)
+seq 1621: tcp response from 42.156.162.55 [open]  362.191 ms
+seq 1622: tcp response from 42.156.162.55 [open]  393.516 ms
+seq 1620: no response (timeout)
+seq 1624: tcp response from 42.156.162.55 [open]  359.034 ms
+seq 1623: tcp response from 42.156.162.55 [open]  390.348 ms
+seq 1626: tcp response from 42.156.162.55 [open]  297.692 ms
+seq 1627: tcp response from 42.156.162.55 [open]  303.154 ms
+seq 1625: no response (timeout)
+seq 1630: tcp response from 42.156.162.55 [open]  265.265 ms
+seq 1628: no response (timeout)
+seq 1631: tcp response from 42.156.162.55 [open]  362.311 ms
+seq 1629: no response (timeout)
+seq 1633: tcp response from 42.156.162.55 [open]  289.124 ms
+seq 1632: tcp response from 42.156.162.55 [open]  266.118 ms
+seq 1634: tcp response from 42.156.162.55 [open]  374.072 ms
+seq 1635: tcp response from 42.156.162.55 [open]  264.519 ms
+seq 1637: tcp response from 42.156.162.55 [open]  439.397 ms
+seq 1639: tcp response from 42.156.162.55 [open]  361.332 ms
+seq 1640: tcp response from 42.156.162.55 [open]  361.745 ms
+seq 1636: no response (timeout)
+seq 1638: no response (timeout)
+seq 1642: tcp response from 42.156.162.55 [open]  264.053 ms
+seq 1643: tcp response from 42.156.162.55 [open]  402.994 ms
+seq 1641: no response (timeout)
+seq 1644: tcp response from 42.156.162.55 [open]  349.772 ms
+seq 1645: tcp response from 42.156.162.55 [open]  322.182 ms
+seq 1646: tcp response from 42.156.162.55 [open]  412.224 ms
+seq 1647: tcp response from 42.156.162.55 [open]  422.117 ms
+seq 1648: tcp response from 42.156.162.55 [open]  444.240 ms
+seq 1650: tcp response from 42.156.162.55 [open]  386.717 ms
+seq 1649: tcp response from 42.156.162.55 [open]  435.312 ms
+seq 1651: tcp response from 42.156.162.55 [open]  381.552 ms
+seq 1652: tcp response from 42.156.162.55 [open]  341.068 ms
+seq 1654: tcp response from 42.156.162.55 [open]  471.282 ms
+seq 1653: no response (timeout)
+seq 1656: tcp response from 42.156.162.55 [open]  469.417 ms
+seq 1655: no response (timeout)
+seq 1657: tcp response from 42.156.162.55 [open]  373.263 ms
+seq 1658: no response (timeout)
+seq 1659: tcp response from 42.156.162.55 [open]  471.859 ms
+seq 1660: tcp response from 42.156.162.55 [open]  374.731 ms
+seq 1661: tcp response from 42.156.162.55 [open]  471.442 ms
+seq 1662: tcp response from 42.156.162.55 [open]  371.142 ms
+seq 1663: tcp response from 42.156.162.55 [open]  361.255 ms
+seq 1664: tcp response from 42.156.162.55 [open]  361.062 ms
+seq 1665: tcp response from 42.156.162.55 [open]  264.566 ms
+seq 1666: tcp response from 42.156.162.55 [open]  381.365 ms
+seq 1667: tcp response from 42.156.162.55 [open]  262.103 ms
+seq 1668: tcp response from 42.156.162.55 [open]  299.687 ms
+seq 1671: tcp response from 42.156.162.55 [open]  342.497 ms
+seq 1669: tcp response from 42.156.162.55 [open]  395.022 ms
+seq 1672: tcp response from 42.156.162.55 [open]  372.090 ms
+seq 1670: no response (timeout)
+seq 1675: tcp response from 42.156.162.55 [open]  370.489 ms
+seq 1673: no response (timeout)
+seq 1674: no response (timeout)
+seq 1676: no response (timeout)
+seq 1677: tcp response from 42.156.162.55 [open]  387.704 ms
+seq 1679: tcp response from 42.156.162.55 [open]  267.474 ms
+seq 1681: tcp response from 42.156.162.55 [open]  267.381 ms
+seq 1682: tcp response from 42.156.162.55 [open]  265.525 ms
+seq 1680: tcp response from 42.156.162.55 [open]  403.190 ms
+seq 1678: no response (timeout)
+seq 1684: tcp response from 42.156.162.55 [open]  372.004 ms
+seq 1683: no response (timeout)
+seq 1686: tcp response from 42.156.162.55 [open]  469.565 ms
+seq 1685: no response (timeout)
+seq 1687: tcp response from 42.156.162.55 [open]  362.973 ms
+seq 1688: tcp response from 42.156.162.55 [open]  361.225 ms
+seq 1690: tcp response from 42.156.162.55 [open]  265.190 ms
+seq 1691: tcp response from 42.156.162.55 [open]  264.599 ms
+seq 1689: no response (timeout)
+seq 1692: tcp response from 42.156.162.55 [open]  430.810 ms
+seq 1693: tcp response from 42.156.162.55 [open]  291.530 ms
+seq 1694: tcp response from 42.156.162.55 [open]  271.078 ms
+seq 1695: tcp response from 42.156.162.55 [open]  360.959 ms
+seq 1696: tcp response from 42.156.162.55 [open]  377.904 ms
+seq 1697: tcp response from 42.156.162.55 [open]  372.524 ms
+seq 1698: tcp response from 42.156.162.55 [open]  302.557 ms
+seq 1699: tcp response from 42.156.162.55 [open]  263.389 ms
+seq 1700: tcp response from 42.156.162.55 [open]  269.013 ms
+seq 1702: tcp response from 42.156.162.55 [open]  373.653 ms
+seq 1701: no response (timeout)
+seq 1704: tcp response from 42.156.162.55 [open]  423.711 ms
+seq 1703: no response (timeout)
+seq 1705: tcp response from 42.156.162.55 [open]  360.557 ms
+seq 1709: tcp response from 42.156.162.55 [open]  280.251 ms
+seq 1710: tcp response from 42.156.162.55 [open]  348.984 ms
+seq 1707: tcp response from 42.156.162.55 [open]  359.687 ms
+seq 1708: no response (timeout)
+seq 1706: tcp response from 42.156.162.55 [open]  302.823 ms
+seq 1712: tcp response from 42.156.162.55 [open]  419.802 ms
+seq 1713: tcp response from 42.156.162.55 [open]  444.505 ms
+seq 1711: no response (timeout)
+seq 1714: tcp response from 42.156.162.55 [open]  362.039 ms
+seq 1717: tcp response from 42.156.162.55 [open]  358.295 ms
+seq 1715: no response (timeout)
+seq 1718: tcp response from 42.156.162.55 [open]  289.328 ms
+seq 1719: tcp response from 42.156.162.55 [open]  384.064 ms
+seq 1716: no response (timeout)
+seq 1720: tcp response from 42.156.162.55 [open]  263.498 ms
+seq 1722: tcp response from 42.156.162.55 [open]  419.056 ms
+seq 1721: no response (timeout)
+seq 1723: tcp response from 42.156.162.55 [open]  409.984 ms
+seq 1724: tcp response from 42.156.162.55 [open]  363.523 ms
+seq 1725: tcp response from 42.156.162.55 [open]  359.734 ms
+seq 1726: tcp response from 42.156.162.55 [open]  361.226 ms
+seq 1727: tcp response from 42.156.162.55 [open]  360.861 ms
+seq 1729: tcp response from 42.156.162.55 [open]  470.914 ms
+seq 1728: no response (timeout)
+seq 1731: tcp response from 42.156.162.55 [open]  265.842 ms
+seq 1730: no response (timeout)
+seq 1732: tcp response from 42.156.162.55 [open]  269.136 ms
+seq 1734: tcp response from 42.156.162.55 [open]  410.459 ms
+seq 1733: no response (timeout)
+seq 1735: tcp response from 42.156.162.55 [open]  348.321 ms
+seq 1737: tcp response from 42.156.162.55 [open]  264.132 ms
+seq 1738: tcp response from 42.156.162.55 [open]  419.737 ms
+seq 1739: tcp response from 42.156.162.55 [open]  450.948 ms
+seq 1741: tcp response from 42.156.162.55 [open]  408.249 ms
+seq 1736: no response (timeout)
+seq 1744: tcp response from 42.156.162.55 [open]  389.115 ms
+seq 1743: no response (timeout)
+seq 1745: tcp response from 42.156.162.55 [open]  436.971 ms
+seq 1740: no response (timeout)
+seq 1742: tcp response from 42.156.162.55 [open]  362.191 ms
+seq 1748: tcp response from 42.156.162.55 [open]  367.827 ms
+seq 1747: no response (timeout)
+seq 1746: no response (timeout)
+seq 1750: tcp response from 42.156.162.55 [open]  306.358 ms
+seq 1749: no response (timeout)
+seq 1753: tcp response from 42.156.162.55 [open]  375.379 ms
+seq 1751: no response (timeout)
+seq 1752: no response (timeout)
+seq 1755: tcp response from 42.156.162.55 [open]  361.961 ms
+seq 1754: no response (timeout)
+seq 1757: tcp response from 42.156.162.55 [open]  361.728 ms
+seq 1758: tcp response from 42.156.162.55 [open]  379.565 ms
+seq 1756: tcp response from 42.156.162.55 [open]  362.349 ms
+seq 1760: tcp response from 42.156.162.55 [open]  335.192 ms
+seq 1761: tcp response from 42.156.162.55 [open]  370.607 ms
+seq 1759: no response (timeout)
+seq 1762: tcp response from 42.156.162.55 [open]  274.835 ms
+seq 1764: tcp response from 42.156.162.55 [open]  358.418 ms
+seq 1765: tcp response from 42.156.162.55 [open]  265.438 ms
+seq 1763: tcp response from 42.156.162.55 [open]  372.142 ms
+seq 1766: tcp response from 42.156.162.55 [open]  363.151 ms
+seq 1767: tcp response from 42.156.162.55 [open]  375.222 ms
+seq 1768: tcp response from 42.156.162.55 [open]  320.122 ms
+seq 1769: tcp response from 42.156.162.55 [open]  448.613 ms
+seq 1770: tcp response from 42.156.162.55 [open]  361.087 ms
+seq 1771: tcp response from 42.156.162.55 [open]  414.548 ms
+seq 1772: tcp response from 42.156.162.55 [open]  403.256 ms
+seq 1773: tcp response from 42.156.162.55 [open]  361.945 ms
+seq 1775: no response (timeout)
+seq 1776: no response (timeout)
+seq 1774: no response (timeout)
+seq 1778: tcp response from 42.156.162.55 [open]  386.014 ms
+seq 1777: no response (timeout)
+seq 1781: tcp response from 42.156.162.55 [open]  361.887 ms
+seq 1779: no response (timeout)
+seq 1782: tcp response from 42.156.162.55 [open]  384.034 ms
+seq 1780: no response (timeout)
+seq 1784: tcp response from 42.156.162.55 [open]  343.211 ms
+seq 1783: tcp response from 42.156.162.55 [open]  313.493 ms
+seq 1786: tcp response from 42.156.162.55 [open]  416.409 ms
+seq 1787: tcp response from 42.156.162.55 [open]  360.564 ms
+seq 1789: tcp response from 42.156.162.55 [open]  261.439 ms
+seq 1785: tcp response from 42.156.162.55 [open]  470.784 ms
+seq 1788: no response (timeout)
+seq 1791: tcp response from 42.156.162.55 [open]  452.867 ms
+seq 1790: no response (timeout)
+seq 1793: tcp response from 42.156.162.55 [open]  471.061 ms
+seq 1792: no response (timeout)
+seq 1794: tcp response from 42.156.162.55 [open]  401.105 ms
+seq 1795: tcp response from 42.156.162.55 [open]  419.494 ms
+seq 1798: tcp response from 42.156.162.55 [open]  438.890 ms
+seq 1796: no response (timeout)
+seq 1801: tcp response from 42.156.162.55 [open]  328.699 ms
+seq 1799: no response (timeout)
+seq 1800: no response (timeout)
+seq 1797: tcp response from 42.156.162.55 [open]  362.821 ms
+seq 1804: tcp response from 42.156.162.55 [open]  361.754 ms
+seq 1806: tcp response from 42.156.162.55 [open]  362.795 ms
+seq 1803: tcp response from 42.156.162.55 [open]  373.495 ms
+seq 1802: no response (timeout)
+seq 1805: no response (timeout)
+seq 1807: tcp response from 42.156.162.55 [open]  403.695 ms
+seq 1809: tcp response from 42.156.162.55 [open]  322.491 ms
+seq 1808: no response (timeout)
+seq 1811: tcp response from 42.156.162.55 [open]  463.028 ms
+seq 1810: no response (timeout)
+seq 1813: tcp response from 42.156.162.55 [open]  263.505 ms
+seq 1814: tcp response from 42.156.162.55 [open]  361.613 ms
+seq 1812: no response (timeout)
+seq 1817: tcp response from 42.156.162.55 [open]  444.267 ms
+seq 1818: tcp response from 42.156.162.55 [open]  463.785 ms
+seq 1815: tcp response from 42.156.162.55 [open]  362.171 ms
+seq 1816: no response (timeout)
+seq 1819: tcp response from 42.156.162.55 [open]  391.431 ms
+seq 1820: tcp response from 42.156.162.55 [open]  373.177 ms
+seq 1821: tcp response from 42.156.162.55 [open]  360.466 ms
+seq 1823: tcp response from 42.156.162.55 [open]  263.983 ms
+seq 1822: no response (timeout)
+seq 1826: tcp response from 42.156.162.55 [open]  328.787 ms
+seq 1824: no response (timeout)
+seq 1825: no response (timeout)
+seq 1828: tcp response from 42.156.162.55 [open]  470.805 ms
+seq 1827: no response (timeout)
+seq 1829: tcp response from 42.156.162.55 [open]  373.382 ms
+seq 1830: tcp response from 42.156.162.55 [open]  469.017 ms
+seq 1831: tcp response from 42.156.162.55 [open]  372.970 ms
+seq 1832: tcp response from 42.156.162.55 [open]  470.862 ms
+seq 1833: tcp response from 42.156.162.55 [open]  375.365 ms
+seq 1834: tcp response from 42.156.162.55 [open]  374.025 ms
+seq 1836: tcp response from 42.156.162.55 [open]  369.718 ms
+seq 1837: tcp response from 42.156.162.55 [open]  371.963 ms
+seq 1835: no response (timeout)
+seq 1838: tcp response from 42.156.162.55 [open]  361.682 ms
+seq 1839: tcp response from 42.156.162.55 [open]  358.793 ms
+seq 1840: tcp response from 42.156.162.55 [open]  298.821 ms
+seq 1842: tcp response from 42.156.162.55 [open]  469.772 ms
+seq 1841: tcp response from 42.156.162.55 [open]  410.539 ms
+seq 1844: tcp response from 42.156.162.55 [open]  371.644 ms
+seq 1845: tcp response from 42.156.162.55 [open]  373.153 ms
+seq 1843: no response (timeout)
+seq 1847: tcp response from 42.156.162.55 [open]  276.252 ms
+seq 1848: tcp response from 42.156.162.55 [open]  372.927 ms
+seq 1846: no response (timeout)
+seq 1851: tcp response from 42.156.162.55 [open]  263.390 ms
+seq 1849: no response (timeout)
+seq 1850: no response (timeout)
+seq 1853: tcp response from 42.156.162.55 [open]  411.276 ms
+seq 1852: no response (timeout)
+seq 1855: tcp response from 42.156.162.55 [open]  451.407 ms
+seq 1856: tcp response from 42.156.162.55 [open]  448.562 ms
+seq 1854: no response (timeout)
+seq 1859: tcp response from 42.156.162.55 [open]  360.554 ms
+seq 1858: no response (timeout)
+seq 1857: tcp response from 42.156.162.55 [open]  321.687 ms
+seq 1861: tcp response from 42.156.162.55 [open]  283.799 ms
+seq 1860: no response (timeout)
+seq 1862: tcp response from 42.156.162.55 [open]  261.478 ms
+seq 1864: tcp response from 42.156.162.55 [open]  263.420 ms
+seq 1865: tcp response from 42.156.162.55 [open]  375.201 ms
+seq 1863: no response (timeout)
+seq 1866: tcp response from 42.156.162.55 [open]  412.459 ms
+seq 1869: tcp response from 42.156.162.55 [open]  352.540 ms
+seq 1867: no response (timeout)
+seq 1868: no response (timeout)
+seq 1870: tcp response from 42.156.162.55 [open]  454.594 ms
+seq 1873: tcp response from 42.156.162.55 [open]  360.433 ms
+seq 1871: tcp response from 42.156.162.55 [open]  361.534 ms
+seq 1872: tcp response from 42.156.162.55 [open]  261.486 ms
+seq 1874: tcp response from 42.156.162.55 [open]  434.997 ms
+seq 1877: tcp response from 42.156.162.55 [open]  263.834 ms
+seq 1875: no response (timeout)
+seq 1878: tcp response from 42.156.162.55 [open]  358.205 ms
+seq 1876: tcp response from 42.156.162.55 [open]  364.376 ms
+seq 1881: tcp response from 42.156.162.55 [open]  366.790 ms
+seq 1879: no response (timeout)
+seq 1880: no response (timeout)
+seq 1883: tcp response from 42.156.162.55 [open]  427.017 ms
+seq 1884: tcp response from 42.156.162.55 [open]  416.636 ms
+seq 1882: no response (timeout)
+seq 1885: no response (timeout)
+seq 1887: tcp response from 42.156.162.55 [open]  264.185 ms
+seq 1886: tcp response from 42.156.162.55 [open]  415.476 ms
+seq 1888: no response (timeout)
+seq 1889: tcp response from 42.156.162.55 [open]  267.055 ms
+seq 1891: tcp response from 42.156.162.55 [open]  314.808 ms
+seq 1890: no response (timeout)
+seq 1893: tcp response from 42.156.162.55 [open]  274.615 ms
+seq 1892: no response (timeout)
+seq 1894: tcp response from 42.156.162.55 [open]  263.362 ms
+seq 1896: tcp response from 42.156.162.55 [open]  426.947 ms
+seq 1897: tcp response from 42.156.162.55 [open]  470.837 ms
+seq 1895: no response (timeout)
+seq 1899: tcp response from 42.156.162.55 [open]  361.277 ms
+seq 1900: tcp response from 42.156.162.55 [open]  379.683 ms
+seq 1898: no response (timeout)
+seq 1902: tcp response from 42.156.162.55 [open]  361.748 ms
+seq 1903: tcp response from 42.156.162.55 [open]  264.854 ms
+seq 1901: no response (timeout)
+seq 1904: tcp response from 42.156.162.55 [open]  280.924 ms
+seq 1905: tcp response from 42.156.162.55 [open]  373.380 ms
+seq 1906: tcp response from 42.156.162.55 [open]  454.704 ms
+seq 1908: tcp response from 42.156.162.55 [open]  471.204 ms
+seq 1907: tcp response from 42.156.162.55 [open]  435.759 ms
+seq 1910: tcp response from 42.156.162.55 [open]  448.320 ms
+seq 1911: tcp response from 42.156.162.55 [open]  362.766 ms
+seq 1909: tcp response from 42.156.162.55 [open]  370.958 ms
+seq 1912: tcp response from 42.156.162.55 [open]  367.299 ms
+seq 1913: no response (timeout)
+seq 1914: tcp response from 42.156.162.55 [open]  283.539 ms
+seq 1915: no response (timeout)
+seq 1916: no response (timeout)
+seq 1918: tcp response from 42.156.162.55 [open]  364.299 ms
+seq 1917: no response (timeout)
+seq 1920: tcp response from 42.156.162.55 [open]  298.198 ms
+seq 1919: tcp response from 42.156.162.55 [open]  395.952 ms
+seq 1923: tcp response from 42.156.162.55 [open]  362.581 ms
+seq 1922: no response (timeout)
+seq 1925: tcp response from 42.156.162.55 [open]  322.266 ms
+seq 1924: no response (timeout)
+seq 1928: tcp response from 42.156.162.55 [open]  366.400 ms
+seq 1926: no response (timeout)
+seq 1927: no response (timeout)
+seq 1929: tcp response from 42.156.162.55 [open]  393.208 ms
+seq 1932: tcp response from 42.156.162.55 [open]  361.147 ms
+seq 1931: tcp response from 42.156.162.55 [open]  318.603 ms
+seq 1921: tcp response from 42.156.162.55 [open]  437.642 ms
+seq 1930: no response (timeout)
+seq 1935: tcp response from 42.156.162.55 [open]  380.809 ms
+seq 1936: tcp response from 42.156.162.55 [open]  373.442 ms
+seq 1933: no response (timeout)
+seq 1938: tcp response from 42.156.162.55 [open]  355.437 ms
+seq 1934: no response (timeout)
+seq 1939: tcp response from 42.156.162.55 [open]  315.524 ms
+seq 1941: tcp response from 42.156.162.55 [open]  434.906 ms
+seq 1937: no response (timeout)
+seq 1942: tcp response from 42.156.162.55 [open]  410.383 ms
+seq 1940: no response (timeout)
+seq 1943: tcp response from 42.156.162.55 [open]  361.258 ms
+seq 1944: tcp response from 42.156.162.55 [open]  385.996 ms
+seq 1947: tcp response from 42.156.162.55 [open]  439.875 ms
+seq 1948: tcp response from 42.156.162.55 [open]  361.476 ms
+seq 1949: tcp response from 42.156.162.55 [open]  361.311 ms
+seq 1946: tcp response from 42.156.162.55 [open]  309.453 ms
+seq 1950: no response (timeout)
+seq 1945: tcp response from 42.156.162.55 [open]  391.886 ms
+seq 1951: tcp response from 42.156.162.55 [open]  353.127 ms
+seq 1952: tcp response from 42.156.162.55 [open]  320.135 ms
+seq 1953: tcp response from 42.156.162.55 [open]  460.370 ms
+seq 1954: tcp response from 42.156.162.55 [open]  470.388 ms
+seq 1955: tcp response from 42.156.162.55 [open]  264.659 ms
+seq 1956: tcp response from 42.156.162.55 [open]  362.328 ms
+seq 1957: tcp response from 42.156.162.55 [open]  362.535 ms
+seq 1958: tcp response from 42.156.162.55 [open]  372.938 ms
+seq 1960: tcp response from 42.156.162.55 [open]  527.906 ms
+seq 1961: tcp response from 42.156.162.55 [open]  418.358 ms
+seq 1959: no response (timeout)
+seq 1963: tcp response from 42.156.162.55 [open]  371.992 ms
+seq 1962: no response (timeout)
+seq 1964: tcp response from 42.156.162.55 [open]  434.485 ms
+seq 1966: tcp response from 42.156.162.55 [open]  448.244 ms
+seq 1965: tcp response from 42.156.162.55 [open]  470.396 ms
+seq 1968: tcp response from 42.156.162.55 [open]  396.456 ms
+seq 1969: tcp response from 42.156.162.55 [open]  302.506 ms
+seq 1967: no response (timeout)
+seq 1970: no response (timeout)
+seq 1971: no response (timeout)
+seq 1973: tcp response from 42.156.162.55 [open]  386.846 ms
+seq 1972: no response (timeout)
+seq 1974: no response (timeout)
+seq 1978: tcp response from 42.156.162.55 [open]  461.017 ms
+seq 1975: no response (timeout)
+seq 1977: no response (timeout)
+seq 1976: tcp response from 42.156.162.55 [open]  313.163 ms
+seq 1980: tcp response from 42.156.162.55 [open]  464.375 ms
+seq 1979: no response (timeout)
+seq 1982: tcp response from 42.156.162.55 [open]  362.581 ms
+seq 1983: tcp response from 42.156.162.55 [open]  361.675 ms
+seq 1984: tcp response from 42.156.162.55 [open]  362.045 ms
+seq 1981: no response (timeout)
+seq 1985: tcp response from 42.156.162.55 [open]  381.200 ms
+seq 1987: tcp response from 42.156.162.55 [open]  401.918 ms
+seq 1988: tcp response from 42.156.162.55 [open]  471.900 ms
+seq 1989: tcp response from 42.156.162.55 [open]  373.890 ms
+seq 1992: tcp response from 42.156.162.55 [open]  340.429 ms
+seq 1990: no response (timeout)
+seq 1991: no response (timeout)
+seq 1986: tcp response from 42.156.162.55 [open]  362.058 ms
+seq 1994: tcp response from 42.156.162.55 [open]  361.713 ms
+seq 1996: tcp response from 42.156.162.55 [open]  363.698 ms
+seq 1995: tcp response from 42.156.162.55 [open]  383.263 ms
+seq 1993: no response (timeout)
+seq 1998: tcp response from 42.156.162.55 [open]  360.348 ms
+seq 1997: no response (timeout)
+seq 2001: tcp response from 42.156.162.55 [open]  372.153 ms
+seq 1999: no response (timeout)
+seq 2000: no response (timeout)
+seq 2002: tcp response from 42.156.162.55 [open]  357.493 ms
+seq 2004: tcp response from 42.156.162.55 [open]  432.633 ms
+seq 2005: tcp response from 42.156.162.55 [open]  371.380 ms
+seq 2003: no response (timeout)
+seq 2007: tcp response from 42.156.162.55 [open]  360.107 ms
+seq 2006: no response (timeout)
+seq 2009: tcp response from 42.156.162.55 [open]  392.096 ms
+seq 2008: no response (timeout)
+seq 2010: tcp response from 42.156.162.55 [open]  392.623 ms
+seq 2012: tcp response from 42.156.162.55 [open]  435.115 ms
+seq 2013: tcp response from 42.156.162.55 [open]  372.978 ms
+seq 2011: no response (timeout)
+seq 2014: tcp response from 42.156.162.55 [open]  363.760 ms
+seq 2016: tcp response from 42.156.162.55 [open]  421.645 ms
+seq 2017: tcp response from 42.156.162.55 [open]  240.190 ms
+seq 2015: tcp response from 42.156.162.55 [open]  372.724 ms
+seq 2018: tcp response from 42.156.162.55 [open]  373.098 ms
+seq 2019: tcp response from 42.156.162.55 [open]  269.596 ms
+seq 2021: tcp response from 42.156.162.55 [open]  360.199 ms
+seq 2020: no response (timeout)
+seq 2022: tcp response from 42.156.162.55 [open]  274.261 ms
+seq 2025: tcp response from 42.156.162.55 [open]  268.707 ms
+seq 2023: no response (timeout)
+seq 2027: tcp response from 42.156.162.55 [open]  374.485 ms
+seq 2028: tcp response from 42.156.162.55 [open]  514.288 ms
+seq 2029: tcp response from 42.156.162.55 [open]  468.046 ms
+seq 2031: tcp response from 42.156.162.55 [open]  362.799 ms
+seq 2032: tcp response from 42.156.162.55 [open]  360.010 ms
+seq 2026: no response (timeout)
+seq 2024: no response (timeout)
+seq 2030: no response (timeout)
+seq 2033: no response (timeout)
+seq 2035: tcp response from 42.156.162.55 [open]  343.992 ms
+seq 2034: no response (timeout)
+seq 2036: no response (timeout)
+seq 2039: tcp response from 42.156.162.55 [open]  470.964 ms
+seq 2038: tcp response from 42.156.162.55 [open]  441.945 ms
+seq 2037: no response (timeout)
+seq 2040: tcp response from 42.156.162.55 [open]  458.517 ms
+seq 2041: tcp response from 42.156.162.55 [open]  361.590 ms
+seq 2042: tcp response from 42.156.162.55 [open]  262.991 ms
+seq 2043: tcp response from 42.156.162.55 [open]  264.252 ms
+seq 2044: tcp response from 42.156.162.55 [open]  379.166 ms
+seq 2045: tcp response from 42.156.162.55 [open]  363.963 ms
+seq 2046: tcp response from 42.156.162.55 [open]  392.219 ms
+seq 2047: tcp response from 42.156.162.55 [open]  262.484 ms
+seq 2049: no response (timeout)
+seq 2048: no response (timeout)
+seq 2050: no response (timeout)
+seq 2051: no response (timeout)
+seq 2054: tcp response from 42.156.162.55 [open]  373.454 ms
+seq 2052: no response (timeout)
+seq 2056: tcp response from 42.156.162.55 [open]  471.607 ms
+seq 2057: tcp response from 42.156.162.55 [open]  465.371 ms
+seq 2055: no response (timeout)
+seq 2058: tcp response from 42.156.162.55 [open]  451.284 ms
+seq 2059: tcp response from 42.156.162.55 [open]  470.276 ms
+seq 2063: tcp response from 42.156.162.55 [open]  389.658 ms
+seq 2053: no response (timeout)
+seq 2061: no response (timeout)
+seq 2065: tcp response from 42.156.162.55 [open]  459.275 ms
+seq 2066: tcp response from 42.156.162.55 [open]  419.558 ms
+seq 2064: no response (timeout)
+seq 2062: tcp response from 42.156.162.55 [open]  267.934 ms
+seq 2060: tcp response from 42.156.162.55 [open]  440.610 ms
+seq 2067: tcp response from 42.156.162.55 [open]  380.269 ms
+seq 2068: tcp response from 42.156.162.55 [open]  410.820 ms
+seq 2069: tcp response from 42.156.162.55 [open]  326.938 ms
+seq 2070: tcp response from 42.156.162.55 [open]  451.607 ms
+seq 2073: tcp response from 42.156.162.55 [open]  362.487 ms
+seq 2071: tcp response from 42.156.162.55 [open]  289.062 ms
+seq 2074: tcp response from 42.156.162.55 [open]  265.850 ms
+seq 2072: no response (timeout)
+seq 2075: tcp response from 42.156.162.55 [open]  372.749 ms
+seq 2076: tcp response from 42.156.162.55 [open]  265.792 ms
+seq 2077: tcp response from 42.156.162.55 [open]  431.876 ms
+seq 2078: no response (timeout)
+seq 2081: tcp response from 42.156.162.55 [open]  263.784 ms
+seq 2079: no response (timeout)
+seq 2080: no response (timeout)
+seq 2082: tcp response from 42.156.162.55 [open]  362.310 ms
+seq 2083: tcp response from 42.156.162.55 [open]  410.341 ms
+seq 2084: tcp response from 42.156.162.55 [open]  301.173 ms
+seq 2085: tcp response from 42.156.162.55 [open]  363.729 ms
+seq 2086: tcp response from 42.156.162.55 [open]  587.732 ms
+seq 2087: tcp response from 42.156.162.55 [open]  405.538 ms
+seq 2089: tcp response from 42.156.162.55 [open]  403.134 ms
+seq 2090: tcp response from 42.156.162.55 [open]  416.053 ms
+seq 2091: tcp response from 42.156.162.55 [open]  264.743 ms
+seq 2088: tcp response from 42.156.162.55 [open]  470.795 ms
+seq 2092: tcp response from 42.156.162.55 [open]  359.831 ms
+seq 2093: tcp response from 42.156.162.55 [open]  261.855 ms
+seq 2094: tcp response from 42.156.162.55 [open]  361.382 ms
+seq 2095: tcp response from 42.156.162.55 [open]  366.572 ms
+seq 2096: tcp response from 42.156.162.55 [open]  297.443 ms
+seq 2097: tcp response from 42.156.162.55 [open]  360.268 ms
+seq 2099: tcp response from 42.156.162.55 [open]  379.590 ms
+seq 2098: no response (timeout)
+seq 2101: tcp response from 42.156.162.55 [open]  275.627 ms
+seq 2100: no response (timeout)
+seq 2103: tcp response from 42.156.162.55 [open]  456.298 ms
+seq 2102: no response (timeout)
+seq 2105: tcp response from 42.156.162.55 [open]  390.438 ms
+seq 2106: tcp response from 42.156.162.55 [open]  370.885 ms
+seq 2104: no response (timeout)
+seq 2109: tcp response from 42.156.162.55 [open]  315.659 ms
+seq 2110: tcp response from 42.156.162.55 [open]  440.213 ms
+seq 2107: no response (timeout)
+seq 2115: tcp response from 42.156.162.55 [open]  272.125 ms
+seq 2113: no response (timeout)
+seq 2108: no response (timeout)
+seq 2118: tcp response from 42.156.162.55 [open]  364.200 ms
+seq 2116: no response (timeout)
+seq 2117: no response (timeout)
+seq 2112: tcp response from 42.156.162.55 [open]  364.250 ms
+seq 2111: tcp response from 42.156.162.55 [open]  462.713 ms
+seq 2114: tcp response from 42.156.162.55 [open]  407.136 ms
+seq 2119: no response (timeout)
+seq 2123: tcp response from 42.156.162.55 [open]  378.399 ms
+seq 2121: no response (timeout)
+seq 2122: tcp response from 42.156.162.55 [open]  304.056 ms
+seq 2120: no response (timeout)
+seq 2124: no response (timeout)
+seq 2125: no response (timeout)
+seq 2127: tcp response from 42.156.162.55 [open]  369.094 ms
+seq 2128: tcp response from 42.156.162.55 [open]  340.211 ms
+seq 2129: tcp response from 42.156.162.55 [open]  420.266 ms
+seq 2126: no response (timeout)
+seq 2130: tcp response from 42.156.162.55 [open]  450.528 ms
+seq 2131: tcp response from 42.156.162.55 [open]  372.085 ms
+seq 2132: tcp response from 42.156.162.55 [open]  358.975 ms
+seq 2134: tcp response from 42.156.162.55 [open]  379.161 ms
+seq 2135: tcp response from 42.156.162.55 [open]  420.183 ms
+seq 2133: no response (timeout)
+seq 2137: tcp response from 42.156.162.55 [open]  470.203 ms
+seq 2138: tcp response from 42.156.162.55 [open]  409.059 ms
+seq 2136: no response (timeout)
+seq 2140: tcp response from 42.156.162.55 [open]  351.920 ms
+seq 2141: tcp response from 42.156.162.55 [open]  362.965 ms
+seq 2139: no response (timeout)
+seq 2143: tcp response from 42.156.162.55 [open]  379.732 ms
+seq 2145: tcp response from 42.156.162.55 [open]  294.314 ms
+seq 2142: tcp response from 42.156.162.55 [open]  380.962 ms
+seq 2144: no response (timeout)
+seq 2147: tcp response from 42.156.162.55 [open]  264.227 ms
+seq 2146: no response (timeout)
+seq 2148: tcp response from 42.156.162.55 [open]  280.088 ms
+seq 2150: tcp response from 42.156.162.55 [open]  268.346 ms
+seq 2151: tcp response from 42.156.162.55 [open]  359.566 ms
+seq 2149: no response (timeout)
+seq 2152: tcp response from 42.156.162.55 [open]  369.009 ms
+seq 2153: tcp response from 42.156.162.55 [open]  445.196 ms
+seq 2154: tcp response from 42.156.162.55 [open]  471.525 ms
+seq 2155: tcp response from 42.156.162.55 [open]  361.506 ms
+seq 2157: tcp response from 42.156.162.55 [open]  375.668 ms
+seq 2156: no response (timeout)
+seq 2159: tcp response from 42.156.162.55 [open]  359.010 ms
+seq 2158: no response (timeout)
+seq 2160: tcp response from 42.156.162.55 [open]  462.419 ms
+seq 2161: tcp response from 42.156.162.55 [open]  362.105 ms
+seq 2162: tcp response from 42.156.162.55 [open]  265.371 ms
+seq 2164: tcp response from 42.156.162.55 [open]  263.074 ms
+seq 2163: tcp response from 42.156.162.55 [open]  312.730 ms
+seq 2166: tcp response from 42.156.162.55 [open]  261.196 ms
+seq 2167: tcp response from 42.156.162.55 [open]  366.291 ms
+seq 2165: no response (timeout)
+seq 2168: tcp response from 42.156.162.55 [open]  359.475 ms
+seq 2169: tcp response from 42.156.162.55 [open]  425.681 ms
+seq 2170: tcp response from 42.156.162.55 [open]  362.759 ms
+seq 2172: tcp response from 42.156.162.55 [open]  386.828 ms
+seq 2174: tcp response from 42.156.162.55 [open]  265.573 ms
+seq 2171: no response (timeout)
+seq 2173: no response (timeout)
+seq 2176: tcp response from 42.156.162.55 [open]  425.748 ms
+seq 2175: no response (timeout)
+seq 2178: tcp response from 42.156.162.55 [open]  350.855 ms
+seq 2180: tcp response from 42.156.162.55 [open]  332.142 ms
+seq 2179: tcp response from 42.156.162.55 [open]  372.570 ms
+seq 2177: no response (timeout)
+seq 2181: tcp response from 42.156.162.55 [open]  367.953 ms
+seq 2182: tcp response from 42.156.162.55 [open]  361.306 ms
+seq 2184: tcp response from 42.156.162.55 [open]  402.309 ms
+seq 2186: tcp response from 42.156.162.55 [open]  365.044 ms
+seq 2187: tcp response from 42.156.162.55 [open]  299.805 ms
+seq 2185: tcp response from 42.156.162.55 [open]  392.922 ms
+seq 2183: no response (timeout)
+seq 2189: tcp response from 42.156.162.55 [open]  341.726 ms
+seq 2190: tcp response from 42.156.162.55 [open]  274.610 ms
+seq 2188: no response (timeout)
+seq 2192: tcp response from 42.156.162.55 [open]  271.596 ms
+seq 2193: tcp response from 42.156.162.55 [open]  357.640 ms
+seq 2191: no response (timeout)
+seq 2195: tcp response from 42.156.162.55 [open]  371.564 ms
+seq 2194: no response (timeout)
+seq 2196: no response (timeout)
+seq 2197: tcp response from 42.156.162.55 [open]  388.356 ms
+seq 2198: tcp response from 42.156.162.55 [open]  455.365 ms
+seq 2199: tcp response from 42.156.162.55 [open]  355.067 ms
+seq 2200: tcp response from 42.156.162.55 [open]  373.292 ms
+seq 2201: tcp response from 42.156.162.55 [open]  467.323 ms
+seq 2202: tcp response from 42.156.162.55 [open]  322.009 ms
+seq 2203: tcp response from 42.156.162.55 [open]  289.422 ms
+seq 2204: tcp response from 42.156.162.55 [open]  358.720 ms
+seq 2206: tcp response from 42.156.162.55 [open]  433.882 ms
+seq 2205: no response (timeout)
+seq 2207: tcp response from 42.156.162.55 [open]  400.100 ms
+seq 2208: tcp response from 42.156.162.55 [open]  332.128 ms
+seq 2209: tcp response from 42.156.162.55 [open]  350.177 ms
+seq 2210: tcp response from 42.156.162.55 [open]  411.834 ms
+seq 2211: tcp response from 42.156.162.55 [open]  267.233 ms
+seq 2212: tcp response from 42.156.162.55 [open]  358.853 ms
+seq 2213: tcp response from 42.156.162.55 [open]  360.957 ms
+seq 2214: tcp response from 42.156.162.55 [open]  385.381 ms
+seq 2215: tcp response from 42.156.162.55 [open]  263.996 ms
+seq 2216: tcp response from 42.156.162.55 [open]  361.738 ms
+seq 2218: tcp response from 42.156.162.55 [open]  360.421 ms
+seq 2219: tcp response from 42.156.162.55 [open]  262.465 ms
+seq 2217: no response (timeout)
+seq 2221: tcp response from 42.156.162.55 [open]  372.225 ms
+seq 2220: no response (timeout)
+seq 2223: tcp response from 42.156.162.55 [open]  470.840 ms
+seq 2222: no response (timeout)
+seq 2225: tcp response from 42.156.162.55 [open]  471.590 ms
+seq 2226: tcp response from 42.156.162.55 [open]  471.447 ms
+seq 2228: tcp response from 42.156.162.55 [open]  470.434 ms
+seq 2224: no response (timeout)
+seq 2227: no response (timeout)
+seq 2230: tcp response from 42.156.162.55 [open]  353.413 ms
+seq 2229: no response (timeout)
+seq 2233: tcp response from 42.156.162.55 [open]  358.371 ms
+seq 2231: no response (timeout)
+seq 2232: no response (timeout)
+seq 2234: tcp response from 42.156.162.55 [open]  263.445 ms
+seq 2236: tcp response from 42.156.162.55 [open]  393.404 ms
+seq 2235: no response (timeout)
+seq 2237: tcp response from 42.156.162.55 [open]  261.571 ms
+seq 2239: tcp response from 42.156.162.55 [open]  264.157 ms
+seq 2238: no response (timeout)
+seq 2241: tcp response from 42.156.162.55 [open]  361.466 ms
+seq 2240: no response (timeout)
+seq 2242: tcp response from 42.156.162.55 [open]  264.879 ms
+seq 2243: tcp response from 42.156.162.55 [open]  365.932 ms
+seq 2244: tcp response from 42.156.162.55 [open]  358.914 ms
+seq 2245: tcp response from 42.156.162.55 [open]  295.983 ms
+seq 2247: tcp response from 42.156.162.55 [open]  359.877 ms
+seq 2248: tcp response from 42.156.162.55 [open]  267.872 ms
+seq 2246: tcp response from 42.156.162.55 [open]  264.221 ms
+seq 2249: tcp response from 42.156.162.55 [open]  342.411 ms
+seq 2250: tcp response from 42.156.162.55 [open]  469.740 ms
+seq 2252: tcp response from 42.156.162.55 [open]  464.273 ms
+seq 2253: tcp response from 42.156.162.55 [open]  470.174 ms
+seq 2251: no response (timeout)
+seq 2254: tcp response from 42.156.162.55 [open]  461.501 ms
+seq 2255: tcp response from 42.156.162.55 [open]  379.368 ms
+seq 2257: tcp response from 42.156.162.55 [open]  391.546 ms
+seq 2256: no response (timeout)
+seq 2259: tcp response from 42.156.162.55 [open]  385.185 ms
+seq 2258: no response (timeout)
+seq 2261: tcp response from 42.156.162.55 [open]  313.052 ms
+seq 2260: no response (timeout)
+seq 2262: tcp response from 42.156.162.55 [open]  406.496 ms
+seq 2264: tcp response from 42.156.162.55 [open]  465.867 ms
+seq 2265: tcp response from 42.156.162.55 [open]  366.822 ms
+seq 2263: no response (timeout)
+seq 2267: tcp response from 42.156.162.55 [open]  361.934 ms
+seq 2268: tcp response from 42.156.162.55 [open]  360.473 ms
+seq 2266: no response (timeout)
+seq 2269: no response (timeout)
+seq 2272: tcp response from 42.156.162.55 [open]  418.860 ms
+seq 2271: no response (timeout)
+seq 2270: no response (timeout)
+seq 2274: tcp response from 42.156.162.55 [open]  399.822 ms
+seq 2275: tcp response from 42.156.162.55 [open]  387.383 ms
+seq 2273: no response (timeout)
+seq 2277: tcp response from 42.156.162.55 [open]  363.161 ms
+seq 2278: tcp response from 42.156.162.55 [open]  352.932 ms
+seq 2276: no response (timeout)
+seq 2279: tcp response from 42.156.162.55 [open]  373.839 ms
+seq 2282: tcp response from 42.156.162.55 [open]  370.441 ms
+seq 2280: no response (timeout)
+seq 2283: tcp response from 42.156.162.55 [open]  409.559 ms
+seq 2286: tcp response from 42.156.162.55 [open]  362.676 ms
+seq 2281: no response (timeout)
+seq 2284: no response (timeout)
+seq 2289: tcp response from 42.156.162.55 [open]  384.286 ms
+seq 2290: tcp response from 42.156.162.55 [open]  359.045 ms
+seq 2291: tcp response from 42.156.162.55 [open]  361.548 ms
+seq 2292: tcp response from 42.156.162.55 [open]  264.844 ms
+seq 2293: tcp response from 42.156.162.55 [open]  299.560 ms
+seq 2294: tcp response from 42.156.162.55 [open]  268.741 ms
+seq 2285: no response (timeout)
+seq 2287: tcp response from 42.156.162.55 [open]  297.947 ms
+seq 2288: no response (timeout)
+seq 2297: tcp response from 42.156.162.55 [open]  283.864 ms
+seq 2295: no response (timeout)
+seq 2296: no response (timeout)
+seq 2300: tcp response from 42.156.162.55 [open]  364.589 ms
+seq 2298: no response (timeout)
+seq 2299: no response (timeout)
+seq 2301: tcp response from 42.156.162.55 [open]  266.610 ms
+seq 2302: tcp response from 42.156.162.55 [open]  372.538 ms
+seq 2303: tcp response from 42.156.162.55 [open]  471.391 ms
+seq 2304: tcp response from 42.156.162.55 [open]  468.590 ms
+seq 2305: tcp response from 42.156.162.55 [open]  450.546 ms
+seq 2306: tcp response from 42.156.162.55 [open]  263.343 ms
+seq 2308: tcp response from 42.156.162.55 [open]  368.599 ms
+seq 2309: tcp response from 42.156.162.55 [open]  427.239 ms
+seq 2310: tcp response from 42.156.162.55 [open]  326.973 ms
+seq 2311: tcp response from 42.156.162.55 [open]  289.170 ms
+seq 2312: tcp response from 42.156.162.55 [open]  411.420 ms
+seq 2313: tcp response from 42.156.162.55 [open]  276.724 ms
+seq 2307: tcp response from 42.156.162.55 [open]  264.849 ms
+seq 2314: tcp response from 42.156.162.55 [open]  358.161 ms
+seq 2315: tcp response from 42.156.162.55 [open]  358.358 ms
+seq 2316: tcp response from 42.156.162.55 [open]  362.497 ms
+seq 2317: tcp response from 42.156.162.55 [open]  362.721 ms
+seq 2318: tcp response from 42.156.162.55 [open]  381.522 ms
+seq 2319: tcp response from 42.156.162.55 [open]  465.456 ms
+seq 2321: tcp response from 42.156.162.55 [open]  264.165 ms
+seq 2322: tcp response from 42.156.162.55 [open]  290.503 ms
+seq 2320: no response (timeout)
+seq 2323: no response (timeout)
+seq 2326: tcp response from 42.156.162.55 [open]  395.141 ms
+seq 2325: no response (timeout)
+seq 2328: tcp response from 42.156.162.55 [open]  351.757 ms
+seq 2324: tcp response from 42.156.162.55 [open]  272.010 ms
+seq 2331: tcp response from 42.156.162.55 [open]  433.254 ms
+seq 2332: tcp response from 42.156.162.55 [open]  321.919 ms
+seq 2329: tcp response from 42.156.162.55 [open]  371.841 ms
+seq 2327: no response (timeout)
+seq 2330: no response (timeout)
+seq 2333: tcp response from 42.156.162.55 [open]  369.334 ms
+seq 2334: tcp response from 42.156.162.55 [open]  405.541 ms
+seq 2336: tcp response from 42.156.162.55 [open]  361.591 ms
+seq 2335: no response (timeout)
+seq 2339: tcp response from 42.156.162.55 [open]  359.345 ms
+seq 2337: no response (timeout)
+seq 2338: no response (timeout)
+seq 2340: tcp response from 42.156.162.55 [open]  401.698 ms
+seq 2341: tcp response from 42.156.162.55 [open]  381.942 ms
+seq 2342: tcp response from 42.156.162.55 [open]  362.358 ms
+seq 2344: tcp response from 42.156.162.55 [open]  363.069 ms
+seq 2345: tcp response from 42.156.162.55 [open]  375.535 ms
+seq 2343: no response (timeout)
+seq 2346: tcp response from 42.156.162.55 [open]  362.034 ms
+seq 2347: tcp response from 42.156.162.55 [open]  361.521 ms
+seq 2348: tcp response from 42.156.162.55 [open]  265.822 ms
+seq 2351: tcp response from 42.156.162.55 [open]  305.902 ms
+seq 2349: no response (timeout)
+seq 2350: tcp response from 42.156.162.55 [open]  380.611 ms
+seq 2352: no response (timeout)
+seq 2353: no response (timeout)
+seq 2354: no response (timeout)
+seq 2358: tcp response from 42.156.162.55 [open]  294.465 ms
+seq 2356: tcp response from 42.156.162.55 [open]  570.050 ms
+seq 2355: no response (timeout)
+seq 2359: tcp response from 42.156.162.55 [open]  441.640 ms
+seq 2357: no response (timeout)
+seq 2361: tcp response from 42.156.162.55 [open]  304.409 ms
+seq 2360: tcp response from 42.156.162.55 [open]  263.913 ms
+seq 2364: tcp response from 42.156.162.55 [open]  441.802 ms
+seq 2363: no response (timeout)
+seq 2366: tcp response from 42.156.162.55 [open]  443.324 ms
+seq 2368: tcp response from 42.156.162.55 [open]  370.050 ms
+seq 2367: no response (timeout)
+seq 2369: tcp response from 42.156.162.55 [open]  371.753 ms
+seq 2362: no response (timeout)
+seq 2370: tcp response from 42.156.162.55 [open]  372.760 ms
+seq 2372: tcp response from 42.156.162.55 [open]  285.155 ms
+seq 2365: tcp response from 42.156.162.55 [open]  372.920 ms
+seq 2373: tcp response from 42.156.162.55 [open]  357.517 ms
+seq 2374: no response (timeout)
+seq 2377: tcp response from 42.156.162.55 [open]  466.778 ms
+seq 2371: no response (timeout)
+seq 2380: tcp response from 42.156.162.55 [open]  373.547 ms
+seq 2376: no response (timeout)
+seq 2375: no response (timeout)
+seq 2379: no response (timeout)
+seq 2378: no response (timeout)
+seq 2381: tcp response from 42.156.162.55 [open]  482.368 ms
+seq 2385: tcp response from 42.156.162.55 [open]  471.176 ms
+seq 2382: tcp response from 42.156.162.55 [open]  457.487 ms
+seq 2383: no response (timeout)
+seq 2384: no response (timeout)
+seq 2387: tcp response from 42.156.162.55 [open]  357.423 ms
+seq 2386: no response (timeout)
+seq 2388: tcp response from 42.156.162.55 [open]  362.362 ms
+seq 2389: tcp response from 42.156.162.55 [open]  279.718 ms
+seq 2390: tcp response from 42.156.162.55 [open]  326.039 ms
+seq 2393: tcp response from 42.156.162.55 [open]  405.882 ms
+seq 2392: no response (timeout)
+seq 2391: no response (timeout)
+seq 2394: tcp response from 42.156.162.55 [open]  469.671 ms
+seq 2397: tcp response from 42.156.162.55 [open]  413.390 ms
+seq 2396: tcp response from 42.156.162.55 [open]  351.800 ms
+seq 2395: tcp response from 42.156.162.55 [open]  450.121 ms
+seq 2398: no response (timeout)
+seq 2399: tcp response from 42.156.162.55 [open]  356.449 ms
+seq 2401: tcp response from 42.156.162.55 [open]  471.849 ms
+seq 2400: no response (timeout)
+seq 2404: tcp response from 42.156.162.55 [open]  470.517 ms
+seq 2402: no response (timeout)
+seq 2406: tcp response from 42.156.162.55 [open]  347.042 ms
+seq 2403: no response (timeout)
+seq 2405: no response (timeout)
+seq 2408: tcp response from 42.156.162.55 [open]  466.836 ms
+seq 2407: no response (timeout)
+seq 2409: tcp response from 42.156.162.55 [open]  272.721 ms
+seq 2410: no response (timeout)
+seq 2411: tcp response from 42.156.162.55 [open]  362.362 ms
+seq 2413: tcp response from 42.156.162.55 [open]  410.556 ms
+seq 2414: tcp response from 42.156.162.55 [open]  368.969 ms
+seq 2412: no response (timeout)
+seq 2416: tcp response from 42.156.162.55 [open]  402.908 ms
+seq 2417: tcp response from 42.156.162.55 [open]  357.813 ms
+seq 2415: no response (timeout)
+seq 2418: tcp response from 42.156.162.55 [open]  447.664 ms
+seq 2419: tcp response from 42.156.162.55 [open]  341.175 ms
+seq 2421: tcp response from 42.156.162.55 [open]  367.231 ms
+seq 2422: tcp response from 42.156.162.55 [open]  452.953 ms
+seq 2420: no response (timeout)
+seq 2425: tcp response from 42.156.162.55 [open]  471.761 ms
+seq 2423: tcp response from 42.156.162.55 [open]  433.379 ms
+seq 2424: no response (timeout)
+seq 2426: tcp response from 42.156.162.55 [open]  464.978 ms
+seq 2427: no response (timeout)
+seq 2429: tcp response from 42.156.162.55 [open]  359.261 ms
+seq 2428: no response (timeout)
+seq 2430: no response (timeout)
+seq 2431: no response (timeout)
+seq 2433: tcp response from 42.156.162.55 [open]  362.100 ms
+seq 2435: tcp response from 42.156.162.55 [open]  263.569 ms
+seq 2434: no response (timeout)
+seq 2432: tcp response from 42.156.162.55 [open]  306.645 ms
+seq 2436: tcp response from 42.156.162.55 [open]  360.966 ms
+seq 2437: tcp response from 42.156.162.55 [open]  385.327 ms
+seq 2438: tcp response from 42.156.162.55 [open]  382.134 ms
+seq 2441: tcp response from 42.156.162.55 [open]  404.877 ms
+seq 2440: tcp response from 42.156.162.55 [open]  323.295 ms
+seq 2439: no response (timeout)
+seq 2443: tcp response from 42.156.162.55 [open]  407.233 ms
+seq 2444: tcp response from 42.156.162.55 [open]  374.742 ms
+seq 2445: tcp response from 42.156.162.55 [open]  410.263 ms
+seq 2447: tcp response from 42.156.162.55 [open]  472.134 ms
+seq 2442: no response (timeout)
+seq 2446: no response (timeout)
+seq 2448: tcp response from 42.156.162.55 [open]  473.456 ms
+seq 2450: tcp response from 42.156.162.55 [open]  476.491 ms
+seq 2449: no response (timeout)
+seq 2452: tcp response from 42.156.162.55 [open]  277.939 ms
+seq 2451: no response (timeout)
+seq 2453: tcp response from 42.156.162.55 [open]  393.871 ms
+seq 2454: tcp response from 42.156.162.55 [open]  440.003 ms
+seq 2455: tcp response from 42.156.162.55 [open]  471.184 ms
+seq 2456: tcp response from 42.156.162.55 [open]  479.970 ms
+seq 2457: tcp response from 42.156.162.55 [open]  467.965 ms
+seq 2458: tcp response from 42.156.162.55 [open]  451.765 ms
+seq 2460: tcp response from 42.156.162.55 [open]  359.651 ms
+seq 2461: tcp response from 42.156.162.55 [open]  264.018 ms
+seq 2459: no response (timeout)
+seq 2462: tcp response from 42.156.162.55 [open]  264.337 ms
+seq 2463: tcp response from 42.156.162.55 [open]  373.337 ms
+seq 2465: tcp response from 42.156.162.55 [open]  361.809 ms
+seq 2466: tcp response from 42.156.162.55 [open]  267.910 ms
+seq 2464: no response (timeout)
+seq 2467: tcp response from 42.156.162.55 [open]  368.698 ms
+seq 2468: tcp response from 42.156.162.55 [open]  371.097 ms
+seq 2470: tcp response from 42.156.162.55 [open]  378.211 ms
+seq 2471: tcp response from 42.156.162.55 [open]  265.105 ms
+seq 2469: no response (timeout)
+seq 2472: tcp response from 42.156.162.55 [open]  369.438 ms
+seq 2473: tcp response from 42.156.162.55 [open]  394.837 ms
+seq 2474: tcp response from 42.156.162.55 [open]  422.849 ms
+seq 2475: tcp response from 42.156.162.55 [open]  330.418 ms
+seq 2476: tcp response from 42.156.162.55 [open]  469.094 ms
+seq 2477: tcp response from 42.156.162.55 [open]  338.991 ms
+seq 2478: tcp response from 42.156.162.55 [open]  468.260 ms
+seq 2479: tcp response from 42.156.162.55 [open]  360.391 ms
+seq 2481: tcp response from 42.156.162.55 [open]  442.153 ms
+seq 2482: tcp response from 42.156.162.55 [open]  368.317 ms
+seq 2480: no response (timeout)
+seq 2483: tcp response from 42.156.162.55 [open]  439.501 ms
+seq 2484: tcp response from 42.156.162.55 [open]  374.566 ms
+seq 2485: tcp response from 42.156.162.55 [open]  365.447 ms
+seq 2487: tcp response from 42.156.162.55 [open]  359.760 ms
+seq 2488: tcp response from 42.156.162.55 [open]  362.697 ms
+seq 2486: no response (timeout)
+seq 2489: tcp response from 42.156.162.55 [open]  419.799 ms
+seq 2491: tcp response from 42.156.162.55 [open]  431.477 ms
+seq 2490: no response (timeout)
+seq 2494: tcp response from 42.156.162.55 [open]  339.141 ms
+seq 2492: no response (timeout)
+seq 2493: no response (timeout)
+seq 2496: tcp response from 42.156.162.55 [open]  361.659 ms
+seq 2497: tcp response from 42.156.162.55 [open]  384.735 ms
+seq 2495: no response (timeout)
+seq 2498: tcp response from 42.156.162.55 [open]  395.513 ms
+seq 2499: tcp response from 42.156.162.55 [open]  369.938 ms

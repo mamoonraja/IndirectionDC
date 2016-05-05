@@ -1,0 +1,2590 @@
+seq 2: tcp response from 42.96.146.169 [open]  364.798 ms
+seq 1: tcp response from 42.96.146.169 [open]  367.941 ms
+seq 0: tcp response from 42.96.146.169 [open]  460.907 ms
+seq 4: tcp response from 120.24.248.50 [open]  278.199 ms
+seq 6: tcp response from 120.24.248.50 [open]  288.825 ms
+seq 3: tcp response from 42.96.146.169 [open]  462.102 ms
+seq 5: tcp response from 120.24.248.50 [open]  199.857 ms
+seq 7: tcp response from 120.24.248.50 [open]  211.121 ms
+seq 8: tcp response from 42.96.146.169 [open]  365.576 ms
+seq 11: tcp response from 42.96.146.169 [open]  453.132 ms
+seq 9: tcp response from 120.24.248.50 [open]  203.178 ms
+seq 14: tcp response from 120.24.248.50 [open]  213.368 ms
+seq 13: no response (timeout)
+seq 15: tcp response from 120.24.248.50 [open]  199.526 ms
+seq 12: tcp response from 120.24.248.50 [open]  217.722 ms
+seq 16: tcp response from 42.96.146.169 [open]  362.197 ms
+seq 10: no response (timeout)
+seq 19: tcp response from 42.96.146.169 [open]  459.845 ms
+seq 17: no response (timeout)
+seq 18: no response (timeout)
+seq 21: tcp response from 120.24.248.50 [open]  200.807 ms
+seq 20: no response (timeout)
+seq 23: tcp response from 120.24.248.50 [open]  200.677 ms
+seq 22: tcp response from 120.24.248.50 [open]  199.360 ms
+seq 24: tcp response from 120.24.248.50 [open]  218.793 ms
+seq 25: tcp response from 42.96.146.169 [open]  460.062 ms
+seq 26: tcp response from 42.96.146.169 [open]  505.707 ms
+seq 28: tcp response from 42.96.146.169 [open]  360.132 ms
+seq 27: tcp response from 120.24.248.50 [open]  199.522 ms
+seq 30: tcp response from 42.96.146.169 [open]  510.270 ms
+seq 33: tcp response from 120.24.248.50 [open]  219.717 ms
+seq 31: no response (timeout)
+seq 29: tcp response from 120.24.248.50 [open]  283.620 ms
+seq 32: tcp response from 42.96.146.169 [open]  362.864 ms
+seq 35: tcp response from 120.24.248.50 [open]  201.522 ms
+seq 36: tcp response from 120.24.248.50 [open]  200.416 ms
+seq 34: no response (timeout)
+seq 37: tcp response from 120.24.248.50 [open]  215.397 ms
+seq 39: tcp response from 42.96.146.169 [open]  309.647 ms
+seq 40: tcp response from 42.96.146.169 [open]  259.467 ms
+seq 38: no response (timeout)
+seq 43: tcp response from 42.96.146.169 [open]  460.182 ms
+seq 41: no response (timeout)
+seq 44: tcp response from 120.24.248.50 [open]  260.728 ms
+seq 42: no response (timeout)
+seq 45: tcp response from 120.24.248.50 [open]  204.147 ms
+seq 47: tcp response from 42.96.146.169 [open]  459.649 ms
+seq 49: tcp response from 120.24.248.50 [open]  200.827 ms
+seq 50: tcp response from 42.96.146.169 [open]  465.994 ms
+seq 51: tcp response from 120.24.248.50 [open]  202.914 ms
+seq 48: tcp response from 120.24.248.50 [open]  202.550 ms
+seq 46: no response (timeout)
+seq 52: no response (timeout)
+seq 57: tcp response from 42.96.146.169 [open]  386.911 ms
+seq 55: tcp response from 42.96.146.169 [open]  365.877 ms
+seq 53: no response (timeout)
+seq 54: tcp response from 120.24.248.50 [open]  204.962 ms
+seq 56: no response (timeout)
+seq 58: no response (timeout)
+seq 60: no response (timeout)
+seq 63: tcp response from 120.24.248.50 [open]  272.616 ms
+seq 64: tcp response from 120.24.248.50 [open]  199.627 ms
+seq 62: no response (timeout)
+seq 61: tcp response from 42.96.146.169 [open]  461.245 ms
+seq 59: no response (timeout)
+seq 67: tcp response from 42.96.146.169 [open]  456.685 ms
+seq 68: tcp response from 120.24.248.50 [open]  210.737 ms
+seq 65: no response (timeout)
+seq 66: tcp response from 42.96.146.169 [open]  1822.044 ms
+seq 69: no response (timeout)
+seq 70: tcp response from 120.24.248.50 [open]  201.445 ms
+seq 71: tcp response from 120.24.248.50 [open]  200.178 ms
+seq 73: tcp response from 42.96.146.169 [open]  465.021 ms
+seq 76: tcp response from 120.24.248.50 [open]  206.334 ms
+seq 74: tcp response from 120.24.248.50 [open]  199.680 ms
+seq 72: no response (timeout)
+seq 75: no response (timeout)
+seq 78: tcp response from 120.24.248.50 [open]  211.253 ms
+seq 77: no response (timeout)
+seq 80: tcp response from 120.24.248.50 [open]  199.807 ms
+seq 79: no response (timeout)
+seq 82: tcp response from 42.96.146.169 [open]  366.135 ms
+seq 81: tcp response from 120.24.248.50 [open]  230.612 ms
+seq 84: tcp response from 42.96.146.169 [open]  461.114 ms
+seq 83: tcp response from 42.96.146.169 [open]  411.524 ms
+seq 85: tcp response from 120.24.248.50 [open]  203.551 ms
+seq 86: tcp response from 42.96.146.169 [open]  367.896 ms
+seq 88: tcp response from 42.96.146.169 [open]  454.159 ms
+seq 87: tcp response from 42.96.146.169 [open]  407.575 ms
+seq 89: tcp response from 120.24.248.50 [open]  279.336 ms
+seq 90: tcp response from 120.24.248.50 [open]  199.887 ms
+seq 91: tcp response from 120.24.248.50 [open]  215.247 ms
+seq 92: tcp response from 120.24.248.50 [open]  202.731 ms
+seq 93: tcp response from 120.24.248.50 [open]  266.280 ms
+seq 94: tcp response from 42.96.146.169 [open]  362.751 ms
+seq 95: tcp response from 42.96.146.169 [open]  461.469 ms
+seq 98: tcp response from 120.24.248.50 [open]  212.132 ms
+seq 97: tcp response from 120.24.248.50 [open]  212.053 ms
+seq 96: no response (timeout)
+seq 101: tcp response from 42.96.146.169 [open]  466.740 ms
+seq 99: tcp response from 42.96.146.169 [open]  359.101 ms
+seq 102: tcp response from 42.96.146.169 [open]  464.384 ms
+seq 100: tcp response from 120.24.248.50 [open]  204.110 ms
+seq 103: tcp response from 42.96.146.169 [open]  365.020 ms
+seq 104: tcp response from 120.24.248.50 [open]  264.442 ms
+seq 105: tcp response from 42.96.146.169 [open]  359.526 ms
+seq 106: tcp response from 120.24.248.50 [open]  199.947 ms
+seq 108: tcp response from 120.24.248.50 [open]  199.837 ms
+seq 107: tcp response from 42.96.146.169 [open]  467.476 ms
+seq 109: tcp response from 42.96.146.169 [open]  461.820 ms
+seq 110: tcp response from 120.24.248.50 [open]  202.010 ms
+seq 111: tcp response from 120.24.248.50 [open]  200.441 ms
+seq 113: tcp response from 42.96.146.169 [open]  357.086 ms
+seq 115: tcp response from 120.24.248.50 [open]  276.382 ms
+seq 116: tcp response from 42.96.146.169 [open]  363.925 ms
+seq 114: tcp response from 42.96.146.169 [open]  340.446 ms
+seq 117: tcp response from 120.24.248.50 [open]  200.260 ms
+seq 112: tcp response from 120.24.248.50 [open]  270.712 ms
+seq 119: tcp response from 42.96.146.169 [open]  300.815 ms
+seq 120: tcp response from 42.96.146.169 [open]  440.939 ms
+seq 118: tcp response from 120.24.248.50 [open]  205.547 ms
+seq 121: tcp response from 120.24.248.50 [open]  203.242 ms
+seq 124: tcp response from 120.24.248.50 [open]  267.619 ms
+seq 122: tcp response from 120.24.248.50 [open]  203.552 ms
+seq 126: tcp response from 120.24.248.50 [open]  199.528 ms
+seq 125: tcp response from 42.96.146.169 [open]  359.453 ms
+seq 123: no response (timeout)
+seq 129: tcp response from 42.96.146.169 [open]  339.545 ms
+seq 127: no response (timeout)
+seq 128: tcp response from 120.24.248.50 [open]  199.807 ms
+seq 130: tcp response from 42.96.146.169 [open]  265.732 ms
+seq 131: tcp response from 42.96.146.169 [open]  264.227 ms
+seq 135: tcp response from 120.24.248.50 [open]  202.072 ms
+seq 133: tcp response from 120.24.248.50 [open]  199.745 ms
+seq 134: tcp response from 120.24.248.50 [open]  201.347 ms
+seq 132: no response (timeout)
+seq 137: tcp response from 42.96.146.169 [open]  363.163 ms
+seq 136: tcp response from 42.96.146.169 [open]  459.597 ms
+seq 140: tcp response from 120.24.248.50 [open]  203.056 ms
+seq 141: tcp response from 42.96.146.169 [open]  351.545 ms
+seq 138: no response (timeout)
+seq 142: no response (timeout)
+seq 143: tcp response from 120.24.248.50 [open]  201.391 ms
+seq 139: no response (timeout)
+seq 146: tcp response from 120.24.248.50 [open]  199.792 ms
+seq 149: tcp response from 120.24.248.50 [open]  199.802 ms
+seq 150: tcp response from 120.24.248.50 [open]  203.310 ms
+seq 147: tcp response from 42.96.146.169 [open]  416.245 ms
+seq 144: no response (timeout)
+seq 151: tcp response from 42.96.146.169 [open]  459.635 ms
+seq 145: no response (timeout)
+seq 153: tcp response from 42.96.146.169 [open]  364.976 ms
+seq 148: tcp response from 42.96.146.169 [open]  362.829 ms
+seq 152: tcp response from 120.24.248.50 [open]  272.764 ms
+seq 155: tcp response from 120.24.248.50 [open]  201.150 ms
+seq 154: no response (timeout)
+seq 158: tcp response from 120.24.248.50 [open]  203.063 ms
+seq 159: tcp response from 120.24.248.50 [open]  202.691 ms
+seq 156: no response (timeout)
+seq 157: no response (timeout)
+seq 160: tcp response from 120.24.248.50 [open]  211.886 ms
+seq 163: tcp response from 120.24.248.50 [open]  268.690 ms
+seq 162: tcp response from 42.96.146.169 [open]  360.607 ms
+seq 164: tcp response from 42.96.146.169 [open]  433.521 ms
+seq 165: tcp response from 120.24.248.50 [open]  200.759 ms
+seq 161: no response (timeout)
+seq 166: tcp response from 42.96.146.169 [open]  392.664 ms
+seq 168: tcp response from 120.24.248.50 [open]  202.101 ms
+seq 169: tcp response from 42.96.146.169 [open]  363.850 ms
+seq 167: no response (timeout)
+seq 172: tcp response from 42.96.146.169 [open]  363.544 ms
+seq 173: tcp response from 42.96.146.169 [open]  358.025 ms
+seq 170: no response (timeout)
+seq 175: tcp response from 120.24.248.50 [open]  204.415 ms
+seq 174: tcp response from 120.24.248.50 [open]  269.071 ms
+seq 171: no response (timeout)
+seq 178: tcp response from 120.24.248.50 [open]  209.552 ms
+seq 179: tcp response from 42.96.146.169 [open]  458.053 ms
+seq 177: no response (timeout)
+seq 180: tcp response from 42.96.146.169 [open]  443.708 ms
+seq 182: tcp response from 120.24.248.50 [open]  208.151 ms
+seq 176: no response (timeout)
+seq 181: tcp response from 120.24.248.50 [open]  200.180 ms
+seq 183: tcp response from 120.24.248.50 [open]  274.881 ms
+seq 184: no response (timeout)
+seq 186: no response (timeout)
+seq 189: tcp response from 120.24.248.50 [open]  199.692 ms
+seq 188: tcp response from 42.96.146.169 [open]  369.904 ms
+seq 190: tcp response from 42.96.146.169 [open]  1630.840 ms
+seq 187: no response (timeout)
+seq 185: tcp response from 42.96.146.169 [open]  466.185 ms
+seq 191: no response (timeout)
+seq 192: tcp response from 120.24.248.50 [open]  202.090 ms
+seq 193: tcp response from 120.24.248.50 [open]  606.061 ms
+seq 194: tcp response from 42.96.146.169 [open]  458.666 ms
+seq 195: tcp response from 120.24.248.50 [open]  262.084 ms
+seq 197: tcp response from 120.24.248.50 [open]  200.310 ms
+seq 196: tcp response from 120.24.248.50 [open]  351.148 ms
+seq 199: tcp response from 42.96.146.169 [open]  460.145 ms
+seq 200: tcp response from 42.96.146.169 [open]  457.940 ms
+seq 203: tcp response from 120.24.248.50 [open]  213.224 ms
+seq 206: tcp response from 42.96.146.169 [open]  360.813 ms
+seq 198: no response (timeout)
+seq 207: tcp response from 42.96.146.169 [open]  447.417 ms
+seq 201: no response (timeout)
+seq 208: tcp response from 120.24.248.50 [open]  208.501 ms
+seq 204: tcp response from 42.96.146.169 [open]  359.485 ms
+seq 202: no response (timeout)
+seq 209: no response (timeout)
+seq 210: tcp response from 42.96.146.169 [open]  361.547 ms
+seq 211: no response (timeout)
+seq 205: no response (timeout)
+seq 212: tcp response from 42.96.146.169 [open]  461.389 ms
+seq 215: tcp response from 120.24.248.50 [open]  199.854 ms
+seq 213: no response (timeout)
+seq 214: tcp response from 42.96.146.169 [open]  360.896 ms
+seq 216: tcp response from 120.24.248.50 [open]  199.949 ms
+seq 217: tcp response from 120.24.248.50 [open]  268.065 ms
+seq 218: tcp response from 120.24.248.50 [open]  272.687 ms
+seq 219: tcp response from 42.96.146.169 [open]  343.298 ms
+seq 221: tcp response from 42.96.146.169 [open]  266.730 ms
+seq 222: tcp response from 42.96.146.169 [open]  264.203 ms
+seq 223: tcp response from 120.24.248.50 [open]  209.110 ms
+seq 224: tcp response from 42.96.146.169 [open]  275.386 ms
+seq 225: tcp response from 120.24.248.50 [open]  277.456 ms
+seq 220: no response (timeout)
+seq 226: tcp response from 120.24.248.50 [open]  199.476 ms
+seq 228: tcp response from 120.24.248.50 [open]  199.673 ms
+seq 229: tcp response from 42.96.146.169 [open]  465.660 ms
+seq 230: tcp response from 42.96.146.169 [open]  432.305 ms
+seq 227: tcp response from 42.96.146.169 [open]  351.691 ms
+seq 231: tcp response from 42.96.146.169 [open]  442.647 ms
+seq 232: tcp response from 120.24.248.50 [open]  210.947 ms
+seq 233: tcp response from 42.96.146.169 [open]  459.686 ms
+seq 235: tcp response from 120.24.248.50 [open]  216.760 ms
+seq 234: tcp response from 42.96.146.169 [open]  479.713 ms
+seq 236: tcp response from 120.24.248.50 [open]  201.452 ms
+seq 238: tcp response from 42.96.146.169 [open]  468.959 ms
+seq 239: tcp response from 42.96.146.169 [open]  462.493 ms
+seq 237: no response (timeout)
+seq 241: tcp response from 42.96.146.169 [open]  363.382 ms
+seq 240: tcp response from 120.24.248.50 [open]  205.201 ms
+seq 242: tcp response from 42.96.146.169 [open]  441.939 ms
+seq 243: tcp response from 120.24.248.50 [open]  333.435 ms
+seq 244: tcp response from 120.24.248.50 [open]  213.558 ms
+seq 246: tcp response from 120.24.248.50 [open]  224.765 ms
+seq 247: tcp response from 42.96.146.169 [open]  329.310 ms
+seq 245: tcp response from 42.96.146.169 [open]  279.179 ms
+seq 248: tcp response from 120.24.248.50 [open]  273.852 ms
+seq 249: tcp response from 120.24.248.50 [open]  220.015 ms
+seq 250: tcp response from 120.24.248.50 [open]  217.019 ms
+seq 251: tcp response from 42.96.146.169 [open]  361.562 ms
+seq 252: tcp response from 120.24.248.50 [open]  200.928 ms
+seq 253: tcp response from 42.96.146.169 [open]  315.340 ms
+seq 254: tcp response from 42.96.146.169 [open]  463.075 ms
+seq 255: tcp response from 42.96.146.169 [open]  459.808 ms
+seq 256: tcp response from 120.24.248.50 [open]  300.328 ms
+seq 257: tcp response from 120.24.248.50 [open]  199.623 ms
+seq 258: tcp response from 42.96.146.169 [open]  365.067 ms
+seq 260: tcp response from 120.24.248.50 [open]  215.033 ms
+seq 259: no response (timeout)
+seq 262: tcp response from 120.24.248.50 [open]  217.903 ms
+seq 263: tcp response from 120.24.248.50 [open]  199.921 ms
+seq 264: tcp response from 120.24.248.50 [open]  200.207 ms
+seq 261: tcp response from 120.24.248.50 [open]  203.109 ms
+seq 265: tcp response from 42.96.146.169 [open]  361.985 ms
+seq 267: tcp response from 42.96.146.169 [open]  456.945 ms
+seq 269: tcp response from 120.24.248.50 [open]  200.346 ms
+seq 268: no response (timeout)
+seq 271: tcp response from 42.96.146.169 [open]  298.317 ms
+seq 272: tcp response from 42.96.146.169 [open]  359.285 ms
+seq 270: tcp response from 120.24.248.50 [open]  213.535 ms
+seq 266: tcp response from 120.24.248.50 [open]  201.485 ms
+seq 273: tcp response from 42.96.146.169 [open]  1282.991 ms
+seq 274: tcp response from 120.24.248.50 [open]  211.401 ms
+seq 276: tcp response from 42.96.146.169 [open]  362.284 ms
+seq 277: tcp response from 120.24.248.50 [open]  209.122 ms
+seq 279: tcp response from 42.96.146.169 [open]  420.987 ms
+seq 278: tcp response from 42.96.146.169 [open]  2016.979 ms
+seq 275: tcp response from 120.24.248.50 [open]  200.948 ms
+seq 280: no response (timeout)
+seq 284: tcp response from 120.24.248.50 [open]  200.331 ms
+seq 281: tcp response from 42.96.146.169 [open]  456.859 ms
+seq 282: tcp response from 120.24.248.50 [open]  264.376 ms
+seq 286: tcp response from 120.24.248.50 [open]  269.476 ms
+seq 283: tcp response from 120.24.248.50 [open]  199.703 ms
+seq 287: tcp response from 120.24.248.50 [open]  271.806 ms
+seq 285: tcp response from 42.96.146.169 [open]  365.412 ms
+seq 289: tcp response from 42.96.146.169 [open]  364.558 ms
+seq 290: tcp response from 120.24.248.50 [open]  202.924 ms
+seq 288: tcp response from 120.24.248.50 [open]  217.122 ms
+seq 291: tcp response from 120.24.248.50 [open]  226.122 ms
+seq 292: tcp response from 42.96.146.169 [open]  373.811 ms
+seq 294: tcp response from 42.96.146.169 [open]  415.610 ms
+seq 295: tcp response from 120.24.248.50 [open]  223.738 ms
+seq 293: no response (timeout)
+seq 297: tcp response from 120.24.248.50 [open]  224.426 ms
+seq 296: tcp response from 42.96.146.169 [open]  1478.451 ms
+seq 299: tcp response from 42.96.146.169 [open]  462.210 ms
+seq 300: tcp response from 120.24.248.50 [open]  199.967 ms
+seq 298: no response (timeout)
+seq 302: tcp response from 120.24.248.50 [open]  268.443 ms
+seq 301: tcp response from 42.96.146.169 [open]  455.218 ms
+seq 305: tcp response from 120.24.248.50 [open]  200.107 ms
+seq 304: tcp response from 120.24.248.50 [open]  200.037 ms
+seq 308: tcp response from 42.96.146.169 [open]  464.331 ms
+seq 303: no response (timeout)
+seq 306: tcp response from 42.96.146.169 [open]  458.532 ms
+seq 307: tcp response from 120.24.248.50 [open]  221.374 ms
+seq 311: tcp response from 42.96.146.169 [open]  264.394 ms
+seq 309: no response (timeout)
+seq 312: tcp response from 42.96.146.169 [open]  286.667 ms
+seq 310: no response (timeout)
+seq 314: tcp response from 120.24.248.50 [open]  213.070 ms
+seq 313: tcp response from 42.96.146.169 [open]  459.275 ms
+seq 316: tcp response from 120.24.248.50 [open]  201.392 ms
+seq 315: no response (timeout)
+seq 317: tcp response from 42.96.146.169 [open]  466.538 ms
+seq 320: tcp response from 120.24.248.50 [open]  202.089 ms
+seq 321: tcp response from 120.24.248.50 [open]  201.376 ms
+seq 318: tcp response from 120.24.248.50 [open]  201.930 ms
+seq 319: no response (timeout)
+seq 323: tcp response from 42.96.146.169 [open]  371.658 ms
+seq 324: tcp response from 42.96.146.169 [open]  422.005 ms
+seq 325: tcp response from 42.96.146.169 [open]  463.563 ms
+seq 326: tcp response from 42.96.146.169 [open]  364.038 ms
+seq 327: tcp response from 120.24.248.50 [open]  271.854 ms
+seq 322: no response (timeout)
+seq 328: tcp response from 42.96.146.169 [open]  363.133 ms
+seq 330: tcp response from 120.24.248.50 [open]  224.076 ms
+seq 333: tcp response from 120.24.248.50 [open]  202.127 ms
+seq 331: tcp response from 120.24.248.50 [open]  217.668 ms
+seq 334: tcp response from 42.96.146.169 [open]  363.856 ms
+seq 332: no response (timeout)
+seq 329: no response (timeout)
+seq 336: tcp response from 42.96.146.169 [open]  356.893 ms
+seq 335: no response (timeout)
+seq 338: tcp response from 120.24.248.50 [open]  202.603 ms
+seq 340: tcp response from 120.24.248.50 [open]  212.622 ms
+seq 341: tcp response from 120.24.248.50 [open]  276.328 ms
+seq 339: no response (timeout)
+seq 343: tcp response from 120.24.248.50 [open]  270.762 ms
+seq 337: no response (timeout)
+seq 342: no response (timeout)
+seq 344: no response (timeout)
+seq 345: no response (timeout)
+seq 346: tcp response from 120.24.248.50 [open]  203.281 ms
+seq 347: tcp response from 120.24.248.50 [open]  199.602 ms
+seq 348: tcp response from 120.24.248.50 [open]  202.797 ms
+seq 349: tcp response from 42.96.146.169 [open]  380.886 ms
+seq 350: tcp response from 120.24.248.50 [open]  199.516 ms
+seq 353: tcp response from 42.96.146.169 [open]  362.849 ms
+seq 351: no response (timeout)
+seq 354: tcp response from 120.24.248.50 [open]  296.113 ms
+seq 355: tcp response from 120.24.248.50 [open]  211.958 ms
+seq 356: tcp response from 42.96.146.169 [open]  458.554 ms
+seq 352: no response (timeout)
+seq 357: tcp response from 42.96.146.169 [open]  459.117 ms
+seq 358: tcp response from 120.24.248.50 [open]  277.054 ms
+seq 359: tcp response from 42.96.146.169 [open]  360.854 ms
+seq 360: tcp response from 42.96.146.169 [open]  464.930 ms
+seq 361: tcp response from 120.24.248.50 [open]  200.717 ms
+seq 362: tcp response from 120.24.248.50 [open]  200.383 ms
+seq 363: tcp response from 42.96.146.169 [open]  448.200 ms
+seq 364: tcp response from 120.24.248.50 [open]  302.123 ms
+seq 365: tcp response from 120.24.248.50 [open]  289.509 ms
+seq 366: tcp response from 120.24.248.50 [open]  302.238 ms
+seq 369: tcp response from 42.96.146.169 [open]  461.260 ms
+seq 367: tcp response from 42.96.146.169 [open]  465.842 ms
+seq 368: no response (timeout)
+seq 372: tcp response from 120.24.248.50 [open]  218.164 ms
+seq 374: tcp response from 42.96.146.169 [open]  322.585 ms
+seq 370: no response (timeout)
+seq 373: tcp response from 42.96.146.169 [open]  263.319 ms
+seq 375: tcp response from 120.24.248.50 [open]  291.787 ms
+seq 371: no response (timeout)
+seq 376: tcp response from 42.96.146.169 [open]  364.702 ms
+seq 377: tcp response from 42.96.146.169 [open]  435.574 ms
+seq 378: tcp response from 120.24.248.50 [open]  291.014 ms
+seq 379: tcp response from 120.24.248.50 [open]  285.459 ms
+seq 380: tcp response from 42.96.146.169 [open]  361.396 ms
+seq 382: tcp response from 42.96.146.169 [open]  463.331 ms
+seq 381: no response (timeout)
+seq 384: tcp response from 120.24.248.50 [open]  200.066 ms
+seq 383: no response (timeout)
+seq 386: tcp response from 120.24.248.50 [open]  221.348 ms
+seq 385: tcp response from 42.96.146.169 [open]  1744.748 ms
+seq 388: tcp response from 42.96.146.169 [open]  362.005 ms
+seq 387: tcp response from 120.24.248.50 [open]  203.652 ms
+seq 390: tcp response from 42.96.146.169 [open]  460.487 ms
+seq 391: tcp response from 42.96.146.169 [open]  360.800 ms
+seq 389: no response (timeout)
+seq 393: tcp response from 42.96.146.169 [open]  466.497 ms
+seq 392: no response (timeout)
+seq 394: tcp response from 42.96.146.169 [open]  464.463 ms
+seq 396: tcp response from 42.96.146.169 [open]  262.893 ms
+seq 397: tcp response from 120.24.248.50 [open]  200.240 ms
+seq 395: no response (timeout)
+seq 399: tcp response from 120.24.248.50 [open]  295.418 ms
+seq 400: tcp response from 120.24.248.50 [open]  284.917 ms
+seq 398: tcp response from 42.96.146.169 [open]  365.868 ms
+seq 402: tcp response from 120.24.248.50 [open]  200.181 ms
+seq 401: no response (timeout)
+seq 405: tcp response from 120.24.248.50 [open]  258.808 ms
+seq 403: no response (timeout)
+seq 404: no response (timeout)
+seq 406: tcp response from 42.96.146.169 [open]  363.075 ms
+seq 408: tcp response from 42.96.146.169 [open]  460.887 ms
+seq 407: tcp response from 42.96.146.169 [open]  365.096 ms
+seq 409: no response (timeout)
+seq 411: no response (timeout)
+seq 410: tcp response from 120.24.248.50 [open]  219.005 ms
+seq 413: tcp response from 42.96.146.169 [open]  466.616 ms
+seq 412: no response (timeout)
+seq 416: tcp response from 120.24.248.50 [open]  216.553 ms
+seq 415: tcp response from 42.96.146.169 [open]  364.702 ms
+seq 414: no response (timeout)
+seq 417: tcp response from 120.24.248.50 [open]  256.474 ms
+seq 419: tcp response from 120.24.248.50 [open]  251.895 ms
+seq 418: tcp response from 42.96.146.169 [open]  1363.670 ms
+seq 421: tcp response from 42.96.146.169 [open]  453.962 ms
+seq 422: tcp response from 120.24.248.50 [open]  201.417 ms
+seq 420: tcp response from 42.96.146.169 [open]  268.528 ms
+seq 423: tcp response from 42.96.146.169 [open]  263.960 ms
+seq 424: tcp response from 120.24.248.50 [open]  225.903 ms
+seq 425: tcp response from 42.96.146.169 [open]  431.630 ms
+seq 426: tcp response from 120.24.248.50 [open]  200.128 ms
+seq 427: tcp response from 120.24.248.50 [open]  235.210 ms
+seq 428: tcp response from 120.24.248.50 [open]  282.333 ms
+seq 431: tcp response from 42.96.146.169 [open]  451.145 ms
+seq 429: tcp response from 42.96.146.169 [open]  455.222 ms
+seq 432: tcp response from 120.24.248.50 [open]  338.149 ms
+seq 430: tcp response from 120.24.248.50 [open]  203.516 ms
+seq 434: tcp response from 120.24.248.50 [open]  199.899 ms
+seq 433: tcp response from 120.24.248.50 [open]  287.193 ms
+seq 435: tcp response from 120.24.248.50 [open]  243.372 ms
+seq 436: tcp response from 42.96.146.169 [open]  365.365 ms
+seq 438: tcp response from 42.96.146.169 [open]  461.780 ms
+seq 439: tcp response from 120.24.248.50 [open]  238.137 ms
+seq 441: tcp response from 42.96.146.169 [open]  368.521 ms
+seq 437: no response (timeout)
+seq 440: no response (timeout)
+seq 443: tcp response from 42.96.146.169 [open]  394.046 ms
+seq 442: no response (timeout)
+seq 445: tcp response from 120.24.248.50 [open]  290.712 ms
+seq 444: no response (timeout)
+seq 447: tcp response from 42.96.146.169 [open]  407.838 ms
+seq 448: tcp response from 42.96.146.169 [open]  309.145 ms
+seq 446: no response (timeout)
+seq 450: no response (timeout)
+seq 453: tcp response from 120.24.248.50 [open]  201.913 ms
+seq 451: tcp response from 42.96.146.169 [open]  464.802 ms
+seq 454: tcp response from 120.24.248.50 [open]  221.351 ms
+seq 452: tcp response from 42.96.146.169 [open]  364.012 ms
+seq 449: tcp response from 120.24.248.50 [open]  199.524 ms
+seq 455: tcp response from 42.96.146.169 [open]  461.584 ms
+seq 457: tcp response from 120.24.248.50 [open]  268.176 ms
+seq 459: tcp response from 42.96.146.169 [open]  465.060 ms
+seq 458: tcp response from 120.24.248.50 [open]  226.926 ms
+seq 456: no response (timeout)
+seq 461: tcp response from 120.24.248.50 [open]  232.224 ms
+seq 462: tcp response from 120.24.248.50 [open]  202.010 ms
+seq 460: no response (timeout)
+seq 463: tcp response from 42.96.146.169 [open]  391.451 ms
+seq 464: tcp response from 42.96.146.169 [open]  465.193 ms
+seq 465: tcp response from 42.96.146.169 [open]  463.196 ms
+seq 467: tcp response from 120.24.248.50 [open]  227.903 ms
+seq 468: tcp response from 120.24.248.50 [open]  203.341 ms
+seq 466: tcp response from 120.24.248.50 [open]  204.450 ms
+seq 470: tcp response from 120.24.248.50 [open]  228.752 ms
+seq 469: no response (timeout)
+seq 472: tcp response from 42.96.146.169 [open]  362.673 ms
+seq 471: no response (timeout)
+seq 473: tcp response from 42.96.146.169 [open]  460.338 ms
+seq 474: tcp response from 120.24.248.50 [open]  284.173 ms
+seq 475: tcp response from 120.24.248.50 [open]  200.145 ms
+seq 476: tcp response from 120.24.248.50 [open]  201.566 ms
+seq 477: tcp response from 42.96.146.169 [open]  341.756 ms
+seq 478: tcp response from 120.24.248.50 [open]  284.833 ms
+seq 479: tcp response from 120.24.248.50 [open]  228.549 ms
+seq 480: tcp response from 42.96.146.169 [open]  364.974 ms
+seq 481: tcp response from 120.24.248.50 [open]  200.607 ms
+seq 483: tcp response from 42.96.146.169 [open]  363.704 ms
+seq 484: tcp response from 120.24.248.50 [open]  204.633 ms
+seq 485: tcp response from 42.96.146.169 [open]  342.110 ms
+seq 482: tcp response from 120.24.248.50 [open]  228.876 ms
+seq 486: tcp response from 42.96.146.169 [open]  458.662 ms
+seq 489: tcp response from 42.96.146.169 [open]  460.074 ms
+seq 487: no response (timeout)
+seq 488: tcp response from 42.96.146.169 [open]  466.830 ms
+seq 491: tcp response from 42.96.146.169 [open]  293.993 ms
+seq 492: tcp response from 42.96.146.169 [open]  373.902 ms
+seq 490: no response (timeout)
+seq 494: tcp response from 120.24.248.50 [open]  201.183 ms
+seq 493: no response (timeout)
+seq 495: tcp response from 42.96.146.169 [open]  366.458 ms
+seq 496: no response (timeout)
+seq 497: tcp response from 120.24.248.50 [open]  200.271 ms
+seq 498: tcp response from 120.24.248.50 [open]  299.096 ms
+seq 499: tcp response from 42.96.146.169 [open]  361.372 ms
+seq 500: tcp response from 42.96.146.169 [open]  465.716 ms
+seq 501: tcp response from 120.24.248.50 [open]  200.210 ms
+seq 502: tcp response from 120.24.248.50 [open]  199.480 ms
+seq 503: tcp response from 120.24.248.50 [open]  201.923 ms
+seq 505: tcp response from 42.96.146.169 [open]  465.223 ms
+seq 504: tcp response from 42.96.146.169 [open]  1506.545 ms
+seq 506: tcp response from 120.24.248.50 [open]  552.225 ms
+seq 508: tcp response from 42.96.146.169 [open]  362.194 ms
+seq 507: tcp response from 42.96.146.169 [open]  364.944 ms
+seq 512: tcp response from 120.24.248.50 [open]  231.782 ms
+seq 513: tcp response from 42.96.146.169 [open]  363.980 ms
+seq 511: tcp response from 42.96.146.169 [open]  335.678 ms
+seq 509: no response (timeout)
+seq 510: tcp response from 120.24.248.50 [open]  232.725 ms
+seq 514: tcp response from 120.24.248.50 [open]  234.260 ms
+seq 515: tcp response from 42.96.146.169 [open]  439.439 ms
+seq 516: tcp response from 120.24.248.50 [open]  199.857 ms
+seq 517: tcp response from 42.96.146.169 [open]  345.320 ms
+seq 518: tcp response from 120.24.248.50 [open]  230.264 ms
+seq 520: tcp response from 42.96.146.169 [open]  459.100 ms
+seq 521: tcp response from 120.24.248.50 [open]  199.450 ms
+seq 519: no response (timeout)
+seq 523: tcp response from 42.96.146.169 [open]  364.562 ms
+seq 524: tcp response from 120.24.248.50 [open]  227.127 ms
+seq 522: no response (timeout)
+seq 526: tcp response from 120.24.248.50 [open]  292.144 ms
+seq 527: tcp response from 120.24.248.50 [open]  200.066 ms
+seq 525: no response (timeout)
+seq 528: tcp response from 42.96.146.169 [open]  317.715 ms
+seq 529: tcp response from 120.24.248.50 [open]  201.954 ms
+seq 530: tcp response from 120.24.248.50 [open]  202.555 ms
+seq 531: tcp response from 42.96.146.169 [open]  616.288 ms
+seq 532: tcp response from 42.96.146.169 [open]  460.027 ms
+seq 533: tcp response from 42.96.146.169 [open]  365.136 ms
+seq 535: tcp response from 120.24.248.50 [open]  237.183 ms
+seq 537: tcp response from 120.24.248.50 [open]  202.037 ms
+seq 536: tcp response from 120.24.248.50 [open]  232.062 ms
+seq 538: tcp response from 120.24.248.50 [open]  202.312 ms
+seq 534: tcp response from 120.24.248.50 [open]  202.829 ms
+seq 539: tcp response from 120.24.248.50 [open]  200.224 ms
+seq 540: tcp response from 120.24.248.50 [open]  232.957 ms
+seq 542: tcp response from 42.96.146.169 [open]  456.828 ms
+seq 541: tcp response from 42.96.146.169 [open]  362.041 ms
+seq 543: tcp response from 42.96.146.169 [open]  462.215 ms
+seq 545: tcp response from 120.24.248.50 [open]  200.221 ms
+seq 544: tcp response from 120.24.248.50 [open]  289.166 ms
+seq 546: no response (timeout)
+seq 550: tcp response from 120.24.248.50 [open]  235.867 ms
+seq 549: no response (timeout)
+seq 552: no response (timeout)
+seq 547: no response (timeout)
+seq 551: no response (timeout)
+seq 553: no response (timeout)
+seq 548: no response (timeout)
+seq 554: tcp response from 42.96.146.169 [open]  423.673 ms
+seq 555: tcp response from 42.96.146.169 [open]  438.897 ms
+seq 556: tcp response from 42.96.146.169 [open]  455.746 ms
+seq 557: tcp response from 42.96.146.169 [open]  360.115 ms
+seq 558: tcp response from 120.24.248.50 [open]  278.663 ms
+seq 560: tcp response from 120.24.248.50 [open]  200.575 ms
+seq 559: tcp response from 42.96.146.169 [open]  333.330 ms
+seq 562: tcp response from 120.24.248.50 [open]  283.266 ms
+seq 561: no response (timeout)
+seq 564: tcp response from 42.96.146.169 [open]  321.665 ms
+seq 563: tcp response from 120.24.248.50 [open]  200.364 ms
+seq 566: tcp response from 120.24.248.50 [open]  221.581 ms
+seq 565: no response (timeout)
+seq 569: tcp response from 120.24.248.50 [open]  226.225 ms
+seq 567: tcp response from 120.24.248.50 [open]  202.606 ms
+seq 570: tcp response from 120.24.248.50 [open]  287.221 ms
+seq 568: no response (timeout)
+seq 572: tcp response from 120.24.248.50 [open]  226.786 ms
+seq 571: tcp response from 120.24.248.50 [open]  289.040 ms
+seq 573: tcp response from 42.96.146.169 [open]  459.235 ms
+seq 574: tcp response from 42.96.146.169 [open]  361.922 ms
+seq 576: tcp response from 120.24.248.50 [open]  229.113 ms
+seq 575: tcp response from 120.24.248.50 [open]  223.295 ms
+seq 577: tcp response from 42.96.146.169 [open]  400.551 ms
+seq 580: tcp response from 42.96.146.169 [open]  224.998 ms
+seq 578: no response (timeout)
+seq 582: tcp response from 120.24.248.50 [open]  199.461 ms
+seq 579: no response (timeout)
+seq 581: no response (timeout)
+seq 584: tcp response from 120.24.248.50 [open]  220.288 ms
+seq 583: tcp response from 42.96.146.169 [open]  347.662 ms
+seq 586: tcp response from 42.96.146.169 [open]  361.763 ms
+seq 589: tcp response from 120.24.248.50 [open]  200.933 ms
+seq 585: no response (timeout)
+seq 587: no response (timeout)
+seq 588: tcp response from 120.24.248.50 [open]  286.194 ms
+seq 590: no response (timeout)
+seq 591: tcp response from 42.96.146.169 [open]  465.598 ms
+seq 595: tcp response from 42.96.146.169 [open]  363.540 ms
+seq 593: tcp response from 42.96.146.169 [open]  334.936 ms
+seq 594: tcp response from 120.24.248.50 [open]  222.385 ms
+seq 592: no response (timeout)
+seq 596: tcp response from 120.24.248.50 [open]  217.028 ms
+seq 598: tcp response from 42.96.146.169 [open]  365.242 ms
+seq 599: tcp response from 120.24.248.50 [open]  285.079 ms
+seq 602: tcp response from 120.24.248.50 [open]  200.068 ms
+seq 597: no response (timeout)
+seq 601: tcp response from 120.24.248.50 [open]  199.555 ms
+seq 604: tcp response from 42.96.146.169 [open]  395.999 ms
+seq 603: tcp response from 42.96.146.169 [open]  372.510 ms
+seq 600: no response (timeout)
+seq 606: tcp response from 42.96.146.169 [open]  407.266 ms
+seq 605: no response (timeout)
+seq 610: tcp response from 120.24.248.50 [open]  286.507 ms
+seq 607: tcp response from 120.24.248.50 [open]  200.845 ms
+seq 608: no response (timeout)
+seq 611: no response (timeout)
+seq 615: tcp response from 42.96.146.169 [open]  361.646 ms
+seq 612: tcp response from 120.24.248.50 [open]  233.083 ms
+seq 609: tcp response from 120.24.248.50 [open]  231.036 ms
+seq 616: tcp response from 120.24.248.50 [open]  280.864 ms
+seq 613: tcp response from 42.96.146.169 [open]  365.931 ms
+seq 614: no response (timeout)
+seq 617: no response (timeout)
+seq 618: tcp response from 42.96.146.169 [open]  363.116 ms
+seq 620: tcp response from 42.96.146.169 [open]  346.532 ms
+seq 619: no response (timeout)
+seq 622: tcp response from 120.24.248.50 [open]  226.478 ms
+seq 623: tcp response from 42.96.146.169 [open]  462.858 ms
+seq 621: tcp response from 120.24.248.50 [open]  224.455 ms
+seq 624: tcp response from 42.96.146.169 [open]  464.734 ms
+seq 625: tcp response from 42.96.146.169 [open]  460.750 ms
+seq 626: tcp response from 120.24.248.50 [open]  199.525 ms
+seq 627: tcp response from 120.24.248.50 [open]  199.880 ms
+seq 628: tcp response from 120.24.248.50 [open]  199.568 ms
+seq 629: tcp response from 42.96.146.169 [open]  350.321 ms
+seq 630: tcp response from 42.96.146.169 [open]  297.687 ms
+seq 631: tcp response from 120.24.248.50 [open]  215.372 ms
+seq 632: tcp response from 42.96.146.169 [open]  321.603 ms
+seq 633: tcp response from 120.24.248.50 [open]  202.763 ms
+seq 635: tcp response from 42.96.146.169 [open]  363.218 ms
+seq 634: no response (timeout)
+seq 637: tcp response from 42.96.146.169 [open]  461.619 ms
+seq 638: tcp response from 42.96.146.169 [open]  462.568 ms
+seq 636: tcp response from 120.24.248.50 [open]  217.909 ms
+seq 640: tcp response from 120.24.248.50 [open]  280.487 ms
+seq 639: tcp response from 120.24.248.50 [open]  233.320 ms
+seq 641: tcp response from 120.24.248.50 [open]  201.138 ms
+seq 642: tcp response from 42.96.146.169 [open]  357.137 ms
+seq 643: tcp response from 42.96.146.169 [open]  460.928 ms
+seq 644: tcp response from 42.96.146.169 [open]  452.683 ms
+seq 645: tcp response from 120.24.248.50 [open]  199.819 ms
+seq 646: tcp response from 42.96.146.169 [open]  364.664 ms
+seq 647: tcp response from 120.24.248.50 [open]  270.441 ms
+seq 648: tcp response from 120.24.248.50 [open]  199.974 ms
+seq 650: tcp response from 120.24.248.50 [open]  272.202 ms
+seq 651: tcp response from 42.96.146.169 [open]  469.163 ms
+seq 652: tcp response from 42.96.146.169 [open]  386.751 ms
+seq 653: tcp response from 42.96.146.169 [open]  363.417 ms
+seq 654: tcp response from 42.96.146.169 [open]  496.913 ms
+seq 655: tcp response from 120.24.248.50 [open]  232.429 ms
+seq 649: tcp response from 42.96.146.169 [open]  362.066 ms
+seq 656: tcp response from 42.96.146.169 [open]  362.492 ms
+seq 657: tcp response from 120.24.248.50 [open]  230.464 ms
+seq 658: tcp response from 120.24.248.50 [open]  201.055 ms
+seq 661: tcp response from 120.24.248.50 [open]  200.191 ms
+seq 659: tcp response from 120.24.248.50 [open]  202.037 ms
+seq 663: tcp response from 42.96.146.169 [open]  359.379 ms
+seq 664: tcp response from 42.96.146.169 [open]  457.637 ms
+seq 660: tcp response from 120.24.248.50 [open]  201.355 ms
+seq 665: tcp response from 120.24.248.50 [open]  280.337 ms
+seq 666: tcp response from 42.96.146.169 [open]  466.494 ms
+seq 668: tcp response from 120.24.248.50 [open]  199.773 ms
+seq 662: tcp response from 120.24.248.50 [open]  199.414 ms
+seq 667: no response (timeout)
+seq 669: no response (timeout)
+seq 671: tcp response from 42.96.146.169 [open]  458.841 ms
+seq 674: tcp response from 42.96.146.169 [open]  363.065 ms
+seq 673: tcp response from 42.96.146.169 [open]  1764.013 ms
+seq 670: no response (timeout)
+seq 672: tcp response from 120.24.248.50 [open]  212.435 ms
+seq 675: tcp response from 120.24.248.50 [open]  199.821 ms
+seq 677: tcp response from 120.24.248.50 [open]  203.340 ms
+seq 678: tcp response from 42.96.146.169 [open]  273.155 ms
+seq 676: no response (timeout)
+seq 680: tcp response from 120.24.248.50 [open]  277.276 ms
+seq 681: no response (timeout)
+seq 679: no response (timeout)
+seq 682: tcp response from 42.96.146.169 [open]  364.158 ms
+seq 683: tcp response from 42.96.146.169 [open]  365.424 ms
+seq 684: tcp response from 120.24.248.50 [open]  278.456 ms
+seq 686: tcp response from 120.24.248.50 [open]  200.696 ms
+seq 687: tcp response from 42.96.146.169 [open]  465.646 ms
+seq 685: no response (timeout)
+seq 689: tcp response from 42.96.146.169 [open]  367.084 ms
+seq 690: tcp response from 120.24.248.50 [open]  224.430 ms
+seq 692: tcp response from 120.24.248.50 [open]  222.668 ms
+seq 688: no response (timeout)
+seq 695: tcp response from 120.24.248.50 [open]  202.183 ms
+seq 693: no response (timeout)
+seq 696: tcp response from 42.96.146.169 [open]  365.242 ms
+seq 691: no response (timeout)
+seq 697: tcp response from 42.96.146.169 [open]  364.112 ms
+seq 694: tcp response from 120.24.248.50 [open]  201.477 ms
+seq 698: tcp response from 42.96.146.169 [open]  362.757 ms
+seq 700: tcp response from 120.24.248.50 [open]  226.216 ms
+seq 701: tcp response from 42.96.146.169 [open]  455.545 ms
+seq 702: tcp response from 120.24.248.50 [open]  203.794 ms
+seq 699: tcp response from 120.24.248.50 [open]  200.371 ms
+seq 703: tcp response from 42.96.146.169 [open]  367.262 ms
+seq 705: tcp response from 120.24.248.50 [open]  222.740 ms
+seq 704: no response (timeout)
+seq 707: tcp response from 120.24.248.50 [open]  283.404 ms
+seq 706: no response (timeout)
+seq 708: tcp response from 120.24.248.50 [open]  281.012 ms
+seq 709: tcp response from 42.96.146.169 [open]  367.392 ms
+seq 710: tcp response from 42.96.146.169 [open]  465.601 ms
+seq 711: tcp response from 120.24.248.50 [open]  201.684 ms
+seq 712: tcp response from 120.24.248.50 [open]  199.708 ms
+seq 713: no response (timeout)
+seq 715: tcp response from 120.24.248.50 [open]  224.906 ms
+seq 714: no response (timeout)
+seq 716: tcp response from 120.24.248.50 [open]  200.167 ms
+seq 719: tcp response from 42.96.146.169 [open]  1558.809 ms
+seq 718: tcp response from 120.24.248.50 [open]  224.783 ms
+seq 721: tcp response from 120.24.248.50 [open]  218.601 ms
+seq 717: no response (timeout)
+seq 720: no response (timeout)
+seq 724: tcp response from 42.96.146.169 [open]  360.855 ms
+seq 722: no response (timeout)
+seq 725: tcp response from 120.24.248.50 [open]  274.711 ms
+seq 723: tcp response from 42.96.146.169 [open]  464.573 ms
+seq 727: tcp response from 120.24.248.50 [open]  199.869 ms
+seq 726: no response (timeout)
+seq 728: tcp response from 42.96.146.169 [open]  364.265 ms
+seq 729: tcp response from 120.24.248.50 [open]  199.685 ms
+seq 730: tcp response from 42.96.146.169 [open]  460.007 ms
+seq 732: tcp response from 120.24.248.50 [open]  199.963 ms
+seq 736: tcp response from 120.24.248.50 [open]  216.514 ms
+seq 731: no response (timeout)
+seq 733: tcp response from 42.96.146.169 [open]  364.252 ms
+seq 738: tcp response from 120.24.248.50 [open]  202.444 ms
+seq 734: no response (timeout)
+seq 735: tcp response from 120.24.248.50 [open]  203.553 ms
+seq 737: tcp response from 42.96.146.169 [open]  460.494 ms
+seq 740: tcp response from 42.96.146.169 [open]  436.827 ms
+seq 741: tcp response from 42.96.146.169 [open]  464.841 ms
+seq 739: no response (timeout)
+seq 743: tcp response from 42.96.146.169 [open]  461.486 ms
+seq 744: tcp response from 120.24.248.50 [open]  201.462 ms
+seq 742: no response (timeout)
+seq 745: tcp response from 42.96.146.169 [open]  459.296 ms
+seq 746: tcp response from 120.24.248.50 [open]  199.923 ms
+seq 748: tcp response from 120.24.248.50 [open]  214.757 ms
+seq 749: tcp response from 42.96.146.169 [open]  583.241 ms
+seq 751: tcp response from 120.24.248.50 [open]  200.052 ms
+seq 747: tcp response from 120.24.248.50 [open]  307.368 ms
+seq 750: no response (timeout)
+seq 753: tcp response from 120.24.248.50 [open]  218.076 ms
+seq 754: tcp response from 42.96.146.169 [open]  364.559 ms
+seq 752: no response (timeout)
+seq 756: tcp response from 120.24.248.50 [open]  203.243 ms
+seq 755: no response (timeout)
+seq 757: tcp response from 120.24.248.50 [open]  202.303 ms
+seq 758: tcp response from 42.96.146.169 [open]  362.623 ms
+seq 760: tcp response from 120.24.248.50 [open]  216.653 ms
+seq 762: tcp response from 42.96.146.169 [open]  360.370 ms
+seq 763: tcp response from 120.24.248.50 [open]  265.224 ms
+seq 764: tcp response from 120.24.248.50 [open]  200.019 ms
+seq 761: tcp response from 42.96.146.169 [open]  364.636 ms
+seq 759: no response (timeout)
+seq 766: tcp response from 120.24.248.50 [open]  201.568 ms
+seq 765: no response (timeout)
+seq 767: tcp response from 42.96.146.169 [open]  416.625 ms
+seq 769: tcp response from 42.96.146.169 [open]  344.006 ms
+seq 768: tcp response from 42.96.146.169 [open]  457.379 ms
+seq 770: tcp response from 120.24.248.50 [open]  269.886 ms
+seq 772: tcp response from 42.96.146.169 [open]  364.515 ms
+seq 771: tcp response from 120.24.248.50 [open]  199.563 ms
+seq 774: tcp response from 42.96.146.169 [open]  360.324 ms
+seq 776: tcp response from 120.24.248.50 [open]  212.908 ms
+seq 777: tcp response from 42.96.146.169 [open]  363.313 ms
+seq 775: no response (timeout)
+seq 778: tcp response from 120.24.248.50 [open]  202.363 ms
+seq 773: no response (timeout)
+seq 779: tcp response from 42.96.146.169 [open]  459.954 ms
+seq 780: tcp response from 120.24.248.50 [open]  202.215 ms
+seq 781: tcp response from 120.24.248.50 [open]  200.084 ms
+seq 782: tcp response from 42.96.146.169 [open]  365.057 ms
+seq 783: no response (timeout)
+seq 786: tcp response from 120.24.248.50 [open]  259.856 ms
+seq 784: no response (timeout)
+seq 785: no response (timeout)
+seq 789: tcp response from 42.96.146.169 [open]  456.278 ms
+seq 788: tcp response from 120.24.248.50 [open]  199.810 ms
+seq 787: no response (timeout)
+seq 790: tcp response from 120.24.248.50 [open]  216.244 ms
+seq 792: tcp response from 120.24.248.50 [open]  216.195 ms
+seq 793: tcp response from 120.24.248.50 [open]  199.458 ms
+seq 791: tcp response from 42.96.146.169 [open]  362.585 ms
+seq 795: tcp response from 42.96.146.169 [open]  358.859 ms
+seq 796: tcp response from 120.24.248.50 [open]  269.991 ms
+seq 794: tcp response from 42.96.146.169 [open]  364.243 ms
+seq 797: tcp response from 120.24.248.50 [open]  199.680 ms
+seq 798: tcp response from 42.96.146.169 [open]  360.204 ms
+seq 799: tcp response from 120.24.248.50 [open]  212.418 ms
+seq 800: tcp response from 42.96.146.169 [open]  357.211 ms
+seq 801: tcp response from 120.24.248.50 [open]  200.021 ms
+seq 802: tcp response from 120.24.248.50 [open]  201.312 ms
+seq 804: no response (timeout)
+seq 803: tcp response from 42.96.146.169 [open]  458.522 ms
+seq 807: tcp response from 42.96.146.169 [open]  365.068 ms
+seq 806: no response (timeout)
+seq 805: no response (timeout)
+seq 810: tcp response from 42.96.146.169 [open]  458.201 ms
+seq 809: no response (timeout)
+seq 808: no response (timeout)
+seq 811: tcp response from 42.96.146.169 [open]  463.792 ms
+seq 812: tcp response from 42.96.146.169 [open]  341.175 ms
+seq 814: tcp response from 120.24.248.50 [open]  255.157 ms
+seq 815: tcp response from 42.96.146.169 [open]  464.907 ms
+seq 816: tcp response from 120.24.248.50 [open]  199.984 ms
+seq 813: tcp response from 42.96.146.169 [open]  460.679 ms
+seq 817: tcp response from 120.24.248.50 [open]  199.538 ms
+seq 821: tcp response from 42.96.146.169 [open]  365.852 ms
+seq 818: tcp response from 120.24.248.50 [open]  200.051 ms
+seq 819: tcp response from 42.96.146.169 [open]  466.347 ms
+seq 822: no response (timeout)
+seq 824: tcp response from 42.96.146.169 [open]  364.772 ms
+seq 820: tcp response from 42.96.146.169 [open]  370.722 ms
+seq 823: no response (timeout)
+seq 825: tcp response from 120.24.248.50 [open]  202.712 ms
+seq 826: tcp response from 120.24.248.50 [open]  209.835 ms
+seq 827: tcp response from 42.96.146.169 [open]  363.082 ms
+seq 828: tcp response from 120.24.248.50 [open]  202.528 ms
+seq 829: tcp response from 42.96.146.169 [open]  449.151 ms
+seq 832: tcp response from 42.96.146.169 [open]  458.750 ms
+seq 831: tcp response from 120.24.248.50 [open]  211.528 ms
+seq 833: tcp response from 120.24.248.50 [open]  261.391 ms
+seq 830: tcp response from 42.96.146.169 [open]  456.835 ms
+seq 835: tcp response from 120.24.248.50 [open]  201.123 ms
+seq 834: no response (timeout)
+seq 838: tcp response from 120.24.248.50 [open]  200.201 ms
+seq 836: tcp response from 42.96.146.169 [open]  377.568 ms
+seq 837: no response (timeout)
+seq 841: tcp response from 42.96.146.169 [open]  1546.646 ms
+seq 839: tcp response from 42.96.146.169 [open]  377.625 ms
+seq 840: no response (timeout)
+seq 842: tcp response from 120.24.248.50 [open]  269.165 ms
+seq 844: tcp response from 120.24.248.50 [open]  218.333 ms
+seq 843: no response (timeout)
+seq 846: tcp response from 120.24.248.50 [open]  213.102 ms
+seq 845: tcp response from 120.24.248.50 [open]  221.066 ms
+seq 848: tcp response from 42.96.146.169 [open]  431.803 ms
+seq 849: tcp response from 120.24.248.50 [open]  200.793 ms
+seq 847: no response (timeout)
+seq 850: tcp response from 42.96.146.169 [open]  463.661 ms
+seq 853: tcp response from 120.24.248.50 [open]  201.812 ms
+seq 851: tcp response from 120.24.248.50 [open]  265.676 ms
+seq 852: no response (timeout)
+seq 856: tcp response from 120.24.248.50 [open]  201.584 ms
+seq 858: tcp response from 42.96.146.169 [open]  333.853 ms
+seq 857: no response (timeout)
+seq 859: tcp response from 42.96.146.169 [open]  459.903 ms
+seq 854: tcp response from 42.96.146.169 [open]  266.394 ms
+seq 862: tcp response from 42.96.146.169 [open]  466.231 ms
+seq 863: tcp response from 42.96.146.169 [open]  423.726 ms
+seq 855: no response (timeout)
+seq 861: tcp response from 120.24.248.50 [open]  199.632 ms
+seq 864: tcp response from 120.24.248.50 [open]  267.501 ms
+seq 860: no response (timeout)
+seq 866: tcp response from 42.96.146.169 [open]  443.009 ms
+seq 868: tcp response from 120.24.248.50 [open]  201.686 ms
+seq 865: tcp response from 42.96.146.169 [open]  368.026 ms
+seq 869: no response (timeout)
+seq 870: tcp response from 120.24.248.50 [open]  199.849 ms
+seq 871: tcp response from 42.96.146.169 [open]  362.942 ms
+seq 867: tcp response from 120.24.248.50 [open]  243.735 ms
+seq 872: tcp response from 120.24.248.50 [open]  202.771 ms
+seq 873: tcp response from 120.24.248.50 [open]  207.053 ms
+seq 874: tcp response from 120.24.248.50 [open]  264.560 ms
+seq 878: tcp response from 42.96.146.169 [open]  461.824 ms
+seq 875: tcp response from 120.24.248.50 [open]  209.851 ms
+seq 877: no response (timeout)
+seq 876: no response (timeout)
+seq 880: tcp response from 120.24.248.50 [open]  266.520 ms
+seq 879: no response (timeout)
+seq 882: tcp response from 120.24.248.50 [open]  199.622 ms
+seq 883: tcp response from 120.24.248.50 [open]  201.961 ms
+seq 881: tcp response from 120.24.248.50 [open]  199.756 ms
+seq 884: tcp response from 120.24.248.50 [open]  273.383 ms
+seq 885: tcp response from 42.96.146.169 [open]  467.725 ms
+seq 886: tcp response from 42.96.146.169 [open]  347.905 ms
+seq 888: tcp response from 120.24.248.50 [open]  199.884 ms
+seq 887: tcp response from 120.24.248.50 [open]  200.127 ms
+seq 890: tcp response from 42.96.146.169 [open]  467.168 ms
+seq 889: no response (timeout)
+seq 892: tcp response from 42.96.146.169 [open]  277.490 ms
+seq 891: tcp response from 120.24.248.50 [open]  270.131 ms
+seq 893: tcp response from 42.96.146.169 [open]  334.005 ms
+seq 896: tcp response from 42.96.146.169 [open]  460.790 ms
+seq 897: tcp response from 42.96.146.169 [open]  364.994 ms
+seq 895: tcp response from 42.96.146.169 [open]  1469.617 ms
+seq 894: no response (timeout)
+seq 901: tcp response from 120.24.248.50 [open]  199.835 ms
+seq 899: no response (timeout)
+seq 902: no response (timeout)
+seq 900: no response (timeout)
+seq 898: tcp response from 42.96.146.169 [open]  363.774 ms
+seq 903: tcp response from 120.24.248.50 [open]  264.957 ms
+seq 904: tcp response from 120.24.248.50 [open]  200.061 ms
+seq 905: tcp response from 120.24.248.50 [open]  199.584 ms
+seq 906: tcp response from 42.96.146.169 [open]  360.509 ms
+seq 907: tcp response from 120.24.248.50 [open]  263.671 ms
+seq 908: tcp response from 120.24.248.50 [open]  201.496 ms
+seq 909: tcp response from 120.24.248.50 [open]  200.182 ms
+seq 910: tcp response from 120.24.248.50 [open]  212.456 ms
+seq 911: tcp response from 42.96.146.169 [open]  366.820 ms
+seq 913: tcp response from 42.96.146.169 [open]  286.628 ms
+seq 912: no response (timeout)
+seq 915: tcp response from 42.96.146.169 [open]  346.924 ms
+seq 916: tcp response from 42.96.146.169 [open]  458.032 ms
+seq 917: tcp response from 120.24.248.50 [open]  211.178 ms
+seq 914: no response (timeout)
+seq 918: tcp response from 120.24.248.50 [open]  270.554 ms
+seq 919: tcp response from 120.24.248.50 [open]  200.914 ms
+seq 920: tcp response from 42.96.146.169 [open]  463.289 ms
+seq 921: tcp response from 42.96.146.169 [open]  457.373 ms
+seq 922: tcp response from 42.96.146.169 [open]  462.172 ms
+seq 925: tcp response from 120.24.248.50 [open]  201.551 ms
+seq 923: no response (timeout)
+seq 924: no response (timeout)
+seq 927: tcp response from 42.96.146.169 [open]  358.658 ms
+seq 926: tcp response from 42.96.146.169 [open]  465.081 ms
+seq 929: tcp response from 120.24.248.50 [open]  204.014 ms
+seq 928: no response (timeout)
+seq 930: tcp response from 120.24.248.50 [open]  203.034 ms
+seq 933: tcp response from 120.24.248.50 [open]  209.869 ms
+seq 931: no response (timeout)
+seq 935: tcp response from 42.96.146.169 [open]  465.397 ms
+seq 932: no response (timeout)
+seq 934: tcp response from 120.24.248.50 [open]  276.766 ms
+seq 936: no response (timeout)
+seq 939: tcp response from 42.96.146.169 [open]  301.143 ms
+seq 940: tcp response from 120.24.248.50 [open]  202.682 ms
+seq 938: no response (timeout)
+seq 937: tcp response from 42.96.146.169 [open]  432.317 ms
+seq 943: tcp response from 120.24.248.50 [open]  266.749 ms
+seq 944: tcp response from 42.96.146.169 [open]  360.479 ms
+seq 942: no response (timeout)
+seq 941: no response (timeout)
+seq 946: tcp response from 120.24.248.50 [open]  210.190 ms
+seq 947: tcp response from 42.96.146.169 [open]  355.036 ms
+seq 945: no response (timeout)
+seq 949: tcp response from 42.96.146.169 [open]  362.013 ms
+seq 948: no response (timeout)
+seq 954: tcp response from 42.96.146.169 [open]  367.750 ms
+seq 957: tcp response from 42.96.146.169 [open]  348.983 ms
+seq 951: tcp response from 42.96.146.169 [open]  457.671 ms
+seq 955: no response (timeout)
+seq 956: tcp response from 42.96.146.169 [open]  447.944 ms
+seq 952: tcp response from 120.24.248.50 [open]  202.750 ms
+seq 950: tcp response from 42.96.146.169 [open]  366.248 ms
+seq 959: tcp response from 120.24.248.50 [open]  201.708 ms
+seq 953: tcp response from 42.96.146.169 [open]  457.740 ms
+seq 958: tcp response from 120.24.248.50 [open]  207.328 ms
+seq 961: tcp response from 120.24.248.50 [open]  202.837 ms
+seq 962: tcp response from 42.96.146.169 [open]  456.313 ms
+seq 960: no response (timeout)
+seq 964: tcp response from 42.96.146.169 [open]  360.369 ms
+seq 963: no response (timeout)
+seq 966: tcp response from 42.96.146.169 [open]  384.885 ms
+seq 968: tcp response from 120.24.248.50 [open]  202.676 ms
+seq 965: no response (timeout)
+seq 967: tcp response from 120.24.248.50 [open]  206.461 ms
+seq 971: tcp response from 120.24.248.50 [open]  260.760 ms
+seq 970: no response (timeout)
+seq 972: tcp response from 120.24.248.50 [open]  201.220 ms
+seq 969: no response (timeout)
+seq 975: tcp response from 120.24.248.50 [open]  205.702 ms
+seq 978: tcp response from 42.96.146.169 [open]  362.967 ms
+seq 974: no response (timeout)
+seq 977: no response (timeout)
+seq 979: tcp response from 120.24.248.50 [open]  208.581 ms
+seq 973: no response (timeout)
+seq 976: tcp response from 42.96.146.169 [open]  360.815 ms
+seq 982: tcp response from 42.96.146.169 [open]  465.152 ms
+seq 981: tcp response from 42.96.146.169 [open]  568.088 ms
+seq 980: no response (timeout)
+seq 983: tcp response from 42.96.146.169 [open]  369.117 ms
+seq 984: tcp response from 42.96.146.169 [open]  458.079 ms
+seq 985: tcp response from 120.24.248.50 [open]  260.701 ms
+seq 986: tcp response from 120.24.248.50 [open]  205.375 ms
+seq 993: tcp response from 120.24.248.50 [open]  203.101 ms
+seq 991: no response (timeout)
+seq 987: tcp response from 120.24.248.50 [open]  200.890 ms
+seq 995: tcp response from 42.96.146.169 [open]  460.381 ms
+seq 988: no response (timeout)
+seq 994: tcp response from 120.24.248.50 [open]  200.388 ms
+seq 992: tcp response from 42.96.146.169 [open]  463.956 ms
+seq 990: tcp response from 120.24.248.50 [open]  202.559 ms
+seq 989: no response (timeout)
+seq 996: tcp response from 120.24.248.50 [open]  205.607 ms
+seq 997: tcp response from 42.96.146.169 [open]  1540.248 ms
+seq 998: tcp response from 42.96.146.169 [open]  462.708 ms
+seq 999: no response (timeout)
+seq 1000: tcp response from 120.24.248.50 [open]  218.035 ms
+seq 1002: tcp response from 120.24.248.50 [open]  261.522 ms
+seq 1004: tcp response from 42.96.146.169 [open]  359.013 ms
+seq 1001: tcp response from 42.96.146.169 [open]  437.674 ms
+seq 1003: no response (timeout)
+seq 1006: tcp response from 120.24.248.50 [open]  260.999 ms
+seq 1005: no response (timeout)
+seq 1007: tcp response from 120.24.248.50 [open]  258.959 ms
+seq 1009: tcp response from 42.96.146.169 [open]  451.462 ms
+seq 1012: tcp response from 42.96.146.169 [open]  464.702 ms
+seq 1010: tcp response from 120.24.248.50 [open]  226.260 ms
+seq 1011: tcp response from 120.24.248.50 [open]  301.270 ms
+seq 1014: tcp response from 42.96.146.169 [open]  341.476 ms
+seq 1008: tcp response from 120.24.248.50 [open]  274.125 ms
+seq 1015: tcp response from 120.24.248.50 [open]  291.226 ms
+seq 1016: tcp response from 42.96.146.169 [open]  361.935 ms
+seq 1013: no response (timeout)
+seq 1017: tcp response from 120.24.248.50 [open]  232.544 ms
+seq 1019: tcp response from 120.24.248.50 [open]  234.762 ms
+seq 1020: tcp response from 42.96.146.169 [open]  459.801 ms
+seq 1018: tcp response from 42.96.146.169 [open]  463.385 ms
+seq 1021: tcp response from 120.24.248.50 [open]  242.874 ms
+seq 1022: no response (timeout)
+seq 1023: tcp response from 120.24.248.50 [open]  199.781 ms
+seq 1024: tcp response from 42.96.146.169 [open]  364.704 ms
+seq 1025: tcp response from 120.24.248.50 [open]  208.961 ms
+seq 1026: tcp response from 42.96.146.169 [open]  362.710 ms
+seq 1027: tcp response from 42.96.146.169 [open]  357.987 ms
+seq 1028: tcp response from 120.24.248.50 [open]  203.225 ms
+seq 1030: tcp response from 42.96.146.169 [open]  366.851 ms
+seq 1029: no response (timeout)
+seq 1032: tcp response from 120.24.248.50 [open]  254.840 ms
+seq 1031: no response (timeout)
+seq 1034: tcp response from 42.96.146.169 [open]  260.689 ms
+seq 1035: tcp response from 120.24.248.50 [open]  199.722 ms
+seq 1037: tcp response from 120.24.248.50 [open]  201.884 ms
+seq 1033: no response (timeout)
+seq 1038: tcp response from 120.24.248.50 [open]  200.934 ms
+seq 1036: tcp response from 42.96.146.169 [open]  465.931 ms
+seq 1039: tcp response from 120.24.248.50 [open]  199.002 ms
+seq 1040: tcp response from 120.24.248.50 [open]  204.057 ms
+seq 1041: tcp response from 42.96.146.169 [open]  460.473 ms
+seq 1042: tcp response from 120.24.248.50 [open]  205.191 ms
+seq 1043: tcp response from 120.24.248.50 [open]  253.142 ms
+seq 1044: tcp response from 42.96.146.169 [open]  461.482 ms
+seq 1045: tcp response from 42.96.146.169 [open]  458.817 ms
+seq 1046: tcp response from 42.96.146.169 [open]  359.639 ms
+seq 1047: tcp response from 120.24.248.50 [open]  200.084 ms
+seq 1048: no response (timeout)
+seq 1050: tcp response from 120.24.248.50 [open]  199.792 ms
+seq 1049: no response (timeout)
+seq 1051: no response (timeout)
+seq 1054: tcp response from 42.96.146.169 [open]  429.994 ms
+seq 1053: no response (timeout)
+seq 1056: tcp response from 120.24.248.50 [open]  199.824 ms
+seq 1058: tcp response from 42.96.146.169 [open]  288.840 ms
+seq 1055: tcp response from 120.24.248.50 [open]  260.211 ms
+seq 1052: no response (timeout)
+seq 1057: no response (timeout)
+seq 1061: tcp response from 120.24.248.50 [open]  202.766 ms
+seq 1059: no response (timeout)
+seq 1060: no response (timeout)
+seq 1065: tcp response from 120.24.248.50 [open]  254.541 ms
+seq 1063: tcp response from 42.96.146.169 [open]  356.838 ms
+seq 1062: no response (timeout)
+seq 1064: no response (timeout)
+seq 1067: tcp response from 120.24.248.50 [open]  200.050 ms
+seq 1068: tcp response from 42.96.146.169 [open]  348.988 ms
+seq 1070: tcp response from 120.24.248.50 [open]  222.387 ms
+seq 1069: no response (timeout)
+seq 1066: tcp response from 42.96.146.169 [open]  1290.493 ms
+seq 1072: tcp response from 42.96.146.169 [open]  363.006 ms
+seq 1073: tcp response from 120.24.248.50 [open]  203.358 ms
+seq 1071: tcp response from 42.96.146.169 [open]  363.149 ms
+seq 1074: tcp response from 42.96.146.169 [open]  460.427 ms
+seq 1075: tcp response from 120.24.248.50 [open]  199.814 ms
+seq 1076: tcp response from 120.24.248.50 [open]  257.035 ms
+seq 1078: tcp response from 120.24.248.50 [open]  201.610 ms
+seq 1079: tcp response from 120.24.248.50 [open]  199.981 ms
+seq 1077: no response (timeout)
+seq 1080: tcp response from 42.96.146.169 [open]  340.818 ms
+seq 1082: tcp response from 120.24.248.50 [open]  228.023 ms
+seq 1084: tcp response from 42.96.146.169 [open]  344.619 ms
+seq 1083: tcp response from 120.24.248.50 [open]  201.873 ms
+seq 1081: tcp response from 120.24.248.50 [open]  228.628 ms
+seq 1085: tcp response from 120.24.248.50 [open]  202.566 ms
+seq 1086: tcp response from 42.96.146.169 [open]  475.228 ms
+seq 1087: tcp response from 42.96.146.169 [open]  479.331 ms
+seq 1088: tcp response from 120.24.248.50 [open]  202.105 ms
+seq 1089: tcp response from 120.24.248.50 [open]  238.837 ms
+seq 1090: tcp response from 120.24.248.50 [open]  199.706 ms
+seq 1091: tcp response from 120.24.248.50 [open]  238.449 ms
+seq 1092: tcp response from 120.24.248.50 [open]  243.050 ms
+seq 1093: tcp response from 42.96.146.169 [open]  318.250 ms
+seq 1094: tcp response from 120.24.248.50 [open]  200.427 ms
+seq 1096: tcp response from 120.24.248.50 [open]  199.876 ms
+seq 1095: no response (timeout)
+seq 1098: tcp response from 42.96.146.169 [open]  460.832 ms
+seq 1097: no response (timeout)
+seq 1101: tcp response from 42.96.146.169 [open]  458.080 ms
+seq 1100: tcp response from 120.24.248.50 [open]  212.512 ms
+seq 1103: tcp response from 120.24.248.50 [open]  203.171 ms
+seq 1099: no response (timeout)
+seq 1105: tcp response from 120.24.248.50 [open]  222.466 ms
+seq 1108: tcp response from 42.96.146.169 [open]  377.523 ms
+seq 1104: tcp response from 42.96.146.169 [open]  343.456 ms
+seq 1102: no response (timeout)
+seq 1110: tcp response from 120.24.248.50 [open]  201.647 ms
+seq 1107: no response (timeout)
+seq 1106: tcp response from 42.96.146.169 [open]  253.925 ms
+seq 1109: no response (timeout)
+seq 1111: no response (timeout)
+seq 1112: tcp response from 120.24.248.50 [open]  223.696 ms
+seq 1114: tcp response from 120.24.248.50 [open]  240.289 ms
+seq 1113: no response (timeout)
+seq 1117: tcp response from 42.96.146.169 [open]  363.113 ms
+seq 1116: no response (timeout)
+seq 1118: tcp response from 42.96.146.169 [open]  362.910 ms
+seq 1115: tcp response from 120.24.248.50 [open]  201.720 ms
+seq 1120: tcp response from 42.96.146.169 [open]  457.661 ms
+seq 1119: tcp response from 120.24.248.50 [open]  199.773 ms
+seq 1121: tcp response from 42.96.146.169 [open]  369.594 ms
+seq 1122: tcp response from 120.24.248.50 [open]  233.317 ms
+seq 1123: tcp response from 120.24.248.50 [open]  202.969 ms
+seq 1124: tcp response from 42.96.146.169 [open]  320.490 ms
+seq 1125: tcp response from 120.24.248.50 [open]  230.198 ms
+seq 1126: tcp response from 42.96.146.169 [open]  365.989 ms
+seq 1127: tcp response from 120.24.248.50 [open]  260.765 ms
+seq 1128: tcp response from 42.96.146.169 [open]  353.913 ms
+seq 1129: tcp response from 120.24.248.50 [open]  201.463 ms
+seq 1133: tcp response from 120.24.248.50 [open]  250.588 ms
+seq 1130: no response (timeout)
+seq 1132: no response (timeout)
+seq 1134: tcp response from 42.96.146.169 [open]  425.974 ms
+seq 1135: tcp response from 42.96.146.169 [open]  441.364 ms
+seq 1131: tcp response from 42.96.146.169 [open]  324.344 ms
+seq 1138: tcp response from 120.24.248.50 [open]  201.597 ms
+seq 1136: tcp response from 120.24.248.50 [open]  199.700 ms
+seq 1137: tcp response from 120.24.248.50 [open]  199.973 ms
+seq 1139: tcp response from 120.24.248.50 [open]  200.475 ms
+seq 1140: tcp response from 42.96.146.169 [open]  367.364 ms
+seq 1141: tcp response from 120.24.248.50 [open]  233.307 ms
+seq 1143: tcp response from 42.96.146.169 [open]  338.672 ms
+seq 1142: no response (timeout)
+seq 1144: tcp response from 42.96.146.169 [open]  448.952 ms
+seq 1145: tcp response from 42.96.146.169 [open]  401.649 ms
+seq 1146: no response (timeout)
+seq 1147: tcp response from 42.96.146.169 [open]  319.554 ms
+seq 1148: tcp response from 120.24.248.50 [open]  202.975 ms
+seq 1150: tcp response from 120.24.248.50 [open]  199.598 ms
+seq 1151: tcp response from 42.96.146.169 [open]  1364.464 ms
+seq 1153: tcp response from 120.24.248.50 [open]  229.356 ms
+seq 1152: tcp response from 42.96.146.169 [open]  362.994 ms
+seq 1149: tcp response from 42.96.146.169 [open]  362.418 ms
+seq 1155: tcp response from 42.96.146.169 [open]  434.602 ms
+seq 1157: tcp response from 42.96.146.169 [open]  314.840 ms
+seq 1159: tcp response from 120.24.248.50 [open]  200.196 ms
+seq 1161: tcp response from 120.24.248.50 [open]  203.762 ms
+seq 1160: tcp response from 42.96.146.169 [open]  456.768 ms
+seq 1156: tcp response from 120.24.248.50 [open]  224.423 ms
+seq 1154: no response (timeout)
+seq 1158: no response (timeout)
+seq 1163: tcp response from 120.24.248.50 [open]  199.599 ms
+seq 1162: no response (timeout)
+seq 1164: tcp response from 42.96.146.169 [open]  363.436 ms
+seq 1165: tcp response from 120.24.248.50 [open]  222.044 ms
+seq 1167: tcp response from 120.24.248.50 [open]  218.570 ms
+seq 1168: tcp response from 120.24.248.50 [open]  200.888 ms
+seq 1166: no response (timeout)
+seq 1169: tcp response from 42.96.146.169 [open]  419.839 ms
+seq 1170: tcp response from 42.96.146.169 [open]  308.022 ms
+seq 1171: tcp response from 42.96.146.169 [open]  469.011 ms
+seq 1172: tcp response from 42.96.146.169 [open]  461.875 ms
+seq 1173: tcp response from 120.24.248.50 [open]  203.107 ms
+seq 1174: tcp response from 120.24.248.50 [open]  200.804 ms
+seq 1176: tcp response from 42.96.146.169 [open]  365.094 ms
+seq 1175: no response (timeout)
+seq 1178: tcp response from 120.24.248.50 [open]  199.631 ms
+seq 1179: tcp response from 120.24.248.50 [open]  221.604 ms
+seq 1177: no response (timeout)
+seq 1180: tcp response from 120.24.248.50 [open]  202.920 ms
+seq 1182: tcp response from 42.96.146.169 [open]  290.665 ms
+seq 1183: tcp response from 120.24.248.50 [open]  262.931 ms
+seq 1181: no response (timeout)
+seq 1184: tcp response from 42.96.146.169 [open]  352.753 ms
+seq 1186: tcp response from 42.96.146.169 [open]  453.101 ms
+seq 1185: no response (timeout)
+seq 1188: tcp response from 42.96.146.169 [open]  311.285 ms
+seq 1187: no response (timeout)
+seq 1189: tcp response from 120.24.248.50 [open]  224.690 ms
+seq 1190: tcp response from 120.24.248.50 [open]  199.953 ms
+seq 1191: tcp response from 42.96.146.169 [open]  360.026 ms
+seq 1192: tcp response from 120.24.248.50 [open]  223.590 ms
+seq 1194: tcp response from 42.96.146.169 [open]  254.231 ms
+seq 1195: tcp response from 120.24.248.50 [open]  234.217 ms
+seq 1193: tcp response from 120.24.248.50 [open]  203.092 ms
+seq 1196: tcp response from 42.96.146.169 [open]  298.302 ms
+seq 1198: tcp response from 42.96.146.169 [open]  459.875 ms
+seq 1197: tcp response from 120.24.248.50 [open]  225.675 ms
+seq 1201: tcp response from 42.96.146.169 [open]  363.314 ms
+seq 1199: tcp response from 120.24.248.50 [open]  224.179 ms
+seq 1200: no response (timeout)
+seq 1203: tcp response from 120.24.248.50 [open]  202.680 ms
+seq 1204: tcp response from 42.96.146.169 [open]  447.530 ms
+seq 1202: no response (timeout)
+seq 1205: tcp response from 120.24.248.50 [open]  202.809 ms
+seq 1208: tcp response from 120.24.248.50 [open]  199.679 ms
+seq 1206: no response (timeout)
+seq 1207: no response (timeout)
+seq 1209: no response (timeout)
+seq 1210: no response (timeout)
+seq 1211: no response (timeout)
+seq 1213: tcp response from 120.24.248.50 [open]  203.014 ms
+seq 1212: tcp response from 120.24.248.50 [open]  225.702 ms
+seq 1217: tcp response from 120.24.248.50 [open]  201.291 ms
+seq 1214: tcp response from 120.24.248.50 [open]  273.504 ms
+seq 1218: tcp response from 120.24.248.50 [open]  200.104 ms
+seq 1215: no response (timeout)
+seq 1220: tcp response from 42.96.146.169 [open]  426.778 ms
+seq 1219: tcp response from 42.96.146.169 [open]  348.253 ms
+seq 1221: tcp response from 120.24.248.50 [open]  270.644 ms
+seq 1223: tcp response from 120.24.248.50 [open]  237.398 ms
+seq 1224: tcp response from 120.24.248.50 [open]  239.067 ms
+seq 1222: tcp response from 42.96.146.169 [open]  459.300 ms
+seq 1227: tcp response from 120.24.248.50 [open]  201.312 ms
+seq 1216: tcp response from 42.96.146.169 [open]  339.974 ms
+seq 1228: tcp response from 120.24.248.50 [open]  447.865 ms
+seq 1229: tcp response from 42.96.146.169 [open]  337.711 ms
+seq 1225: no response (timeout)
+seq 1231: tcp response from 42.96.146.169 [open]  321.247 ms
+seq 1230: tcp response from 42.96.146.169 [open]  310.807 ms
+seq 1232: tcp response from 42.96.146.169 [open]  360.491 ms
+seq 1233: tcp response from 42.96.146.169 [open]  422.406 ms
+seq 1226: no response (timeout)
+seq 1234: tcp response from 120.24.248.50 [open]  235.374 ms
+seq 1236: tcp response from 120.24.248.50 [open]  234.684 ms
+seq 1237: tcp response from 42.96.146.169 [open]  365.991 ms
+seq 1235: tcp response from 120.24.248.50 [open]  202.687 ms
+seq 1238: tcp response from 120.24.248.50 [open]  223.265 ms
+seq 1239: tcp response from 42.96.146.169 [open]  407.043 ms
+seq 1240: tcp response from 42.96.146.169 [open]  305.341 ms
+seq 1241: tcp response from 120.24.248.50 [open]  255.741 ms
+seq 1242: tcp response from 42.96.146.169 [open]  372.626 ms
+seq 1243: tcp response from 42.96.146.169 [open]  440.541 ms
+seq 1244: tcp response from 42.96.146.169 [open]  454.355 ms
+seq 1245: tcp response from 120.24.248.50 [open]  199.705 ms
+seq 1246: tcp response from 120.24.248.50 [open]  200.262 ms
+seq 1247: tcp response from 120.24.248.50 [open]  199.708 ms
+seq 1248: tcp response from 120.24.248.50 [open]  226.313 ms
+seq 1249: tcp response from 120.24.248.50 [open]  201.121 ms
+seq 1253: tcp response from 42.96.146.169 [open]  354.308 ms
+seq 1252: no response (timeout)
+seq 1254: tcp response from 42.96.146.169 [open]  368.343 ms
+seq 1251: no response (timeout)
+seq 1250: tcp response from 42.96.146.169 [open]  367.399 ms
+seq 1257: tcp response from 42.96.146.169 [open]  460.485 ms
+seq 1255: tcp response from 120.24.248.50 [open]  222.056 ms
+seq 1256: tcp response from 42.96.146.169 [open]  365.098 ms
+seq 1260: tcp response from 120.24.248.50 [open]  199.995 ms
+seq 1258: no response (timeout)
+seq 1262: tcp response from 42.96.146.169 [open]  460.033 ms
+seq 1261: no response (timeout)
+seq 1263: tcp response from 42.96.146.169 [open]  361.935 ms
+seq 1266: tcp response from 42.96.146.169 [open]  305.632 ms
+seq 1259: tcp response from 120.24.248.50 [open]  224.426 ms
+seq 1268: tcp response from 120.24.248.50 [open]  201.814 ms
+seq 1269: tcp response from 120.24.248.50 [open]  201.596 ms
+seq 1267: no response (timeout)
+seq 1264: no response (timeout)
+seq 1271: tcp response from 120.24.248.50 [open]  275.726 ms
+seq 1265: tcp response from 120.24.248.50 [open]  199.403 ms
+seq 1273: tcp response from 42.96.146.169 [open]  459.230 ms
+seq 1275: tcp response from 120.24.248.50 [open]  223.185 ms
+seq 1270: tcp response from 42.96.146.169 [open]  369.593 ms
+seq 1272: tcp response from 42.96.146.169 [open]  464.363 ms
+seq 1274: tcp response from 120.24.248.50 [open]  218.171 ms
+seq 1276: tcp response from 42.96.146.169 [open]  366.129 ms
+seq 1277: tcp response from 42.96.146.169 [open]  283.139 ms
+seq 1278: tcp response from 42.96.146.169 [open]  279.002 ms
+seq 1279: tcp response from 120.24.248.50 [open]  266.883 ms
+seq 1280: tcp response from 42.96.146.169 [open]  323.671 ms
+seq 1281: tcp response from 42.96.146.169 [open]  332.898 ms
+seq 1282: tcp response from 120.24.248.50 [open]  219.907 ms
+seq 1283: tcp response from 42.96.146.169 [open]  328.075 ms
+seq 1285: tcp response from 120.24.248.50 [open]  415.333 ms
+seq 1287: tcp response from 120.24.248.50 [open]  201.492 ms
+seq 1286: no response (timeout)
+seq 1284: tcp response from 120.24.248.50 [open]  213.867 ms
+seq 1289: tcp response from 42.96.146.169 [open]  464.720 ms
+seq 1290: tcp response from 42.96.146.169 [open]  454.368 ms
+seq 1288: no response (timeout)
+seq 1292: tcp response from 120.24.248.50 [open]  202.362 ms
+seq 1293: tcp response from 120.24.248.50 [open]  199.694 ms
+seq 1295: tcp response from 42.96.146.169 [open]  320.323 ms
+seq 1291: tcp response from 120.24.248.50 [open]  200.981 ms
+seq 1297: tcp response from 120.24.248.50 [open]  203.140 ms
+seq 1296: tcp response from 42.96.146.169 [open]  360.626 ms
+seq 1294: no response (timeout)
+seq 1298: tcp response from 42.96.146.169 [open]  263.735 ms
+seq 1299: tcp response from 42.96.146.169 [open]  417.484 ms
+seq 1301: tcp response from 42.96.146.169 [open]  356.399 ms
+seq 1300: tcp response from 120.24.248.50 [open]  227.025 ms
+seq 1302: tcp response from 42.96.146.169 [open]  365.677 ms
+seq 1303: tcp response from 120.24.248.50 [open]  200.089 ms
+seq 1304: tcp response from 120.24.248.50 [open]  263.594 ms
+seq 1305: tcp response from 42.96.146.169 [open]  317.615 ms
+seq 1306: tcp response from 120.24.248.50 [open]  270.617 ms
+seq 1307: tcp response from 120.24.248.50 [open]  203.222 ms
+seq 1308: tcp response from 42.96.146.169 [open]  362.371 ms
+seq 1310: tcp response from 120.24.248.50 [open]  223.955 ms
+seq 1311: tcp response from 120.24.248.50 [open]  199.592 ms
+seq 1309: no response (timeout)
+seq 1313: tcp response from 42.96.146.169 [open]  289.436 ms
+seq 1316: tcp response from 42.96.146.169 [open]  465.452 ms
+seq 1314: no response (timeout)
+seq 1312: no response (timeout)
+seq 1315: tcp response from 42.96.146.169 [open]  457.378 ms
+seq 1317: tcp response from 120.24.248.50 [open]  199.861 ms
+seq 1318: tcp response from 42.96.146.169 [open]  336.290 ms
+seq 1319: tcp response from 42.96.146.169 [open]  467.184 ms
+seq 1321: tcp response from 42.96.146.169 [open]  365.171 ms
+seq 1320: no response (timeout)
+seq 1323: tcp response from 42.96.146.169 [open]  460.958 ms
+seq 1322: no response (timeout)
+seq 1324: tcp response from 120.24.248.50 [open]  231.534 ms
+seq 1326: tcp response from 120.24.248.50 [open]  201.755 ms
+seq 1325: no response (timeout)
+seq 1328: tcp response from 42.96.146.169 [open]  362.457 ms
+seq 1327: no response (timeout)
+seq 1333: tcp response from 120.24.248.50 [open]  215.971 ms
+seq 1331: tcp response from 42.96.146.169 [open]  405.068 ms
+seq 1334: tcp response from 120.24.248.50 [open]  199.461 ms
+seq 1330: tcp response from 120.24.248.50 [open]  277.328 ms
+seq 1329: no response (timeout)
+seq 1336: tcp response from 120.24.248.50 [open]  285.451 ms
+seq 1332: no response (timeout)
+seq 1337: tcp response from 120.24.248.50 [open]  200.380 ms
+seq 1335: no response (timeout)
+seq 1339: tcp response from 42.96.146.169 [open]  461.697 ms
+seq 1340: tcp response from 42.96.146.169 [open]  364.460 ms
+seq 1338: no response (timeout)
+seq 1342: tcp response from 120.24.248.50 [open]  203.287 ms
+seq 1341: no response (timeout)
+seq 1346: tcp response from 120.24.248.50 [open]  231.904 ms
+seq 1343: tcp response from 42.96.146.169 [open]  344.579 ms
+seq 1344: tcp response from 42.96.146.169 [open]  322.200 ms
+seq 1345: no response (timeout)
+seq 1347: tcp response from 120.24.248.50 [open]  225.212 ms
+seq 1348: tcp response from 42.96.146.169 [open]  473.676 ms
+seq 1349: tcp response from 42.96.146.169 [open]  459.141 ms
+seq 1352: tcp response from 120.24.248.50 [open]  277.801 ms
+seq 1350: no response (timeout)
+seq 1354: tcp response from 120.24.248.50 [open]  200.382 ms
+seq 1356: tcp response from 42.96.146.169 [open]  363.936 ms
+seq 1351: no response (timeout)
+seq 1353: tcp response from 42.96.146.169 [open]  464.684 ms
+seq 1355: no response (timeout)
+seq 1358: tcp response from 120.24.248.50 [open]  200.200 ms
+seq 1360: tcp response from 42.96.146.169 [open]  465.396 ms
+seq 1361: tcp response from 120.24.248.50 [open]  200.924 ms
+seq 1362: tcp response from 120.24.248.50 [open]  201.637 ms
+seq 1357: tcp response from 42.96.146.169 [open]  460.173 ms
+seq 1359: no response (timeout)
+seq 1363: tcp response from 120.24.248.50 [open]  216.486 ms
+seq 1364: tcp response from 42.96.146.169 [open]  262.320 ms
+seq 1365: tcp response from 42.96.146.169 [open]  333.567 ms
+seq 1366: tcp response from 120.24.248.50 [open]  221.937 ms
+seq 1367: tcp response from 42.96.146.169 [open]  460.693 ms
+seq 1368: tcp response from 42.96.146.169 [open]  462.920 ms
+seq 1370: tcp response from 120.24.248.50 [open]  200.899 ms
+seq 1371: tcp response from 120.24.248.50 [open]  202.179 ms
+seq 1369: tcp response from 120.24.248.50 [open]  226.601 ms
+seq 1372: tcp response from 42.96.146.169 [open]  424.818 ms
+seq 1373: tcp response from 42.96.146.169 [open]  465.492 ms
+seq 1374: tcp response from 120.24.248.50 [open]  200.326 ms
+seq 1375: tcp response from 42.96.146.169 [open]  459.181 ms
+seq 1376: tcp response from 120.24.248.50 [open]  250.830 ms
+seq 1378: tcp response from 120.24.248.50 [open]  219.289 ms
+seq 1377: no response (timeout)
+seq 1379: tcp response from 42.96.146.169 [open]  460.367 ms
+seq 1381: tcp response from 120.24.248.50 [open]  235.526 ms
+seq 1380: tcp response from 120.24.248.50 [open]  201.910 ms
+seq 1382: tcp response from 42.96.146.169 [open]  309.125 ms
+seq 1383: tcp response from 120.24.248.50 [open]  259.305 ms
+seq 1384: tcp response from 42.96.146.169 [open]  461.299 ms
+seq 1385: tcp response from 42.96.146.169 [open]  456.167 ms
+seq 1386: tcp response from 120.24.248.50 [open]  199.837 ms
+seq 1387: tcp response from 42.96.146.169 [open]  228.722 ms
+seq 1388: tcp response from 120.24.248.50 [open]  226.920 ms
+seq 1389: tcp response from 120.24.248.50 [open]  223.154 ms
+seq 1390: tcp response from 42.96.146.169 [open]  358.479 ms
+seq 1391: tcp response from 120.24.248.50 [open]  201.502 ms
+seq 1392: tcp response from 120.24.248.50 [open]  202.255 ms
+seq 1394: tcp response from 120.24.248.50 [open]  199.638 ms
+seq 1393: no response (timeout)
+seq 1397: tcp response from 120.24.248.50 [open]  202.746 ms
+seq 1398: tcp response from 120.24.248.50 [open]  202.880 ms
+seq 1399: tcp response from 42.96.146.169 [open]  459.803 ms
+seq 1395: tcp response from 120.24.248.50 [open]  218.594 ms
+seq 1400: tcp response from 42.96.146.169 [open]  360.254 ms
+seq 1401: tcp response from 120.24.248.50 [open]  272.063 ms
+seq 1396: no response (timeout)
+seq 1404: tcp response from 120.24.248.50 [open]  200.285 ms
+seq 1403: no response (timeout)
+seq 1402: no response (timeout)
+seq 1406: tcp response from 42.96.146.169 [open]  459.621 ms
+seq 1410: tcp response from 120.24.248.50 [open]  199.519 ms
+seq 1407: tcp response from 120.24.248.50 [open]  227.791 ms
+seq 1409: tcp response from 42.96.146.169 [open]  379.174 ms
+seq 1411: tcp response from 120.24.248.50 [open]  203.758 ms
+seq 1408: no response (timeout)
+seq 1405: no response (timeout)
+seq 1413: tcp response from 42.96.146.169 [open]  337.130 ms
+seq 1412: no response (timeout)
+seq 1415: tcp response from 42.96.146.169 [open]  364.690 ms
+seq 1416: tcp response from 120.24.248.50 [open]  199.845 ms
+seq 1414: no response (timeout)
+seq 1417: tcp response from 42.96.146.169 [open]  459.916 ms
+seq 1420: tcp response from 120.24.248.50 [open]  220.915 ms
+seq 1419: tcp response from 42.96.146.169 [open]  462.242 ms
+seq 1421: tcp response from 120.24.248.50 [open]  225.624 ms
+seq 1418: no response (timeout)
+seq 1422: tcp response from 42.96.146.169 [open]  460.375 ms
+seq 1423: tcp response from 120.24.248.50 [open]  202.329 ms
+seq 1424: tcp response from 120.24.248.50 [open]  202.371 ms
+seq 1426: tcp response from 42.96.146.169 [open]  465.298 ms
+seq 1425: no response (timeout)
+seq 1429: tcp response from 42.96.146.169 [open]  362.928 ms
+seq 1428: no response (timeout)
+seq 1427: tcp response from 120.24.248.50 [open]  200.315 ms
+seq 1430: no response (timeout)
+seq 1432: tcp response from 120.24.248.50 [open]  200.037 ms
+seq 1431: tcp response from 42.96.146.169 [open]  460.425 ms
+seq 1434: tcp response from 42.96.146.169 [open]  326.153 ms
+seq 1433: no response (timeout)
+seq 1435: tcp response from 42.96.146.169 [open]  323.301 ms
+seq 1438: tcp response from 120.24.248.50 [open]  200.025 ms
+seq 1436: tcp response from 42.96.146.169 [open]  335.703 ms
+seq 1439: tcp response from 42.96.146.169 [open]  345.517 ms
+seq 1440: tcp response from 120.24.248.50 [open]  199.545 ms
+seq 1437: tcp response from 120.24.248.50 [open]  266.343 ms
+seq 1441: tcp response from 120.24.248.50 [open]  202.402 ms
+seq 1442: tcp response from 120.24.248.50 [open]  273.466 ms
+seq 1443: tcp response from 42.96.146.169 [open]  464.379 ms
+seq 1444: tcp response from 42.96.146.169 [open]  424.344 ms
+seq 1445: tcp response from 120.24.248.50 [open]  199.894 ms
+seq 1446: tcp response from 120.24.248.50 [open]  217.473 ms
+seq 1447: tcp response from 120.24.248.50 [open]  215.705 ms
+seq 1449: tcp response from 42.96.146.169 [open]  349.545 ms
+seq 1450: tcp response from 42.96.146.169 [open]  459.696 ms
+seq 1448: tcp response from 120.24.248.50 [open]  201.389 ms
+seq 1451: tcp response from 120.24.248.50 [open]  199.533 ms
+seq 1453: tcp response from 42.96.146.169 [open]  365.189 ms
+seq 1454: tcp response from 120.24.248.50 [open]  202.867 ms
+seq 1452: tcp response from 120.24.248.50 [open]  215.669 ms
+seq 1455: tcp response from 42.96.146.169 [open]  363.436 ms
+seq 1456: tcp response from 42.96.146.169 [open]  361.440 ms
+seq 1457: tcp response from 42.96.146.169 [open]  461.193 ms
+seq 1458: tcp response from 120.24.248.50 [open]  201.283 ms
+seq 1459: tcp response from 42.96.146.169 [open]  463.060 ms
+seq 1461: tcp response from 42.96.146.169 [open]  283.048 ms
+seq 1460: no response (timeout)
+seq 1463: tcp response from 120.24.248.50 [open]  211.915 ms
+seq 1462: tcp response from 42.96.146.169 [open]  2005.658 ms
+seq 1465: tcp response from 120.24.248.50 [open]  201.263 ms
+seq 1466: tcp response from 42.96.146.169 [open]  396.165 ms
+seq 1464: no response (timeout)
+seq 1469: tcp response from 42.96.146.169 [open]  364.406 ms
+seq 1468: tcp response from 120.24.248.50 [open]  201.606 ms
+seq 1467: no response (timeout)
+seq 1471: tcp response from 42.96.146.169 [open]  360.747 ms
+seq 1472: tcp response from 42.96.146.169 [open]  381.198 ms
+seq 1470: no response (timeout)
+seq 1475: tcp response from 42.96.146.169 [open]  384.476 ms
+seq 1473: tcp response from 120.24.248.50 [open]  199.567 ms
+seq 1474: no response (timeout)
+seq 1477: tcp response from 120.24.248.50 [open]  202.838 ms
+seq 1476: no response (timeout)
+seq 1478: tcp response from 42.96.146.169 [open]  360.186 ms
+seq 1481: tcp response from 120.24.248.50 [open]  202.099 ms
+seq 1479: no response (timeout)
+seq 1482: tcp response from 120.24.248.50 [open]  200.597 ms
+seq 1483: tcp response from 42.96.146.169 [open]  337.008 ms
+seq 1480: no response (timeout)
+seq 1484: tcp response from 42.96.146.169 [open]  476.825 ms
+seq 1488: tcp response from 42.96.146.169 [open]  459.251 ms
+seq 1485: tcp response from 120.24.248.50 [open]  286.296 ms
+seq 1486: no response (timeout)
+seq 1489: tcp response from 42.96.146.169 [open]  365.487 ms
+seq 1487: no response (timeout)
+seq 1492: tcp response from 120.24.248.50 [open]  215.333 ms
+seq 1490: no response (timeout)
+seq 1494: tcp response from 42.96.146.169 [open]  323.455 ms
+seq 1493: tcp response from 42.96.146.169 [open]  356.428 ms
+seq 1495: tcp response from 120.24.248.50 [open]  201.534 ms
+seq 1491: no response (timeout)
+seq 1496: tcp response from 42.96.146.169 [open]  447.134 ms
+seq 1497: tcp response from 120.24.248.50 [open]  208.975 ms
+seq 1499: tcp response from 42.96.146.169 [open]  364.714 ms
+seq 1500: tcp response from 120.24.248.50 [open]  214.533 ms
+seq 1501: tcp response from 42.96.146.169 [open]  460.369 ms
+seq 1498: tcp response from 120.24.248.50 [open]  202.393 ms
+seq 1502: tcp response from 120.24.248.50 [open]  290.542 ms
+seq 1503: tcp response from 120.24.248.50 [open]  200.156 ms
+seq 1505: tcp response from 120.24.248.50 [open]  199.837 ms
+seq 1506: tcp response from 120.24.248.50 [open]  199.695 ms
+seq 1504: tcp response from 42.96.146.169 [open]  362.465 ms
+seq 1508: tcp response from 42.96.146.169 [open]  342.865 ms
+seq 1509: tcp response from 120.24.248.50 [open]  203.268 ms
+seq 1507: no response (timeout)
+seq 1510: tcp response from 120.24.248.50 [open]  212.773 ms
+seq 1511: tcp response from 120.24.248.50 [open]  272.276 ms
+seq 1513: tcp response from 42.96.146.169 [open]  362.249 ms
+seq 1514: tcp response from 42.96.146.169 [open]  456.145 ms
+seq 1512: no response (timeout)
+seq 1515: tcp response from 120.24.248.50 [open]  210.209 ms
+seq 1517: tcp response from 42.96.146.169 [open]  460.472 ms
+seq 1516: tcp response from 42.96.146.169 [open]  362.399 ms
+seq 1519: tcp response from 42.96.146.169 [open]  455.019 ms
+seq 1518: tcp response from 120.24.248.50 [open]  214.274 ms
+seq 1521: tcp response from 120.24.248.50 [open]  202.090 ms
+seq 1522: tcp response from 42.96.146.169 [open]  459.311 ms
+seq 1520: tcp response from 120.24.248.50 [open]  201.793 ms
+seq 1524: tcp response from 42.96.146.169 [open]  361.049 ms
+seq 1525: tcp response from 120.24.248.50 [open]  199.965 ms
+seq 1523: no response (timeout)
+seq 1527: tcp response from 42.96.146.169 [open]  457.568 ms
+seq 1528: tcp response from 42.96.146.169 [open]  367.584 ms
+seq 1529: tcp response from 120.24.248.50 [open]  202.800 ms
+seq 1530: tcp response from 120.24.248.50 [open]  310.885 ms
+seq 1531: tcp response from 42.96.146.169 [open]  466.159 ms
+seq 1526: tcp response from 42.96.146.169 [open]  360.081 ms
+seq 1532: tcp response from 120.24.248.50 [open]  200.019 ms
+seq 1533: tcp response from 42.96.146.169 [open]  457.746 ms
+seq 1535: tcp response from 120.24.248.50 [open]  201.256 ms
+seq 1534: no response (timeout)
+seq 1537: tcp response from 42.96.146.169 [open]  457.572 ms
+seq 1539: tcp response from 120.24.248.50 [open]  202.049 ms
+seq 1541: tcp response from 42.96.146.169 [open]  353.461 ms
+seq 1536: tcp response from 120.24.248.50 [open]  201.394 ms
+seq 1538: no response (timeout)
+seq 1540: tcp response from 120.24.248.50 [open]  209.966 ms
+seq 1545: tcp response from 120.24.248.50 [open]  213.337 ms
+seq 1543: no response (timeout)
+seq 1542: tcp response from 120.24.248.50 [open]  199.842 ms
+seq 1544: no response (timeout)
+seq 1546: no response (timeout)
+seq 1547: tcp response from 42.96.146.169 [open]  326.211 ms
+seq 1548: tcp response from 42.96.146.169 [open]  460.331 ms
+seq 1551: tcp response from 120.24.248.50 [open]  225.519 ms
+seq 1549: no response (timeout)
+seq 1553: tcp response from 120.24.248.50 [open]  223.294 ms
+seq 1550: no response (timeout)
+seq 1552: no response (timeout)
+seq 1555: tcp response from 120.24.248.50 [open]  274.485 ms
+seq 1554: no response (timeout)
+seq 1557: tcp response from 42.96.146.169 [open]  361.734 ms
+seq 1558: tcp response from 42.96.146.169 [open]  460.874 ms
+seq 1559: tcp response from 120.24.248.50 [open]  199.608 ms
+seq 1556: no response (timeout)
+seq 1560: tcp response from 42.96.146.169 [open]  364.837 ms
+seq 1561: tcp response from 42.96.146.169 [open]  362.748 ms
+seq 1562: tcp response from 120.24.248.50 [open]  218.336 ms
+seq 1563: tcp response from 42.96.146.169 [open]  343.052 ms
+seq 1564: tcp response from 42.96.146.169 [open]  324.159 ms
+seq 1565: tcp response from 42.96.146.169 [open]  268.549 ms
+seq 1566: tcp response from 120.24.248.50 [open]  203.921 ms
+seq 1568: tcp response from 120.24.248.50 [open]  221.315 ms
+seq 1570: tcp response from 120.24.248.50 [open]  200.130 ms
+seq 1569: tcp response from 42.96.146.169 [open]  311.074 ms
+seq 1572: tcp response from 42.96.146.169 [open]  363.459 ms
+seq 1571: tcp response from 120.24.248.50 [open]  218.457 ms
+seq 1567: tcp response from 120.24.248.50 [open]  221.109 ms
+seq 1574: tcp response from 42.96.146.169 [open]  462.163 ms
+seq 1573: no response (timeout)
+seq 1578: tcp response from 120.24.248.50 [open]  282.084 ms
+seq 1579: tcp response from 42.96.146.169 [open]  361.622 ms
+seq 1576: tcp response from 42.96.146.169 [open]  1658.437 ms
+seq 1575: no response (timeout)
+seq 1577: no response (timeout)
+seq 1580: tcp response from 120.24.248.50 [open]  200.077 ms
+seq 1581: tcp response from 120.24.248.50 [open]  228.714 ms
+seq 1583: tcp response from 120.24.248.50 [open]  199.742 ms
+seq 1582: no response (timeout)
+seq 1584: tcp response from 42.96.146.169 [open]  397.390 ms
+seq 1585: tcp response from 120.24.248.50 [open]  201.671 ms
+seq 1586: tcp response from 42.96.146.169 [open]  461.475 ms
+seq 1587: tcp response from 42.96.146.169 [open]  363.147 ms
+seq 1588: tcp response from 120.24.248.50 [open]  230.041 ms
+seq 1589: tcp response from 42.96.146.169 [open]  412.942 ms
+seq 1591: tcp response from 120.24.248.50 [open]  203.419 ms
+seq 1590: tcp response from 42.96.146.169 [open]  355.994 ms
+seq 1594: tcp response from 42.96.146.169 [open]  361.277 ms
+seq 1592: no response (timeout)
+seq 1597: tcp response from 120.24.248.50 [open]  234.470 ms
+seq 1593: no response (timeout)
+seq 1595: tcp response from 42.96.146.169 [open]  460.643 ms
+seq 1599: tcp response from 120.24.248.50 [open]  292.894 ms
+seq 1598: tcp response from 120.24.248.50 [open]  293.483 ms
+seq 1600: tcp response from 42.96.146.169 [open]  356.014 ms
+seq 1602: tcp response from 120.24.248.50 [open]  200.350 ms
+seq 1596: tcp response from 120.24.248.50 [open]  230.115 ms
+seq 1604: tcp response from 42.96.146.169 [open]  464.782 ms
+seq 1601: tcp response from 42.96.146.169 [open]  465.285 ms
+seq 1603: no response (timeout)
+seq 1606: tcp response from 120.24.248.50 [open]  215.256 ms
+seq 1608: tcp response from 42.96.146.169 [open]  362.061 ms
+seq 1605: no response (timeout)
+seq 1607: tcp response from 42.96.146.169 [open]  459.638 ms
+seq 1609: tcp response from 120.24.248.50 [open]  230.942 ms
+seq 1612: tcp response from 120.24.248.50 [open]  201.876 ms
+seq 1611: tcp response from 120.24.248.50 [open]  202.611 ms
+seq 1613: tcp response from 120.24.248.50 [open]  201.161 ms
+seq 1614: tcp response from 42.96.146.169 [open]  337.900 ms
+seq 1615: tcp response from 42.96.146.169 [open]  400.522 ms
+seq 1616: tcp response from 42.96.146.169 [open]  335.545 ms
+seq 1610: no response (timeout)
+seq 1618: tcp response from 42.96.146.169 [open]  361.666 ms
+seq 1619: tcp response from 42.96.146.169 [open]  443.924 ms
+seq 1617: no response (timeout)
+seq 1621: tcp response from 120.24.248.50 [open]  291.024 ms
+seq 1620: no response (timeout)
+seq 1624: tcp response from 120.24.248.50 [open]  295.803 ms
+seq 1625: tcp response from 120.24.248.50 [open]  199.660 ms
+seq 1626: tcp response from 42.96.146.169 [open]  1711.004 ms
+seq 1623: no response (timeout)
+seq 1622: no response (timeout)
+seq 1627: tcp response from 42.96.146.169 [open]  365.561 ms
+seq 1628: tcp response from 42.96.146.169 [open]  362.921 ms
+seq 1631: tcp response from 42.96.146.169 [open]  362.075 ms
+seq 1629: no response (timeout)
+seq 1630: tcp response from 120.24.248.50 [open]  203.533 ms
+seq 1632: no response (timeout)
+seq 1635: tcp response from 42.96.146.169 [open]  379.541 ms
+seq 1633: no response (timeout)
+seq 1634: tcp response from 42.96.146.169 [open]  368.821 ms
+seq 1636: tcp response from 42.96.146.169 [open]  268.028 ms
+seq 1638: tcp response from 42.96.146.169 [open]  466.111 ms
+seq 1637: no response (timeout)
+seq 1640: tcp response from 120.24.248.50 [open]  215.986 ms
+seq 1639: no response (timeout)
+seq 1641: tcp response from 42.96.146.169 [open]  414.059 ms
+seq 1642: tcp response from 42.96.146.169 [open]  312.988 ms
+seq 1646: tcp response from 120.24.248.50 [open]  199.488 ms
+seq 1645: tcp response from 120.24.248.50 [open]  203.600 ms
+seq 1644: tcp response from 120.24.248.50 [open]  298.848 ms
+seq 1648: tcp response from 42.96.146.169 [open]  306.178 ms
+seq 1643: no response (timeout)
+seq 1649: tcp response from 42.96.146.169 [open]  303.285 ms
+seq 1647: no response (timeout)
+seq 1652: tcp response from 120.24.248.50 [open]  220.740 ms
+seq 1650: no response (timeout)
+seq 1653: tcp response from 120.24.248.50 [open]  220.038 ms
+seq 1654: tcp response from 42.96.146.169 [open]  391.815 ms
+seq 1655: tcp response from 42.96.146.169 [open]  369.361 ms
+seq 1656: tcp response from 120.24.248.50 [open]  202.345 ms
+seq 1651: tcp response from 42.96.146.169 [open]  362.667 ms
+seq 1657: tcp response from 42.96.146.169 [open]  261.717 ms
+seq 1658: tcp response from 42.96.146.169 [open]  376.093 ms
+seq 1659: tcp response from 42.96.146.169 [open]  460.666 ms
+seq 1661: tcp response from 42.96.146.169 [open]  425.900 ms
+seq 1662: tcp response from 120.24.248.50 [open]  294.995 ms
+seq 1660: no response (timeout)
+seq 1663: tcp response from 120.24.248.50 [open]  199.677 ms
+seq 1664: tcp response from 120.24.248.50 [open]  199.600 ms
+seq 1666: tcp response from 120.24.248.50 [open]  203.740 ms
+seq 1665: tcp response from 42.96.146.169 [open]  1562.734 ms
+seq 1669: tcp response from 120.24.248.50 [open]  218.863 ms
+seq 1668: tcp response from 120.24.248.50 [open]  218.606 ms
+seq 1671: tcp response from 42.96.146.169 [open]  438.292 ms
+seq 1667: tcp response from 42.96.146.169 [open]  313.997 ms
+seq 1670: tcp response from 42.96.146.169 [open]  311.982 ms
+seq 1672: tcp response from 42.96.146.169 [open]  359.951 ms
+seq 1674: tcp response from 42.96.146.169 [open]  344.129 ms
+seq 1673: tcp response from 120.24.248.50 [open]  199.384 ms
+seq 1678: tcp response from 42.96.146.169 [open]  404.388 ms
+seq 1675: no response (timeout)
+seq 1676: tcp response from 120.24.248.50 [open]  222.667 ms
+seq 1677: tcp response from 120.24.248.50 [open]  201.319 ms
+seq 1680: tcp response from 120.24.248.50 [open]  202.033 ms
+seq 1679: tcp response from 42.96.146.169 [open]  453.874 ms
+seq 1681: tcp response from 120.24.248.50 [open]  201.534 ms
+seq 1682: tcp response from 120.24.248.50 [open]  222.105 ms
+seq 1683: tcp response from 42.96.146.169 [open]  361.041 ms
+seq 1684: tcp response from 120.24.248.50 [open]  302.685 ms
+seq 1685: tcp response from 42.96.146.169 [open]  365.027 ms
+seq 1686: tcp response from 42.96.146.169 [open]  363.050 ms
+seq 1687: tcp response from 42.96.146.169 [open]  333.120 ms
+seq 1688: tcp response from 120.24.248.50 [open]  199.854 ms
+seq 1690: tcp response from 42.96.146.169 [open]  273.290 ms
+seq 1689: no response (timeout)
+seq 1692: tcp response from 120.24.248.50 [open]  202.292 ms
+seq 1691: tcp response from 120.24.248.50 [open]  220.253 ms
+seq 1694: tcp response from 120.24.248.50 [open]  203.643 ms
+seq 1693: no response (timeout)
+seq 1697: tcp response from 120.24.248.50 [open]  226.528 ms
+seq 1698: tcp response from 120.24.248.50 [open]  230.529 ms
+seq 1696: no response (timeout)
+seq 1695: no response (timeout)
+seq 1700: tcp response from 120.24.248.50 [open]  200.858 ms
+seq 1699: no response (timeout)
+seq 1703: tcp response from 120.24.248.50 [open]  202.852 ms
+seq 1701: no response (timeout)
+seq 1702: tcp response from 42.96.146.169 [open]  438.187 ms
+seq 1704: no response (timeout)
+seq 1705: tcp response from 120.24.248.50 [open]  200.540 ms
+seq 1707: no response (timeout)
+seq 1709: no response (timeout)
+seq 1708: tcp response from 42.96.146.169 [open]  363.637 ms
+seq 1712: tcp response from 120.24.248.50 [open]  288.180 ms
+seq 1710: tcp response from 120.24.248.50 [open]  219.775 ms
+seq 1706: no response (timeout)
+seq 1711: no response (timeout)
+seq 1714: tcp response from 120.24.248.50 [open]  199.726 ms
+seq 1715: tcp response from 42.96.146.169 [open]  352.509 ms
+seq 1713: no response (timeout)
+seq 1717: tcp response from 120.24.248.50 [open]  201.358 ms
+seq 1716: no response (timeout)
+seq 1718: tcp response from 42.96.146.169 [open]  1789.535 ms
+seq 1719: tcp response from 120.24.248.50 [open]  233.222 ms
+seq 1720: tcp response from 120.24.248.50 [open]  225.872 ms
+seq 1721: tcp response from 120.24.248.50 [open]  226.469 ms
+seq 1722: tcp response from 42.96.146.169 [open]  361.938 ms
+seq 1723: tcp response from 42.96.146.169 [open]  453.273 ms
+seq 1724: tcp response from 42.96.146.169 [open]  359.596 ms
+seq 1725: tcp response from 120.24.248.50 [open]  283.095 ms
+seq 1726: tcp response from 42.96.146.169 [open]  457.601 ms
+seq 1727: tcp response from 120.24.248.50 [open]  244.387 ms
+seq 1729: tcp response from 42.96.146.169 [open]  464.744 ms
+seq 1730: tcp response from 120.24.248.50 [open]  199.588 ms
+seq 1733: tcp response from 42.96.146.169 [open]  459.047 ms
+seq 1728: no response (timeout)
+seq 1731: tcp response from 42.96.146.169 [open]  368.259 ms
+seq 1732: no response (timeout)
+seq 1735: tcp response from 42.96.146.169 [open]  363.894 ms
+seq 1734: tcp response from 120.24.248.50 [open]  293.352 ms
+seq 1737: tcp response from 120.24.248.50 [open]  225.930 ms
+seq 1738: tcp response from 42.96.146.169 [open]  470.213 ms
+seq 1739: tcp response from 120.24.248.50 [open]  229.284 ms
+seq 1740: tcp response from 120.24.248.50 [open]  200.109 ms
+seq 1741: tcp response from 42.96.146.169 [open]  312.967 ms
+seq 1736: no response (timeout)
+seq 1742: tcp response from 120.24.248.50 [open]  219.648 ms
+seq 1745: tcp response from 42.96.146.169 [open]  334.945 ms
+seq 1743: no response (timeout)
+seq 1744: no response (timeout)
+seq 1747: tcp response from 120.24.248.50 [open]  296.278 ms
+seq 1748: tcp response from 120.24.248.50 [open]  200.133 ms
+seq 1750: tcp response from 42.96.146.169 [open]  361.929 ms
+seq 1749: tcp response from 120.24.248.50 [open]  199.703 ms
+seq 1751: tcp response from 120.24.248.50 [open]  201.848 ms
+seq 1752: tcp response from 42.96.146.169 [open]  334.688 ms
+seq 1746: no response (timeout)
+seq 1753: tcp response from 120.24.248.50 [open]  223.531 ms
+seq 1754: tcp response from 120.24.248.50 [open]  224.132 ms
+seq 1755: tcp response from 42.96.146.169 [open]  334.357 ms
+seq 1757: tcp response from 42.96.146.169 [open]  417.048 ms
+seq 1756: tcp response from 120.24.248.50 [open]  200.833 ms
+seq 1758: tcp response from 42.96.146.169 [open]  386.797 ms
+seq 1759: tcp response from 42.96.146.169 [open]  447.211 ms
+seq 1760: tcp response from 120.24.248.50 [open]  201.363 ms
+seq 1761: tcp response from 42.96.146.169 [open]  361.557 ms
+seq 1762: tcp response from 120.24.248.50 [open]  202.195 ms
+seq 1763: tcp response from 120.24.248.50 [open]  203.088 ms
+seq 1764: tcp response from 42.96.146.169 [open]  464.296 ms
+seq 1765: tcp response from 120.24.248.50 [open]  200.252 ms
+seq 1766: tcp response from 42.96.146.169 [open]  363.868 ms
+seq 1767: tcp response from 42.96.146.169 [open]  459.511 ms
+seq 1768: no response (timeout)
+seq 1770: tcp response from 120.24.248.50 [open]  220.060 ms
+seq 1771: tcp response from 120.24.248.50 [open]  212.007 ms
+seq 1772: tcp response from 120.24.248.50 [open]  295.945 ms
+seq 1769: tcp response from 120.24.248.50 [open]  216.087 ms
+seq 1773: tcp response from 120.24.248.50 [open]  204.081 ms
+seq 1775: tcp response from 42.96.146.169 [open]  296.057 ms
+seq 1774: no response (timeout)
+seq 1776: tcp response from 42.96.146.169 [open]  352.959 ms
+seq 1777: tcp response from 42.96.146.169 [open]  334.827 ms
+seq 1779: tcp response from 42.96.146.169 [open]  361.963 ms
+seq 1778: no response (timeout)
+seq 1781: tcp response from 42.96.146.169 [open]  462.891 ms
+seq 1780: tcp response from 42.96.146.169 [open]  459.146 ms
+seq 1782: tcp response from 120.24.248.50 [open]  226.359 ms
+seq 1783: tcp response from 42.96.146.169 [open]  363.105 ms
+seq 1784: tcp response from 120.24.248.50 [open]  299.966 ms
+seq 1785: tcp response from 120.24.248.50 [open]  199.721 ms
+seq 1786: tcp response from 42.96.146.169 [open]  309.727 ms
+seq 1787: tcp response from 120.24.248.50 [open]  199.549 ms
+seq 1788: tcp response from 42.96.146.169 [open]  361.299 ms
+seq 1789: tcp response from 42.96.146.169 [open]  462.710 ms
+seq 1790: tcp response from 120.24.248.50 [open]  201.186 ms
+seq 1792: tcp response from 120.24.248.50 [open]  200.357 ms
+seq 1793: tcp response from 42.96.146.169 [open]  460.714 ms
+seq 1791: tcp response from 120.24.248.50 [open]  303.441 ms
+seq 1794: tcp response from 42.96.146.169 [open]  362.440 ms
+seq 1797: tcp response from 120.24.248.50 [open]  225.234 ms
+seq 1798: tcp response from 42.96.146.169 [open]  355.842 ms
+seq 1796: tcp response from 42.96.146.169 [open]  259.434 ms
+seq 1795: tcp response from 120.24.248.50 [open]  220.241 ms
+seq 1800: tcp response from 42.96.146.169 [open]  351.646 ms
+seq 1799: no response (timeout)
+seq 1802: tcp response from 42.96.146.169 [open]  354.171 ms
+seq 1801: no response (timeout)
+seq 1805: tcp response from 42.96.146.169 [open]  347.788 ms
+seq 1804: tcp response from 120.24.248.50 [open]  203.122 ms
+seq 1803: no response (timeout)
+seq 1806: tcp response from 42.96.146.169 [open]  365.996 ms
+seq 1807: tcp response from 120.24.248.50 [open]  228.109 ms
+seq 1808: tcp response from 120.24.248.50 [open]  229.512 ms
+seq 1810: tcp response from 120.24.248.50 [open]  202.046 ms
+seq 1809: no response (timeout)
+seq 1812: tcp response from 120.24.248.50 [open]  201.890 ms
+seq 1814: tcp response from 120.24.248.50 [open]  201.775 ms
+seq 1813: no response (timeout)
+seq 1816: tcp response from 120.24.248.50 [open]  200.827 ms
+seq 1817: tcp response from 42.96.146.169 [open]  464.002 ms
+seq 1815: tcp response from 120.24.248.50 [open]  302.335 ms
+seq 1819: tcp response from 120.24.248.50 [open]  228.484 ms
+seq 1811: no response (timeout)
+seq 1818: tcp response from 120.24.248.50 [open]  228.398 ms
+seq 1821: tcp response from 42.96.146.169 [open]  460.117 ms
+seq 1823: tcp response from 42.96.146.169 [open]  360.546 ms
+seq 1820: no response (timeout)
+seq 1824: tcp response from 42.96.146.169 [open]  365.286 ms
+seq 1822: no response (timeout)
+seq 1827: tcp response from 42.96.146.169 [open]  301.541 ms
+seq 1825: tcp response from 120.24.248.50 [open]  201.917 ms
+seq 1828: tcp response from 120.24.248.50 [open]  199.875 ms
+seq 1830: tcp response from 120.24.248.50 [open]  227.816 ms
+seq 1826: no response (timeout)
+seq 1831: tcp response from 42.96.146.169 [open]  299.730 ms
+seq 1833: tcp response from 42.96.146.169 [open]  411.101 ms
+seq 1834: tcp response from 120.24.248.50 [open]  297.873 ms
+seq 1829: tcp response from 42.96.146.169 [open]  329.288 ms
+seq 1835: tcp response from 120.24.248.50 [open]  301.367 ms
+seq 1832: no response (timeout)
+seq 1838: tcp response from 42.96.146.169 [open]  360.043 ms
+seq 1836: no response (timeout)
+seq 1839: no response (timeout)
+seq 1837: no response (timeout)
+seq 1840: tcp response from 120.24.248.50 [open]  299.471 ms
+seq 1841: no response (timeout)
+seq 1843: tcp response from 42.96.146.169 [open]  1441.240 ms
+seq 1844: tcp response from 120.24.248.50 [open]  300.510 ms
+seq 1842: no response (timeout)
+seq 1845: tcp response from 120.24.248.50 [open]  301.706 ms
+seq 1846: tcp response from 42.96.146.169 [open]  266.684 ms
+seq 1847: tcp response from 120.24.248.50 [open]  296.071 ms
+seq 1848: tcp response from 120.24.248.50 [open]  301.510 ms
+seq 1849: tcp response from 42.96.146.169 [open]  353.926 ms
+seq 1850: tcp response from 42.96.146.169 [open]  355.950 ms
+seq 1851: tcp response from 42.96.146.169 [open]  402.907 ms
+seq 1852: tcp response from 120.24.248.50 [open]  299.876 ms
+seq 1853: tcp response from 42.96.146.169 [open]  312.764 ms
+seq 1854: tcp response from 120.24.248.50 [open]  232.053 ms
+seq 1855: tcp response from 42.96.146.169 [open]  336.396 ms
+seq 1856: tcp response from 42.96.146.169 [open]  459.074 ms
+seq 1857: tcp response from 120.24.248.50 [open]  202.152 ms
+seq 1859: tcp response from 120.24.248.50 [open]  225.527 ms
+seq 1860: tcp response from 42.96.146.169 [open]  323.410 ms
+seq 1861: tcp response from 120.24.248.50 [open]  200.881 ms
+seq 1858: tcp response from 120.24.248.50 [open]  227.772 ms
+seq 1862: tcp response from 42.96.146.169 [open]  462.641 ms
+seq 1863: tcp response from 42.96.146.169 [open]  365.570 ms
+seq 1864: tcp response from 120.24.248.50 [open]  292.949 ms
+seq 1865: tcp response from 120.24.248.50 [open]  300.554 ms
+seq 1866: tcp response from 42.96.146.169 [open]  309.039 ms
+seq 1868: tcp response from 42.96.146.169 [open]  334.823 ms
+seq 1867: tcp response from 120.24.248.50 [open]  229.602 ms
+seq 1870: tcp response from 120.24.248.50 [open]  269.140 ms
+seq 1871: tcp response from 42.96.146.169 [open]  463.499 ms
+seq 1869: tcp response from 120.24.248.50 [open]  304.046 ms
+seq 1872: tcp response from 42.96.146.169 [open]  503.884 ms
+seq 1873: tcp response from 42.96.146.169 [open]  362.532 ms
+seq 1875: tcp response from 42.96.146.169 [open]  507.849 ms
+seq 1874: tcp response from 120.24.248.50 [open]  226.629 ms
+seq 1876: tcp response from 120.24.248.50 [open]  230.478 ms
+seq 1877: tcp response from 42.96.146.169 [open]  461.174 ms
+seq 1878: tcp response from 42.96.146.169 [open]  506.682 ms
+seq 1879: tcp response from 120.24.248.50 [open]  201.063 ms
+seq 1881: tcp response from 42.96.146.169 [open]  402.033 ms
+seq 1882: tcp response from 120.24.248.50 [open]  200.417 ms
+seq 1880: no response (timeout)
+seq 1883: tcp response from 120.24.248.50 [open]  218.150 ms
+seq 1884: tcp response from 120.24.248.50 [open]  228.608 ms
+seq 1885: tcp response from 120.24.248.50 [open]  404.656 ms
+seq 1886: tcp response from 42.96.146.169 [open]  304.139 ms
+seq 1887: tcp response from 42.96.146.169 [open]  290.955 ms
+seq 1888: tcp response from 42.96.146.169 [open]  323.672 ms
+seq 1889: tcp response from 42.96.146.169 [open]  360.874 ms
+seq 1891: tcp response from 120.24.248.50 [open]  299.226 ms
+seq 1892: tcp response from 42.96.146.169 [open]  366.961 ms
+seq 1894: tcp response from 120.24.248.50 [open]  297.531 ms
+seq 1890: no response (timeout)
+seq 1893: tcp response from 120.24.248.50 [open]  228.669 ms
+seq 1895: tcp response from 42.96.146.169 [open]  312.652 ms
+seq 1897: tcp response from 120.24.248.50 [open]  226.349 ms
+seq 1898: tcp response from 120.24.248.50 [open]  231.180 ms
+seq 1899: tcp response from 42.96.146.169 [open]  363.037 ms
+seq 1900: tcp response from 42.96.146.169 [open]  460.299 ms
+seq 1901: tcp response from 120.24.248.50 [open]  201.723 ms
+seq 1902: tcp response from 120.24.248.50 [open]  202.528 ms
+seq 1896: no response (timeout)
+seq 1903: tcp response from 120.24.248.50 [open]  296.160 ms
+seq 1905: tcp response from 120.24.248.50 [open]  199.771 ms
+seq 1906: tcp response from 42.96.146.169 [open]  450.621 ms
+seq 1904: no response (timeout)
+seq 1908: tcp response from 120.24.248.50 [open]  213.668 ms
+seq 1907: tcp response from 120.24.248.50 [open]  300.715 ms
+seq 1909: tcp response from 120.24.248.50 [open]  215.028 ms
+seq 1912: tcp response from 120.24.248.50 [open]  201.361 ms
+seq 1910: no response (timeout)
+seq 1913: tcp response from 42.96.146.169 [open]  336.733 ms
+seq 1914: tcp response from 120.24.248.50 [open]  310.300 ms
+seq 1911: no response (timeout)
+seq 1915: tcp response from 42.96.146.169 [open]  462.286 ms
+seq 1916: tcp response from 120.24.248.50 [open]  292.143 ms
+seq 1918: tcp response from 42.96.146.169 [open]  363.428 ms
+seq 1919: tcp response from 42.96.146.169 [open]  361.501 ms
+seq 1917: no response (timeout)
+seq 1921: tcp response from 120.24.248.50 [open]  287.436 ms
+seq 1922: tcp response from 120.24.248.50 [open]  258.280 ms
+seq 1920: no response (timeout)
+seq 1923: tcp response from 42.96.146.169 [open]  362.372 ms
+seq 1924: tcp response from 42.96.146.169 [open]  1457.065 ms
+seq 1926: tcp response from 42.96.146.169 [open]  458.841 ms
+seq 1925: no response (timeout)
+seq 1927: tcp response from 120.24.248.50 [open]  298.799 ms
+seq 1928: tcp response from 120.24.248.50 [open]  199.572 ms
+seq 1929: no response (timeout)
+seq 1930: tcp response from 120.24.248.50 [open]  226.821 ms
+seq 1931: tcp response from 42.96.146.169 [open]  367.236 ms
+seq 1932: tcp response from 42.96.146.169 [open]  362.441 ms
+seq 1933: tcp response from 120.24.248.50 [open]  223.767 ms
+seq 1935: tcp response from 120.24.248.50 [open]  203.102 ms
+seq 1936: tcp response from 120.24.248.50 [open]  302.151 ms
+seq 1934: no response (timeout)
+seq 1940: tcp response from 120.24.248.50 [open]  239.268 ms
+seq 1939: no response (timeout)
+seq 1937: no response (timeout)
+seq 1941: tcp response from 42.96.146.169 [open]  457.390 ms
+seq 1938: no response (timeout)
+seq 1944: tcp response from 120.24.248.50 [open]  298.878 ms
+seq 1945: tcp response from 42.96.146.169 [open]  360.297 ms
+seq 1942: no response (timeout)
+seq 1943: no response (timeout)
+seq 1947: tcp response from 42.96.146.169 [open]  465.697 ms
+seq 1946: no response (timeout)
+seq 1949: tcp response from 120.24.248.50 [open]  203.875 ms
+seq 1950: tcp response from 42.96.146.169 [open]  362.985 ms
+seq 1948: tcp response from 120.24.248.50 [open]  199.720 ms
+seq 1951: tcp response from 42.96.146.169 [open]  365.503 ms
+seq 1952: tcp response from 120.24.248.50 [open]  233.106 ms
+seq 1953: tcp response from 42.96.146.169 [open]  363.007 ms
+seq 1955: tcp response from 120.24.248.50 [open]  224.548 ms
+seq 1956: tcp response from 120.24.248.50 [open]  302.469 ms
+seq 1954: no response (timeout)
+seq 1958: tcp response from 42.96.146.169 [open]  349.454 ms
+seq 1959: tcp response from 120.24.248.50 [open]  202.126 ms
+seq 1957: no response (timeout)
+seq 1960: tcp response from 120.24.248.50 [open]  304.881 ms
+seq 1963: tcp response from 120.24.248.50 [open]  200.225 ms
+seq 1961: tcp response from 42.96.146.169 [open]  359.688 ms
+seq 1962: no response (timeout)
+seq 1967: tcp response from 42.96.146.169 [open]  460.882 ms
+seq 1965: no response (timeout)
+seq 1964: no response (timeout)
+seq 1968: tcp response from 42.96.146.169 [open]  462.915 ms
+seq 1966: tcp response from 120.24.248.50 [open]  218.675 ms
+seq 1971: tcp response from 120.24.248.50 [open]  199.683 ms
+seq 1972: tcp response from 42.96.146.169 [open]  365.109 ms
+seq 1969: no response (timeout)
+seq 1970: no response (timeout)
+seq 1973: no response (timeout)
+seq 1974: no response (timeout)
+seq 1975: tcp response from 120.24.248.50 [open]  226.288 ms
+seq 1976: no response (timeout)
+seq 1977: tcp response from 120.24.248.50 [open]  293.915 ms
+seq 1979: tcp response from 42.96.146.169 [open]  361.190 ms
+seq 1978: no response (timeout)
+seq 1980: tcp response from 42.96.146.169 [open]  362.223 ms
+seq 1983: tcp response from 120.24.248.50 [open]  201.035 ms
+seq 1981: no response (timeout)
+seq 1982: no response (timeout)
+seq 1984: tcp response from 42.96.146.169 [open]  1657.087 ms
+seq 1985: no response (timeout)
+seq 1987: tcp response from 120.24.248.50 [open]  199.708 ms
+seq 1989: tcp response from 120.24.248.50 [open]  219.429 ms
+seq 1988: no response (timeout)
+seq 1986: tcp response from 120.24.248.50 [open]  202.994 ms
+seq 1991: tcp response from 42.96.146.169 [open]  361.575 ms
+seq 1992: tcp response from 42.96.146.169 [open]  1525.289 ms
+seq 1990: no response (timeout)
+seq 1993: tcp response from 42.96.146.169 [open]  465.026 ms
+seq 1994: tcp response from 120.24.248.50 [open]  214.624 ms
+seq 1995: tcp response from 120.24.248.50 [open]  294.490 ms
+seq 1997: tcp response from 120.24.248.50 [open]  199.800 ms
+seq 1996: no response (timeout)
+seq 1999: tcp response from 120.24.248.50 [open]  200.675 ms
+seq 1998: no response (timeout)
+seq 2002: tcp response from 120.24.248.50 [open]  230.877 ms
+seq 2000: no response (timeout)
+seq 2003: tcp response from 42.96.146.169 [open]  365.781 ms
+seq 2001: no response (timeout)
+seq 2006: tcp response from 42.96.146.169 [open]  316.014 ms
+seq 2007: tcp response from 120.24.248.50 [open]  204.066 ms
+seq 2005: tcp response from 120.24.248.50 [open]  227.444 ms
+seq 2004: no response (timeout)
+seq 2009: tcp response from 42.96.146.169 [open]  463.660 ms
+seq 2010: tcp response from 120.24.248.50 [open]  294.549 ms
+seq 2011: tcp response from 120.24.248.50 [open]  200.049 ms
+seq 2008: tcp response from 42.96.146.169 [open]  363.989 ms
+seq 2012: tcp response from 120.24.248.50 [open]  211.309 ms
+seq 2013: tcp response from 120.24.248.50 [open]  214.808 ms
+seq 2014: tcp response from 42.96.146.169 [open]  338.182 ms
+seq 2015: tcp response from 120.24.248.50 [open]  201.488 ms
+seq 2016: tcp response from 42.96.146.169 [open]  432.184 ms
+seq 2018: tcp response from 120.24.248.50 [open]  202.360 ms
+seq 2017: tcp response from 42.96.146.169 [open]  464.319 ms
+seq 2019: tcp response from 42.96.146.169 [open]  402.719 ms
+seq 2020: tcp response from 120.24.248.50 [open]  209.205 ms
+seq 2021: tcp response from 42.96.146.169 [open]  359.827 ms
+seq 2024: tcp response from 42.96.146.169 [open]  364.880 ms
+seq 2022: no response (timeout)
+seq 2027: tcp response from 120.24.248.50 [open]  202.804 ms
+seq 2026: tcp response from 120.24.248.50 [open]  213.770 ms
+seq 2025: no response (timeout)
+seq 2029: tcp response from 42.96.146.169 [open]  262.284 ms
+seq 2023: tcp response from 120.24.248.50 [open]  290.762 ms
+seq 2028: tcp response from 42.96.146.169 [open]  1463.990 ms
+seq 2030: no response (timeout)
+seq 2032: tcp response from 42.96.146.169 [open]  360.698 ms
+seq 2031: tcp response from 120.24.248.50 [open]  201.569 ms
+seq 2034: tcp response from 120.24.248.50 [open]  296.513 ms
+seq 2033: tcp response from 120.24.248.50 [open]  199.627 ms
+seq 2035: tcp response from 42.96.146.169 [open]  334.640 ms
+seq 2036: tcp response from 42.96.146.169 [open]  419.278 ms
+seq 2038: tcp response from 42.96.146.169 [open]  458.344 ms
+seq 2037: no response (timeout)
+seq 2039: tcp response from 120.24.248.50 [open]  219.713 ms
+seq 2040: tcp response from 42.96.146.169 [open]  360.534 ms
+seq 2041: tcp response from 120.24.248.50 [open]  220.991 ms
+seq 2044: tcp response from 42.96.146.169 [open]  358.346 ms
+seq 2042: no response (timeout)
+seq 2043: no response (timeout)
+seq 2045: no response (timeout)
+seq 2046: no response (timeout)
+seq 2049: tcp response from 120.24.248.50 [open]  219.634 ms
+seq 2047: no response (timeout)
+seq 2050: no response (timeout)
+seq 2053: tcp response from 120.24.248.50 [open]  294.883 ms
+seq 2048: tcp response from 120.24.248.50 [open]  199.665 ms
+seq 2052: no response (timeout)
+seq 2051: tcp response from 120.24.248.50 [open]  201.852 ms
+seq 2054: tcp response from 42.96.146.169 [open]  361.063 ms
+seq 2056: tcp response from 42.96.146.169 [open]  448.219 ms
+seq 2057: tcp response from 42.96.146.169 [open]  362.362 ms
+seq 2055: no response (timeout)
+seq 2060: tcp response from 42.96.146.169 [open]  360.348 ms
+seq 2058: no response (timeout)
+seq 2062: tcp response from 120.24.248.50 [open]  200.380 ms
+seq 2061: no response (timeout)
+seq 2059: no response (timeout)
+seq 2063: tcp response from 120.24.248.50 [open]  287.624 ms
+seq 2065: tcp response from 120.24.248.50 [open]  345.506 ms
+seq 2064: no response (timeout)
+seq 2067: tcp response from 120.24.248.50 [open]  221.815 ms
+seq 2068: tcp response from 42.96.146.169 [open]  442.787 ms
+seq 2066: no response (timeout)
+seq 2069: tcp response from 42.96.146.169 [open]  319.607 ms
+seq 2070: tcp response from 42.96.146.169 [open]  313.588 ms
+seq 2071: tcp response from 120.24.248.50 [open]  219.953 ms
+seq 2072: tcp response from 42.96.146.169 [open]  364.033 ms
+seq 2074: tcp response from 120.24.248.50 [open]  212.772 ms
+seq 2073: no response (timeout)
+seq 2075: no response (timeout)
+seq 2077: tcp response from 120.24.248.50 [open]  226.898 ms
+seq 2079: tcp response from 42.96.146.169 [open]  361.815 ms
+seq 2076: tcp response from 42.96.146.169 [open]  383.355 ms
+seq 2083: tcp response from 120.24.248.50 [open]  202.132 ms
+seq 2081: no response (timeout)
+seq 2080: no response (timeout)
+seq 2082: tcp response from 42.96.146.169 [open]  401.857 ms
+seq 2078: no response (timeout)
+seq 2086: tcp response from 42.96.146.169 [open]  352.914 ms
+seq 2084: tcp response from 42.96.146.169 [open]  360.133 ms
+seq 2085: tcp response from 120.24.248.50 [open]  202.748 ms
+seq 2087: tcp response from 120.24.248.50 [open]  294.490 ms
+seq 2090: tcp response from 120.24.248.50 [open]  215.256 ms
+seq 2088: no response (timeout)
+seq 2092: tcp response from 120.24.248.50 [open]  201.982 ms
+seq 2089: tcp response from 120.24.248.50 [open]  204.851 ms
+seq 2094: tcp response from 42.96.146.169 [open]  364.657 ms
+seq 2091: no response (timeout)
+seq 2095: tcp response from 42.96.146.169 [open]  364.134 ms
+seq 2093: no response (timeout)
+seq 2096: tcp response from 42.96.146.169 [open]  364.107 ms
+seq 2097: tcp response from 42.96.146.169 [open]  357.092 ms
+seq 2098: tcp response from 42.96.146.169 [open]  465.255 ms
+seq 2099: tcp response from 120.24.248.50 [open]  220.992 ms
+seq 2101: tcp response from 120.24.248.50 [open]  226.535 ms
+seq 2100: tcp response from 42.96.146.169 [open]  457.338 ms
+seq 2102: tcp response from 120.24.248.50 [open]  289.852 ms
+seq 2103: tcp response from 42.96.146.169 [open]  415.488 ms
+seq 2104: tcp response from 42.96.146.169 [open]  331.777 ms
+seq 2105: tcp response from 120.24.248.50 [open]  200.939 ms
+seq 2107: tcp response from 42.96.146.169 [open]  362.288 ms
+seq 2108: tcp response from 120.24.248.50 [open]  228.195 ms
+seq 2106: tcp response from 120.24.248.50 [open]  203.303 ms
+seq 2109: tcp response from 120.24.248.50 [open]  297.976 ms
+seq 2111: tcp response from 42.96.146.169 [open]  262.246 ms
+seq 2113: tcp response from 42.96.146.169 [open]  348.711 ms
+seq 2114: tcp response from 42.96.146.169 [open]  367.161 ms
+seq 2112: no response (timeout)
+seq 2110: no response (timeout)
+seq 2115: tcp response from 42.96.146.169 [open]  460.518 ms
+seq 2117: tcp response from 42.96.146.169 [open]  427.341 ms
+seq 2116: no response (timeout)
+seq 2119: tcp response from 120.24.248.50 [open]  201.810 ms
+seq 2122: tcp response from 120.24.248.50 [open]  252.543 ms
+seq 2118: tcp response from 120.24.248.50 [open]  200.591 ms
+seq 2121: tcp response from 120.24.248.50 [open]  199.870 ms
+seq 2120: no response (timeout)
+seq 2124: tcp response from 42.96.146.169 [open]  362.726 ms
+seq 2123: tcp response from 42.96.146.169 [open]  365.076 ms
+seq 2125: no response (timeout)
+seq 2127: tcp response from 120.24.248.50 [open]  203.658 ms
+seq 2128: tcp response from 120.24.248.50 [open]  201.999 ms
+seq 2126: no response (timeout)
+seq 2129: tcp response from 42.96.146.169 [open]  461.910 ms
+seq 2131: tcp response from 42.96.146.169 [open]  461.338 ms
+seq 2130: no response (timeout)
+seq 2132: tcp response from 42.96.146.169 [open]  459.099 ms
+seq 2134: tcp response from 42.96.146.169 [open]  452.580 ms
+seq 2133: no response (timeout)
+seq 2136: tcp response from 42.96.146.169 [open]  461.345 ms
+seq 2137: tcp response from 42.96.146.169 [open]  1474.214 ms
+seq 2135: no response (timeout)
+seq 2141: tcp response from 120.24.248.50 [open]  225.992 ms
+seq 2139: tcp response from 120.24.248.50 [open]  199.915 ms
+seq 2138: no response (timeout)
+seq 2142: tcp response from 120.24.248.50 [open]  249.475 ms
+seq 2140: tcp response from 42.96.146.169 [open]  363.334 ms
+seq 2143: no response (timeout)
+seq 2147: tcp response from 120.24.248.50 [open]  230.872 ms
+seq 2148: tcp response from 120.24.248.50 [open]  201.053 ms
+seq 2146: no response (timeout)
+seq 2149: tcp response from 42.96.146.169 [open]  465.482 ms
+seq 2144: no response (timeout)
+seq 2150: tcp response from 42.96.146.169 [open]  361.028 ms
+seq 2145: no response (timeout)
+seq 2151: tcp response from 120.24.248.50 [open]  219.995 ms
+seq 2152: tcp response from 120.24.248.50 [open]  296.168 ms
+seq 2153: tcp response from 42.96.146.169 [open]  420.020 ms
+seq 2154: tcp response from 42.96.146.169 [open]  352.370 ms
+seq 2155: tcp response from 120.24.248.50 [open]  199.772 ms
+seq 2156: tcp response from 120.24.248.50 [open]  245.848 ms
+seq 2157: tcp response from 120.24.248.50 [open]  294.203 ms
+seq 2158: tcp response from 120.24.248.50 [open]  201.945 ms
+seq 2159: tcp response from 120.24.248.50 [open]  304.281 ms
+seq 2160: tcp response from 42.96.146.169 [open]  336.726 ms
+seq 2162: tcp response from 42.96.146.169 [open]  355.762 ms
+seq 2161: tcp response from 42.96.146.169 [open]  331.124 ms
+seq 2165: tcp response from 42.96.146.169 [open]  359.960 ms
+seq 2166: tcp response from 42.96.146.169 [open]  456.950 ms
+seq 2163: tcp response from 120.24.248.50 [open]  284.904 ms
+seq 2164: tcp response from 120.24.248.50 [open]  283.633 ms
+seq 2169: tcp response from 120.24.248.50 [open]  297.286 ms
+seq 2168: tcp response from 42.96.146.169 [open]  384.762 ms
+seq 2171: tcp response from 120.24.248.50 [open]  199.819 ms
+seq 2167: no response (timeout)
+seq 2170: tcp response from 120.24.248.50 [open]  200.629 ms
+seq 2173: tcp response from 120.24.248.50 [open]  285.607 ms
+seq 2174: tcp response from 120.24.248.50 [open]  202.696 ms
+seq 2172: no response (timeout)
+seq 2177: tcp response from 42.96.146.169 [open]  363.195 ms
+seq 2176: no response (timeout)
+seq 2178: tcp response from 42.96.146.169 [open]  363.770 ms
+seq 2175: no response (timeout)
+seq 2180: tcp response from 120.24.248.50 [open]  299.031 ms
+seq 2183: tcp response from 42.96.146.169 [open]  327.929 ms
+seq 2179: no response (timeout)
+seq 2184: tcp response from 42.96.146.169 [open]  459.111 ms
+seq 2181: no response (timeout)
+seq 2185: tcp response from 120.24.248.50 [open]  199.626 ms
+seq 2182: no response (timeout)
+seq 2188: tcp response from 42.96.146.169 [open]  360.842 ms
+seq 2186: tcp response from 42.96.146.169 [open]  462.479 ms
+seq 2187: no response (timeout)
+seq 2190: tcp response from 42.96.146.169 [open]  362.790 ms
+seq 2189: tcp response from 120.24.248.50 [open]  297.115 ms
+seq 2192: tcp response from 120.24.248.50 [open]  202.903 ms
+seq 2191: no response (timeout)
+seq 2194: tcp response from 120.24.248.50 [open]  303.235 ms
+seq 2193: no response (timeout)
+seq 2197: tcp response from 120.24.248.50 [open]  285.108 ms
+seq 2198: tcp response from 120.24.248.50 [open]  296.066 ms
+seq 2200: tcp response from 120.24.248.50 [open]  199.956 ms
+seq 2195: no response (timeout)
+seq 2201: tcp response from 42.96.146.169 [open]  285.455 ms
+seq 2199: no response (timeout)
+seq 2196: no response (timeout)
+seq 2203: tcp response from 42.96.146.169 [open]  369.346 ms
+seq 2204: tcp response from 120.24.248.50 [open]  286.721 ms
+seq 2202: no response (timeout)
+seq 2206: tcp response from 42.96.146.169 [open]  457.400 ms
+seq 2205: tcp response from 42.96.146.169 [open]  464.632 ms
+seq 2208: tcp response from 120.24.248.50 [open]  281.888 ms
+seq 2209: tcp response from 120.24.248.50 [open]  203.037 ms
+seq 2207: no response (timeout)
+seq 2211: tcp response from 42.96.146.169 [open]  350.267 ms
+seq 2212: tcp response from 120.24.248.50 [open]  283.442 ms
+seq 2213: tcp response from 42.96.146.169 [open]  465.742 ms
+seq 2210: tcp response from 120.24.248.50 [open]  287.444 ms
+seq 2215: tcp response from 120.24.248.50 [open]  199.712 ms
+seq 2214: tcp response from 42.96.146.169 [open]  1429.479 ms
+seq 2216: tcp response from 42.96.146.169 [open]  453.740 ms
+seq 2218: tcp response from 120.24.248.50 [open]  201.052 ms
+seq 2217: tcp response from 42.96.146.169 [open]  369.199 ms
+seq 2219: tcp response from 120.24.248.50 [open]  202.323 ms
+seq 2220: tcp response from 42.96.146.169 [open]  455.810 ms
+seq 2221: tcp response from 42.96.146.169 [open]  306.339 ms
+seq 2222: tcp response from 42.96.146.169 [open]  363.220 ms
+seq 2225: tcp response from 120.24.248.50 [open]  277.506 ms
+seq 2226: tcp response from 120.24.248.50 [open]  202.825 ms
+seq 2224: tcp response from 120.24.248.50 [open]  281.961 ms
+seq 2227: tcp response from 42.96.146.169 [open]  362.200 ms
+seq 2223: tcp response from 120.24.248.50 [open]  199.719 ms
+seq 2228: tcp response from 120.24.248.50 [open]  292.587 ms
+seq 2229: tcp response from 42.96.146.169 [open]  457.762 ms
+seq 2230: tcp response from 42.96.146.169 [open]  351.395 ms
+seq 2231: tcp response from 120.24.248.50 [open]  272.638 ms
+seq 2234: tcp response from 120.24.248.50 [open]  203.082 ms
+seq 2233: tcp response from 120.24.248.50 [open]  280.371 ms
+seq 2235: tcp response from 120.24.248.50 [open]  200.259 ms
+seq 2232: no response (timeout)
+seq 2236: tcp response from 120.24.248.50 [open]  201.569 ms
+seq 2238: tcp response from 120.24.248.50 [open]  202.112 ms
+seq 2239: tcp response from 42.96.146.169 [open]  449.796 ms
+seq 2237: no response (timeout)
+seq 2242: tcp response from 42.96.146.169 [open]  347.425 ms
+seq 2240: no response (timeout)
+seq 2241: no response (timeout)
+seq 2244: tcp response from 120.24.248.50 [open]  199.998 ms
+seq 2243: tcp response from 120.24.248.50 [open]  299.018 ms
+seq 2245: tcp response from 120.24.248.50 [open]  199.685 ms
+seq 2246: tcp response from 42.96.146.169 [open]  456.638 ms
+seq 2247: tcp response from 42.96.146.169 [open]  464.287 ms
+seq 2248: tcp response from 42.96.146.169 [open]  368.615 ms
+seq 2249: tcp response from 42.96.146.169 [open]  366.140 ms
+seq 2251: tcp response from 42.96.146.169 [open]  366.345 ms
+seq 2252: tcp response from 120.24.248.50 [open]  201.192 ms
+seq 2250: tcp response from 120.24.248.50 [open]  201.452 ms
+seq 2253: tcp response from 42.96.146.169 [open]  362.057 ms
+seq 2254: tcp response from 42.96.146.169 [open]  359.292 ms
+seq 2256: tcp response from 120.24.248.50 [open]  291.030 ms
+seq 2257: tcp response from 120.24.248.50 [open]  200.009 ms
+seq 2259: tcp response from 42.96.146.169 [open]  444.340 ms
+seq 2255: tcp response from 120.24.248.50 [open]  279.444 ms
+seq 2261: tcp response from 42.96.146.169 [open]  437.300 ms
+seq 2258: tcp response from 120.24.248.50 [open]  276.638 ms
+seq 2264: tcp response from 42.96.146.169 [open]  346.406 ms
+seq 2262: no response (timeout)
+seq 2263: tcp response from 42.96.146.169 [open]  364.747 ms
+seq 2260: tcp response from 120.24.248.50 [open]  274.339 ms
+seq 2265: no response (timeout)
+seq 2268: tcp response from 42.96.146.169 [open]  362.492 ms
+seq 2266: no response (timeout)
+seq 2269: tcp response from 120.24.248.50 [open]  287.297 ms
+seq 2270: tcp response from 120.24.248.50 [open]  270.146 ms
+seq 2272: tcp response from 42.96.146.169 [open]  454.151 ms
+seq 2267: tcp response from 120.24.248.50 [open]  201.985 ms
+seq 2273: tcp response from 120.24.248.50 [open]  277.567 ms
+seq 2271: no response (timeout)
+seq 2275: tcp response from 42.96.146.169 [open]  459.116 ms
+seq 2276: tcp response from 120.24.248.50 [open]  276.333 ms
+seq 2277: tcp response from 42.96.146.169 [open]  365.302 ms
+seq 2278: tcp response from 120.24.248.50 [open]  278.711 ms
+seq 2281: tcp response from 120.24.248.50 [open]  282.751 ms
+seq 2280: tcp response from 120.24.248.50 [open]  200.392 ms
+seq 2274: no response (timeout)
+seq 2279: no response (timeout)
+seq 2282: tcp response from 42.96.146.169 [open]  363.002 ms
+seq 2283: tcp response from 42.96.146.169 [open]  362.860 ms
+seq 2285: tcp response from 120.24.248.50 [open]  278.625 ms
+seq 2284: no response (timeout)
+seq 2286: tcp response from 42.96.146.169 [open]  360.671 ms
+seq 2288: tcp response from 42.96.146.169 [open]  452.718 ms
+seq 2289: tcp response from 120.24.248.50 [open]  283.159 ms
+seq 2287: no response (timeout)
+seq 2291: tcp response from 42.96.146.169 [open]  355.041 ms
+seq 2292: tcp response from 42.96.146.169 [open]  459.502 ms
+seq 2290: no response (timeout)
+seq 2294: tcp response from 42.96.146.169 [open]  421.751 ms
+seq 2296: tcp response from 120.24.248.50 [open]  200.883 ms
+seq 2293: tcp response from 120.24.248.50 [open]  298.833 ms
+seq 2297: tcp response from 120.24.248.50 [open]  285.805 ms
+seq 2295: no response (timeout)
+seq 2298: tcp response from 120.24.248.50 [open]  201.124 ms
+seq 2299: tcp response from 42.96.146.169 [open]  460.651 ms
+seq 2301: tcp response from 42.96.146.169 [open]  460.626 ms
+seq 2303: tcp response from 42.96.146.169 [open]  363.545 ms
+seq 2300: tcp response from 120.24.248.50 [open]  272.379 ms
+seq 2302: tcp response from 42.96.146.169 [open]  361.490 ms
+seq 2304: tcp response from 42.96.146.169 [open]  457.229 ms
+seq 2305: tcp response from 42.96.146.169 [open]  461.443 ms
+seq 2307: tcp response from 120.24.248.50 [open]  276.123 ms
+seq 2308: tcp response from 120.24.248.50 [open]  202.719 ms
+seq 2306: no response (timeout)
+seq 2310: tcp response from 120.24.248.50 [open]  201.226 ms
+seq 2309: tcp response from 120.24.248.50 [open]  202.040 ms
+seq 2312: tcp response from 120.24.248.50 [open]  199.655 ms
+seq 2313: tcp response from 42.96.146.169 [open]  464.559 ms
+seq 2311: no response (timeout)
+seq 2314: tcp response from 42.96.146.169 [open]  364.597 ms
+seq 2316: tcp response from 120.24.248.50 [open]  200.667 ms
+seq 2317: tcp response from 120.24.248.50 [open]  269.185 ms
+seq 2319: tcp response from 42.96.146.169 [open]  458.301 ms
+seq 2318: tcp response from 42.96.146.169 [open]  358.521 ms
+seq 2315: no response (timeout)
+seq 2321: tcp response from 120.24.248.50 [open]  201.747 ms
+seq 2322: tcp response from 42.96.146.169 [open]  360.214 ms
+seq 2320: tcp response from 120.24.248.50 [open]  293.690 ms
+seq 2324: tcp response from 120.24.248.50 [open]  270.084 ms
+seq 2323: no response (timeout)
+seq 2325: tcp response from 42.96.146.169 [open]  1560.204 ms
+seq 2326: tcp response from 42.96.146.169 [open]  462.797 ms
+seq 2327: tcp response from 42.96.146.169 [open]  441.925 ms
+seq 2329: tcp response from 120.24.248.50 [open]  272.358 ms
+seq 2330: tcp response from 120.24.248.50 [open]  199.555 ms
+seq 2328: tcp response from 42.96.146.169 [open]  459.376 ms
+seq 2332: tcp response from 120.24.248.50 [open]  202.798 ms
+seq 2333: tcp response from 120.24.248.50 [open]  199.692 ms
+seq 2331: tcp response from 42.96.146.169 [open]  363.030 ms
+seq 2334: tcp response from 42.96.146.169 [open]  366.844 ms
+seq 2337: tcp response from 120.24.248.50 [open]  304.975 ms
+seq 2335: tcp response from 120.24.248.50 [open]  233.381 ms
+seq 2340: tcp response from 42.96.146.169 [open]  362.586 ms
+seq 2339: no response (timeout)
+seq 2338: tcp response from 42.96.146.169 [open]  367.471 ms
+seq 2336: no response (timeout)
+seq 2341: tcp response from 42.96.146.169 [open]  455.720 ms
+seq 2343: tcp response from 120.24.248.50 [open]  208.808 ms
+seq 2342: no response (timeout)
+seq 2345: tcp response from 120.24.248.50 [open]  292.851 ms
+seq 2346: tcp response from 42.96.146.169 [open]  314.369 ms
+seq 2344: no response (timeout)
+seq 2348: tcp response from 42.96.146.169 [open]  461.999 ms
+seq 2347: tcp response from 120.24.248.50 [open]  199.769 ms
+seq 2349: tcp response from 120.24.248.50 [open]  199.943 ms
+seq 2353: tcp response from 42.96.146.169 [open]  363.468 ms
+seq 2351: no response (timeout)
+seq 2350: tcp response from 120.24.248.50 [open]  200.195 ms
+seq 2352: no response (timeout)
+seq 2354: no response (timeout)
+seq 2355: no response (timeout)
+seq 2357: no response (timeout)
+seq 2358: no response (timeout)
+seq 2356: no response (timeout)
+seq 2360: tcp response from 120.24.248.50 [open]  292.452 ms
+seq 2359: no response (timeout)
+seq 2362: tcp response from 120.24.248.50 [open]  199.646 ms
+seq 2361: no response (timeout)
+seq 2363: no response (timeout)
+seq 2365: tcp response from 120.24.248.50 [open]  199.906 ms
+seq 2364: tcp response from 120.24.248.50 [open]  293.534 ms
+seq 2368: tcp response from 42.96.146.169 [open]  362.132 ms
+seq 2366: no response (timeout)
+seq 2367: no response (timeout)
+seq 2369: tcp response from 120.24.248.50 [open]  199.949 ms
+seq 2370: tcp response from 120.24.248.50 [open]  214.202 ms
+seq 2371: tcp response from 42.96.146.169 [open]  346.679 ms
+seq 2373: tcp response from 42.96.146.169 [open]  363.557 ms
+seq 2374: tcp response from 42.96.146.169 [open]  360.841 ms
+seq 2372: tcp response from 120.24.248.50 [open]  202.646 ms
+seq 2375: tcp response from 42.96.146.169 [open]  460.663 ms
+seq 2376: tcp response from 42.96.146.169 [open]  360.535 ms
+seq 2377: tcp response from 120.24.248.50 [open]  272.842 ms
+seq 2380: tcp response from 42.96.146.169 [open]  313.136 ms
+seq 2378: no response (timeout)
+seq 2379: tcp response from 120.24.248.50 [open]  203.536 ms
+seq 2382: tcp response from 120.24.248.50 [open]  205.922 ms
+seq 2383: tcp response from 120.24.248.50 [open]  199.790 ms
+seq 2384: tcp response from 42.96.146.169 [open]  465.933 ms
+seq 2385: tcp response from 42.96.146.169 [open]  409.805 ms
+seq 2381: tcp response from 120.24.248.50 [open]  199.972 ms
+seq 2386: tcp response from 120.24.248.50 [open]  200.613 ms
+seq 2387: tcp response from 42.96.146.169 [open]  461.678 ms
+seq 2388: tcp response from 42.96.146.169 [open]  344.954 ms
+seq 2390: tcp response from 42.96.146.169 [open]  263.934 ms
+seq 2389: tcp response from 120.24.248.50 [open]  204.441 ms
+seq 2392: tcp response from 120.24.248.50 [open]  201.331 ms
+seq 2393: tcp response from 120.24.248.50 [open]  201.423 ms
+seq 2394: tcp response from 120.24.248.50 [open]  203.931 ms
+seq 2391: no response (timeout)
+seq 2395: tcp response from 42.96.146.169 [open]  340.162 ms
+seq 2396: tcp response from 42.96.146.169 [open]  341.092 ms
+seq 2397: tcp response from 42.96.146.169 [open]  361.140 ms
+seq 2400: tcp response from 120.24.248.50 [open]  200.897 ms
+seq 2401: tcp response from 42.96.146.169 [open]  336.457 ms
+seq 2398: tcp response from 120.24.248.50 [open]  313.964 ms
+seq 2399: tcp response from 42.96.146.169 [open]  393.478 ms
+seq 2403: tcp response from 42.96.146.169 [open]  350.643 ms
+seq 2402: no response (timeout)
+seq 2404: tcp response from 120.24.248.50 [open]  199.656 ms
+seq 2405: tcp response from 42.96.146.169 [open]  464.914 ms
+seq 2406: tcp response from 120.24.248.50 [open]  202.451 ms
+seq 2408: tcp response from 120.24.248.50 [open]  285.614 ms
+seq 2407: no response (timeout)
+seq 2410: tcp response from 42.96.146.169 [open]  461.515 ms
+seq 2412: tcp response from 120.24.248.50 [open]  199.943 ms
+seq 2411: tcp response from 42.96.146.169 [open]  381.846 ms
+seq 2409: tcp response from 42.96.146.169 [open]  364.005 ms
+seq 2414: tcp response from 42.96.146.169 [open]  394.701 ms
+seq 2416: tcp response from 120.24.248.50 [open]  203.013 ms
+seq 2413: tcp response from 120.24.248.50 [open]  202.451 ms
+seq 2417: tcp response from 42.96.146.169 [open]  460.651 ms
+seq 2415: no response (timeout)
+seq 2419: tcp response from 120.24.248.50 [open]  205.577 ms
+seq 2421: tcp response from 120.24.248.50 [open]  200.989 ms
+seq 2422: tcp response from 42.96.146.169 [open]  357.236 ms
+seq 2420: tcp response from 120.24.248.50 [open]  276.304 ms
+seq 2418: tcp response from 120.24.248.50 [open]  278.570 ms
+seq 2424: tcp response from 120.24.248.50 [open]  199.658 ms
+seq 2425: tcp response from 42.96.146.169 [open]  358.651 ms
+seq 2423: no response (timeout)
+seq 2426: tcp response from 42.96.146.169 [open]  398.488 ms
+seq 2428: tcp response from 120.24.248.50 [open]  271.417 ms
+seq 2427: no response (timeout)
+seq 2430: tcp response from 42.96.146.169 [open]  459.346 ms
+seq 2429: no response (timeout)
+seq 2432: tcp response from 42.96.146.169 [open]  456.432 ms
+seq 2433: tcp response from 120.24.248.50 [open]  199.646 ms
+seq 2431: no response (timeout)
+seq 2434: tcp response from 120.24.248.50 [open]  199.719 ms
+seq 2436: tcp response from 42.96.146.169 [open]  363.481 ms
+seq 2435: tcp response from 42.96.146.169 [open]  355.846 ms
+seq 2437: tcp response from 42.96.146.169 [open]  363.043 ms
+seq 2439: tcp response from 120.24.248.50 [open]  201.358 ms
+seq 2438: tcp response from 42.96.146.169 [open]  364.080 ms
+seq 2440: tcp response from 120.24.248.50 [open]  202.915 ms
+seq 2442: tcp response from 120.24.248.50 [open]  202.378 ms
+seq 2443: tcp response from 42.96.146.169 [open]  360.308 ms
+seq 2441: no response (timeout)
+seq 2445: tcp response from 42.96.146.169 [open]  454.642 ms
+seq 2446: tcp response from 42.96.146.169 [open]  434.742 ms
+seq 2447: tcp response from 42.96.146.169 [open]  455.485 ms
+seq 2444: no response (timeout)
+seq 2448: tcp response from 120.24.248.50 [open]  199.773 ms
+seq 2450: tcp response from 120.24.248.50 [open]  203.891 ms
+seq 2449: tcp response from 120.24.248.50 [open]  212.297 ms
+seq 2452: tcp response from 42.96.146.169 [open]  346.698 ms
+seq 2451: no response (timeout)
+seq 2453: tcp response from 42.96.146.169 [open]  362.490 ms
+seq 2454: tcp response from 42.96.146.169 [open]  347.650 ms
+seq 2455: tcp response from 120.24.248.50 [open]  299.229 ms
+seq 2456: tcp response from 42.96.146.169 [open]  461.411 ms
+seq 2460: tcp response from 120.24.248.50 [open]  212.023 ms
+seq 2457: tcp response from 42.96.146.169 [open]  458.928 ms
+seq 2458: no response (timeout)
+seq 2459: no response (timeout)
+seq 2465: tcp response from 42.96.146.169 [open]  461.932 ms
+seq 2466: tcp response from 120.24.248.50 [open]  209.333 ms
+seq 2464: tcp response from 120.24.248.50 [open]  201.777 ms
+seq 2462: no response (timeout)
+seq 2461: no response (timeout)
+seq 2467: tcp response from 120.24.248.50 [open]  204.319 ms
+seq 2468: tcp response from 42.96.146.169 [open]  339.815 ms
+seq 2469: tcp response from 42.96.146.169 [open]  359.159 ms
+seq 2463: no response (timeout)
+seq 2471: tcp response from 42.96.146.169 [open]  363.434 ms
+seq 2472: tcp response from 120.24.248.50 [open]  199.820 ms
+seq 2470: tcp response from 42.96.146.169 [open]  365.235 ms
+seq 2474: tcp response from 120.24.248.50 [open]  207.299 ms
+seq 2475: tcp response from 120.24.248.50 [open]  202.923 ms
+seq 2473: tcp response from 42.96.146.169 [open]  311.529 ms
+seq 2476: tcp response from 120.24.248.50 [open]  202.460 ms
+seq 2477: tcp response from 42.96.146.169 [open]  361.550 ms
+seq 2478: tcp response from 120.24.248.50 [open]  215.541 ms
+seq 2479: tcp response from 42.96.146.169 [open]  451.448 ms
+seq 2480: tcp response from 42.96.146.169 [open]  240.400 ms
+seq 2481: tcp response from 120.24.248.50 [open]  212.419 ms
+seq 2482: tcp response from 120.24.248.50 [open]  217.880 ms
+seq 2483: tcp response from 42.96.146.169 [open]  263.202 ms
+seq 2484: tcp response from 120.24.248.50 [open]  200.956 ms
+seq 2485: tcp response from 120.24.248.50 [open]  202.019 ms
+seq 2486: tcp response from 42.96.146.169 [open]  359.701 ms
+seq 2487: tcp response from 42.96.146.169 [open]  467.171 ms
+seq 2488: tcp response from 120.24.248.50 [open]  269.067 ms
+seq 2489: tcp response from 42.96.146.169 [open]  457.059 ms
+seq 2490: tcp response from 42.96.146.169 [open]  462.803 ms
+seq 2491: tcp response from 120.24.248.50 [open]  199.622 ms
+seq 2493: tcp response from 120.24.248.50 [open]  199.714 ms
+seq 2494: tcp response from 120.24.248.50 [open]  202.318 ms
+seq 2492: tcp response from 42.96.146.169 [open]  444.209 ms
+seq 2496: tcp response from 120.24.248.50 [open]  199.779 ms
+seq 2497: tcp response from 42.96.146.169 [open]  332.800 ms
+seq 2495: tcp response from 42.96.146.169 [open]  441.185 ms
+seq 2499: tcp response from 120.24.248.50 [open]  202.977 ms
+seq 2498: no response (timeout)
+seq 2502: tcp response from 120.24.248.50 [open]  204.132 ms
+seq 2504: tcp response from 42.96.146.169 [open]  335.248 ms
+seq 2500: tcp response from 42.96.146.169 [open]  452.547 ms
+seq 2505: tcp response from 120.24.248.50 [open]  276.760 ms
+seq 2503: no response (timeout)
+seq 2501: no response (timeout)
+seq 2506: tcp response from 42.96.146.169 [open]  1546.605 ms
+seq 2510: tcp response from 42.96.146.169 [open]  460.919 ms
+seq 2508: tcp response from 42.96.146.169 [open]  460.873 ms
+seq 2507: no response (timeout)
+seq 2509: tcp response from 42.96.146.169 [open]  362.246 ms
+seq 2511: tcp response from 42.96.146.169 [open]  314.590 ms
+seq 2513: tcp response from 120.24.248.50 [open]  203.264 ms
+seq 2514: tcp response from 120.24.248.50 [open]  202.761 ms
+seq 2512: no response (timeout)
+seq 2517: tcp response from 120.24.248.50 [open]  270.457 ms
+seq 2516: tcp response from 42.96.146.169 [open]  464.723 ms
+seq 2515: no response (timeout)
+seq 2519: tcp response from 42.96.146.169 [open]  500.853 ms
+seq 2520: tcp response from 120.24.248.50 [open]  199.957 ms
+seq 2518: no response (timeout)
+seq 2522: tcp response from 42.96.146.169 [open]  323.919 ms
+seq 2524: tcp response from 120.24.248.50 [open]  205.991 ms
+seq 2521: tcp response from 120.24.248.50 [open]  200.150 ms
+seq 2525: tcp response from 42.96.146.169 [open]  365.355 ms
+seq 2523: no response (timeout)
+seq 2527: tcp response from 120.24.248.50 [open]  205.575 ms
+seq 2528: tcp response from 120.24.248.50 [open]  279.638 ms
+seq 2526: no response (timeout)
+seq 2530: tcp response from 42.96.146.169 [open]  418.225 ms
+seq 2529: no response (timeout)
+seq 2532: tcp response from 42.96.146.169 [open]  322.633 ms
+seq 2533: tcp response from 120.24.248.50 [open]  201.488 ms
+seq 2531: no response (timeout)
+seq 2534: tcp response from 120.24.248.50 [open]  204.561 ms
+seq 2535: tcp response from 42.96.146.169 [open]  362.228 ms
+seq 2536: tcp response from 120.24.248.50 [open]  209.301 ms
+seq 2537: tcp response from 42.96.146.169 [open]  437.227 ms
+seq 2538: tcp response from 120.24.248.50 [open]  201.277 ms
+seq 2540: tcp response from 42.96.146.169 [open]  464.052 ms
+seq 2541: tcp response from 120.24.248.50 [open]  279.902 ms
+seq 2539: tcp response from 120.24.248.50 [open]  201.983 ms
+seq 2544: tcp response from 42.96.146.169 [open]  343.574 ms
+seq 2543: no response (timeout)
+seq 2542: tcp response from 120.24.248.50 [open]  201.519 ms
+seq 2545: tcp response from 120.24.248.50 [open]  201.543 ms
+seq 2547: tcp response from 120.24.248.50 [open]  282.139 ms
+seq 2549: tcp response from 42.96.146.169 [open]  453.756 ms
+seq 2550: tcp response from 42.96.146.169 [open]  364.924 ms
+seq 2551: tcp response from 42.96.146.169 [open]  363.250 ms
+seq 2552: tcp response from 42.96.146.169 [open]  361.982 ms
+seq 2548: tcp response from 42.96.146.169 [open]  441.959 ms
+seq 2546: tcp response from 42.96.146.169 [open]  436.567 ms
+seq 2553: tcp response from 120.24.248.50 [open]  199.711 ms
+seq 2555: tcp response from 42.96.146.169 [open]  347.520 ms
+seq 2556: tcp response from 120.24.248.50 [open]  201.151 ms
+seq 2554: no response (timeout)
+seq 2559: tcp response from 42.96.146.169 [open]  366.780 ms
+seq 2557: no response (timeout)
+seq 2558: no response (timeout)
+seq 2561: tcp response from 120.24.248.50 [open]  265.416 ms
+seq 2560: no response (timeout)
+seq 2563: tcp response from 42.96.146.169 [open]  458.681 ms
+seq 2562: no response (timeout)
+seq 2564: tcp response from 120.24.248.50 [open]  200.491 ms
+seq 2565: tcp response from 120.24.248.50 [open]  205.469 ms
+seq 2566: tcp response from 120.24.248.50 [open]  202.851 ms
+seq 2567: tcp response from 120.24.248.50 [open]  203.773 ms
+seq 2568: tcp response from 42.96.146.169 [open]  367.456 ms
+seq 2569: tcp response from 120.24.248.50 [open]  202.033 ms
+seq 2570: tcp response from 42.96.146.169 [open]  365.495 ms
+seq 2571: tcp response from 42.96.146.169 [open]  463.483 ms
+seq 2572: tcp response from 120.24.248.50 [open]  212.063 ms
+seq 2573: tcp response from 120.24.248.50 [open]  201.484 ms
+seq 2574: tcp response from 42.96.146.169 [open]  367.408 ms
+seq 2575: tcp response from 42.96.146.169 [open]  363.502 ms
+seq 2576: tcp response from 42.96.146.169 [open]  264.137 ms
+seq 2577: tcp response from 120.24.248.50 [open]  202.417 ms
+seq 2578: tcp response from 120.24.248.50 [open]  202.188 ms
+seq 2580: tcp response from 120.24.248.50 [open]  199.485 ms
+seq 2581: tcp response from 42.96.146.169 [open]  459.527 ms
+seq 2579: no response (timeout)
+seq 2582: tcp response from 42.96.146.169 [open]  362.362 ms
+seq 2583: tcp response from 42.96.146.169 [open]  334.176 ms
+seq 2584: tcp response from 42.96.146.169 [open]  361.535 ms
+seq 2585: tcp response from 120.24.248.50 [open]  216.016 ms
+seq 2586: tcp response from 120.24.248.50 [open]  200.469 ms
+seq 2587: tcp response from 42.96.146.169 [open]  441.097 ms
+seq 2588: tcp response from 120.24.248.50 [open]  220.568 ms
+seq 2589: tcp response from 42.96.146.169 [open]  379.966 ms

@@ -1,0 +1,2686 @@
+seq 0: tcp response from yandex.ru (77.88.55.55) [open]  193.667 ms
+seq 1: tcp response from yandex.ru (77.88.55.66) [open]  197.066 ms
+seq 2: tcp response from yandex.ru (5.255.255.55) [open]  196.710 ms
+seq 3: tcp response from yandex.ru (77.88.55.55) [open]  193.339 ms
+seq 4: tcp response from yandex.ru (77.88.55.55) [open]  193.290 ms
+seq 5: tcp response from yandex.ru (77.88.55.55) [open]  194.273 ms
+seq 6: tcp response from yandex.ru (5.255.255.55) [open]  199.951 ms
+seq 7: tcp response from yandex.ru (5.255.255.5) [open]  196.655 ms
+seq 8: tcp response from yandex.ru (77.88.55.55) [open]  197.283 ms
+seq 9: tcp response from yandex.ru (77.88.55.55) [open]  194.719 ms
+seq 10: tcp response from yandex.ru (77.88.55.55) [open]  196.710 ms
+seq 11: tcp response from yandex.ru (5.255.255.55) [open]  194.577 ms
+seq 12: tcp response from yandex.ru (77.88.55.66) [open]  197.797 ms
+seq 14: tcp response from yandex.ru (5.255.255.5) [open]  195.458 ms
+seq 15: tcp response from yandex.ru (77.88.55.66) [open]  195.654 ms
+seq 13: no response (timeout)
+seq 17: tcp response from yandex.ru (5.255.255.55) [open]  197.291 ms
+seq 16: no response (timeout)
+seq 19: tcp response from yandex.ru (77.88.55.66) [open]  197.669 ms
+seq 18: no response (timeout)
+seq 22: tcp response from yandex.ru (5.255.255.55) [open]  195.983 ms
+seq 20: no response (timeout)
+seq 21: no response (timeout)
+seq 23: tcp response from yandex.ru (5.255.255.5) [open]  194.969 ms
+seq 24: tcp response from yandex.ru (77.88.55.66) [open]  196.574 ms
+seq 25: tcp response from yandex.ru (77.88.55.66) [open]  198.193 ms
+seq 26: tcp response from yandex.ru (77.88.55.55) [open]  199.846 ms
+seq 27: tcp response from yandex.ru (5.255.255.55) [open]  198.539 ms
+seq 28: tcp response from yandex.ru (77.88.55.55) [open]  193.140 ms
+seq 29: tcp response from yandex.ru (5.255.255.5) [open]  198.122 ms
+seq 30: tcp response from yandex.ru (5.255.255.55) [open]  192.173 ms
+seq 32: tcp response from yandex.ru (5.255.255.5) [open]  195.564 ms
+seq 31: tcp response from yandex.ru (77.88.55.66) [open]  196.818 ms
+seq 33: tcp response from yandex.ru (77.88.55.66) [open]  197.289 ms
+seq 34: tcp response from yandex.ru (77.88.55.55) [open]  195.140 ms
+seq 35: tcp response from yandex.ru (5.255.255.55) [open]  196.798 ms
+seq 37: tcp response from yandex.ru (5.255.255.5) [open]  199.683 ms
+seq 36: no response (timeout)
+seq 40: tcp response from yandex.ru (5.255.255.5) [open]  194.342 ms
+seq 38: no response (timeout)
+seq 39: no response (timeout)
+seq 42: tcp response from yandex.ru (77.88.55.66) [open]  193.841 ms
+seq 43: tcp response from yandex.ru (5.255.255.5) [open]  196.164 ms
+seq 41: no response (timeout)
+seq 46: tcp response from yandex.ru (5.255.255.5) [open]  193.491 ms
+seq 44: no response (timeout)
+seq 45: no response (timeout)
+seq 49: tcp response from yandex.ru (77.88.55.55) [open]  193.470 ms
+seq 50: tcp response from yandex.ru (77.88.55.55) [open]  194.465 ms
+seq 47: no response (timeout)
+seq 52: tcp response from yandex.ru (5.255.255.55) [open]  194.800 ms
+seq 48: no response (timeout)
+seq 53: tcp response from yandex.ru (77.88.55.66) [open]  196.735 ms
+seq 55: tcp response from yandex.ru (5.255.255.5) [open]  197.969 ms
+seq 56: tcp response from yandex.ru (77.88.55.55) [open]  196.825 ms
+seq 54: no response (timeout)
+seq 51: tcp response from yandex.ru (77.88.55.66) [open]  201.681 ms
+seq 58: tcp response from yandex.ru (77.88.55.66) [open]  196.177 ms
+seq 60: tcp response from yandex.ru (77.88.55.55) [open]  198.867 ms
+seq 59: tcp response from yandex.ru (5.255.255.5) [open]  194.500 ms
+seq 57: no response (timeout)
+seq 61: tcp response from yandex.ru (5.255.255.55) [open]  196.115 ms
+seq 62: tcp response from yandex.ru (5.255.255.5) [open]  195.271 ms
+seq 64: tcp response from yandex.ru (5.255.255.55) [open]  196.706 ms
+seq 63: tcp response from yandex.ru (5.255.255.55) [open]  200.547 ms
+seq 65: tcp response from yandex.ru (5.255.255.5) [open]  198.277 ms
+seq 66: tcp response from yandex.ru (77.88.55.66) [open]  198.798 ms
+seq 68: tcp response from yandex.ru (5.255.255.55) [open]  200.719 ms
+seq 67: no response (timeout)
+seq 70: tcp response from yandex.ru (77.88.55.55) [open]  196.735 ms
+seq 69: no response (timeout)
+seq 71: tcp response from yandex.ru (5.255.255.5) [open]  196.320 ms
+seq 72: tcp response from yandex.ru (77.88.55.55) [open]  193.232 ms
+seq 73: tcp response from yandex.ru (77.88.55.55) [open]  193.692 ms
+seq 75: tcp response from yandex.ru (5.255.255.55) [open]  196.072 ms
+seq 74: no response (timeout)
+seq 77: tcp response from yandex.ru (77.88.55.66) [open]  195.726 ms
+seq 78: tcp response from yandex.ru (5.255.255.55) [open]  196.708 ms
+seq 76: no response (timeout)
+seq 80: tcp response from yandex.ru (5.255.255.55) [open]  196.584 ms
+seq 81: tcp response from yandex.ru (5.255.255.5) [open]  195.104 ms
+seq 79: no response (timeout)
+seq 82: tcp response from yandex.ru (5.255.255.55) [open]  196.318 ms
+seq 84: tcp response from yandex.ru (5.255.255.55) [open]  200.322 ms
+seq 83: tcp response from yandex.ru (5.255.255.5) [open]  195.848 ms
+seq 85: tcp response from yandex.ru (5.255.255.5) [open]  193.155 ms
+seq 86: tcp response from yandex.ru (77.88.55.66) [open]  193.946 ms
+seq 87: tcp response from yandex.ru (77.88.55.66) [open]  202.907 ms
+seq 89: tcp response from yandex.ru (5.255.255.55) [open]  195.944 ms
+seq 90: tcp response from yandex.ru (77.88.55.55) [open]  194.415 ms
+seq 88: no response (timeout)
+seq 92: tcp response from yandex.ru (5.255.255.55) [open]  192.397 ms
+seq 93: tcp response from yandex.ru (77.88.55.55) [open]  193.067 ms
+seq 91: no response (timeout)
+seq 94: tcp response from yandex.ru (5.255.255.5) [open]  197.354 ms
+seq 96: tcp response from yandex.ru (5.255.255.55) [open]  194.382 ms
+seq 98: tcp response from yandex.ru (77.88.55.55) [open]  195.126 ms
+seq 95: no response (timeout)
+seq 97: no response (timeout)
+seq 99: tcp response from yandex.ru (5.255.255.5) [open]  197.581 ms
+seq 101: tcp response from yandex.ru (5.255.255.55) [open]  195.569 ms
+seq 100: no response (timeout)
+seq 103: tcp response from yandex.ru (77.88.55.66) [open]  199.250 ms
+seq 102: no response (timeout)
+seq 104: tcp response from yandex.ru (5.255.255.5) [open]  193.703 ms
+seq 106: tcp response from yandex.ru (77.88.55.55) [open]  198.783 ms
+seq 105: tcp response from yandex.ru (77.88.55.66) [open]  195.243 ms
+seq 107: tcp response from yandex.ru (77.88.55.55) [open]  195.357 ms
+seq 108: tcp response from yandex.ru (5.255.255.55) [open]  197.339 ms
+seq 109: tcp response from yandex.ru (5.255.255.55) [open]  199.982 ms
+seq 111: tcp response from yandex.ru (77.88.55.66) [open]  193.490 ms
+seq 110: no response (timeout)
+seq 113: tcp response from yandex.ru (77.88.55.55) [open]  195.188 ms
+seq 112: no response (timeout)
+seq 115: tcp response from yandex.ru (5.255.255.5) [open]  193.702 ms
+seq 114: no response (timeout)
+seq 117: tcp response from yandex.ru (5.255.255.5) [open]  198.611 ms
+seq 118: tcp response from yandex.ru (5.255.255.5) [open]  221.962 ms
+seq 116: no response (timeout)
+seq 120: tcp response from yandex.ru (5.255.255.55) [open]  195.869 ms
+seq 122: tcp response from yandex.ru (5.255.255.5) [open]  194.738 ms
+seq 119: no response (timeout)
+seq 121: no response (timeout)
+seq 124: tcp response from yandex.ru (5.255.255.5) [open]  193.562 ms
+seq 123: no response (timeout)
+seq 125: tcp response from yandex.ru (5.255.255.55) [open]  195.902 ms
+seq 127: tcp response from yandex.ru (77.88.55.55) [open]  193.323 ms
+seq 128: tcp response from yandex.ru (5.255.255.5) [open]  197.619 ms
+seq 126: no response (timeout)
+seq 129: tcp response from yandex.ru (77.88.55.66) [open]  197.532 ms
+seq 130: tcp response from yandex.ru (77.88.55.55) [open]  194.201 ms
+seq 131: tcp response from yandex.ru (77.88.55.66) [open]  194.061 ms
+seq 132: tcp response from yandex.ru (77.88.55.55) [open]  192.559 ms
+seq 135: tcp response from yandex.ru (5.255.255.55) [open]  196.570 ms
+seq 133: tcp response from yandex.ru (5.255.255.55) [open]  200.173 ms
+seq 137: tcp response from yandex.ru (77.88.55.55) [open]  193.275 ms
+seq 134: tcp response from yandex.ru (5.255.255.5) [open]  200.153 ms
+seq 138: tcp response from yandex.ru (77.88.55.66) [open]  199.463 ms
+seq 136: no response (timeout)
+seq 141: tcp response from yandex.ru (5.255.255.55) [open]  192.724 ms
+seq 142: tcp response from yandex.ru (5.255.255.5) [open]  195.605 ms
+seq 139: no response (timeout)
+seq 143: tcp response from yandex.ru (5.255.255.55) [open]  200.577 ms
+seq 144: tcp response from yandex.ru (77.88.55.55) [open]  193.643 ms
+seq 140: no response (timeout)
+seq 146: tcp response from yandex.ru (5.255.255.5) [open]  197.814 ms
+seq 148: tcp response from yandex.ru (77.88.55.55) [open]  199.920 ms
+seq 147: tcp response from yandex.ru (77.88.55.55) [open]  214.191 ms
+seq 150: tcp response from yandex.ru (5.255.255.55) [open]  196.403 ms
+seq 145: no response (timeout)
+seq 152: tcp response from yandex.ru (77.88.55.66) [open]  196.932 ms
+seq 149: tcp response from yandex.ru (77.88.55.55) [open]  198.480 ms
+seq 151: no response (timeout)
+seq 154: tcp response from yandex.ru (5.255.255.5) [open]  197.197 ms
+seq 155: tcp response from yandex.ru (5.255.255.55) [open]  200.044 ms
+seq 153: no response (timeout)
+seq 156: tcp response from yandex.ru (77.88.55.66) [open]  194.927 ms
+seq 158: tcp response from yandex.ru (77.88.55.66) [open]  197.688 ms
+seq 159: tcp response from yandex.ru (77.88.55.66) [open]  194.563 ms
+seq 157: tcp response from yandex.ru (5.255.255.55) [open]  194.892 ms
+seq 161: tcp response from yandex.ru (77.88.55.55) [open]  193.482 ms
+seq 163: tcp response from yandex.ru (77.88.55.66) [open]  197.065 ms
+seq 160: no response (timeout)
+seq 162: no response (timeout)
+seq 165: tcp response from yandex.ru (77.88.55.55) [open]  198.862 ms
+seq 164: tcp response from yandex.ru (5.255.255.5) [open]  195.856 ms
+seq 167: tcp response from yandex.ru (77.88.55.66) [open]  195.454 ms
+seq 168: tcp response from yandex.ru (77.88.55.55) [open]  194.370 ms
+seq 166: no response (timeout)
+seq 170: tcp response from yandex.ru (77.88.55.55) [open]  195.281 ms
+seq 171: tcp response from yandex.ru (5.255.255.55) [open]  196.612 ms
+seq 169: no response (timeout)
+seq 173: tcp response from yandex.ru (77.88.55.55) [open]  194.028 ms
+seq 172: no response (timeout)
+seq 174: no response (timeout)
+seq 176: tcp response from yandex.ru (5.255.255.55) [open]  192.376 ms
+seq 175: no response (timeout)
+seq 177: no response (timeout)
+seq 179: tcp response from yandex.ru (5.255.255.55) [open]  194.891 ms
+seq 178: no response (timeout)
+seq 180: tcp response from yandex.ru (77.88.55.55) [open]  195.292 ms
+seq 182: tcp response from yandex.ru (77.88.55.55) [open]  198.605 ms
+seq 183: tcp response from yandex.ru (5.255.255.55) [open]  195.867 ms
+seq 184: tcp response from yandex.ru (77.88.55.66) [open]  202.761 ms
+seq 181: no response (timeout)
+seq 186: tcp response from yandex.ru (5.255.255.5) [open]  198.831 ms
+seq 187: tcp response from yandex.ru (5.255.255.55) [open]  196.261 ms
+seq 185: no response (timeout)
+seq 188: tcp response from yandex.ru (77.88.55.66) [open]  194.723 ms
+seq 189: tcp response from yandex.ru (5.255.255.55) [open]  196.945 ms
+seq 190: tcp response from yandex.ru (77.88.55.55) [open]  198.401 ms
+seq 192: tcp response from yandex.ru (5.255.255.5) [open]  194.530 ms
+seq 193: tcp response from yandex.ru (5.255.255.5) [open]  195.333 ms
+seq 194: tcp response from yandex.ru (5.255.255.55) [open]  197.308 ms
+seq 195: tcp response from yandex.ru (5.255.255.5) [open]  195.293 ms
+seq 191: no response (timeout)
+seq 197: tcp response from yandex.ru (77.88.55.66) [open]  195.408 ms
+seq 196: no response (timeout)
+seq 198: no response (timeout)
+seq 200: tcp response from yandex.ru (77.88.55.66) [open]  194.067 ms
+seq 199: no response (timeout)
+seq 201: tcp response from yandex.ru (77.88.55.66) [open]  195.829 ms
+seq 203: tcp response from yandex.ru (5.255.255.5) [open]  196.160 ms
+seq 202: no response (timeout)
+seq 205: tcp response from yandex.ru (5.255.255.5) [open]  194.733 ms
+seq 204: no response (timeout)
+seq 207: tcp response from yandex.ru (77.88.55.55) [open]  193.615 ms
+seq 206: no response (timeout)
+seq 209: tcp response from yandex.ru (77.88.55.66) [open]  193.381 ms
+seq 208: tcp response from yandex.ru (5.255.255.55) [open]  194.642 ms
+seq 211: tcp response from yandex.ru (77.88.55.66) [open]  195.803 ms
+seq 210: no response (timeout)
+seq 213: tcp response from yandex.ru (5.255.255.55) [open]  199.993 ms
+seq 214: tcp response from yandex.ru (77.88.55.55) [open]  193.309 ms
+seq 212: no response (timeout)
+seq 216: tcp response from yandex.ru (5.255.255.5) [open]  197.695 ms
+seq 217: tcp response from yandex.ru (5.255.255.5) [open]  194.813 ms
+seq 215: no response (timeout)
+seq 220: tcp response from yandex.ru (77.88.55.55) [open]  194.505 ms
+seq 221: tcp response from yandex.ru (77.88.55.66) [open]  197.165 ms
+seq 218: no response (timeout)
+seq 219: no response (timeout)
+seq 223: tcp response from yandex.ru (77.88.55.55) [open]  192.845 ms
+seq 224: tcp response from yandex.ru (5.255.255.55) [open]  199.954 ms
+seq 222: no response (timeout)
+seq 226: tcp response from yandex.ru (5.255.255.5) [open]  196.285 ms
+seq 225: no response (timeout)
+seq 227: tcp response from yandex.ru (77.88.55.55) [open]  196.595 ms
+seq 229: tcp response from yandex.ru (77.88.55.66) [open]  193.833 ms
+seq 230: tcp response from yandex.ru (77.88.55.66) [open]  196.897 ms
+seq 228: no response (timeout)
+seq 231: tcp response from yandex.ru (5.255.255.55) [open]  192.533 ms
+seq 232: tcp response from yandex.ru (77.88.55.66) [open]  201.745 ms
+seq 234: tcp response from yandex.ru (77.88.55.66) [open]  197.866 ms
+seq 235: tcp response from yandex.ru (5.255.255.55) [open]  194.315 ms
+seq 233: tcp response from yandex.ru (77.88.55.55) [open]  193.626 ms
+seq 237: tcp response from yandex.ru (5.255.255.5) [open]  197.944 ms
+seq 238: tcp response from yandex.ru (77.88.55.66) [open]  195.035 ms
+seq 236: no response (timeout)
+seq 241: tcp response from yandex.ru (77.88.55.66) [open]  195.711 ms
+seq 239: no response (timeout)
+seq 242: tcp response from yandex.ru (5.255.255.5) [open]  196.045 ms
+seq 240: no response (timeout)
+seq 245: tcp response from yandex.ru (5.255.255.55) [open]  195.481 ms
+seq 243: no response (timeout)
+seq 244: no response (timeout)
+seq 246: no response (timeout)
+seq 249: tcp response from yandex.ru (77.88.55.55) [open]  193.059 ms
+seq 250: tcp response from yandex.ru (77.88.55.66) [open]  197.557 ms
+seq 248: no response (timeout)
+seq 247: no response (timeout)
+seq 252: tcp response from yandex.ru (5.255.255.5) [open]  196.679 ms
+seq 251: tcp response from yandex.ru (77.88.55.66) [open]  196.247 ms
+seq 253: tcp response from yandex.ru (77.88.55.55) [open]  198.973 ms
+seq 254: tcp response from yandex.ru (77.88.55.66) [open]  198.296 ms
+seq 255: tcp response from yandex.ru (5.255.255.5) [open]  198.133 ms
+seq 256: tcp response from yandex.ru (77.88.55.66) [open]  201.401 ms
+seq 257: tcp response from yandex.ru (77.88.55.55) [open]  193.948 ms
+seq 258: tcp response from yandex.ru (5.255.255.5) [open]  198.132 ms
+seq 260: tcp response from yandex.ru (5.255.255.5) [open]  198.425 ms
+seq 261: tcp response from yandex.ru (5.255.255.5) [open]  195.691 ms
+seq 259: no response (timeout)
+seq 262: tcp response from yandex.ru (77.88.55.55) [open]  193.989 ms
+seq 264: tcp response from yandex.ru (5.255.255.55) [open]  200.715 ms
+seq 263: no response (timeout)
+seq 265: tcp response from yandex.ru (5.255.255.55) [open]  196.602 ms
+seq 266: tcp response from yandex.ru (77.88.55.55) [open]  193.884 ms
+seq 268: tcp response from yandex.ru (77.88.55.66) [open]  195.987 ms
+seq 269: tcp response from yandex.ru (5.255.255.5) [open]  199.182 ms
+seq 267: no response (timeout)
+seq 270: tcp response from yandex.ru (5.255.255.5) [open]  197.636 ms
+seq 271: tcp response from yandex.ru (77.88.55.55) [open]  193.334 ms
+seq 272: tcp response from yandex.ru (77.88.55.55) [open]  201.816 ms
+seq 275: tcp response from yandex.ru (77.88.55.66) [open]  196.421 ms
+seq 273: tcp response from yandex.ru (77.88.55.66) [open]  195.486 ms
+seq 274: no response (timeout)
+seq 276: tcp response from yandex.ru (77.88.55.66) [open]  197.389 ms
+seq 279: tcp response from yandex.ru (5.255.255.5) [open]  196.679 ms
+seq 277: no response (timeout)
+seq 282: tcp response from yandex.ru (5.255.255.5) [open]  198.464 ms
+seq 280: no response (timeout)
+seq 283: tcp response from yandex.ru (77.88.55.55) [open]  197.784 ms
+seq 278: no response (timeout)
+seq 281: tcp response from yandex.ru (5.255.255.55) [open]  202.496 ms
+seq 285: tcp response from yandex.ru (77.88.55.66) [open]  196.262 ms
+seq 286: tcp response from yandex.ru (5.255.255.5) [open]  196.620 ms
+seq 284: no response (timeout)
+seq 289: tcp response from yandex.ru (5.255.255.55) [open]  195.722 ms
+seq 287: no response (timeout)
+seq 288: no response (timeout)
+seq 292: tcp response from yandex.ru (77.88.55.55) [open]  194.546 ms
+seq 290: no response (timeout)
+seq 294: tcp response from yandex.ru (77.88.55.66) [open]  197.134 ms
+seq 291: no response (timeout)
+seq 293: no response (timeout)
+seq 295: tcp response from yandex.ru (5.255.255.5) [open]  198.825 ms
+seq 296: tcp response from yandex.ru (5.255.255.55) [open]  192.835 ms
+seq 297: tcp response from yandex.ru (5.255.255.5) [open]  195.852 ms
+seq 298: tcp response from yandex.ru (5.255.255.5) [open]  199.863 ms
+seq 300: tcp response from yandex.ru (5.255.255.55) [open]  197.586 ms
+seq 301: tcp response from yandex.ru (5.255.255.55) [open]  200.204 ms
+seq 299: no response (timeout)
+seq 302: tcp response from yandex.ru (77.88.55.66) [open]  195.538 ms
+seq 304: tcp response from yandex.ru (5.255.255.5) [open]  194.765 ms
+seq 303: no response (timeout)
+seq 306: tcp response from yandex.ru (77.88.55.66) [open]  197.730 ms
+seq 307: tcp response from yandex.ru (5.255.255.55) [open]  195.507 ms
+seq 305: no response (timeout)
+seq 308: tcp response from yandex.ru (5.255.255.5) [open]  194.861 ms
+seq 310: tcp response from yandex.ru (77.88.55.55) [open]  198.669 ms
+seq 309: tcp response from yandex.ru (77.88.55.66) [open]  197.679 ms
+seq 311: tcp response from yandex.ru (77.88.55.55) [open]  195.426 ms
+seq 312: tcp response from yandex.ru (77.88.55.55) [open]  193.311 ms
+seq 313: tcp response from yandex.ru (5.255.255.55) [open]  192.684 ms
+seq 314: tcp response from yandex.ru (77.88.55.55) [open]  193.814 ms
+seq 317: tcp response from yandex.ru (77.88.55.55) [open]  198.646 ms
+seq 316: tcp response from yandex.ru (77.88.55.55) [open]  193.795 ms
+seq 315: no response (timeout)
+seq 319: tcp response from yandex.ru (77.88.55.66) [open]  195.765 ms
+seq 318: no response (timeout)
+seq 322: tcp response from yandex.ru (77.88.55.66) [open]  196.776 ms
+seq 320: no response (timeout)
+seq 321: no response (timeout)
+seq 325: tcp response from yandex.ru (5.255.255.55) [open]  200.509 ms
+seq 323: no response (timeout)
+seq 324: no response (timeout)
+seq 327: tcp response from yandex.ru (5.255.255.5) [open]  196.021 ms
+seq 329: tcp response from yandex.ru (5.255.255.55) [open]  192.475 ms
+seq 328: tcp response from yandex.ru (77.88.55.66) [open]  198.226 ms
+seq 330: tcp response from yandex.ru (5.255.255.5) [open]  198.310 ms
+seq 332: tcp response from yandex.ru (77.88.55.66) [open]  196.782 ms
+seq 333: tcp response from yandex.ru (5.255.255.5) [open]  198.240 ms
+seq 331: no response (timeout)
+seq 326: tcp response from yandex.ru (77.88.55.66) [open]  196.793 ms
+seq 337: tcp response from yandex.ru (5.255.255.5) [open]  196.839 ms
+seq 335: no response (timeout)
+seq 334: no response (timeout)
+seq 336: no response (timeout)
+seq 338: no response (timeout)
+seq 339: no response (timeout)
+seq 340: no response (timeout)
+seq 342: tcp response from yandex.ru (5.255.255.55) [open]  197.847 ms
+seq 341: no response (timeout)
+seq 345: tcp response from yandex.ru (5.255.255.5) [open]  194.973 ms
+seq 343: tcp response from yandex.ru (77.88.55.55) [open]  194.930 ms
+seq 344: no response (timeout)
+seq 346: tcp response from yandex.ru (5.255.255.55) [open]  193.898 ms
+seq 347: tcp response from yandex.ru (77.88.55.55) [open]  194.209 ms
+seq 348: tcp response from yandex.ru (77.88.55.55) [open]  193.774 ms
+seq 350: tcp response from yandex.ru (5.255.255.5) [open]  196.196 ms
+seq 351: tcp response from yandex.ru (77.88.55.55) [open]  196.773 ms
+seq 349: no response (timeout)
+seq 353: tcp response from yandex.ru (5.255.255.55) [open]  195.052 ms
+seq 354: tcp response from yandex.ru (77.88.55.55) [open]  193.308 ms
+seq 352: no response (timeout)
+seq 355: tcp response from yandex.ru (77.88.55.66) [open]  196.272 ms
+seq 356: tcp response from yandex.ru (77.88.55.66) [open]  198.313 ms
+seq 357: tcp response from yandex.ru (77.88.55.55) [open]  211.695 ms
+seq 358: tcp response from yandex.ru (77.88.55.55) [open]  199.360 ms
+seq 359: tcp response from yandex.ru (5.255.255.55) [open]  193.261 ms
+seq 360: tcp response from yandex.ru (5.255.255.5) [open]  195.223 ms
+seq 361: tcp response from yandex.ru (77.88.55.66) [open]  199.941 ms
+seq 362: tcp response from yandex.ru (77.88.55.55) [open]  236.919 ms
+seq 363: tcp response from yandex.ru (5.255.255.5) [open]  195.238 ms
+seq 365: tcp response from yandex.ru (5.255.255.55) [open]  195.173 ms
+seq 366: tcp response from yandex.ru (77.88.55.66) [open]  341.896 ms
+seq 364: no response (timeout)
+seq 368: tcp response from yandex.ru (5.255.255.5) [open]  195.857 ms
+seq 367: tcp response from yandex.ru (77.88.55.66) [open]  195.720 ms
+seq 369: tcp response from yandex.ru (77.88.55.55) [open]  193.091 ms
+seq 371: tcp response from yandex.ru (77.88.55.55) [open]  198.680 ms
+seq 370: no response (timeout)
+seq 374: tcp response from yandex.ru (5.255.255.55) [open]  195.569 ms
+seq 372: no response (timeout)
+seq 373: no response (timeout)
+seq 375: no response (timeout)
+seq 376: tcp response from yandex.ru (77.88.55.55) [open]  344.583 ms
+seq 377: tcp response from yandex.ru (77.88.55.55) [open]  194.412 ms
+seq 378: tcp response from yandex.ru (77.88.55.55) [open]  196.580 ms
+seq 379: tcp response from yandex.ru (5.255.255.55) [open]  197.042 ms
+seq 380: tcp response from yandex.ru (77.88.55.55) [open]  192.885 ms
+seq 382: tcp response from yandex.ru (5.255.255.5) [open]  199.504 ms
+seq 381: no response (timeout)
+seq 385: tcp response from yandex.ru (5.255.255.55) [open]  195.568 ms
+seq 384: no response (timeout)
+seq 383: no response (timeout)
+seq 387: tcp response from yandex.ru (77.88.55.66) [open]  195.664 ms
+seq 388: tcp response from yandex.ru (5.255.255.55) [open]  196.911 ms
+seq 386: tcp response from yandex.ru (5.255.255.5) [open]  194.763 ms
+seq 389: tcp response from yandex.ru (77.88.55.66) [open]  196.622 ms
+seq 390: tcp response from yandex.ru (5.255.255.55) [open]  193.037 ms
+seq 391: tcp response from yandex.ru (77.88.55.66) [open]  201.971 ms
+seq 393: tcp response from yandex.ru (5.255.255.5) [open]  197.562 ms
+seq 394: tcp response from yandex.ru (5.255.255.5) [open]  196.093 ms
+seq 392: no response (timeout)
+seq 395: tcp response from yandex.ru (77.88.55.66) [open]  197.041 ms
+seq 396: tcp response from yandex.ru (77.88.55.66) [open]  194.488 ms
+seq 398: tcp response from yandex.ru (5.255.255.55) [open]  197.764 ms
+seq 397: no response (timeout)
+seq 400: tcp response from yandex.ru (5.255.255.55) [open]  195.490 ms
+seq 399: no response (timeout)
+seq 403: tcp response from yandex.ru (77.88.55.55) [open]  198.614 ms
+seq 401: no response (timeout)
+seq 402: no response (timeout)
+seq 406: tcp response from yandex.ru (5.255.255.55) [open]  192.346 ms
+seq 404: no response (timeout)
+seq 405: tcp response from yandex.ru (5.255.255.5) [open]  195.054 ms
+seq 408: tcp response from yandex.ru (5.255.255.55) [open]  194.153 ms
+seq 407: no response (timeout)
+seq 410: tcp response from yandex.ru (77.88.55.55) [open]  194.730 ms
+seq 409: no response (timeout)
+seq 411: tcp response from yandex.ru (77.88.55.66) [open]  193.946 ms
+seq 414: tcp response from yandex.ru (5.255.255.5) [open]  195.838 ms
+seq 412: no response (timeout)
+seq 413: no response (timeout)
+seq 415: tcp response from yandex.ru (5.255.255.55) [open]  194.448 ms
+seq 416: tcp response from yandex.ru (77.88.55.66) [open]  196.869 ms
+seq 418: tcp response from yandex.ru (77.88.55.55) [open]  198.501 ms
+seq 419: tcp response from yandex.ru (5.255.255.5) [open]  194.732 ms
+seq 420: tcp response from yandex.ru (5.255.255.5) [open]  195.608 ms
+seq 417: no response (timeout)
+seq 421: tcp response from yandex.ru (77.88.55.66) [open]  197.192 ms
+seq 423: tcp response from yandex.ru (5.255.255.55) [open]  197.702 ms
+seq 422: no response (timeout)
+seq 426: tcp response from yandex.ru (77.88.55.55) [open]  194.419 ms
+seq 424: no response (timeout)
+seq 425: no response (timeout)
+seq 427: tcp response from yandex.ru (77.88.55.66) [open]  193.043 ms
+seq 429: tcp response from yandex.ru (77.88.55.55) [open]  193.056 ms
+seq 430: tcp response from yandex.ru (5.255.255.5) [open]  196.791 ms
+seq 431: tcp response from yandex.ru (5.255.255.5) [open]  197.077 ms
+seq 428: no response (timeout)
+seq 432: tcp response from yandex.ru (77.88.55.66) [open]  196.577 ms
+seq 433: tcp response from yandex.ru (77.88.55.66) [open]  201.741 ms
+seq 434: tcp response from yandex.ru (5.255.255.5) [open]  192.449 ms
+seq 435: tcp response from yandex.ru (5.255.255.5) [open]  197.617 ms
+seq 436: tcp response from yandex.ru (77.88.55.55) [open]  193.699 ms
+seq 440: tcp response from yandex.ru (5.255.255.5) [open]  196.304 ms
+seq 438: no response (timeout)
+seq 439: no response (timeout)
+seq 437: no response (timeout)
+seq 441: tcp response from yandex.ru (77.88.55.66) [open]  195.528 ms
+seq 442: tcp response from yandex.ru (5.255.255.55) [open]  196.300 ms
+seq 444: tcp response from yandex.ru (5.255.255.55) [open]  197.554 ms
+seq 443: no response (timeout)
+seq 445: no response (timeout)
+seq 446: tcp response from yandex.ru (77.88.55.55) [open]  195.370 ms
+seq 447: tcp response from yandex.ru (77.88.55.55) [open]  194.163 ms
+seq 449: tcp response from yandex.ru (5.255.255.55) [open]  233.026 ms
+seq 450: tcp response from yandex.ru (5.255.255.55) [open]  197.120 ms
+seq 448: tcp response from yandex.ru (77.88.55.66) [open]  193.437 ms
+seq 453: tcp response from yandex.ru (5.255.255.55) [open]  195.893 ms
+seq 451: no response (timeout)
+seq 454: no response (timeout)
+seq 452: no response (timeout)
+seq 457: tcp response from yandex.ru (77.88.55.66) [open]  195.901 ms
+seq 455: no response (timeout)
+seq 459: tcp response from yandex.ru (5.255.255.55) [open]  197.675 ms
+seq 456: no response (timeout)
+seq 458: no response (timeout)
+seq 462: tcp response from yandex.ru (77.88.55.66) [open]  197.510 ms
+seq 460: no response (timeout)
+seq 461: no response (timeout)
+seq 463: tcp response from yandex.ru (77.88.55.55) [open]  757.465 ms
+seq 464: tcp response from yandex.ru (5.255.255.5) [open]  197.901 ms
+seq 467: tcp response from yandex.ru (77.88.55.66) [open]  201.698 ms
+seq 465: no response (timeout)
+seq 466: no response (timeout)
+seq 469: tcp response from yandex.ru (5.255.255.55) [open]  196.161 ms
+seq 471: tcp response from yandex.ru (77.88.55.66) [open]  196.602 ms
+seq 470: tcp response from yandex.ru (5.255.255.5) [open]  194.932 ms
+seq 468: no response (timeout)
+seq 474: tcp response from yandex.ru (77.88.55.55) [open]  193.852 ms
+seq 473: no response (timeout)
+seq 472: no response (timeout)
+seq 475: tcp response from yandex.ru (77.88.55.66) [open]  193.650 ms
+seq 477: tcp response from yandex.ru (77.88.55.55) [open]  199.273 ms
+seq 478: tcp response from yandex.ru (5.255.255.5) [open]  196.881 ms
+seq 476: no response (timeout)
+seq 480: tcp response from yandex.ru (77.88.55.55) [open]  199.266 ms
+seq 479: tcp response from yandex.ru (5.255.255.55) [open]  195.052 ms
+seq 481: tcp response from yandex.ru (77.88.55.66) [open]  196.128 ms
+seq 482: tcp response from yandex.ru (77.88.55.66) [open]  212.687 ms
+seq 484: tcp response from yandex.ru (77.88.55.66) [open]  202.058 ms
+seq 483: no response (timeout)
+seq 486: tcp response from yandex.ru (77.88.55.66) [open]  197.196 ms
+seq 485: no response (timeout)
+seq 489: tcp response from yandex.ru (77.88.55.55) [open]  198.939 ms
+seq 487: no response (timeout)
+seq 488: no response (timeout)
+seq 491: tcp response from yandex.ru (5.255.255.5) [open]  236.936 ms
+seq 490: no response (timeout)
+seq 493: tcp response from yandex.ru (5.255.255.5) [open]  193.571 ms
+seq 494: tcp response from yandex.ru (5.255.255.5) [open]  196.199 ms
+seq 492: no response (timeout)
+seq 495: tcp response from yandex.ru (5.255.255.5) [open]  196.528 ms
+seq 496: tcp response from yandex.ru (5.255.255.5) [open]  194.157 ms
+seq 497: tcp response from yandex.ru (5.255.255.55) [open]  198.088 ms
+seq 498: tcp response from yandex.ru (77.88.55.55) [open]  198.748 ms
+seq 501: tcp response from yandex.ru (5.255.255.5) [open]  197.860 ms
+seq 499: tcp response from yandex.ru (5.255.255.55) [open]  195.766 ms
+seq 500: no response (timeout)
+seq 503: tcp response from yandex.ru (77.88.55.55) [open]  193.254 ms
+seq 504: tcp response from yandex.ru (77.88.55.55) [open]  193.286 ms
+seq 502: no response (timeout)
+seq 506: tcp response from yandex.ru (77.88.55.55) [open]  195.296 ms
+seq 507: tcp response from yandex.ru (5.255.255.5) [open]  200.140 ms
+seq 505: no response (timeout)
+seq 510: tcp response from yandex.ru (77.88.55.55) [open]  192.245 ms
+seq 509: tcp response from yandex.ru (5.255.255.55) [open]  200.081 ms
+seq 508: no response (timeout)
+seq 512: tcp response from yandex.ru (5.255.255.55) [open]  195.820 ms
+seq 511: no response (timeout)
+seq 514: tcp response from yandex.ru (5.255.255.55) [open]  200.960 ms
+seq 516: tcp response from yandex.ru (5.255.255.55) [open]  192.251 ms
+seq 513: no response (timeout)
+seq 515: tcp response from yandex.ru (77.88.55.55) [open]  193.829 ms
+seq 517: tcp response from yandex.ru (5.255.255.55) [open]  195.035 ms
+seq 519: tcp response from yandex.ru (5.255.255.5) [open]  196.960 ms
+seq 520: tcp response from yandex.ru (77.88.55.55) [open]  194.806 ms
+seq 518: no response (timeout)
+seq 522: tcp response from yandex.ru (5.255.255.5) [open]  198.271 ms
+seq 521: no response (timeout)
+seq 524: tcp response from yandex.ru (5.255.255.5) [open]  192.438 ms
+seq 527: tcp response from yandex.ru (5.255.255.55) [open]  198.444 ms
+seq 523: no response (timeout)
+seq 525: no response (timeout)
+seq 529: tcp response from yandex.ru (77.88.55.66) [open]  196.821 ms
+seq 526: no response (timeout)
+seq 528: no response (timeout)
+seq 530: tcp response from yandex.ru (77.88.55.55) [open]  195.255 ms
+seq 532: tcp response from yandex.ru (5.255.255.55) [open]  195.657 ms
+seq 531: no response (timeout)
+seq 534: no response (timeout)
+seq 535: tcp response from yandex.ru (77.88.55.66) [open]  196.822 ms
+seq 533: no response (timeout)
+seq 538: tcp response from yandex.ru (77.88.55.55) [open]  193.764 ms
+seq 537: no response (timeout)
+seq 540: tcp response from yandex.ru (77.88.55.66) [open]  202.608 ms
+seq 536: no response (timeout)
+seq 539: no response (timeout)
+seq 541: no response (timeout)
+seq 543: tcp response from yandex.ru (5.255.255.5) [open]  196.228 ms
+seq 542: no response (timeout)
+seq 544: no response (timeout)
+seq 545: tcp response from yandex.ru (5.255.255.55) [open]  195.713 ms
+seq 548: tcp response from yandex.ru (77.88.55.66) [open]  195.771 ms
+seq 547: no response (timeout)
+seq 546: no response (timeout)
+seq 550: tcp response from yandex.ru (5.255.255.55) [open]  578.383 ms
+seq 552: tcp response from yandex.ru (5.255.255.55) [open]  200.129 ms
+seq 553: tcp response from yandex.ru (77.88.55.66) [open]  193.666 ms
+seq 556: tcp response from yandex.ru (77.88.55.55) [open]  193.098 ms
+seq 555: no response (timeout)
+seq 551: no response (timeout)
+seq 558: no response (timeout)
+seq 549: tcp response from yandex.ru (5.255.255.5) [open]  194.535 ms
+seq 559: tcp response from yandex.ru (77.88.55.55) [open]  195.640 ms
+seq 557: no response (timeout)
+seq 560: tcp response from yandex.ru (5.255.255.5) [open]  198.040 ms
+seq 554: tcp response from yandex.ru (5.255.255.55) [open]  194.266 ms
+seq 561: tcp response from yandex.ru (77.88.55.55) [open]  193.000 ms
+seq 563: tcp response from yandex.ru (77.88.55.66) [open]  197.959 ms
+seq 562: no response (timeout)
+seq 564: no response (timeout)
+seq 566: tcp response from yandex.ru (77.88.55.55) [open]  193.293 ms
+seq 565: no response (timeout)
+seq 567: tcp response from yandex.ru (5.255.255.55) [open]  201.402 ms
+seq 569: tcp response from yandex.ru (5.255.255.5) [open]  195.536 ms
+seq 570: tcp response from yandex.ru (77.88.55.66) [open]  195.995 ms
+seq 568: no response (timeout)
+seq 572: tcp response from yandex.ru (5.255.255.55) [open]  196.232 ms
+seq 571: tcp response from yandex.ru (5.255.255.5) [open]  198.136 ms
+seq 574: tcp response from yandex.ru (5.255.255.55) [open]  197.711 ms
+seq 577: tcp response from yandex.ru (5.255.255.5) [open]  199.837 ms
+seq 575: no response (timeout)
+seq 573: no response (timeout)
+seq 576: no response (timeout)
+seq 579: tcp response from yandex.ru (77.88.55.66) [open]  196.555 ms
+seq 578: no response (timeout)
+seq 582: tcp response from yandex.ru (77.88.55.55) [open]  193.400 ms
+seq 580: tcp response from yandex.ru (5.255.255.5) [open]  195.459 ms
+seq 581: no response (timeout)
+seq 584: tcp response from yandex.ru (77.88.55.66) [open]  196.056 ms
+seq 583: no response (timeout)
+seq 587: tcp response from yandex.ru (77.88.55.66) [open]  198.347 ms
+seq 585: no response (timeout)
+seq 586: no response (timeout)
+seq 588: tcp response from yandex.ru (77.88.55.55) [open]  195.246 ms
+seq 591: tcp response from yandex.ru (5.255.255.55) [open]  195.958 ms
+seq 593: tcp response from yandex.ru (77.88.55.55) [open]  193.189 ms
+seq 592: tcp response from yandex.ru (77.88.55.55) [open]  203.097 ms
+seq 589: no response (timeout)
+seq 590: no response (timeout)
+seq 596: tcp response from yandex.ru (77.88.55.66) [open]  193.410 ms
+seq 594: no response (timeout)
+seq 595: no response (timeout)
+seq 598: tcp response from yandex.ru (5.255.255.5) [open]  197.324 ms
+seq 597: no response (timeout)
+seq 599: no response (timeout)
+seq 601: tcp response from yandex.ru (77.88.55.66) [open]  195.452 ms
+seq 602: tcp response from yandex.ru (5.255.255.55) [open]  200.212 ms
+seq 600: no response (timeout)
+seq 604: tcp response from yandex.ru (77.88.55.66) [open]  195.657 ms
+seq 603: no response (timeout)
+seq 605: tcp response from yandex.ru (5.255.255.5) [open]  195.607 ms
+seq 607: tcp response from yandex.ru (77.88.55.66) [open]  194.051 ms
+seq 608: tcp response from yandex.ru (77.88.55.55) [open]  194.439 ms
+seq 606: no response (timeout)
+seq 609: tcp response from yandex.ru (77.88.55.55) [open]  196.789 ms
+seq 610: tcp response from yandex.ru (5.255.255.55) [open]  199.765 ms
+seq 611: tcp response from yandex.ru (5.255.255.55) [open]  194.610 ms
+seq 612: tcp response from yandex.ru (5.255.255.55) [open]  200.957 ms
+seq 614: tcp response from yandex.ru (5.255.255.55) [open]  196.860 ms
+seq 615: tcp response from yandex.ru (5.255.255.55) [open]  197.355 ms
+seq 613: no response (timeout)
+seq 616: tcp response from yandex.ru (5.255.255.5) [open]  197.826 ms
+seq 617: tcp response from yandex.ru (5.255.255.55) [open]  192.567 ms
+seq 618: tcp response from yandex.ru (5.255.255.5) [open]  196.540 ms
+seq 619: tcp response from yandex.ru (77.88.55.66) [open]  198.947 ms
+seq 620: tcp response from yandex.ru (5.255.255.55) [open]  194.437 ms
+seq 621: tcp response from yandex.ru (77.88.55.55) [open]  193.316 ms
+seq 622: tcp response from yandex.ru (77.88.55.55) [open]  194.429 ms
+seq 623: tcp response from yandex.ru (5.255.255.5) [open]  195.697 ms
+seq 624: tcp response from yandex.ru (5.255.255.5) [open]  193.953 ms
+seq 625: tcp response from yandex.ru (77.88.55.55) [open]  198.865 ms
+seq 627: tcp response from yandex.ru (5.255.255.5) [open]  194.169 ms
+seq 626: no response (timeout)
+seq 628: no response (timeout)
+seq 629: tcp response from yandex.ru (77.88.55.55) [open]  193.859 ms
+seq 632: tcp response from yandex.ru (77.88.55.55) [open]  192.260 ms
+seq 630: no response (timeout)
+seq 631: no response (timeout)
+seq 634: tcp response from yandex.ru (5.255.255.5) [open]  197.024 ms
+seq 635: tcp response from yandex.ru (5.255.255.5) [open]  195.845 ms
+seq 636: tcp response from yandex.ru (5.255.255.5) [open]  192.657 ms
+seq 639: tcp response from yandex.ru (77.88.55.66) [open]  198.245 ms
+seq 637: no response (timeout)
+seq 633: no response (timeout)
+seq 642: tcp response from yandex.ru (77.88.55.55) [open]  199.131 ms
+seq 640: no response (timeout)
+seq 645: tcp response from yandex.ru (77.88.55.55) [open]  194.072 ms
+seq 641: tcp response from yandex.ru (77.88.55.66) [open]  194.357 ms
+seq 644: no response (timeout)
+seq 646: tcp response from yandex.ru (77.88.55.66) [open]  197.613 ms
+seq 638: tcp response from yandex.ru (77.88.55.55) [open]  193.264 ms
+seq 643: no response (timeout)
+seq 648: tcp response from yandex.ru (77.88.55.55) [open]  195.434 ms
+seq 647: no response (timeout)
+seq 650: tcp response from yandex.ru (5.255.255.5) [open]  195.005 ms
+seq 649: no response (timeout)
+seq 653: tcp response from yandex.ru (5.255.255.5) [open]  198.472 ms
+seq 651: no response (timeout)
+seq 652: no response (timeout)
+seq 654: tcp response from yandex.ru (5.255.255.55) [open]  201.543 ms
+seq 657: tcp response from yandex.ru (5.255.255.5) [open]  197.962 ms
+seq 655: no response (timeout)
+seq 658: tcp response from yandex.ru (5.255.255.5) [open]  197.045 ms
+seq 659: tcp response from yandex.ru (5.255.255.5) [open]  197.241 ms
+seq 656: no response (timeout)
+seq 660: no response (timeout)
+seq 663: tcp response from yandex.ru (77.88.55.55) [open]  194.463 ms
+seq 661: tcp response from yandex.ru (77.88.55.55) [open]  195.401 ms
+seq 662: tcp response from yandex.ru (5.255.255.55) [open]  194.679 ms
+seq 666: tcp response from yandex.ru (5.255.255.5) [open]  197.582 ms
+seq 664: no response (timeout)
+seq 665: no response (timeout)
+seq 668: tcp response from yandex.ru (5.255.255.55) [open]  195.957 ms
+seq 667: no response (timeout)
+seq 669: tcp response from yandex.ru (77.88.55.55) [open]  194.194 ms
+seq 670: no response (timeout)
+seq 671: no response (timeout)
+seq 672: no response (timeout)
+seq 673: no response (timeout)
+seq 675: tcp response from yandex.ru (5.255.255.55) [open]  193.225 ms
+seq 674: no response (timeout)
+seq 678: tcp response from yandex.ru (77.88.55.55) [open]  193.084 ms
+seq 676: no response (timeout)
+seq 680: tcp response from yandex.ru (5.255.255.5) [open]  197.685 ms
+seq 677: no response (timeout)
+seq 679: no response (timeout)
+seq 681: tcp response from yandex.ru (77.88.55.55) [open]  194.973 ms
+seq 683: tcp response from yandex.ru (77.88.55.66) [open]  195.972 ms
+seq 682: no response (timeout)
+seq 684: tcp response from yandex.ru (77.88.55.66) [open]  197.694 ms
+seq 685: no response (timeout)
+seq 687: tcp response from yandex.ru (77.88.55.66) [open]  197.216 ms
+seq 686: no response (timeout)
+seq 688: no response (timeout)
+seq 690: no response (timeout)
+seq 694: tcp response from yandex.ru (77.88.55.55) [open]  195.864 ms
+seq 692: no response (timeout)
+seq 693: no response (timeout)
+seq 689: no response (timeout)
+seq 695: no response (timeout)
+seq 691: tcp response from yandex.ru (5.255.255.5) [open]  195.763 ms
+seq 698: tcp response from yandex.ru (5.255.255.55) [open]  192.676 ms
+seq 696: no response (timeout)
+seq 697: no response (timeout)
+seq 701: tcp response from yandex.ru (5.255.255.55) [open]  195.752 ms
+seq 702: tcp response from yandex.ru (77.88.55.66) [open]  193.288 ms
+seq 700: no response (timeout)
+seq 699: no response (timeout)
+seq 703: tcp response from yandex.ru (77.88.55.55) [open]  196.510 ms
+seq 705: tcp response from yandex.ru (5.255.255.55) [open]  201.285 ms
+seq 704: no response (timeout)
+seq 706: no response (timeout)
+seq 709: tcp response from yandex.ru (77.88.55.55) [open]  194.650 ms
+seq 707: no response (timeout)
+seq 710: tcp response from yandex.ru (77.88.55.55) [open]  195.008 ms
+seq 708: no response (timeout)
+seq 711: tcp response from yandex.ru (5.255.255.5) [open]  193.634 ms
+seq 712: tcp response from yandex.ru (77.88.55.66) [open]  196.544 ms
+seq 713: tcp response from yandex.ru (77.88.55.66) [open]  193.286 ms
+seq 715: tcp response from yandex.ru (77.88.55.66) [open]  194.724 ms
+seq 716: tcp response from yandex.ru (5.255.255.5) [open]  201.049 ms
+seq 714: no response (timeout)
+seq 717: tcp response from yandex.ru (77.88.55.66) [open]  195.757 ms
+seq 718: tcp response from yandex.ru (5.255.255.5) [open]  194.450 ms
+seq 719: tcp response from yandex.ru (77.88.55.66) [open]  197.376 ms
+seq 720: tcp response from yandex.ru (77.88.55.55) [open]  199.919 ms
+seq 722: tcp response from yandex.ru (5.255.255.5) [open]  197.793 ms
+seq 723: tcp response from yandex.ru (5.255.255.55) [open]  195.769 ms
+seq 725: tcp response from yandex.ru (5.255.255.55) [open]  194.249 ms
+seq 721: tcp response from yandex.ru (5.255.255.55) [open]  192.642 ms
+seq 727: tcp response from yandex.ru (77.88.55.55) [open]  198.180 ms
+seq 724: no response (timeout)
+seq 726: tcp response from yandex.ru (77.88.55.66) [open]  197.492 ms
+seq 728: tcp response from yandex.ru (77.88.55.66) [open]  198.656 ms
+seq 729: tcp response from yandex.ru (77.88.55.66) [open]  192.973 ms
+seq 731: tcp response from yandex.ru (5.255.255.55) [open]  196.256 ms
+seq 732: tcp response from yandex.ru (5.255.255.5) [open]  193.999 ms
+seq 730: no response (timeout)
+seq 733: tcp response from yandex.ru (77.88.55.66) [open]  193.511 ms
+seq 735: tcp response from yandex.ru (5.255.255.5) [open]  196.439 ms
+seq 736: tcp response from yandex.ru (5.255.255.55) [open]  192.235 ms
+seq 734: no response (timeout)
+seq 738: tcp response from yandex.ru (77.88.55.55) [open]  198.282 ms
+seq 737: tcp response from yandex.ru (5.255.255.5) [open]  200.166 ms
+seq 740: tcp response from yandex.ru (77.88.55.55) [open]  200.278 ms
+seq 742: tcp response from yandex.ru (77.88.55.55) [open]  194.945 ms
+seq 741: tcp response from yandex.ru (5.255.255.5) [open]  195.951 ms
+seq 739: no response (timeout)
+seq 744: tcp response from yandex.ru (77.88.55.55) [open]  193.939 ms
+seq 743: no response (timeout)
+seq 746: tcp response from yandex.ru (5.255.255.55) [open]  200.899 ms
+seq 745: no response (timeout)
+seq 748: tcp response from yandex.ru (5.255.255.5) [open]  299.567 ms
+seq 747: no response (timeout)
+seq 751: tcp response from yandex.ru (77.88.55.55) [open]  193.423 ms
+seq 749: no response (timeout)
+seq 750: no response (timeout)
+seq 752: tcp response from yandex.ru (77.88.55.66) [open]  193.192 ms
+seq 753: tcp response from yandex.ru (5.255.255.5) [open]  193.041 ms
+seq 754: tcp response from yandex.ru (5.255.255.5) [open]  227.419 ms
+seq 756: tcp response from yandex.ru (77.88.55.66) [open]  196.926 ms
+seq 755: no response (timeout)
+seq 757: tcp response from yandex.ru (5.255.255.5) [open]  195.982 ms
+seq 760: tcp response from yandex.ru (5.255.255.55) [open]  200.038 ms
+seq 758: no response (timeout)
+seq 759: no response (timeout)
+seq 761: no response (timeout)
+seq 763: tcp response from yandex.ru (77.88.55.55) [open]  193.317 ms
+seq 762: tcp response from yandex.ru (77.88.55.55) [open]  195.189 ms
+seq 764: tcp response from yandex.ru (77.88.55.55) [open]  195.297 ms
+seq 766: tcp response from yandex.ru (5.255.255.55) [open]  193.304 ms
+seq 767: tcp response from yandex.ru (5.255.255.55) [open]  193.912 ms
+seq 765: no response (timeout)
+seq 768: tcp response from yandex.ru (77.88.55.66) [open]  197.426 ms
+seq 771: tcp response from yandex.ru (77.88.55.55) [open]  198.451 ms
+seq 770: tcp response from yandex.ru (77.88.55.66) [open]  195.759 ms
+seq 772: tcp response from yandex.ru (77.88.55.55) [open]  193.771 ms
+seq 769: no response (timeout)
+seq 776: tcp response from yandex.ru (5.255.255.55) [open]  200.553 ms
+seq 773: no response (timeout)
+seq 774: no response (timeout)
+seq 778: tcp response from yandex.ru (5.255.255.5) [open]  194.807 ms
+seq 779: tcp response from yandex.ru (5.255.255.5) [open]  197.072 ms
+seq 777: no response (timeout)
+seq 782: tcp response from yandex.ru (5.255.255.5) [open]  201.207 ms
+seq 775: no response (timeout)
+seq 780: no response (timeout)
+seq 781: no response (timeout)
+seq 784: tcp response from yandex.ru (77.88.55.66) [open]  195.741 ms
+seq 785: tcp response from yandex.ru (5.255.255.5) [open]  193.390 ms
+seq 783: no response (timeout)
+seq 787: tcp response from yandex.ru (5.255.255.5) [open]  197.734 ms
+seq 788: tcp response from yandex.ru (77.88.55.55) [open]  195.292 ms
+seq 786: no response (timeout)
+seq 789: tcp response from yandex.ru (77.88.55.55) [open]  192.566 ms
+seq 791: tcp response from yandex.ru (77.88.55.66) [open]  197.462 ms
+seq 790: no response (timeout)
+seq 792: tcp response from yandex.ru (5.255.255.55) [open]  196.713 ms
+seq 793: tcp response from yandex.ru (77.88.55.55) [open]  200.151 ms
+seq 794: tcp response from yandex.ru (5.255.255.5) [open]  194.385 ms
+seq 795: tcp response from yandex.ru (5.255.255.55) [open]  195.594 ms
+seq 796: tcp response from yandex.ru (77.88.55.66) [open]  195.364 ms
+seq 798: tcp response from yandex.ru (5.255.255.55) [open]  201.145 ms
+seq 797: no response (timeout)
+seq 800: tcp response from yandex.ru (5.255.255.5) [open]  197.678 ms
+seq 799: no response (timeout)
+seq 803: tcp response from yandex.ru (77.88.55.55) [open]  193.283 ms
+seq 801: no response (timeout)
+seq 802: no response (timeout)
+seq 804: tcp response from yandex.ru (5.255.255.5) [open]  193.430 ms
+seq 806: tcp response from yandex.ru (77.88.55.55) [open]  192.900 ms
+seq 807: tcp response from yandex.ru (77.88.55.66) [open]  202.612 ms
+seq 805: no response (timeout)
+seq 808: tcp response from yandex.ru (77.88.55.66) [open]  197.087 ms
+seq 812: tcp response from yandex.ru (77.88.55.66) [open]  193.004 ms
+seq 809: no response (timeout)
+seq 810: tcp response from yandex.ru (77.88.55.55) [open]  200.139 ms
+seq 811: no response (timeout)
+seq 813: tcp response from yandex.ru (77.88.55.66) [open]  193.757 ms
+seq 815: tcp response from yandex.ru (5.255.255.5) [open]  194.398 ms
+seq 816: tcp response from yandex.ru (77.88.55.55) [open]  220.421 ms
+seq 814: no response (timeout)
+seq 819: tcp response from yandex.ru (5.255.255.55) [open]  195.642 ms
+seq 818: no response (timeout)
+seq 817: no response (timeout)
+seq 821: tcp response from yandex.ru (77.88.55.55) [open]  194.604 ms
+seq 822: tcp response from yandex.ru (77.88.55.55) [open]  193.479 ms
+seq 820: no response (timeout)
+seq 824: tcp response from yandex.ru (5.255.255.5) [open]  197.346 ms
+seq 823: no response (timeout)
+seq 827: tcp response from yandex.ru (5.255.255.55) [open]  201.004 ms
+seq 825: no response (timeout)
+seq 829: no response (timeout)
+seq 826: tcp response from yandex.ru (5.255.255.5) [open]  197.459 ms
+seq 828: no response (timeout)
+seq 831: no response (timeout)
+seq 830: tcp response from yandex.ru (5.255.255.5) [open]  200.823 ms
+seq 832: tcp response from yandex.ru (77.88.55.55) [open]  222.903 ms
+seq 833: tcp response from yandex.ru (5.255.255.5) [open]  194.368 ms
+seq 834: tcp response from yandex.ru (77.88.55.55) [open]  195.004 ms
+seq 836: tcp response from yandex.ru (77.88.55.66) [open]  197.954 ms
+seq 837: tcp response from yandex.ru (5.255.255.55) [open]  200.028 ms
+seq 838: tcp response from yandex.ru (77.88.55.66) [open]  197.226 ms
+seq 835: no response (timeout)
+seq 839: tcp response from yandex.ru (77.88.55.66) [open]  196.818 ms
+seq 841: tcp response from yandex.ru (77.88.55.55) [open]  193.142 ms
+seq 842: tcp response from yandex.ru (77.88.55.66) [open]  201.398 ms
+seq 840: no response (timeout)
+seq 844: tcp response from yandex.ru (5.255.255.5) [open]  199.679 ms
+seq 845: no response (timeout)
+seq 843: no response (timeout)
+seq 846: tcp response from yandex.ru (5.255.255.5) [open]  200.277 ms
+seq 847: tcp response from yandex.ru (5.255.255.5) [open]  195.381 ms
+seq 848: tcp response from yandex.ru (77.88.55.55) [open]  199.082 ms
+seq 849: tcp response from yandex.ru (77.88.55.66) [open]  197.669 ms
+seq 851: tcp response from yandex.ru (77.88.55.66) [open]  196.609 ms
+seq 852: tcp response from yandex.ru (5.255.255.5) [open]  197.726 ms
+seq 850: no response (timeout)
+seq 853: tcp response from yandex.ru (5.255.255.5) [open]  195.773 ms
+seq 854: tcp response from yandex.ru (77.88.55.55) [open]  192.950 ms
+seq 855: tcp response from yandex.ru (5.255.255.55) [open]  195.472 ms
+seq 856: tcp response from yandex.ru (77.88.55.55) [open]  193.513 ms
+seq 857: tcp response from yandex.ru (5.255.255.5) [open]  196.179 ms
+seq 858: tcp response from yandex.ru (5.255.255.55) [open]  199.966 ms
+seq 859: tcp response from yandex.ru (5.255.255.55) [open]  194.724 ms
+seq 860: tcp response from yandex.ru (5.255.255.5) [open]  197.030 ms
+seq 862: tcp response from yandex.ru (77.88.55.66) [open]  198.520 ms
+seq 861: no response (timeout)
+seq 863: no response (timeout)
+seq 864: no response (timeout)
+seq 865: tcp response from yandex.ru (77.88.55.66) [open]  195.597 ms
+seq 867: tcp response from yandex.ru (77.88.55.66) [open]  193.821 ms
+seq 866: no response (timeout)
+seq 870: tcp response from yandex.ru (77.88.55.55) [open]  197.581 ms
+seq 868: no response (timeout)
+seq 869: no response (timeout)
+seq 872: tcp response from yandex.ru (5.255.255.5) [open]  195.948 ms
+seq 871: no response (timeout)
+seq 873: no response (timeout)
+seq 874: no response (timeout)
+seq 875: no response (timeout)
+seq 876: no response (timeout)
+seq 878: tcp response from yandex.ru (77.88.55.55) [open]  193.403 ms
+seq 877: no response (timeout)
+seq 882: tcp response from yandex.ru (77.88.55.66) [open]  196.889 ms
+seq 880: tcp response from yandex.ru (5.255.255.55) [open]  195.970 ms
+seq 881: no response (timeout)
+seq 884: tcp response from yandex.ru (77.88.55.55) [open]  193.533 ms
+seq 879: no response (timeout)
+seq 883: tcp response from yandex.ru (5.255.255.5) [open]  201.545 ms
+seq 885: tcp response from yandex.ru (77.88.55.66) [open]  193.969 ms
+seq 886: tcp response from yandex.ru (5.255.255.5) [open]  196.385 ms
+seq 887: tcp response from yandex.ru (5.255.255.55) [open]  200.546 ms
+seq 888: tcp response from yandex.ru (5.255.255.55) [open]  192.751 ms
+seq 889: tcp response from yandex.ru (5.255.255.55) [open]  194.403 ms
+seq 891: tcp response from yandex.ru (5.255.255.55) [open]  194.028 ms
+seq 890: no response (timeout)
+seq 892: no response (timeout)
+seq 895: tcp response from yandex.ru (5.255.255.55) [open]  196.957 ms
+seq 893: tcp response from yandex.ru (77.88.55.55) [open]  199.009 ms
+seq 894: no response (timeout)
+seq 897: tcp response from yandex.ru (77.88.55.55) [open]  193.081 ms
+seq 896: no response (timeout)
+seq 899: tcp response from yandex.ru (5.255.255.55) [open]  195.648 ms
+seq 898: no response (timeout)
+seq 901: tcp response from yandex.ru (77.88.55.55) [open]  194.192 ms
+seq 903: tcp response from yandex.ru (5.255.255.55) [open]  194.573 ms
+seq 904: tcp response from yandex.ru (5.255.255.5) [open]  194.945 ms
+seq 902: no response (timeout)
+seq 906: tcp response from yandex.ru (5.255.255.55) [open]  198.258 ms
+seq 900: no response (timeout)
+seq 907: tcp response from yandex.ru (77.88.55.55) [open]  200.429 ms
+seq 908: tcp response from yandex.ru (77.88.55.66) [open]  195.726 ms
+seq 905: no response (timeout)
+seq 911: tcp response from yandex.ru (77.88.55.55) [open]  193.723 ms
+seq 909: no response (timeout)
+seq 912: tcp response from yandex.ru (77.88.55.55) [open]  196.546 ms
+seq 910: no response (timeout)
+seq 914: tcp response from yandex.ru (5.255.255.5) [open]  196.625 ms
+seq 915: tcp response from yandex.ru (77.88.55.66) [open]  197.038 ms
+seq 913: no response (timeout)
+seq 916: tcp response from yandex.ru (77.88.55.66) [open]  196.106 ms
+seq 917: tcp response from yandex.ru (5.255.255.55) [open]  195.855 ms
+seq 918: no response (timeout)
+seq 920: tcp response from yandex.ru (5.255.255.5) [open]  199.956 ms
+seq 922: tcp response from yandex.ru (77.88.55.66) [open]  201.778 ms
+seq 921: no response (timeout)
+seq 924: tcp response from yandex.ru (77.88.55.55) [open]  198.752 ms
+seq 925: tcp response from yandex.ru (5.255.255.55) [open]  194.470 ms
+seq 923: no response (timeout)
+seq 919: no response (timeout)
+seq 926: tcp response from yandex.ru (5.255.255.5) [open]  197.089 ms
+seq 927: tcp response from yandex.ru (5.255.255.5) [open]  194.319 ms
+seq 928: tcp response from yandex.ru (5.255.255.55) [open]  200.961 ms
+seq 930: tcp response from yandex.ru (77.88.55.66) [open]  193.311 ms
+seq 931: tcp response from yandex.ru (77.88.55.66) [open]  224.006 ms
+seq 929: no response (timeout)
+seq 934: tcp response from yandex.ru (77.88.55.66) [open]  196.370 ms
+seq 932: no response (timeout)
+seq 935: tcp response from yandex.ru (77.88.55.55) [open]  193.719 ms
+seq 933: no response (timeout)
+seq 938: tcp response from yandex.ru (77.88.55.66) [open]  195.438 ms
+seq 939: tcp response from yandex.ru (5.255.255.5) [open]  195.994 ms
+seq 937: no response (timeout)
+seq 936: no response (timeout)
+seq 941: tcp response from yandex.ru (5.255.255.5) [open]  194.775 ms
+seq 940: no response (timeout)
+seq 942: tcp response from yandex.ru (5.255.255.5) [open]  194.385 ms
+seq 945: tcp response from yandex.ru (77.88.55.66) [open]  194.182 ms
+seq 943: no response (timeout)
+seq 949: tcp response from yandex.ru (77.88.55.66) [open]  198.081 ms
+seq 944: no response (timeout)
+seq 950: tcp response from yandex.ru (77.88.55.66) [open]  202.041 ms
+seq 947: tcp response from yandex.ru (5.255.255.55) [open]  196.299 ms
+seq 946: tcp response from yandex.ru (5.255.255.55) [open]  192.729 ms
+seq 948: no response (timeout)
+seq 951: tcp response from yandex.ru (5.255.255.55) [open]  236.163 ms
+seq 952: tcp response from yandex.ru (5.255.255.55) [open]  194.440 ms
+seq 953: tcp response from yandex.ru (5.255.255.5) [open]  197.587 ms
+seq 955: tcp response from yandex.ru (5.255.255.5) [open]  195.614 ms
+seq 956: tcp response from yandex.ru (77.88.55.55) [open]  193.710 ms
+seq 954: no response (timeout)
+seq 958: tcp response from yandex.ru (5.255.255.55) [open]  201.151 ms
+seq 957: no response (timeout)
+seq 960: tcp response from yandex.ru (77.88.55.55) [open]  193.948 ms
+seq 959: tcp response from yandex.ru (77.88.55.55) [open]  196.848 ms
+seq 963: tcp response from yandex.ru (5.255.255.5) [open]  222.435 ms
+seq 962: tcp response from yandex.ru (77.88.55.55) [open]  199.216 ms
+seq 961: no response (timeout)
+seq 965: tcp response from yandex.ru (77.88.55.66) [open]  245.593 ms
+seq 964: no response (timeout)
+seq 966: tcp response from yandex.ru (5.255.255.55) [open]  192.765 ms
+seq 968: tcp response from yandex.ru (77.88.55.55) [open]  195.031 ms
+seq 969: tcp response from yandex.ru (77.88.55.66) [open]  201.556 ms
+seq 967: no response (timeout)
+seq 972: tcp response from yandex.ru (5.255.255.55) [open]  225.262 ms
+seq 970: no response (timeout)
+seq 971: no response (timeout)
+seq 974: tcp response from yandex.ru (77.88.55.66) [open]  195.813 ms
+seq 973: no response (timeout)
+seq 976: tcp response from yandex.ru (77.88.55.66) [open]  199.108 ms
+seq 977: tcp response from yandex.ru (5.255.255.5) [open]  195.316 ms
+seq 975: no response (timeout)
+seq 978: tcp response from yandex.ru (5.255.255.5) [open]  198.340 ms
+seq 979: tcp response from yandex.ru (5.255.255.55) [open]  192.267 ms
+seq 980: tcp response from yandex.ru (77.88.55.55) [open]  194.133 ms
+seq 982: tcp response from yandex.ru (5.255.255.55) [open]  194.643 ms
+seq 983: tcp response from yandex.ru (77.88.55.55) [open]  194.629 ms
+seq 981: no response (timeout)
+seq 985: tcp response from yandex.ru (77.88.55.55) [open]  198.978 ms
+seq 986: tcp response from yandex.ru (77.88.55.55) [open]  194.259 ms
+seq 987: tcp response from yandex.ru (77.88.55.55) [open]  197.968 ms
+seq 984: no response (timeout)
+seq 988: tcp response from yandex.ru (5.255.255.5) [open]  195.579 ms
+seq 989: tcp response from yandex.ru (77.88.55.55) [open]  193.400 ms
+seq 990: tcp response from yandex.ru (5.255.255.5) [open]  197.923 ms
+seq 991: tcp response from yandex.ru (77.88.55.66) [open]  193.529 ms
+seq 993: tcp response from yandex.ru (77.88.55.55) [open]  197.416 ms
+seq 992: tcp response from yandex.ru (5.255.255.55) [open]  200.908 ms
+seq 995: tcp response from yandex.ru (5.255.255.55) [open]  192.332 ms
+seq 994: no response (timeout)
+seq 997: tcp response from yandex.ru (5.255.255.55) [open]  196.757 ms
+seq 1000: tcp response from yandex.ru (5.255.255.5) [open]  198.020 ms
+seq 998: no response (timeout)
+seq 999: no response (timeout)
+seq 1003: tcp response from yandex.ru (5.255.255.55) [open]  200.444 ms
+seq 996: no response (timeout)
+seq 1001: no response (timeout)
+seq 1002: no response (timeout)
+seq 1005: tcp response from yandex.ru (5.255.255.5) [open]  196.336 ms
+seq 1006: tcp response from yandex.ru (77.88.55.55) [open]  196.894 ms
+seq 1004: no response (timeout)
+seq 1009: tcp response from yandex.ru (77.88.55.66) [open]  198.054 ms
+seq 1010: tcp response from yandex.ru (77.88.55.55) [open]  195.039 ms
+seq 1007: no response (timeout)
+seq 1008: no response (timeout)
+seq 1012: tcp response from yandex.ru (5.255.255.55) [open]  194.785 ms
+seq 1014: tcp response from yandex.ru (5.255.255.5) [open]  199.095 ms
+seq 1015: tcp response from yandex.ru (5.255.255.55) [open]  194.071 ms
+seq 1013: no response (timeout)
+seq 1011: tcp response from yandex.ru (5.255.255.55) [open]  192.617 ms
+seq 1016: tcp response from yandex.ru (5.255.255.5) [open]  195.857 ms
+seq 1017: tcp response from yandex.ru (77.88.55.66) [open]  193.973 ms
+seq 1019: tcp response from yandex.ru (77.88.55.55) [open]  193.980 ms
+seq 1018: tcp response from yandex.ru (5.255.255.55) [open]  200.747 ms
+seq 1021: tcp response from yandex.ru (77.88.55.66) [open]  196.723 ms
+seq 1023: tcp response from yandex.ru (77.88.55.55) [open]  196.959 ms
+seq 1020: tcp response from yandex.ru (77.88.55.66) [open]  197.175 ms
+seq 1022: no response (timeout)
+seq 1025: tcp response from yandex.ru (5.255.255.55) [open]  200.920 ms
+seq 1024: no response (timeout)
+seq 1027: tcp response from yandex.ru (5.255.255.5) [open]  194.678 ms
+seq 1026: no response (timeout)
+seq 1028: tcp response from yandex.ru (77.88.55.55) [open]  199.054 ms
+seq 1030: tcp response from yandex.ru (5.255.255.5) [open]  194.952 ms
+seq 1031: tcp response from yandex.ru (77.88.55.55) [open]  194.939 ms
+seq 1029: no response (timeout)
+seq 1032: tcp response from yandex.ru (5.255.255.55) [open]  196.494 ms
+seq 1034: tcp response from yandex.ru (77.88.55.66) [open]  196.866 ms
+seq 1033: no response (timeout)
+seq 1036: tcp response from yandex.ru (5.255.255.5) [open]  197.632 ms
+seq 1038: tcp response from yandex.ru (77.88.55.55) [open]  193.949 ms
+seq 1035: no response (timeout)
+seq 1039: tcp response from yandex.ru (77.88.55.55) [open]  201.684 ms
+seq 1037: no response (timeout)
+seq 1041: tcp response from yandex.ru (5.255.255.5) [open]  195.678 ms
+seq 1040: no response (timeout)
+seq 1043: tcp response from yandex.ru (77.88.55.66) [open]  197.790 ms
+seq 1044: tcp response from yandex.ru (5.255.255.5) [open]  193.659 ms
+seq 1042: no response (timeout)
+seq 1045: tcp response from yandex.ru (77.88.55.55) [open]  196.953 ms
+seq 1046: tcp response from yandex.ru (5.255.255.5) [open]  196.511 ms
+seq 1048: tcp response from yandex.ru (77.88.55.55) [open]  194.593 ms
+seq 1047: no response (timeout)
+seq 1050: tcp response from yandex.ru (5.255.255.55) [open]  196.273 ms
+seq 1049: no response (timeout)
+seq 1052: tcp response from yandex.ru (77.88.55.66) [open]  197.134 ms
+seq 1054: tcp response from yandex.ru (77.88.55.55) [open]  198.728 ms
+seq 1051: no response (timeout)
+seq 1055: tcp response from yandex.ru (5.255.255.55) [open]  193.482 ms
+seq 1053: no response (timeout)
+seq 1058: tcp response from yandex.ru (5.255.255.55) [open]  200.643 ms
+seq 1056: no response (timeout)
+seq 1059: tcp response from yandex.ru (5.255.255.55) [open]  200.824 ms
+seq 1057: tcp response from yandex.ru (5.255.255.55) [open]  194.512 ms
+seq 1062: tcp response from yandex.ru (5.255.255.5) [open]  194.644 ms
+seq 1060: no response (timeout)
+seq 1064: tcp response from yandex.ru (5.255.255.55) [open]  198.652 ms
+seq 1065: tcp response from yandex.ru (77.88.55.66) [open]  196.608 ms
+seq 1063: no response (timeout)
+seq 1061: no response (timeout)
+seq 1067: tcp response from yandex.ru (77.88.55.55) [open]  199.053 ms
+seq 1068: tcp response from yandex.ru (77.88.55.55) [open]  195.229 ms
+seq 1066: no response (timeout)
+seq 1070: tcp response from yandex.ru (5.255.255.5) [open]  199.012 ms
+seq 1071: tcp response from yandex.ru (77.88.55.66) [open]  198.401 ms
+seq 1069: no response (timeout)
+seq 1072: tcp response from yandex.ru (77.88.55.66) [open]  202.343 ms
+seq 1073: tcp response from yandex.ru (5.255.255.5) [open]  196.383 ms
+seq 1074: tcp response from yandex.ru (5.255.255.55) [open]  202.237 ms
+seq 1076: tcp response from yandex.ru (5.255.255.5) [open]  196.600 ms
+seq 1075: no response (timeout)
+seq 1078: tcp response from yandex.ru (77.88.55.66) [open]  236.802 ms
+seq 1077: no response (timeout)
+seq 1081: tcp response from yandex.ru (77.88.55.66) [open]  193.484 ms
+seq 1079: no response (timeout)
+seq 1080: no response (timeout)
+seq 1082: tcp response from yandex.ru (77.88.55.66) [open]  193.313 ms
+seq 1084: tcp response from yandex.ru (5.255.255.55) [open]  195.038 ms
+seq 1083: no response (timeout)
+seq 1085: no response (timeout)
+seq 1086: no response (timeout)
+seq 1087: no response (timeout)
+seq 1088: no response (timeout)
+seq 1090: tcp response from yandex.ru (77.88.55.55) [open]  201.354 ms
+seq 1089: no response (timeout)
+seq 1093: tcp response from yandex.ru (5.255.255.5) [open]  197.168 ms
+seq 1091: no response (timeout)
+seq 1092: no response (timeout)
+seq 1096: tcp response from yandex.ru (5.255.255.55) [open]  202.717 ms
+seq 1094: no response (timeout)
+seq 1095: no response (timeout)
+seq 1098: tcp response from yandex.ru (5.255.255.55) [open]  200.293 ms
+seq 1099: tcp response from yandex.ru (5.255.255.55) [open]  195.683 ms
+seq 1097: no response (timeout)
+seq 1100: tcp response from yandex.ru (77.88.55.55) [open]  199.462 ms
+seq 1101: tcp response from yandex.ru (77.88.55.55) [open]  194.483 ms
+seq 1102: tcp response from yandex.ru (5.255.255.5) [open]  194.690 ms
+seq 1103: tcp response from yandex.ru (77.88.55.66) [open]  196.708 ms
+seq 1104: tcp response from yandex.ru (5.255.255.55) [open]  192.692 ms
+seq 1105: tcp response from yandex.ru (77.88.55.66) [open]  202.249 ms
+seq 1107: tcp response from yandex.ru (5.255.255.55) [open]  196.116 ms
+seq 1106: no response (timeout)
+seq 1109: tcp response from yandex.ru (77.88.55.55) [open]  194.857 ms
+seq 1108: no response (timeout)
+seq 1111: tcp response from yandex.ru (77.88.55.55) [open]  193.672 ms
+seq 1112: tcp response from yandex.ru (5.255.255.5) [open]  195.737 ms
+seq 1110: no response (timeout)
+seq 1114: tcp response from yandex.ru (77.88.55.55) [open]  194.114 ms
+seq 1113: no response (timeout)
+seq 1116: tcp response from yandex.ru (77.88.55.66) [open]  197.171 ms
+seq 1115: no response (timeout)
+seq 1118: tcp response from yandex.ru (77.88.55.66) [open]  197.366 ms
+seq 1117: no response (timeout)
+seq 1120: tcp response from yandex.ru (77.88.55.55) [open]  194.093 ms
+seq 1119: no response (timeout)
+seq 1122: tcp response from yandex.ru (77.88.55.55) [open]  197.298 ms
+seq 1121: no response (timeout)
+seq 1124: tcp response from yandex.ru (77.88.55.66) [open]  197.126 ms
+seq 1123: no response (timeout)
+seq 1126: tcp response from yandex.ru (5.255.255.5) [open]  193.649 ms
+seq 1127: tcp response from yandex.ru (5.255.255.55) [open]  201.707 ms
+seq 1125: no response (timeout)
+seq 1129: tcp response from yandex.ru (5.255.255.5) [open]  201.837 ms
+seq 1128: no response (timeout)
+seq 1131: tcp response from yandex.ru (77.88.55.55) [open]  193.661 ms
+seq 1130: no response (timeout)
+seq 1132: tcp response from yandex.ru (77.88.55.66) [open]  195.471 ms
+seq 1134: tcp response from yandex.ru (77.88.55.55) [open]  199.402 ms
+seq 1135: tcp response from yandex.ru (5.255.255.5) [open]  195.109 ms
+seq 1133: no response (timeout)
+seq 1138: tcp response from yandex.ru (5.255.255.5) [open]  197.920 ms
+seq 1136: no response (timeout)
+seq 1137: no response (timeout)
+seq 1141: tcp response from yandex.ru (5.255.255.55) [open]  195.447 ms
+seq 1139: no response (timeout)
+seq 1140: no response (timeout)
+seq 1142: tcp response from yandex.ru (5.255.255.55) [open]  201.074 ms
+seq 1144: tcp response from yandex.ru (77.88.55.66) [open]  195.939 ms
+seq 1143: no response (timeout)
+seq 1146: tcp response from yandex.ru (5.255.255.55) [open]  197.654 ms
+seq 1147: tcp response from yandex.ru (77.88.55.66) [open]  196.609 ms
+seq 1145: no response (timeout)
+seq 1148: tcp response from yandex.ru (77.88.55.55) [open]  197.049 ms
+seq 1149: tcp response from yandex.ru (77.88.55.55) [open]  198.587 ms
+seq 1150: tcp response from yandex.ru (5.255.255.55) [open]  196.152 ms
+seq 1152: tcp response from yandex.ru (5.255.255.5) [open]  194.892 ms
+seq 1153: tcp response from yandex.ru (77.88.55.55) [open]  194.189 ms
+seq 1154: tcp response from yandex.ru (5.255.255.55) [open]  196.614 ms
+seq 1155: tcp response from yandex.ru (5.255.255.5) [open]  197.743 ms
+seq 1151: no response (timeout)
+seq 1156: tcp response from yandex.ru (77.88.55.66) [open]  203.380 ms
+seq 1159: tcp response from yandex.ru (5.255.255.55) [open]  192.641 ms
+seq 1157: no response (timeout)
+seq 1158: no response (timeout)
+seq 1160: tcp response from yandex.ru (77.88.55.66) [open]  196.578 ms
+seq 1162: tcp response from yandex.ru (5.255.255.55) [open]  196.849 ms
+seq 1163: tcp response from yandex.ru (5.255.255.5) [open]  192.967 ms
+seq 1161: no response (timeout)
+seq 1164: tcp response from yandex.ru (5.255.255.55) [open]  194.201 ms
+seq 1167: tcp response from yandex.ru (5.255.255.55) [open]  200.260 ms
+seq 1165: no response (timeout)
+seq 1166: no response (timeout)
+seq 1170: tcp response from yandex.ru (5.255.255.55) [open]  194.720 ms
+seq 1168: no response (timeout)
+seq 1169: no response (timeout)
+seq 1171: tcp response from yandex.ru (5.255.255.55) [open]  193.218 ms
+seq 1173: tcp response from yandex.ru (5.255.255.55) [open]  195.757 ms
+seq 1172: no response (timeout)
+seq 1175: tcp response from yandex.ru (77.88.55.66) [open]  195.717 ms
+seq 1176: tcp response from yandex.ru (5.255.255.55) [open]  195.829 ms
+seq 1174: no response (timeout)
+seq 1177: tcp response from yandex.ru (5.255.255.5) [open]  196.159 ms
+seq 1178: tcp response from yandex.ru (77.88.55.55) [open]  195.010 ms
+seq 1179: tcp response from yandex.ru (5.255.255.5) [open]  193.374 ms
+seq 1181: tcp response from yandex.ru (5.255.255.5) [open]  196.797 ms
+seq 1182: tcp response from yandex.ru (77.88.55.55) [open]  194.112 ms
+seq 1180: no response (timeout)
+seq 1186: tcp response from yandex.ru (77.88.55.55) [open]  199.749 ms
+seq 1184: no response (timeout)
+seq 1188: tcp response from yandex.ru (5.255.255.5) [open]  194.817 ms
+seq 1183: no response (timeout)
+seq 1185: no response (timeout)
+seq 1189: tcp response from yandex.ru (77.88.55.55) [open]  193.840 ms
+seq 1190: tcp response from yandex.ru (5.255.255.5) [open]  200.754 ms
+seq 1187: no response (timeout)
+seq 1193: tcp response from yandex.ru (5.255.255.5) [open]  201.037 ms
+seq 1191: no response (timeout)
+seq 1192: no response (timeout)
+seq 1194: no response (timeout)
+seq 1197: tcp response from yandex.ru (77.88.55.55) [open]  193.630 ms
+seq 1195: no response (timeout)
+seq 1198: tcp response from yandex.ru (5.255.255.55) [open]  200.575 ms
+seq 1196: no response (timeout)
+seq 1201: tcp response from yandex.ru (5.255.255.5) [open]  197.698 ms
+seq 1199: no response (timeout)
+seq 1202: tcp response from yandex.ru (77.88.55.55) [open]  194.095 ms
+seq 1200: no response (timeout)
+seq 1203: tcp response from yandex.ru (5.255.255.55) [open]  194.952 ms
+seq 1206: tcp response from yandex.ru (5.255.255.55) [open]  194.288 ms
+seq 1207: tcp response from yandex.ru (77.88.55.66) [open]  202.572 ms
+seq 1204: no response (timeout)
+seq 1205: no response (timeout)
+seq 1208: tcp response from yandex.ru (77.88.55.66) [open]  196.806 ms
+seq 1210: tcp response from yandex.ru (5.255.255.55) [open]  197.393 ms
+seq 1209: no response (timeout)
+seq 1215: tcp response from yandex.ru (77.88.55.55) [open]  200.789 ms
+seq 1213: no response (timeout)
+seq 1212: tcp response from yandex.ru (77.88.55.55) [open]  198.808 ms
+seq 1211: no response (timeout)
+seq 1214: no response (timeout)
+seq 1216: no response (timeout)
+seq 1217: no response (timeout)
+seq 1218: no response (timeout)
+seq 1223: tcp response from yandex.ru (5.255.255.55) [open]  192.564 ms
+seq 1224: tcp response from yandex.ru (5.255.255.55) [open]  194.597 ms
+seq 1220: tcp response from yandex.ru (77.88.55.55) [open]  214.095 ms
+seq 1219: no response (timeout)
+seq 1221: tcp response from yandex.ru (5.255.255.55) [open]  202.212 ms
+seq 1228: tcp response from yandex.ru (77.88.55.55) [open]  255.679 ms
+seq 1226: no response (timeout)
+seq 1231: tcp response from yandex.ru (77.88.55.66) [open]  195.806 ms
+seq 1222: no response (timeout)
+seq 1225: no response (timeout)
+seq 1227: no response (timeout)
+seq 1230: tcp response from yandex.ru (5.255.255.55) [open]  197.862 ms
+seq 1232: no response (timeout)
+seq 1229: tcp response from yandex.ru (5.255.255.55) [open]  196.539 ms
+seq 1237: tcp response from yandex.ru (77.88.55.66) [open]  197.554 ms
+seq 1234: no response (timeout)
+seq 1236: no response (timeout)
+seq 1235: no response (timeout)
+seq 1233: no response (timeout)
+seq 1239: tcp response from yandex.ru (5.255.255.55) [open]  195.053 ms
+seq 1240: tcp response from yandex.ru (5.255.255.55) [open]  201.419 ms
+seq 1238: no response (timeout)
+seq 1241: tcp response from yandex.ru (5.255.255.5) [open]  198.539 ms
+seq 1243: tcp response from yandex.ru (77.88.55.66) [open]  197.291 ms
+seq 1242: tcp response from yandex.ru (5.255.255.55) [open]  193.703 ms
+seq 1244: tcp response from yandex.ru (77.88.55.55) [open]  193.470 ms
+seq 1245: tcp response from yandex.ru (77.88.55.55) [open]  193.364 ms
+seq 1246: tcp response from yandex.ru (5.255.255.5) [open]  200.311 ms
+seq 1247: tcp response from yandex.ru (77.88.55.66) [open]  196.306 ms
+seq 1248: tcp response from yandex.ru (77.88.55.66) [open]  197.163 ms
+seq 1249: tcp response from yandex.ru (5.255.255.5) [open]  200.169 ms
+seq 1251: tcp response from yandex.ru (77.88.55.55) [open]  199.103 ms
+seq 1250: tcp response from yandex.ru (5.255.255.55) [open]  197.084 ms
+seq 1255: tcp response from yandex.ru (5.255.255.5) [open]  193.090 ms
+seq 1252: no response (timeout)
+seq 1253: no response (timeout)
+seq 1254: tcp response from yandex.ru (77.88.55.55) [open]  193.549 ms
+seq 1258: tcp response from yandex.ru (77.88.55.55) [open]  199.296 ms
+seq 1256: no response (timeout)
+seq 1257: tcp response from yandex.ru (77.88.55.55) [open]  193.069 ms
+seq 1259: tcp response from yandex.ru (77.88.55.55) [open]  196.815 ms
+seq 1262: tcp response from yandex.ru (77.88.55.66) [open]  196.365 ms
+seq 1260: no response (timeout)
+seq 1264: tcp response from yandex.ru (77.88.55.55) [open]  199.409 ms
+seq 1261: no response (timeout)
+seq 1263: tcp response from yandex.ru (77.88.55.66) [open]  193.176 ms
+seq 1266: tcp response from yandex.ru (5.255.255.5) [open]  196.338 ms
+seq 1265: no response (timeout)
+seq 1268: tcp response from yandex.ru (77.88.55.55) [open]  194.202 ms
+seq 1267: no response (timeout)
+seq 1271: tcp response from yandex.ru (77.88.55.55) [open]  194.538 ms
+seq 1269: no response (timeout)
+seq 1270: no response (timeout)
+seq 1272: tcp response from yandex.ru (5.255.255.5) [open]  194.464 ms
+seq 1273: tcp response from yandex.ru (5.255.255.5) [open]  195.445 ms
+seq 1275: tcp response from yandex.ru (77.88.55.66) [open]  196.851 ms
+seq 1274: tcp response from yandex.ru (5.255.255.5) [open]  193.600 ms
+seq 1277: tcp response from yandex.ru (77.88.55.55) [open]  198.793 ms
+seq 1279: tcp response from yandex.ru (77.88.55.66) [open]  196.718 ms
+seq 1278: no response (timeout)
+seq 1280: tcp response from yandex.ru (77.88.55.55) [open]  193.431 ms
+seq 1276: no response (timeout)
+seq 1283: tcp response from yandex.ru (5.255.255.55) [open]  196.327 ms
+seq 1281: no response (timeout)
+seq 1282: no response (timeout)
+seq 1284: no response (timeout)
+seq 1285: no response (timeout)
+seq 1287: tcp response from yandex.ru (77.88.55.66) [open]  197.162 ms
+seq 1286: no response (timeout)
+seq 1289: tcp response from yandex.ru (77.88.55.66) [open]  201.493 ms
+seq 1288: no response (timeout)
+seq 1290: tcp response from yandex.ru (5.255.255.5) [open]  195.864 ms
+seq 1293: tcp response from yandex.ru (77.88.55.55) [open]  194.625 ms
+seq 1291: no response (timeout)
+seq 1295: tcp response from yandex.ru (77.88.55.66) [open]  197.123 ms
+seq 1292: tcp response from yandex.ru (77.88.55.55) [open]  194.633 ms
+seq 1294: no response (timeout)
+seq 1297: tcp response from yandex.ru (77.88.55.55) [open]  193.981 ms
+seq 1299: tcp response from yandex.ru (77.88.55.66) [open]  196.908 ms
+seq 1300: tcp response from yandex.ru (5.255.255.55) [open]  196.109 ms
+seq 1296: no response (timeout)
+seq 1298: no response (timeout)
+seq 1301: tcp response from yandex.ru (5.255.255.55) [open]  192.288 ms
+seq 1302: tcp response from yandex.ru (77.88.55.66) [open]  197.963 ms
+seq 1305: tcp response from yandex.ru (5.255.255.55) [open]  200.208 ms
+seq 1303: no response (timeout)
+seq 1306: tcp response from yandex.ru (5.255.255.5) [open]  197.755 ms
+seq 1304: no response (timeout)
+seq 1309: tcp response from yandex.ru (5.255.255.5) [open]  197.554 ms
+seq 1310: tcp response from yandex.ru (5.255.255.55) [open]  194.671 ms
+seq 1308: no response (timeout)
+seq 1307: no response (timeout)
+seq 1311: tcp response from yandex.ru (5.255.255.55) [open]  197.065 ms
+seq 1312: tcp response from yandex.ru (77.88.55.55) [open]  193.985 ms
+seq 1313: tcp response from yandex.ru (5.255.255.55) [open]  195.801 ms
+seq 1315: tcp response from yandex.ru (77.88.55.55) [open]  198.601 ms
+seq 1314: no response (timeout)
+seq 1318: tcp response from yandex.ru (77.88.55.55) [open]  196.570 ms
+seq 1316: no response (timeout)
+seq 1317: no response (timeout)
+seq 1321: tcp response from yandex.ru (77.88.55.66) [open]  196.917 ms
+seq 1319: no response (timeout)
+seq 1322: tcp response from yandex.ru (77.88.55.66) [open]  196.825 ms
+seq 1320: no response (timeout)
+seq 1324: tcp response from yandex.ru (5.255.255.5) [open]  195.655 ms
+seq 1325: tcp response from yandex.ru (77.88.55.55) [open]  194.695 ms
+seq 1323: no response (timeout)
+seq 1327: tcp response from yandex.ru (5.255.255.55) [open]  200.987 ms
+seq 1328: tcp response from yandex.ru (77.88.55.66) [open]  210.009 ms
+seq 1326: no response (timeout)
+seq 1331: tcp response from yandex.ru (77.88.55.66) [open]  196.634 ms
+seq 1329: no response (timeout)
+seq 1330: no response (timeout)
+seq 1334: tcp response from yandex.ru (5.255.255.5) [open]  194.983 ms
+seq 1332: no response (timeout)
+seq 1333: no response (timeout)
+seq 1337: tcp response from yandex.ru (5.255.255.55) [open]  196.550 ms
+seq 1335: no response (timeout)
+seq 1338: tcp response from yandex.ru (5.255.255.5) [open]  194.426 ms
+seq 1336: no response (timeout)
+seq 1340: tcp response from yandex.ru (77.88.55.55) [open]  201.189 ms
+seq 1341: tcp response from yandex.ru (77.88.55.55) [open]  194.684 ms
+seq 1342: tcp response from yandex.ru (77.88.55.66) [open]  196.974 ms
+seq 1339: no response (timeout)
+seq 1344: tcp response from yandex.ru (5.255.255.5) [open]  197.683 ms
+seq 1343: no response (timeout)
+seq 1347: tcp response from yandex.ru (5.255.255.55) [open]  202.415 ms
+seq 1345: no response (timeout)
+seq 1346: no response (timeout)
+seq 1349: tcp response from yandex.ru (5.255.255.55) [open]  194.480 ms
+seq 1351: tcp response from yandex.ru (5.255.255.5) [open]  200.429 ms
+seq 1350: tcp response from yandex.ru (5.255.255.5) [open]  195.813 ms
+seq 1348: no response (timeout)
+seq 1352: tcp response from yandex.ru (5.255.255.55) [open]  196.190 ms
+seq 1353: tcp response from yandex.ru (77.88.55.66) [open]  195.746 ms
+seq 1354: tcp response from yandex.ru (5.255.255.55) [open]  196.628 ms
+seq 1355: tcp response from yandex.ru (5.255.255.55) [open]  193.713 ms
+seq 1356: tcp response from yandex.ru (5.255.255.5) [open]  199.154 ms
+seq 1358: tcp response from yandex.ru (5.255.255.55) [open]  194.609 ms
+seq 1359: tcp response from yandex.ru (77.88.55.55) [open]  193.457 ms
+seq 1357: no response (timeout)
+seq 1362: tcp response from yandex.ru (77.88.55.55) [open]  193.361 ms
+seq 1363: tcp response from yandex.ru (5.255.255.55) [open]  194.498 ms
+seq 1361: tcp response from yandex.ru (5.255.255.55) [open]  200.766 ms
+seq 1360: no response (timeout)
+seq 1364: tcp response from yandex.ru (77.88.55.55) [open]  197.027 ms
+seq 1365: no response (timeout)
+seq 1367: tcp response from yandex.ru (5.255.255.55) [open]  196.565 ms
+seq 1366: tcp response from yandex.ru (5.255.255.55) [open]  200.907 ms
+seq 1368: tcp response from yandex.ru (77.88.55.66) [open]  194.031 ms
+seq 1369: tcp response from yandex.ru (5.255.255.5) [open]  199.680 ms
+seq 1370: tcp response from yandex.ru (5.255.255.5) [open]  195.911 ms
+seq 1371: tcp response from yandex.ru (77.88.55.66) [open]  197.187 ms
+seq 1372: tcp response from yandex.ru (77.88.55.55) [open]  193.449 ms
+seq 1374: tcp response from yandex.ru (77.88.55.66) [open]  196.327 ms
+seq 1375: tcp response from yandex.ru (5.255.255.5) [open]  194.712 ms
+seq 1373: no response (timeout)
+seq 1377: tcp response from yandex.ru (5.255.255.5) [open]  197.740 ms
+seq 1378: tcp response from yandex.ru (77.88.55.66) [open]  197.582 ms
+seq 1376: no response (timeout)
+seq 1380: tcp response from yandex.ru (5.255.255.5) [open]  196.657 ms
+seq 1379: no response (timeout)
+seq 1382: tcp response from yandex.ru (5.255.255.55) [open]  201.855 ms
+seq 1381: no response (timeout)
+seq 1384: tcp response from yandex.ru (77.88.55.55) [open]  195.169 ms
+seq 1383: tcp response from yandex.ru (77.88.55.55) [open]  194.416 ms
+seq 1385: tcp response from yandex.ru (77.88.55.55) [open]  193.344 ms
+seq 1387: tcp response from yandex.ru (77.88.55.55) [open]  199.638 ms
+seq 1386: no response (timeout)
+seq 1390: tcp response from yandex.ru (77.88.55.55) [open]  200.291 ms
+seq 1388: tcp response from yandex.ru (5.255.255.5) [open]  194.417 ms
+seq 1389: no response (timeout)
+seq 1392: tcp response from yandex.ru (5.255.255.5) [open]  197.677 ms
+seq 1391: no response (timeout)
+seq 1395: tcp response from yandex.ru (5.255.255.5) [open]  196.094 ms
+seq 1393: no response (timeout)
+seq 1394: no response (timeout)
+seq 1396: tcp response from yandex.ru (5.255.255.5) [open]  197.020 ms
+seq 1397: tcp response from yandex.ru (77.88.55.66) [open]  202.400 ms
+seq 1398: tcp response from yandex.ru (77.88.55.55) [open]  193.894 ms
+seq 1399: no response (timeout)
+seq 1402: tcp response from yandex.ru (5.255.255.5) [open]  195.329 ms
+seq 1400: tcp response from yandex.ru (5.255.255.55) [open]  234.329 ms
+seq 1401: no response (timeout)
+seq 1404: tcp response from yandex.ru (77.88.55.66) [open]  193.370 ms
+seq 1405: tcp response from yandex.ru (77.88.55.55) [open]  199.957 ms
+seq 1403: no response (timeout)
+seq 1406: tcp response from yandex.ru (77.88.55.66) [open]  237.103 ms
+seq 1407: tcp response from yandex.ru (5.255.255.55) [open]  196.948 ms
+seq 1408: tcp response from yandex.ru (77.88.55.55) [open]  195.116 ms
+seq 1409: tcp response from yandex.ru (77.88.55.55) [open]  193.074 ms
+seq 1410: tcp response from yandex.ru (5.255.255.55) [open]  192.630 ms
+seq 1411: tcp response from yandex.ru (5.255.255.5) [open]  221.286 ms
+seq 1412: tcp response from yandex.ru (77.88.55.55) [open]  193.621 ms
+seq 1413: tcp response from yandex.ru (5.255.255.5) [open]  193.024 ms
+seq 1414: tcp response from yandex.ru (77.88.55.55) [open]  193.735 ms
+seq 1415: tcp response from yandex.ru (77.88.55.66) [open]  198.072 ms
+seq 1417: tcp response from yandex.ru (5.255.255.55) [open]  194.742 ms
+seq 1416: no response (timeout)
+seq 1420: tcp response from yandex.ru (5.255.255.55) [open]  196.210 ms
+seq 1418: no response (timeout)
+seq 1419: no response (timeout)
+seq 1423: tcp response from yandex.ru (5.255.255.55) [open]  197.565 ms
+seq 1421: tcp response from yandex.ru (77.88.55.55) [open]  198.654 ms
+seq 1422: no response (timeout)
+seq 1424: tcp response from yandex.ru (5.255.255.55) [open]  195.824 ms
+seq 1425: tcp response from yandex.ru (77.88.55.55) [open]  194.005 ms
+seq 1427: tcp response from yandex.ru (77.88.55.66) [open]  193.487 ms
+seq 1428: tcp response from yandex.ru (77.88.55.55) [open]  194.842 ms
+seq 1426: no response (timeout)
+seq 1429: tcp response from yandex.ru (5.255.255.5) [open]  201.331 ms
+seq 1432: tcp response from yandex.ru (5.255.255.5) [open]  195.695 ms
+seq 1430: no response (timeout)
+seq 1433: tcp response from yandex.ru (77.88.55.66) [open]  196.765 ms
+seq 1434: tcp response from yandex.ru (77.88.55.66) [open]  201.754 ms
+seq 1431: no response (timeout)
+seq 1437: tcp response from yandex.ru (5.255.255.55) [open]  200.056 ms
+seq 1435: no response (timeout)
+seq 1436: no response (timeout)
+seq 1440: tcp response from yandex.ru (77.88.55.55) [open]  193.186 ms
+seq 1438: no response (timeout)
+seq 1439: tcp response from yandex.ru (5.255.255.55) [open]  194.544 ms
+seq 1442: tcp response from yandex.ru (77.88.55.55) [open]  196.648 ms
+seq 1445: tcp response from yandex.ru (5.255.255.55) [open]  197.340 ms
+seq 1443: no response (timeout)
+seq 1444: tcp response from yandex.ru (77.88.55.66) [open]  197.293 ms
+seq 1441: no response (timeout)
+seq 1448: tcp response from yandex.ru (77.88.55.66) [open]  196.704 ms
+seq 1449: tcp response from yandex.ru (77.88.55.66) [open]  201.414 ms
+seq 1451: tcp response from yandex.ru (77.88.55.66) [open]  196.642 ms
+seq 1450: no response (timeout)
+seq 1446: no response (timeout)
+seq 1454: tcp response from yandex.ru (77.88.55.66) [open]  197.344 ms
+seq 1453: no response (timeout)
+seq 1452: no response (timeout)
+seq 1447: no response (timeout)
+seq 1457: tcp response from yandex.ru (5.255.255.5) [open]  194.732 ms
+seq 1455: no response (timeout)
+seq 1456: no response (timeout)
+seq 1460: tcp response from yandex.ru (5.255.255.55) [open]  196.563 ms
+seq 1458: no response (timeout)
+seq 1459: no response (timeout)
+seq 1461: no response (timeout)
+seq 1462: no response (timeout)
+seq 1463: no response (timeout)
+seq 1464: no response (timeout)
+seq 1466: tcp response from yandex.ru (5.255.255.55) [open]  197.949 ms
+seq 1467: tcp response from yandex.ru (77.88.55.55) [open]  194.216 ms
+seq 1468: tcp response from yandex.ru (5.255.255.5) [open]  194.963 ms
+seq 1465: no response (timeout)
+seq 1470: tcp response from yandex.ru (5.255.255.5) [open]  193.273 ms
+seq 1469: no response (timeout)
+seq 1471: tcp response from yandex.ru (5.255.255.55) [open]  194.149 ms
+seq 1474: tcp response from yandex.ru (77.88.55.66) [open]  194.485 ms
+seq 1472: tcp response from yandex.ru (5.255.255.55) [open]  194.509 ms
+seq 1473: tcp response from yandex.ru (77.88.55.66) [open]  226.078 ms
+seq 1475: tcp response from yandex.ru (5.255.255.5) [open]  200.309 ms
+seq 1477: tcp response from yandex.ru (77.88.55.55) [open]  196.169 ms
+seq 1478: tcp response from yandex.ru (5.255.255.5) [open]  200.491 ms
+seq 1476: no response (timeout)
+seq 1481: tcp response from yandex.ru (5.255.255.55) [open]  197.398 ms
+seq 1479: no response (timeout)
+seq 1480: no response (timeout)
+seq 1483: tcp response from yandex.ru (77.88.55.55) [open]  193.088 ms
+seq 1482: tcp response from yandex.ru (77.88.55.66) [open]  193.489 ms
+seq 1484: tcp response from yandex.ru (5.255.255.55) [open]  200.426 ms
+seq 1485: tcp response from yandex.ru (77.88.55.55) [open]  197.482 ms
+seq 1489: tcp response from yandex.ru (5.255.255.5) [open]  196.288 ms
+seq 1486: tcp response from yandex.ru (5.255.255.5) [open]  196.124 ms
+seq 1487: tcp response from yandex.ru (77.88.55.55) [open]  193.074 ms
+seq 1490: tcp response from yandex.ru (77.88.55.55) [open]  194.769 ms
+seq 1488: no response (timeout)
+seq 1493: tcp response from yandex.ru (77.88.55.55) [open]  193.496 ms
+seq 1491: no response (timeout)
+seq 1492: no response (timeout)
+seq 1494: no response (timeout)
+seq 1497: tcp response from yandex.ru (5.255.255.5) [open]  197.655 ms
+seq 1495: no response (timeout)
+seq 1496: no response (timeout)
+seq 1498: no response (timeout)
+seq 1499: no response (timeout)
+seq 1500: no response (timeout)
+seq 1501: no response (timeout)
+seq 1505: tcp response from yandex.ru (77.88.55.66) [open]  195.815 ms
+seq 1502: no response (timeout)
+seq 1503: no response (timeout)
+seq 1507: tcp response from yandex.ru (77.88.55.66) [open]  194.336 ms
+seq 1509: tcp response from yandex.ru (77.88.55.55) [open]  196.200 ms
+seq 1510: tcp response from yandex.ru (77.88.55.55) [open]  193.875 ms
+seq 1506: tcp response from yandex.ru (5.255.255.5) [open]  197.014 ms
+seq 1508: no response (timeout)
+seq 1504: no response (timeout)
+seq 1513: tcp response from yandex.ru (5.255.255.5) [open]  201.017 ms
+seq 1511: no response (timeout)
+seq 1514: tcp response from yandex.ru (77.88.55.66) [open]  193.719 ms
+seq 1512: tcp response from yandex.ru (5.255.255.55) [open]  246.786 ms
+seq 1517: tcp response from yandex.ru (77.88.55.66) [open]  193.939 ms
+seq 1515: no response (timeout)
+seq 1518: tcp response from yandex.ru (5.255.255.55) [open]  192.387 ms
+seq 1516: no response (timeout)
+seq 1520: tcp response from yandex.ru (5.255.255.5) [open]  194.240 ms
+seq 1521: tcp response from yandex.ru (5.255.255.5) [open]  195.344 ms
+seq 1522: tcp response from yandex.ru (77.88.55.66) [open]  197.003 ms
+seq 1519: no response (timeout)
+seq 1523: tcp response from yandex.ru (5.255.255.55) [open]  196.911 ms
+seq 1525: tcp response from yandex.ru (5.255.255.55) [open]  196.305 ms
+seq 1527: tcp response from yandex.ru (77.88.55.55) [open]  195.443 ms
+seq 1526: tcp response from yandex.ru (5.255.255.5) [open]  199.861 ms
+seq 1524: no response (timeout)
+seq 1529: tcp response from yandex.ru (5.255.255.55) [open]  192.090 ms
+seq 1528: no response (timeout)
+seq 1530: no response (timeout)
+seq 1531: no response (timeout)
+seq 1532: no response (timeout)
+seq 1533: no response (timeout)
+seq 1535: tcp response from yandex.ru (77.88.55.66) [open]  196.410 ms
+seq 1534: no response (timeout)
+seq 1538: tcp response from yandex.ru (5.255.255.55) [open]  194.326 ms
+seq 1536: no response (timeout)
+seq 1537: no response (timeout)
+seq 1541: tcp response from yandex.ru (5.255.255.5) [open]  194.384 ms
+seq 1540: tcp response from yandex.ru (5.255.255.55) [open]  195.779 ms
+seq 1539: no response (timeout)
+seq 1545: tcp response from yandex.ru (5.255.255.55) [open]  199.971 ms
+seq 1542: no response (timeout)
+seq 1547: tcp response from yandex.ru (5.255.255.5) [open]  196.833 ms
+seq 1543: tcp response from yandex.ru (77.88.55.55) [open]  198.648 ms
+seq 1544: no response (timeout)
+seq 1546: no response (timeout)
+seq 1548: no response (timeout)
+seq 1551: tcp response from yandex.ru (77.88.55.66) [open]  194.343 ms
+seq 1549: no response (timeout)
+seq 1550: no response (timeout)
+seq 1552: tcp response from yandex.ru (77.88.55.55) [open]  193.880 ms
+seq 1554: tcp response from yandex.ru (5.255.255.5) [open]  226.457 ms
+seq 1553: no response (timeout)
+seq 1557: tcp response from yandex.ru (77.88.55.55) [open]  199.681 ms
+seq 1555: no response (timeout)
+seq 1558: tcp response from yandex.ru (5.255.255.55) [open]  197.149 ms
+seq 1556: no response (timeout)
+seq 1559: tcp response from yandex.ru (5.255.255.55) [open]  197.043 ms
+seq 1560: tcp response from yandex.ru (77.88.55.55) [open]  194.750 ms
+seq 1562: tcp response from yandex.ru (5.255.255.55) [open]  193.635 ms
+seq 1561: tcp response from yandex.ru (77.88.55.55) [open]  193.301 ms
+seq 1564: tcp response from yandex.ru (77.88.55.55) [open]  200.926 ms
+seq 1565: tcp response from yandex.ru (77.88.55.55) [open]  192.972 ms
+seq 1563: no response (timeout)
+seq 1568: tcp response from yandex.ru (77.88.55.66) [open]  202.041 ms
+seq 1569: tcp response from yandex.ru (5.255.255.5) [open]  197.253 ms
+seq 1567: no response (timeout)
+seq 1570: tcp response from yandex.ru (77.88.55.55) [open]  193.539 ms
+seq 1566: no response (timeout)
+seq 1571: tcp response from yandex.ru (5.255.255.5) [open]  193.722 ms
+seq 1572: tcp response from yandex.ru (5.255.255.5) [open]  196.645 ms
+seq 1573: tcp response from yandex.ru (77.88.55.66) [open]  193.547 ms
+seq 1574: tcp response from yandex.ru (5.255.255.5) [open]  201.479 ms
+seq 1575: tcp response from yandex.ru (5.255.255.5) [open]  193.596 ms
+seq 1576: tcp response from yandex.ru (77.88.55.66) [open]  196.245 ms
+seq 1577: tcp response from yandex.ru (5.255.255.5) [open]  194.359 ms
+seq 1578: tcp response from yandex.ru (5.255.255.55) [open]  192.497 ms
+seq 1579: tcp response from yandex.ru (5.255.255.55) [open]  194.453 ms
+seq 1582: tcp response from yandex.ru (77.88.55.55) [open]  194.578 ms
+seq 1580: no response (timeout)
+seq 1581: tcp response from yandex.ru (5.255.255.5) [open]  196.901 ms
+seq 1584: tcp response from yandex.ru (77.88.55.55) [open]  198.823 ms
+seq 1583: no response (timeout)
+seq 1586: tcp response from yandex.ru (77.88.55.55) [open]  192.471 ms
+seq 1585: tcp response from yandex.ru (5.255.255.55) [open]  201.222 ms
+seq 1587: tcp response from yandex.ru (77.88.55.66) [open]  194.341 ms
+seq 1589: tcp response from yandex.ru (77.88.55.66) [open]  197.325 ms
+seq 1590: tcp response from yandex.ru (77.88.55.55) [open]  193.152 ms
+seq 1588: no response (timeout)
+seq 1591: tcp response from yandex.ru (5.255.255.5) [open]  195.663 ms
+seq 1593: tcp response from yandex.ru (77.88.55.66) [open]  201.501 ms
+seq 1594: tcp response from yandex.ru (5.255.255.55) [open]  194.988 ms
+seq 1592: no response (timeout)
+seq 1595: tcp response from yandex.ru (5.255.255.55) [open]  201.745 ms
+seq 1597: tcp response from yandex.ru (77.88.55.55) [open]  194.109 ms
+seq 1598: tcp response from yandex.ru (5.255.255.5) [open]  194.221 ms
+seq 1596: no response (timeout)
+seq 1599: tcp response from yandex.ru (77.88.55.66) [open]  193.813 ms
+seq 1601: tcp response from yandex.ru (5.255.255.55) [open]  194.414 ms
+seq 1602: tcp response from yandex.ru (77.88.55.66) [open]  198.708 ms
+seq 1600: no response (timeout)
+seq 1603: tcp response from yandex.ru (77.88.55.66) [open]  193.605 ms
+seq 1604: tcp response from yandex.ru (77.88.55.66) [open]  198.255 ms
+seq 1605: tcp response from yandex.ru (77.88.55.55) [open]  199.870 ms
+seq 1606: tcp response from yandex.ru (5.255.255.5) [open]  201.176 ms
+seq 1609: tcp response from yandex.ru (77.88.55.55) [open]  193.346 ms
+seq 1607: no response (timeout)
+seq 1608: no response (timeout)
+seq 1612: tcp response from yandex.ru (77.88.55.55) [open]  195.626 ms
+seq 1613: tcp response from yandex.ru (77.88.55.55) [open]  193.246 ms
+seq 1611: no response (timeout)
+seq 1610: no response (timeout)
+seq 1616: tcp response from yandex.ru (5.255.255.55) [open]  196.792 ms
+seq 1614: no response (timeout)
+seq 1615: no response (timeout)
+seq 1617: no response (timeout)
+seq 1618: no response (timeout)
+seq 1621: tcp response from yandex.ru (77.88.55.55) [open]  194.150 ms
+seq 1619: no response (timeout)
+seq 1620: no response (timeout)
+seq 1624: tcp response from yandex.ru (5.255.255.55) [open]  195.623 ms
+seq 1622: no response (timeout)
+seq 1625: tcp response from yandex.ru (5.255.255.5) [open]  195.816 ms
+seq 1623: no response (timeout)
+seq 1628: tcp response from yandex.ru (5.255.255.55) [open]  195.877 ms
+seq 1626: no response (timeout)
+seq 1627: no response (timeout)
+seq 1630: tcp response from yandex.ru (5.255.255.55) [open]  196.766 ms
+seq 1631: tcp response from yandex.ru (77.88.55.66) [open]  197.447 ms
+seq 1629: no response (timeout)
+seq 1633: tcp response from yandex.ru (77.88.55.66) [open]  198.045 ms
+seq 1632: no response (timeout)
+seq 1634: no response (timeout)
+seq 1636: tcp response from yandex.ru (5.255.255.55) [open]  195.940 ms
+seq 1635: no response (timeout)
+seq 1638: tcp response from yandex.ru (77.88.55.66) [open]  193.420 ms
+seq 1637: tcp response from yandex.ru (5.255.255.55) [open]  194.831 ms
+seq 1639: tcp response from yandex.ru (77.88.55.66) [open]  195.822 ms
+seq 1641: tcp response from yandex.ru (77.88.55.66) [open]  197.710 ms
+seq 1642: tcp response from yandex.ru (5.255.255.55) [open]  194.184 ms
+seq 1643: tcp response from yandex.ru (5.255.255.55) [open]  194.359 ms
+seq 1640: no response (timeout)
+seq 1644: tcp response from yandex.ru (77.88.55.55) [open]  194.515 ms
+seq 1647: tcp response from yandex.ru (77.88.55.66) [open]  196.916 ms
+seq 1645: no response (timeout)
+seq 1646: tcp response from yandex.ru (77.88.55.66) [open]  201.630 ms
+seq 1648: tcp response from yandex.ru (5.255.255.5) [open]  194.424 ms
+seq 1649: tcp response from yandex.ru (77.88.55.66) [open]  193.762 ms
+seq 1650: tcp response from yandex.ru (77.88.55.66) [open]  194.463 ms
+seq 1651: tcp response from yandex.ru (5.255.255.55) [open]  201.214 ms
+seq 1653: tcp response from yandex.ru (5.255.255.55) [open]  200.882 ms
+seq 1652: tcp response from yandex.ru (77.88.55.55) [open]  194.775 ms
+seq 1654: tcp response from yandex.ru (77.88.55.55) [open]  193.452 ms
+seq 1656: tcp response from yandex.ru (5.255.255.55) [open]  197.477 ms
+seq 1657: tcp response from yandex.ru (77.88.55.66) [open]  196.812 ms
+seq 1655: no response (timeout)
+seq 1659: tcp response from yandex.ru (77.88.55.55) [open]  193.639 ms
+seq 1661: tcp response from yandex.ru (77.88.55.55) [open]  193.493 ms
+seq 1662: tcp response from yandex.ru (5.255.255.5) [open]  196.012 ms
+seq 1658: no response (timeout)
+seq 1660: no response (timeout)
+seq 1664: tcp response from yandex.ru (5.255.255.55) [open]  192.517 ms
+seq 1663: no response (timeout)
+seq 1666: tcp response from yandex.ru (5.255.255.55) [open]  196.160 ms
+seq 1667: tcp response from yandex.ru (77.88.55.55) [open]  198.643 ms
+seq 1665: tcp response from yandex.ru (77.88.55.66) [open]  193.269 ms
+seq 1669: tcp response from yandex.ru (77.88.55.66) [open]  196.388 ms
+seq 1668: no response (timeout)
+seq 1671: tcp response from yandex.ru (5.255.255.55) [open]  197.157 ms
+seq 1672: tcp response from yandex.ru (77.88.55.55) [open]  194.184 ms
+seq 1673: tcp response from yandex.ru (5.255.255.5) [open]  195.395 ms
+seq 1674: tcp response from yandex.ru (5.255.255.5) [open]  197.117 ms
+seq 1675: tcp response from yandex.ru (77.88.55.55) [open]  193.540 ms
+seq 1670: no response (timeout)
+seq 1677: tcp response from yandex.ru (77.88.55.55) [open]  193.197 ms
+seq 1676: no response (timeout)
+seq 1678: tcp response from yandex.ru (77.88.55.66) [open]  196.547 ms
+seq 1681: tcp response from yandex.ru (5.255.255.55) [open]  199.997 ms
+seq 1679: no response (timeout)
+seq 1682: tcp response from yandex.ru (5.255.255.55) [open]  195.958 ms
+seq 1680: no response (timeout)
+seq 1684: tcp response from yandex.ru (5.255.255.5) [open]  196.799 ms
+seq 1685: tcp response from yandex.ru (5.255.255.55) [open]  202.050 ms
+seq 1683: no response (timeout)
+seq 1689: tcp response from yandex.ru (77.88.55.66) [open]  196.620 ms
+seq 1686: no response (timeout)
+seq 1687: no response (timeout)
+seq 1688: no response (timeout)
+seq 1692: tcp response from yandex.ru (77.88.55.66) [open]  196.071 ms
+seq 1690: no response (timeout)
+seq 1691: no response (timeout)
+seq 1693: tcp response from yandex.ru (77.88.55.66) [open]  196.004 ms
+seq 1696: tcp response from yandex.ru (5.255.255.5) [open]  197.517 ms
+seq 1694: no response (timeout)
+seq 1695: no response (timeout)
+seq 1699: tcp response from yandex.ru (5.255.255.55) [open]  193.171 ms
+seq 1697: no response (timeout)
+seq 1701: tcp response from yandex.ru (77.88.55.55) [open]  194.598 ms
+seq 1700: tcp response from yandex.ru (77.88.55.66) [open]  196.934 ms
+seq 1698: no response (timeout)
+seq 1703: tcp response from yandex.ru (77.88.55.55) [open]  195.088 ms
+seq 1702: no response (timeout)
+seq 1706: no response (timeout)
+seq 1707: tcp response from yandex.ru (5.255.255.5) [open]  192.028 ms
+seq 1704: no response (timeout)
+seq 1708: tcp response from yandex.ru (5.255.255.5) [open]  197.016 ms
+seq 1709: tcp response from yandex.ru (77.88.55.66) [open]  193.604 ms
+seq 1705: no response (timeout)
+seq 1710: no response (timeout)
+seq 1712: tcp response from yandex.ru (5.255.255.55) [open]  192.510 ms
+seq 1711: no response (timeout)
+seq 1713: tcp response from yandex.ru (77.88.55.55) [open]  193.348 ms
+seq 1715: tcp response from yandex.ru (77.88.55.55) [open]  194.737 ms
+seq 1716: tcp response from yandex.ru (77.88.55.66) [open]  197.762 ms
+seq 1714: no response (timeout)
+seq 1717: tcp response from yandex.ru (5.255.255.55) [open]  196.216 ms
+seq 1719: tcp response from yandex.ru (5.255.255.5) [open]  193.284 ms
+seq 1718: tcp response from yandex.ru (77.88.55.55) [open]  199.737 ms
+seq 1720: tcp response from yandex.ru (5.255.255.55) [open]  196.671 ms
+seq 1721: tcp response from yandex.ru (77.88.55.66) [open]  196.469 ms
+seq 1722: tcp response from yandex.ru (5.255.255.55) [open]  197.114 ms
+seq 1724: tcp response from yandex.ru (77.88.55.55) [open]  194.350 ms
+seq 1725: tcp response from yandex.ru (77.88.55.55) [open]  196.092 ms
+seq 1723: no response (timeout)
+seq 1727: tcp response from yandex.ru (5.255.255.5) [open]  200.975 ms
+seq 1726: no response (timeout)
+seq 1729: tcp response from yandex.ru (5.255.255.5) [open]  200.560 ms
+seq 1731: tcp response from yandex.ru (5.255.255.55) [open]  200.649 ms
+seq 1728: no response (timeout)
+seq 1733: tcp response from yandex.ru (5.255.255.55) [open]  192.285 ms
+seq 1730: no response (timeout)
+seq 1734: tcp response from yandex.ru (77.88.55.66) [open]  199.090 ms
+seq 1732: no response (timeout)
+seq 1735: tcp response from yandex.ru (5.255.255.55) [open]  195.277 ms
+seq 1736: tcp response from yandex.ru (5.255.255.5) [open]  198.924 ms
+seq 1739: tcp response from yandex.ru (5.255.255.55) [open]  191.976 ms
+seq 1737: no response (timeout)
+seq 1738: no response (timeout)
+seq 1740: no response (timeout)
+seq 1743: tcp response from yandex.ru (77.88.55.66) [open]  195.687 ms
+seq 1741: no response (timeout)
+seq 1742: no response (timeout)
+seq 1747: tcp response from yandex.ru (77.88.55.66) [open]  194.734 ms
+seq 1744: no response (timeout)
+seq 1745: no response (timeout)
+seq 1746: no response (timeout)
+seq 1748: tcp response from yandex.ru (5.255.255.55) [open]  202.661 ms
+seq 1752: tcp response from yandex.ru (77.88.55.55) [open]  195.666 ms
+seq 1750: tcp response from yandex.ru (77.88.55.55) [open]  193.060 ms
+seq 1753: tcp response from yandex.ru (77.88.55.66) [open]  195.074 ms
+seq 1749: no response (timeout)
+seq 1756: tcp response from yandex.ru (77.88.55.66) [open]  193.037 ms
+seq 1751: tcp response from yandex.ru (5.255.255.55) [open]  193.293 ms
+seq 1755: no response (timeout)
+seq 1757: tcp response from yandex.ru (77.88.55.66) [open]  236.031 ms
+seq 1754: no response (timeout)
+seq 1759: tcp response from yandex.ru (77.88.55.55) [open]  199.985 ms
+seq 1760: tcp response from yandex.ru (5.255.255.55) [open]  196.409 ms
+seq 1758: no response (timeout)
+seq 1763: tcp response from yandex.ru (5.255.255.55) [open]  193.799 ms
+seq 1761: no response (timeout)
+seq 1762: no response (timeout)
+seq 1764: tcp response from yandex.ru (77.88.55.55) [open]  193.680 ms
+seq 1768: tcp response from yandex.ru (77.88.55.55) [open]  194.509 ms
+seq 1766: no response (timeout)
+seq 1765: no response (timeout)
+seq 1767: no response (timeout)
+seq 1771: tcp response from yandex.ru (77.88.55.55) [open]  194.456 ms
+seq 1769: no response (timeout)
+seq 1774: tcp response from yandex.ru (77.88.55.66) [open]  194.537 ms
+seq 1770: no response (timeout)
+seq 1772: no response (timeout)
+seq 1773: no response (timeout)
+seq 1776: tcp response from yandex.ru (5.255.255.55) [open]  200.106 ms
+seq 1777: tcp response from yandex.ru (5.255.255.55) [open]  232.894 ms
+seq 1775: no response (timeout)
+seq 1778: tcp response from yandex.ru (5.255.255.5) [open]  196.449 ms
+seq 1779: tcp response from yandex.ru (77.88.55.55) [open]  194.773 ms
+seq 1780: tcp response from yandex.ru (77.88.55.66) [open]  194.095 ms
+seq 1782: tcp response from yandex.ru (77.88.55.55) [open]  192.973 ms
+seq 1781: tcp response from yandex.ru (5.255.255.55) [open]  194.856 ms
+seq 1783: tcp response from yandex.ru (5.255.255.5) [open]  191.606 ms
+seq 1785: tcp response from yandex.ru (77.88.55.55) [open]  194.454 ms
+seq 1784: no response (timeout)
+seq 1787: tcp response from yandex.ru (5.255.255.5) [open]  197.774 ms
+seq 1786: no response (timeout)
+seq 1789: tcp response from yandex.ru (77.88.55.66) [open]  196.452 ms
+seq 1790: tcp response from yandex.ru (5.255.255.55) [open]  194.513 ms
+seq 1788: no response (timeout)
+seq 1794: tcp response from yandex.ru (77.88.55.66) [open]  194.888 ms
+seq 1793: no response (timeout)
+seq 1791: no response (timeout)
+seq 1796: tcp response from yandex.ru (5.255.255.55) [open]  201.666 ms
+seq 1798: tcp response from yandex.ru (77.88.55.55) [open]  191.432 ms
+seq 1792: no response (timeout)
+seq 1795: no response (timeout)
+seq 1800: tcp response from yandex.ru (5.255.255.55) [open]  196.698 ms
+seq 1797: tcp response from yandex.ru (5.255.255.5) [open]  196.816 ms
+seq 1802: tcp response from yandex.ru (5.255.255.5) [open]  191.766 ms
+seq 1799: no response (timeout)
+seq 1803: tcp response from yandex.ru (77.88.55.55) [open]  200.011 ms
+seq 1801: no response (timeout)
+seq 1805: tcp response from yandex.ru (77.88.55.66) [open]  196.297 ms
+seq 1804: tcp response from yandex.ru (77.88.55.55) [open]  195.334 ms
+seq 1808: tcp response from yandex.ru (77.88.55.55) [open]  194.717 ms
+seq 1807: tcp response from yandex.ru (5.255.255.5) [open]  192.970 ms
+seq 1806: no response (timeout)
+seq 1810: tcp response from yandex.ru (77.88.55.55) [open]  200.836 ms
+seq 1811: tcp response from yandex.ru (77.88.55.66) [open]  194.600 ms
+seq 1809: no response (timeout)
+seq 1814: tcp response from yandex.ru (5.255.255.5) [open]  218.636 ms
+seq 1812: no response (timeout)
+seq 1813: no response (timeout)
+seq 1817: tcp response from yandex.ru (77.88.55.55) [open]  198.646 ms
+seq 1815: no response (timeout)
+seq 1816: no response (timeout)
+seq 1818: tcp response from yandex.ru (77.88.55.66) [open]  196.180 ms
+seq 1819: tcp response from yandex.ru (5.255.255.5) [open]  192.319 ms
+seq 1820: tcp response from yandex.ru (77.88.55.66) [open]  197.576 ms
+seq 1821: tcp response from yandex.ru (5.255.255.55) [open]  196.848 ms
+seq 1822: tcp response from yandex.ru (77.88.55.66) [open]  197.285 ms
+seq 1823: tcp response from yandex.ru (5.255.255.5) [open]  198.460 ms
+seq 1825: tcp response from yandex.ru (5.255.255.5) [open]  197.550 ms
+seq 1826: tcp response from yandex.ru (77.88.55.55) [open]  194.821 ms
+seq 1824: no response (timeout)
+seq 1829: tcp response from yandex.ru (5.255.255.5) [open]  192.619 ms
+seq 1827: no response (timeout)
+seq 1828: no response (timeout)
+seq 1832: tcp response from yandex.ru (77.88.55.55) [open]  200.412 ms
+seq 1830: no response (timeout)
+seq 1831: no response (timeout)
+seq 1835: tcp response from yandex.ru (5.255.255.55) [open]  201.140 ms
+seq 1833: no response (timeout)
+seq 1834: no response (timeout)
+seq 1839: tcp response from yandex.ru (5.255.255.5) [open]  195.819 ms
+seq 1836: no response (timeout)
+seq 1837: no response (timeout)
+seq 1841: tcp response from yandex.ru (77.88.55.66) [open]  196.449 ms
+seq 1838: no response (timeout)
+seq 1842: tcp response from yandex.ru (5.255.255.55) [open]  196.407 ms
+seq 1840: no response (timeout)
+seq 1845: tcp response from yandex.ru (5.255.255.55) [open]  197.340 ms
+seq 1843: no response (timeout)
+seq 1846: tcp response from yandex.ru (77.88.55.55) [open]  198.640 ms
+seq 1849: tcp response from yandex.ru (5.255.255.55) [open]  193.008 ms
+seq 1850: tcp response from yandex.ru (5.255.255.5) [open]  198.696 ms
+seq 1848: tcp response from yandex.ru (77.88.55.55) [open]  194.155 ms
+seq 1847: tcp response from yandex.ru (77.88.55.55) [open]  194.140 ms
+seq 1844: no response (timeout)
+seq 1851: no response (timeout)
+seq 1853: tcp response from yandex.ru (5.255.255.55) [open]  194.417 ms
+seq 1856: tcp response from yandex.ru (5.255.255.55) [open]  200.711 ms
+seq 1854: no response (timeout)
+seq 1852: no response (timeout)
+seq 1855: no response (timeout)
+seq 1857: no response (timeout)
+seq 1858: no response (timeout)
+seq 1861: tcp response from yandex.ru (77.88.55.55) [open]  195.214 ms
+seq 1860: no response (timeout)
+seq 1862: tcp response from yandex.ru (77.88.55.66) [open]  196.329 ms
+seq 1863: tcp response from yandex.ru (77.88.55.55) [open]  192.964 ms
+seq 1859: no response (timeout)
+seq 1867: tcp response from yandex.ru (5.255.255.55) [open]  200.081 ms
+seq 1864: no response (timeout)
+seq 1865: tcp response from yandex.ru (77.88.55.66) [open]  195.891 ms
+seq 1866: no response (timeout)
+seq 1869: tcp response from yandex.ru (5.255.255.5) [open]  196.932 ms
+seq 1870: tcp response from yandex.ru (77.88.55.66) [open]  197.841 ms
+seq 1868: no response (timeout)
+seq 1871: tcp response from yandex.ru (77.88.55.55) [open]  195.144 ms
+seq 1872: tcp response from yandex.ru (5.255.255.5) [open]  192.733 ms
+seq 1874: tcp response from yandex.ru (77.88.55.66) [open]  197.224 ms
+seq 1875: tcp response from yandex.ru (77.88.55.55) [open]  200.378 ms
+seq 1873: no response (timeout)
+seq 1876: tcp response from yandex.ru (5.255.255.55) [open]  197.950 ms
+seq 1877: tcp response from yandex.ru (5.255.255.5) [open]  197.522 ms
+seq 1878: tcp response from yandex.ru (5.255.255.5) [open]  195.579 ms
+seq 1879: tcp response from yandex.ru (5.255.255.55) [open]  192.806 ms
+seq 1880: tcp response from yandex.ru (5.255.255.55) [open]  194.446 ms
+seq 1882: tcp response from yandex.ru (77.88.55.66) [open]  194.505 ms
+seq 1885: tcp response from yandex.ru (5.255.255.55) [open]  200.025 ms
+seq 1883: no response (timeout)
+seq 1884: tcp response from yandex.ru (77.88.55.66) [open]  197.631 ms
+seq 1881: no response (timeout)
+seq 1887: tcp response from yandex.ru (77.88.55.55) [open]  193.187 ms
+seq 1886: tcp response from yandex.ru (77.88.55.55) [open]  194.745 ms
+seq 1889: tcp response from yandex.ru (77.88.55.55) [open]  198.278 ms
+seq 1888: no response (timeout)
+seq 1891: tcp response from yandex.ru (5.255.255.55) [open]  196.767 ms
+seq 1890: no response (timeout)
+seq 1893: tcp response from yandex.ru (77.88.55.55) [open]  194.315 ms
+seq 1892: tcp response from yandex.ru (5.255.255.5) [open]  192.171 ms
+seq 1894: tcp response from yandex.ru (77.88.55.55) [open]  194.946 ms
+seq 1895: tcp response from yandex.ru (5.255.255.5) [open]  197.534 ms
+seq 1896: tcp response from yandex.ru (77.88.55.66) [open]  196.781 ms
+seq 1898: tcp response from yandex.ru (77.88.55.55) [open]  194.009 ms
+seq 1899: tcp response from yandex.ru (5.255.255.5) [open]  191.401 ms
+seq 1897: no response (timeout)
+seq 1901: tcp response from yandex.ru (5.255.255.5) [open]  191.020 ms
+seq 1902: tcp response from yandex.ru (77.88.55.66) [open]  194.019 ms
+seq 1900: no response (timeout)
+seq 1905: tcp response from yandex.ru (5.255.255.5) [open]  201.081 ms
+seq 1903: no response (timeout)
+seq 1906: tcp response from yandex.ru (5.255.255.55) [open]  197.235 ms
+seq 1904: no response (timeout)
+seq 1909: tcp response from yandex.ru (77.88.55.66) [open]  195.735 ms
+seq 1907: tcp response from yandex.ru (5.255.255.55) [open]  196.222 ms
+seq 1908: no response (timeout)
+seq 1910: tcp response from yandex.ru (5.255.255.5) [open]  192.951 ms
+seq 1912: tcp response from yandex.ru (77.88.55.66) [open]  197.132 ms
+seq 1913: tcp response from yandex.ru (5.255.255.5) [open]  194.541 ms
+seq 1911: no response (timeout)
+seq 1914: tcp response from yandex.ru (77.88.55.55) [open]  194.218 ms
+seq 1917: tcp response from yandex.ru (77.88.55.66) [open]  195.762 ms
+seq 1915: no response (timeout)
+seq 1916: no response (timeout)
+seq 1920: tcp response from yandex.ru (5.255.255.5) [open]  197.608 ms
+seq 1918: no response (timeout)
+seq 1921: tcp response from yandex.ru (77.88.55.55) [open]  193.509 ms
+seq 1919: no response (timeout)
+seq 1923: tcp response from yandex.ru (5.255.255.55) [open]  200.591 ms
+seq 1922: no response (timeout)
+seq 1924: tcp response from yandex.ru (77.88.55.66) [open]  193.233 ms
+seq 1926: tcp response from yandex.ru (77.88.55.66) [open]  237.613 ms
+seq 1925: no response (timeout)
+seq 1928: tcp response from yandex.ru (5.255.255.55) [open]  195.506 ms
+seq 1927: no response (timeout)
+seq 1929: tcp response from yandex.ru (77.88.55.55) [open]  193.786 ms
+seq 1931: tcp response from yandex.ru (5.255.255.5) [open]  199.359 ms
+seq 1932: tcp response from yandex.ru (77.88.55.66) [open]  196.518 ms
+seq 1930: no response (timeout)
+seq 1933: tcp response from yandex.ru (77.88.55.66) [open]  368.188 ms
+seq 1936: tcp response from yandex.ru (5.255.255.55) [open]  196.521 ms
+seq 1934: no response (timeout)
+seq 1935: no response (timeout)
+seq 1938: tcp response from yandex.ru (77.88.55.66) [open]  193.692 ms
+seq 1939: tcp response from yandex.ru (5.255.255.5) [open]  195.755 ms
+seq 1940: tcp response from yandex.ru (5.255.255.55) [open]  196.408 ms
+seq 1941: tcp response from yandex.ru (77.88.55.66) [open]  195.765 ms
+seq 1937: no response (timeout)
+seq 1942: tcp response from yandex.ru (5.255.255.5) [open]  198.723 ms
+seq 1944: tcp response from yandex.ru (5.255.255.55) [open]  195.978 ms
+seq 1943: no response (timeout)
+seq 1946: tcp response from yandex.ru (77.88.55.66) [open]  196.828 ms
+seq 1947: tcp response from yandex.ru (77.88.55.66) [open]  202.071 ms
+seq 1949: tcp response from yandex.ru (5.255.255.55) [open]  193.429 ms
+seq 1945: tcp response from yandex.ru (5.255.255.55) [open]  192.158 ms
+seq 1950: tcp response from yandex.ru (77.88.55.55) [open]  194.565 ms
+seq 1948: no response (timeout)
+seq 1951: tcp response from yandex.ru (77.88.55.55) [open]  197.829 ms
+seq 1952: tcp response from yandex.ru (77.88.55.55) [open]  196.606 ms
+seq 1954: tcp response from yandex.ru (77.88.55.55) [open]  198.740 ms
+seq 1955: tcp response from yandex.ru (5.255.255.5) [open]  192.388 ms
+seq 1953: no response (timeout)
+seq 1957: tcp response from yandex.ru (77.88.55.66) [open]  196.995 ms
+seq 1958: tcp response from yandex.ru (77.88.55.55) [open]  193.117 ms
+seq 1956: no response (timeout)
+seq 1960: tcp response from yandex.ru (5.255.255.5) [open]  198.507 ms
+seq 1961: tcp response from yandex.ru (77.88.55.66) [open]  193.325 ms
+seq 1959: no response (timeout)
+seq 1964: tcp response from yandex.ru (77.88.55.55) [open]  193.437 ms
+seq 1963: tcp response from yandex.ru (5.255.255.55) [open]  194.042 ms
+seq 1962: no response (timeout)
+seq 1967: tcp response from yandex.ru (77.88.55.66) [open]  201.709 ms
+seq 1966: no response (timeout)
+seq 1965: no response (timeout)
+seq 1968: no response (timeout)
+seq 1969: tcp response from yandex.ru (77.88.55.55) [open]  199.128 ms
+seq 1970: tcp response from yandex.ru (5.255.255.5) [open]  192.603 ms
+seq 1971: tcp response from yandex.ru (77.88.55.55) [open]  193.888 ms
+seq 1973: tcp response from yandex.ru (77.88.55.55) [open]  195.884 ms
+seq 1974: tcp response from yandex.ru (5.255.255.55) [open]  200.204 ms
+seq 1972: no response (timeout)
+seq 1975: tcp response from yandex.ru (5.255.255.5) [open]  191.172 ms
+seq 1976: tcp response from yandex.ru (5.255.255.5) [open]  196.921 ms
+seq 1977: tcp response from yandex.ru (77.88.55.66) [open]  193.354 ms
+seq 1979: tcp response from yandex.ru (77.88.55.66) [open]  196.483 ms
+seq 1980: tcp response from yandex.ru (77.88.55.55) [open]  193.351 ms
+seq 1978: no response (timeout)
+seq 1981: tcp response from yandex.ru (5.255.255.55) [open]  194.155 ms
+seq 1983: tcp response from yandex.ru (5.255.255.5) [open]  197.022 ms
+seq 1984: tcp response from yandex.ru (77.88.55.55) [open]  193.718 ms
+seq 1982: no response (timeout)
+seq 1986: tcp response from yandex.ru (77.88.55.66) [open]  196.288 ms
+seq 1987: tcp response from yandex.ru (5.255.255.5) [open]  219.061 ms
+seq 1985: no response (timeout)
+seq 1988: tcp response from yandex.ru (5.255.255.5) [open]  198.523 ms
+seq 1989: tcp response from yandex.ru (5.255.255.55) [open]  192.196 ms
+seq 1990: tcp response from yandex.ru (77.88.55.55) [open]  193.396 ms
+seq 1991: tcp response from yandex.ru (5.255.255.55) [open]  194.694 ms
+seq 1992: tcp response from yandex.ru (5.255.255.5) [open]  196.336 ms
+seq 1994: tcp response from yandex.ru (77.88.55.66) [open]  198.088 ms
+seq 1995: tcp response from yandex.ru (5.255.255.5) [open]  194.255 ms
+seq 1993: no response (timeout)
+seq 1997: tcp response from yandex.ru (77.88.55.55) [open]  193.033 ms
+seq 1998: tcp response from yandex.ru (77.88.55.55) [open]  195.651 ms
+seq 1996: no response (timeout)
+seq 2000: tcp response from yandex.ru (5.255.255.5) [open]  198.001 ms
+seq 2001: tcp response from yandex.ru (5.255.255.55) [open]  200.255 ms
+seq 1999: no response (timeout)
+seq 2003: tcp response from yandex.ru (77.88.55.55) [open]  198.889 ms
+seq 2004: tcp response from yandex.ru (77.88.55.66) [open]  196.741 ms
+seq 2002: no response (timeout)
+seq 2005: tcp response from yandex.ru (5.255.255.55) [open]  195.810 ms
+seq 2007: tcp response from yandex.ru (5.255.255.5) [open]  192.374 ms
+seq 2006: no response (timeout)
+seq 2009: tcp response from yandex.ru (77.88.55.66) [open]  194.320 ms
+seq 2010: tcp response from yandex.ru (5.255.255.55) [open]  195.770 ms
+seq 2008: tcp response from yandex.ru (77.88.55.55) [open]  192.479 ms
+seq 2011: tcp response from yandex.ru (77.88.55.66) [open]  196.685 ms
+seq 2012: tcp response from yandex.ru (77.88.55.66) [open]  197.371 ms
+seq 2013: tcp response from yandex.ru (77.88.55.55) [open]  193.155 ms
+seq 2016: tcp response from yandex.ru (5.255.255.55) [open]  192.750 ms
+seq 2015: tcp response from yandex.ru (77.88.55.66) [open]  201.642 ms
+seq 2014: no response (timeout)
+seq 2019: tcp response from yandex.ru (5.255.255.5) [open]  201.173 ms
+seq 2017: no response (timeout)
+seq 2018: no response (timeout)
+seq 2022: tcp response from yandex.ru (5.255.255.55) [open]  197.011 ms
+seq 2020: no response (timeout)
+seq 2021: no response (timeout)
+seq 2023: tcp response from yandex.ru (5.255.255.5) [open]  192.686 ms
+seq 2024: no response (timeout)
+seq 2026: tcp response from yandex.ru (77.88.55.66) [open]  196.384 ms
+seq 2025: no response (timeout)
+seq 2029: tcp response from yandex.ru (5.255.255.5) [open]  197.479 ms
+seq 2027: no response (timeout)
+seq 2028: no response (timeout)
+seq 2031: tcp response from yandex.ru (77.88.55.55) [open]  199.321 ms
+seq 2030: no response (timeout)
+seq 2034: tcp response from yandex.ru (77.88.55.55) [open]  195.100 ms
+seq 2032: no response (timeout)
+seq 2033: no response (timeout)
+seq 2035: tcp response from yandex.ru (5.255.255.55) [open]  194.342 ms
+seq 2037: tcp response from yandex.ru (77.88.55.55) [open]  194.405 ms
+seq 2036: no response (timeout)
+seq 2038: tcp response from yandex.ru (77.88.55.66) [open]  201.793 ms
+seq 2039: tcp response from yandex.ru (5.255.255.5) [open]  213.388 ms
+seq 2040: tcp response from yandex.ru (5.255.255.5) [open]  196.848 ms
+seq 2042: tcp response from yandex.ru (5.255.255.55) [open]  197.434 ms
+seq 2041: no response (timeout)
+seq 2043: tcp response from yandex.ru (77.88.55.55) [open]  193.106 ms
+seq 2044: no response (timeout)
+seq 2047: tcp response from yandex.ru (5.255.255.55) [open]  197.241 ms
+seq 2048: tcp response from yandex.ru (77.88.55.55) [open]  198.610 ms
+seq 2046: no response (timeout)
+seq 2045: no response (timeout)
+seq 2049: tcp response from yandex.ru (77.88.55.55) [open]  194.797 ms
+seq 2051: tcp response from yandex.ru (77.88.55.66) [open]  195.292 ms
+seq 2052: tcp response from yandex.ru (77.88.55.55) [open]  193.694 ms
+seq 2050: no response (timeout)
+seq 2053: tcp response from yandex.ru (5.255.255.5) [open]  197.702 ms
+seq 2054: tcp response from yandex.ru (5.255.255.55) [open]  200.288 ms
+seq 2055: tcp response from yandex.ru (5.255.255.5) [open]  195.924 ms
+seq 2056: tcp response from yandex.ru (77.88.55.66) [open]  193.804 ms
+seq 2058: tcp response from yandex.ru (5.255.255.55) [open]  201.930 ms
+seq 2057: no response (timeout)
+seq 2060: tcp response from yandex.ru (5.255.255.5) [open]  197.495 ms
+seq 2061: tcp response from yandex.ru (5.255.255.5) [open]  201.762 ms
+seq 2059: no response (timeout)
+seq 2064: tcp response from yandex.ru (5.255.255.55) [open]  198.083 ms
+seq 2062: no response (timeout)
+seq 2063: no response (timeout)
+seq 2067: tcp response from yandex.ru (77.88.55.55) [open]  194.659 ms
+seq 2065: no response (timeout)
+seq 2066: no response (timeout)
+seq 2070: tcp response from yandex.ru (5.255.255.5) [open]  201.024 ms
+seq 2068: no response (timeout)
+seq 2071: tcp response from yandex.ru (5.255.255.5) [open]  200.567 ms
+seq 2069: no response (timeout)
+seq 2074: tcp response from yandex.ru (5.255.255.5) [open]  200.425 ms
+seq 2072: no response (timeout)
+seq 2073: no response (timeout)
+seq 2076: tcp response from yandex.ru (77.88.55.66) [open]  236.048 ms
+seq 2075: no response (timeout)
+seq 2077: tcp response from yandex.ru (77.88.55.55) [open]  193.041 ms
+seq 2078: tcp response from yandex.ru (77.88.55.66) [open]  201.069 ms
+seq 2081: tcp response from yandex.ru (77.88.55.66) [open]  197.707 ms
+seq 2079: no response (timeout)
+seq 2080: no response (timeout)
+seq 2085: tcp response from yandex.ru (77.88.55.66) [open]  194.806 ms
+seq 2082: no response (timeout)
+seq 2083: no response (timeout)
+seq 2084: no response (timeout)
+seq 2086: no response (timeout)
+seq 2089: tcp response from yandex.ru (77.88.55.55) [open]  198.828 ms
+seq 2087: no response (timeout)
+seq 2091: tcp response from yandex.ru (77.88.55.66) [open]  194.429 ms
+seq 2088: no response (timeout)
+seq 2092: tcp response from yandex.ru (5.255.255.55) [open]  196.218 ms
+seq 2093: tcp response from yandex.ru (5.255.255.5) [open]  192.152 ms
+seq 2090: no response (timeout)
+seq 2095: tcp response from yandex.ru (5.255.255.5) [open]  194.949 ms
+seq 2096: tcp response from yandex.ru (77.88.55.55) [open]  194.073 ms
+seq 2094: no response (timeout)
+seq 2097: tcp response from yandex.ru (77.88.55.66) [open]  193.216 ms
+seq 2099: tcp response from yandex.ru (77.88.55.66) [open]  194.557 ms
+seq 2101: tcp response from yandex.ru (5.255.255.55) [open]  198.915 ms
+seq 2100: tcp response from yandex.ru (5.255.255.55) [open]  197.353 ms
+seq 2102: tcp response from yandex.ru (77.88.55.66) [open]  193.593 ms
+seq 2104: tcp response from yandex.ru (77.88.55.55) [open]  195.383 ms
+seq 2103: no response (timeout)
+seq 2098: tcp response from yandex.ru (77.88.55.55) [open]  192.002 ms
+seq 2105: tcp response from yandex.ru (5.255.255.55) [open]  201.897 ms
+seq 2107: tcp response from yandex.ru (77.88.55.55) [open]  194.955 ms
+seq 2106: tcp response from yandex.ru (77.88.55.55) [open]  198.962 ms
+seq 2108: tcp response from yandex.ru (5.255.255.5) [open]  192.479 ms
+seq 2109: tcp response from yandex.ru (5.255.255.55) [open]  192.451 ms
+seq 2110: tcp response from yandex.ru (77.88.55.55) [open]  193.667 ms
+seq 2111: no response (timeout)
+seq 2112: tcp response from yandex.ru (5.255.255.55) [open]  196.672 ms
+seq 2114: tcp response from yandex.ru (77.88.55.66) [open]  195.610 ms
+seq 2113: no response (timeout)
+seq 2116: tcp response from yandex.ru (77.88.55.55) [open]  196.916 ms
+seq 2115: no response (timeout)
+seq 2118: tcp response from yandex.ru (77.88.55.66) [open]  195.791 ms
+seq 2117: no response (timeout)
+seq 2120: tcp response from yandex.ru (77.88.55.55) [open]  190.175 ms
+seq 2121: tcp response from yandex.ru (77.88.55.55) [open]  191.556 ms
+seq 2119: no response (timeout)
+seq 2122: tcp response from yandex.ru (5.255.255.5) [open]  199.829 ms
+seq 2123: tcp response from yandex.ru (77.88.55.55) [open]  193.307 ms
+seq 2125: tcp response from yandex.ru (77.88.55.55) [open]  193.278 ms
+seq 2127: tcp response from yandex.ru (5.255.255.5) [open]  220.532 ms
+seq 2124: no response (timeout)
+seq 2126: tcp response from yandex.ru (77.88.55.55) [open]  193.693 ms
+seq 2128: no response (timeout)
+seq 2129: no response (timeout)
+seq 2130: no response (timeout)
+seq 2131: no response (timeout)
+seq 2134: tcp response from yandex.ru (5.255.255.55) [open]  194.317 ms
+seq 2135: tcp response from yandex.ru (77.88.55.66) [open]  195.152 ms
+seq 2132: no response (timeout)
+seq 2136: tcp response from yandex.ru (77.88.55.55) [open]  194.930 ms
+seq 2133: no response (timeout)
+seq 2137: tcp response from yandex.ru (77.88.55.66) [open]  197.195 ms
+seq 2138: tcp response from yandex.ru (5.255.255.55) [open]  192.490 ms
+seq 2139: tcp response from yandex.ru (5.255.255.5) [open]  198.074 ms
+seq 2141: tcp response from yandex.ru (77.88.55.55) [open]  194.208 ms
+seq 2140: no response (timeout)
+seq 2143: tcp response from yandex.ru (77.88.55.66) [open]  196.651 ms
+seq 2144: tcp response from yandex.ru (5.255.255.5) [open]  196.849 ms
+seq 2142: no response (timeout)
+seq 2146: tcp response from yandex.ru (77.88.55.55) [open]  194.924 ms
+seq 2147: tcp response from yandex.ru (5.255.255.55) [open]  199.155 ms
+seq 2145: no response (timeout)
+seq 2148: tcp response from yandex.ru (5.255.255.55) [open]  192.971 ms
+seq 2149: tcp response from yandex.ru (77.88.55.55) [open]  196.420 ms
+seq 2150: tcp response from yandex.ru (77.88.55.55) [open]  194.996 ms
+seq 2151: tcp response from yandex.ru (5.255.255.55) [open]  196.705 ms
+seq 2153: tcp response from yandex.ru (77.88.55.66) [open]  195.023 ms
+seq 2152: no response (timeout)
+seq 2155: tcp response from yandex.ru (77.88.55.66) [open]  197.339 ms
+seq 2154: no response (timeout)
+seq 2156: tcp response from yandex.ru (77.88.55.66) [open]  194.565 ms
+seq 2159: tcp response from yandex.ru (5.255.255.55) [open]  196.251 ms
+seq 2160: tcp response from yandex.ru (77.88.55.66) [open]  197.606 ms
+seq 2158: no response (timeout)
+seq 2157: no response (timeout)
+seq 2161: tcp response from yandex.ru (77.88.55.55) [open]  237.538 ms
+seq 2163: tcp response from yandex.ru (5.255.255.55) [open]  192.958 ms
+seq 2164: tcp response from yandex.ru (5.255.255.55) [open]  240.137 ms
+seq 2166: tcp response from yandex.ru (5.255.255.55) [open]  201.339 ms
+seq 2162: no response (timeout)
+seq 2165: no response (timeout)
+seq 2170: tcp response from yandex.ru (77.88.55.66) [open]  194.386 ms
+seq 2169: tcp response from yandex.ru (5.255.255.55) [open]  199.042 ms
+seq 2168: no response (timeout)
+seq 2167: no response (timeout)
+seq 2171: no response (timeout)
+seq 2173: tcp response from yandex.ru (77.88.55.66) [open]  485.365 ms
+seq 2174: tcp response from yandex.ru (5.255.255.5) [open]  193.328 ms
+seq 2172: no response (timeout)
+seq 2177: tcp response from yandex.ru (5.255.255.5) [open]  195.142 ms
+seq 2175: no response (timeout)
+seq 2176: no response (timeout)
+seq 2180: tcp response from yandex.ru (77.88.55.55) [open]  193.062 ms
+seq 2178: no response (timeout)
+seq 2181: tcp response from yandex.ru (5.255.255.5) [open]  191.978 ms
+seq 2179: no response (timeout)
+seq 2183: tcp response from yandex.ru (77.88.55.66) [open]  201.469 ms
+seq 2184: tcp response from yandex.ru (5.255.255.5) [open]  197.277 ms
+seq 2186: tcp response from yandex.ru (5.255.255.5) [open]  193.456 ms
+seq 2182: no response (timeout)
+seq 2187: tcp response from yandex.ru (5.255.255.55) [open]  193.654 ms
+seq 2185: no response (timeout)
+seq 2188: tcp response from yandex.ru (5.255.255.55) [open]  192.381 ms
+seq 2190: tcp response from yandex.ru (77.88.55.66) [open]  196.148 ms
+seq 2191: tcp response from yandex.ru (5.255.255.5) [open]  195.084 ms
+seq 2189: no response (timeout)
+seq 2192: tcp response from yandex.ru (5.255.255.55) [open]  195.667 ms
+seq 2194: tcp response from yandex.ru (77.88.55.66) [open]  195.925 ms
+seq 2193: no response (timeout)
+seq 2198: tcp response from yandex.ru (77.88.55.55) [open]  191.112 ms
+seq 2195: no response (timeout)
+seq 2196: no response (timeout)
+seq 2197: no response (timeout)
+seq 2201: tcp response from yandex.ru (77.88.55.55) [open]  193.304 ms
+seq 2202: tcp response from yandex.ru (5.255.255.55) [open]  192.379 ms
+seq 2199: no response (timeout)
+seq 2200: no response (timeout)
+seq 2204: tcp response from yandex.ru (5.255.255.5) [open]  192.459 ms
+seq 2203: no response (timeout)
+seq 2206: tcp response from yandex.ru (77.88.55.55) [open]  194.190 ms
+seq 2207: tcp response from yandex.ru (5.255.255.55) [open]  196.370 ms
+seq 2210: tcp response from yandex.ru (5.255.255.55) [open]  192.207 ms
+seq 2205: no response (timeout)
+seq 2211: tcp response from yandex.ru (5.255.255.55) [open]  196.656 ms
+seq 2208: no response (timeout)
+seq 2209: no response (timeout)
+seq 2215: tcp response from yandex.ru (77.88.55.66) [open]  195.556 ms
+seq 2213: no response (timeout)
+seq 2212: no response (timeout)
+seq 2214: no response (timeout)
+seq 2216: no response (timeout)
+seq 2219: tcp response from yandex.ru (5.255.255.55) [open]  192.131 ms
+seq 2217: no response (timeout)
+seq 2220: tcp response from yandex.ru (5.255.255.5) [open]  195.905 ms
+seq 2218: no response (timeout)
+seq 2221: no response (timeout)
+seq 2222: tcp response from yandex.ru (5.255.255.55) [open]  195.783 ms
+seq 2223: tcp response from yandex.ru (77.88.55.55) [open]  198.806 ms
+seq 2224: tcp response from yandex.ru (5.255.255.5) [open]  195.242 ms
+seq 2225: tcp response from yandex.ru (5.255.255.5) [open]  192.908 ms
+seq 2226: tcp response from yandex.ru (5.255.255.55) [open]  197.855 ms
+seq 2227: tcp response from yandex.ru (5.255.255.55) [open]  196.844 ms
+seq 2228: tcp response from yandex.ru (5.255.255.55) [open]  196.281 ms
+seq 2229: tcp response from yandex.ru (77.88.55.66) [open]  196.082 ms
+seq 2231: tcp response from yandex.ru (77.88.55.55) [open]  194.844 ms
+seq 2230: no response (timeout)
+seq 2232: tcp response from yandex.ru (5.255.255.55) [open]  198.319 ms
+seq 2233: tcp response from yandex.ru (5.255.255.55) [open]  197.958 ms
+seq 2234: tcp response from yandex.ru (5.255.255.5) [open]  200.084 ms
+seq 2235: tcp response from yandex.ru (5.255.255.5) [open]  201.382 ms
+seq 2236: tcp response from yandex.ru (77.88.55.66) [open]  194.733 ms
+seq 2237: tcp response from yandex.ru (77.88.55.66) [open]  194.063 ms
+seq 2239: tcp response from yandex.ru (77.88.55.66) [open]  197.387 ms
+seq 2238: no response (timeout)
+seq 2241: tcp response from yandex.ru (5.255.255.55) [open]  193.659 ms
+seq 2240: no response (timeout)
+seq 2243: tcp response from yandex.ru (77.88.55.55) [open]  194.067 ms
+seq 2244: tcp response from yandex.ru (77.88.55.66) [open]  194.037 ms
+seq 2247: tcp response from yandex.ru (77.88.55.66) [open]  201.173 ms
+seq 2246: tcp response from yandex.ru (77.88.55.55) [open]  195.449 ms
+seq 2245: no response (timeout)
+seq 2248: tcp response from yandex.ru (77.88.55.55) [open]  196.474 ms
+seq 2242: no response (timeout)
+seq 2249: tcp response from yandex.ru (5.255.255.55) [open]  196.536 ms
+seq 2250: tcp response from yandex.ru (5.255.255.55) [open]  198.092 ms
+seq 2252: tcp response from yandex.ru (5.255.255.55) [open]  375.700 ms
+seq 2253: tcp response from yandex.ru (77.88.55.66) [open]  195.811 ms
+seq 2251: no response (timeout)
+seq 2254: no response (timeout)
+seq 2255: no response (timeout)
+seq 2256: tcp response from yandex.ru (5.255.255.5) [open]  200.478 ms
+seq 2259: tcp response from yandex.ru (77.88.55.55) [open]  193.445 ms
+seq 2258: no response (timeout)
+seq 2257: no response (timeout)
+seq 2260: tcp response from yandex.ru (77.88.55.66) [open]  201.995 ms
+seq 2262: tcp response from yandex.ru (77.88.55.55) [open]  190.830 ms
+seq 2263: tcp response from yandex.ru (77.88.55.66) [open]  195.046 ms
+seq 2261: no response (timeout)
+seq 2266: tcp response from yandex.ru (5.255.255.5) [open]  200.152 ms
+seq 2264: no response (timeout)
+seq 2265: no response (timeout)
+seq 2267: no response (timeout)
+seq 2269: tcp response from yandex.ru (77.88.55.55) [open]  193.592 ms
+seq 2268: tcp response from yandex.ru (5.255.255.55) [open]  193.052 ms
+seq 2271: tcp response from yandex.ru (5.255.255.5) [open]  193.363 ms
+seq 2273: tcp response from yandex.ru (77.88.55.55) [open]  192.190 ms
+seq 2270: no response (timeout)
+seq 2275: tcp response from yandex.ru (77.88.55.55) [open]  514.627 ms
+seq 2272: tcp response from yandex.ru (77.88.55.55) [open]  197.369 ms
+seq 2276: tcp response from yandex.ru (5.255.255.5) [open]  194.957 ms
+seq 2274: no response (timeout)
+seq 2277: tcp response from yandex.ru (5.255.255.55) [open]  196.191 ms
+seq 2278: tcp response from yandex.ru (77.88.55.66) [open]  193.343 ms
+seq 2279: tcp response from yandex.ru (5.255.255.55) [open]  195.893 ms
+seq 2281: tcp response from yandex.ru (5.255.255.55) [open]  194.557 ms
+seq 2282: tcp response from yandex.ru (5.255.255.55) [open]  191.947 ms
+seq 2280: no response (timeout)
+seq 2284: tcp response from yandex.ru (77.88.55.66) [open]  197.230 ms
+seq 2285: tcp response from yandex.ru (5.255.255.55) [open]  192.472 ms
+seq 2283: no response (timeout)
+seq 2287: tcp response from yandex.ru (77.88.55.55) [open]  195.253 ms
+seq 2288: tcp response from yandex.ru (77.88.55.66) [open]  201.528 ms
+seq 2286: no response (timeout)
+seq 2289: tcp response from yandex.ru (5.255.255.5) [open]  198.136 ms
+seq 2290: tcp response from yandex.ru (5.255.255.5) [open]  200.103 ms
+seq 2292: tcp response from yandex.ru (5.255.255.55) [open]  197.901 ms
+seq 2293: tcp response from yandex.ru (77.88.55.66) [open]  196.833 ms
+seq 2291: no response (timeout)
+seq 2295: tcp response from yandex.ru (77.88.55.66) [open]  193.650 ms
+seq 2294: no response (timeout)
+seq 2297: tcp response from yandex.ru (77.88.55.66) [open]  196.144 ms
+seq 2296: tcp response from yandex.ru (77.88.55.66) [open]  195.186 ms
+seq 2299: tcp response from yandex.ru (5.255.255.55) [open]  196.696 ms
+seq 2298: no response (timeout)
+seq 2301: tcp response from yandex.ru (77.88.55.66) [open]  193.847 ms
+seq 2300: tcp response from yandex.ru (77.88.55.66) [open]  197.114 ms
+seq 2303: tcp response from yandex.ru (5.255.255.5) [open]  199.932 ms
+seq 2304: tcp response from yandex.ru (5.255.255.5) [open]  198.101 ms
+seq 2305: tcp response from yandex.ru (5.255.255.5) [open]  200.132 ms
+seq 2302: no response (timeout)
+seq 2308: tcp response from yandex.ru (77.88.55.55) [open]  197.078 ms
+seq 2306: no response (timeout)
+seq 2307: no response (timeout)
+seq 2309: tcp response from yandex.ru (5.255.255.55) [open]  190.772 ms
+seq 2311: tcp response from yandex.ru (77.88.55.55) [open]  198.773 ms
+seq 2312: tcp response from yandex.ru (77.88.55.55) [open]  191.736 ms
+seq 2310: no response (timeout)
+seq 2313: tcp response from yandex.ru (77.88.55.55) [open]  196.126 ms
+seq 2314: tcp response from yandex.ru (5.255.255.55) [open]  196.848 ms
+seq 2315: tcp response from yandex.ru (5.255.255.55) [open]  198.313 ms
+seq 2316: tcp response from yandex.ru (5.255.255.5) [open]  192.596 ms
+seq 2317: tcp response from yandex.ru (77.88.55.66) [open]  194.002 ms
+seq 2318: tcp response from yandex.ru (5.255.255.5) [open]  195.040 ms
+seq 2319: tcp response from yandex.ru (77.88.55.55) [open]  292.921 ms
+seq 2320: tcp response from yandex.ru (77.88.55.55) [open]  193.130 ms
+seq 2322: tcp response from yandex.ru (77.88.55.55) [open]  193.311 ms
+seq 2321: no response (timeout)
+seq 2324: tcp response from yandex.ru (5.255.255.5) [open]  191.279 ms
+seq 2325: tcp response from yandex.ru (77.88.55.55) [open]  206.837 ms
+seq 2323: no response (timeout)
+seq 2328: tcp response from yandex.ru (5.255.255.55) [open]  228.217 ms
+seq 2326: no response (timeout)
+seq 2327: no response (timeout)
+seq 2330: tcp response from yandex.ru (5.255.255.55) [open]  198.399 ms
+seq 2331: tcp response from yandex.ru (77.88.55.66) [open]  195.406 ms
+seq 2329: no response (timeout)
+seq 2333: tcp response from yandex.ru (77.88.55.55) [open]  193.705 ms
+seq 2332: no response (timeout)
+seq 2334: tcp response from yandex.ru (5.255.255.5) [open]  198.566 ms
+seq 2335: tcp response from yandex.ru (77.88.55.66) [open]  194.543 ms
+seq 2337: tcp response from yandex.ru (77.88.55.66) [open]  196.771 ms
+seq 2336: tcp response from yandex.ru (5.255.255.5) [open]  197.571 ms
+seq 2338: tcp response from yandex.ru (5.255.255.5) [open]  198.746 ms
+seq 2340: tcp response from yandex.ru (77.88.55.66) [open]  194.315 ms
+seq 2341: tcp response from yandex.ru (5.255.255.55) [open]  197.527 ms
+seq 2339: no response (timeout)
+seq 2344: tcp response from yandex.ru (5.255.255.5) [open]  193.599 ms
+seq 2345: tcp response from yandex.ru (5.255.255.5) [open]  198.032 ms
+seq 2342: tcp response from yandex.ru (77.88.55.55) [open]  242.195 ms
+seq 2343: no response (timeout)
+seq 2346: tcp response from yandex.ru (5.255.255.5) [open]  197.630 ms
+seq 2349: tcp response from yandex.ru (5.255.255.55) [open]  195.810 ms
+seq 2347: tcp response from yandex.ru (77.88.55.66) [open]  225.173 ms
+seq 2348: no response (timeout)
+seq 2350: no response (timeout)
+seq 2353: tcp response from yandex.ru (77.88.55.66) [open]  195.003 ms
+seq 2351: no response (timeout)
+seq 2352: no response (timeout)
+seq 2354: no response (timeout)
+seq 2357: tcp response from yandex.ru (77.88.55.55) [open]  194.414 ms
+seq 2355: no response (timeout)
+seq 2356: no response (timeout)
+seq 2360: tcp response from yandex.ru (77.88.55.55) [open]  193.153 ms
+seq 2358: no response (timeout)
+seq 2361: tcp response from yandex.ru (77.88.55.55) [open]  223.471 ms
+seq 2359: no response (timeout)
+seq 2362: tcp response from yandex.ru (5.255.255.5) [open]  197.403 ms
+seq 2363: tcp response from yandex.ru (77.88.55.66) [open]  196.595 ms
+seq 2364: tcp response from yandex.ru (77.88.55.66) [open]  201.913 ms
+seq 2366: tcp response from yandex.ru (5.255.255.5) [open]  194.282 ms
+seq 2367: tcp response from yandex.ru (5.255.255.5) [open]  192.438 ms
+seq 2365: no response (timeout)
+seq 2369: tcp response from yandex.ru (5.255.255.5) [open]  191.301 ms
+seq 2368: no response (timeout)
+seq 2371: tcp response from yandex.ru (77.88.55.66) [open]  194.398 ms
+seq 2370: no response (timeout)
+seq 2373: tcp response from yandex.ru (5.255.255.55) [open]  197.905 ms
+seq 2372: no response (timeout)
+seq 2374: tcp response from yandex.ru (77.88.55.66) [open]  194.919 ms
+seq 2375: tcp response from yandex.ru (5.255.255.5) [open]  197.760 ms
+seq 2377: tcp response from yandex.ru (5.255.255.55) [open]  197.749 ms
+seq 2378: tcp response from yandex.ru (5.255.255.5) [open]  197.960 ms
+seq 2376: no response (timeout)
+seq 2380: tcp response from yandex.ru (5.255.255.5) [open]  194.108 ms
+seq 2381: tcp response from yandex.ru (77.88.55.55) [open]  193.778 ms
+seq 2379: no response (timeout)
+seq 2382: tcp response from yandex.ru (5.255.255.55) [open]  191.072 ms
+seq 2384: tcp response from yandex.ru (77.88.55.55) [open]  193.225 ms
+seq 2385: tcp response from yandex.ru (77.88.55.66) [open]  201.205 ms
+seq 2383: no response (timeout)
+seq 2386: tcp response from yandex.ru (77.88.55.66) [open]  194.073 ms
+seq 2387: tcp response from yandex.ru (5.255.255.55) [open]  197.507 ms
+seq 2388: tcp response from yandex.ru (5.255.255.55) [open]  196.856 ms
+seq 2389: tcp response from yandex.ru (77.88.55.55) [open]  197.496 ms
+seq 2390: tcp response from yandex.ru (77.88.55.55) [open]  194.041 ms
+seq 2392: tcp response from yandex.ru (77.88.55.66) [open]  200.802 ms
+seq 2393: tcp response from yandex.ru (5.255.255.5) [open]  202.837 ms
+seq 2394: tcp response from yandex.ru (5.255.255.55) [open]  190.576 ms
+seq 2391: tcp response from yandex.ru (77.88.55.55) [open]  196.690 ms
+seq 2395: tcp response from yandex.ru (5.255.255.55) [open]  195.901 ms
+seq 2397: tcp response from yandex.ru (77.88.55.55) [open]  196.730 ms
+seq 2398: tcp response from yandex.ru (77.88.55.55) [open]  193.084 ms
+seq 2396: no response (timeout)
+seq 2401: tcp response from yandex.ru (5.255.255.5) [open]  194.416 ms
+seq 2399: no response (timeout)
+seq 2400: no response (timeout)
+seq 2403: tcp response from yandex.ru (5.255.255.5) [open]  193.672 ms
+seq 2402: no response (timeout)
+seq 2405: tcp response from yandex.ru (77.88.55.55) [open]  193.803 ms
+seq 2406: tcp response from yandex.ru (77.88.55.55) [open]  195.311 ms
+seq 2404: no response (timeout)
+seq 2409: tcp response from yandex.ru (77.88.55.66) [open]  192.571 ms
+seq 2407: no response (timeout)
+seq 2408: no response (timeout)
+seq 2410: no response (timeout)
+seq 2411: tcp response from yandex.ru (77.88.55.55) [open]  198.446 ms
+seq 2412: tcp response from yandex.ru (5.255.255.55) [open]  196.435 ms
+seq 2414: tcp response from yandex.ru (77.88.55.66) [open]  193.969 ms
+seq 2413: no response (timeout)
+seq 2416: tcp response from yandex.ru (5.255.255.5) [open]  196.830 ms
+seq 2415: tcp response from yandex.ru (5.255.255.55) [open]  195.089 ms
+seq 2419: tcp response from yandex.ru (77.88.55.66) [open]  193.820 ms
+seq 2418: tcp response from yandex.ru (77.88.55.55) [open]  193.539 ms
+seq 2421: tcp response from yandex.ru (77.88.55.66) [open]  196.274 ms
+seq 2422: tcp response from yandex.ru (5.255.255.5) [open]  198.522 ms
+seq 2420: no response (timeout)
+seq 2417: no response (timeout)
+seq 2423: tcp response from yandex.ru (77.88.55.66) [open]  196.763 ms
+seq 2425: tcp response from yandex.ru (5.255.255.5) [open]  193.893 ms
+seq 2426: tcp response from yandex.ru (77.88.55.55) [open]  193.830 ms
+seq 2424: no response (timeout)
+seq 2429: tcp response from yandex.ru (5.255.255.55) [open]  194.225 ms
+seq 2427: no response (timeout)
+seq 2428: no response (timeout)
+seq 2431: tcp response from yandex.ru (5.255.255.5) [open]  197.670 ms
+seq 2430: no response (timeout)
+seq 2433: tcp response from yandex.ru (77.88.55.55) [open]  198.970 ms
+seq 2435: tcp response from yandex.ru (5.255.255.55) [open]  195.796 ms
+seq 2436: tcp response from yandex.ru (77.88.55.55) [open]  193.930 ms
+seq 2434: tcp response from yandex.ru (5.255.255.5) [open]  192.849 ms
+seq 2432: no response (timeout)
+seq 2438: tcp response from yandex.ru (77.88.55.55) [open]  191.738 ms
+seq 2437: no response (timeout)
+seq 2441: tcp response from yandex.ru (5.255.255.55) [open]  198.198 ms
+seq 2439: no response (timeout)
+seq 2444: tcp response from yandex.ru (77.88.55.55) [open]  194.948 ms
+seq 2440: no response (timeout)
+seq 2445: tcp response from yandex.ru (5.255.255.5) [open]  197.692 ms
+seq 2442: tcp response from yandex.ru (5.255.255.5) [open]  195.626 ms
+seq 2447: tcp response from yandex.ru (5.255.255.55) [open]  197.361 ms
+seq 2446: no response (timeout)
+seq 2449: tcp response from yandex.ru (5.255.255.5) [open]  192.805 ms
+seq 2443: no response (timeout)
+seq 2448: no response (timeout)
+seq 2450: no response (timeout)
+seq 2451: no response (timeout)
+seq 2455: tcp response from yandex.ru (77.88.55.66) [open]  193.776 ms
+seq 2452: tcp response from yandex.ru (77.88.55.55) [open]  194.656 ms
+seq 2454: no response (timeout)
+seq 2453: no response (timeout)
+seq 2457: tcp response from yandex.ru (5.255.255.5) [open]  199.336 ms
+seq 2458: tcp response from yandex.ru (77.88.55.66) [open]  193.756 ms
+seq 2456: no response (timeout)
+seq 2459: tcp response from yandex.ru (5.255.255.55) [open]  195.604 ms
+seq 2461: tcp response from yandex.ru (77.88.55.55) [open]  196.642 ms
+seq 2462: tcp response from yandex.ru (5.255.255.5) [open]  192.385 ms
+seq 2460: no response (timeout)
+seq 2463: tcp response from yandex.ru (5.255.255.5) [open]  198.853 ms
+seq 2464: tcp response from yandex.ru (77.88.55.55) [open]  193.010 ms
+seq 2466: tcp response from yandex.ru (77.88.55.55) [open]  197.290 ms
+seq 2465: no response (timeout)
+seq 2469: tcp response from yandex.ru (5.255.255.55) [open]  196.789 ms
+seq 2467: no response (timeout)
+seq 2468: no response (timeout)
+seq 2472: tcp response from yandex.ru (5.255.255.5) [open]  197.922 ms
+seq 2470: tcp response from yandex.ru (77.88.55.55) [open]  194.829 ms
+seq 2471: no response (timeout)
+seq 2473: no response (timeout)
+seq 2474: no response (timeout)
+seq 2475: no response (timeout)
+seq 2476: no response (timeout)
+seq 2477: no response (timeout)
+seq 2478: no response (timeout)
+seq 2481: tcp response from yandex.ru (77.88.55.66) [open]  197.140 ms
+seq 2479: no response (timeout)
+seq 2480: no response (timeout)
+seq 2482: no response (timeout)
+seq 2485: tcp response from yandex.ru (77.88.55.55) [open]  196.375 ms
+seq 2483: no response (timeout)
+seq 2484: no response (timeout)
+seq 2486: no response (timeout)
+seq 2489: tcp response from yandex.ru (5.255.255.5) [open]  193.614 ms
+seq 2487: no response (timeout)
+seq 2490: no response (timeout)
+seq 2488: no response (timeout)
+seq 2493: tcp response from yandex.ru (5.255.255.55) [open]  195.787 ms
+seq 2491: no response (timeout)
+seq 2492: no response (timeout)
+seq 2494: tcp response from yandex.ru (77.88.55.55) [open]  193.339 ms
+seq 2495: tcp response from yandex.ru (5.255.255.5) [open]  198.963 ms
+seq 2496: tcp response from yandex.ru (5.255.255.5) [open]  199.132 ms
+seq 2498: tcp response from yandex.ru (77.88.55.66) [open]  195.944 ms
+seq 2497: no response (timeout)
+seq 2500: tcp response from yandex.ru (77.88.55.55) [open]  195.198 ms
+seq 2499: no response (timeout)
+seq 2501: tcp response from yandex.ru (77.88.55.66) [open]  194.086 ms
+seq 2502: tcp response from yandex.ru (77.88.55.55) [open]  193.431 ms
+seq 2504: tcp response from yandex.ru (77.88.55.66) [open]  192.674 ms
+seq 2503: tcp response from yandex.ru (77.88.55.66) [open]  193.495 ms
+seq 2505: tcp response from yandex.ru (5.255.255.5) [open]  196.363 ms
+seq 2506: tcp response from yandex.ru (77.88.55.66) [open]  200.266 ms
+seq 2507: tcp response from yandex.ru (77.88.55.55) [open]  190.499 ms
+seq 2509: tcp response from yandex.ru (5.255.255.55) [open]  200.132 ms
+seq 2510: tcp response from yandex.ru (5.255.255.5) [open]  192.835 ms
+seq 2508: no response (timeout)
+seq 2511: tcp response from yandex.ru (5.255.255.55) [open]  195.763 ms
+seq 2512: tcp response from yandex.ru (5.255.255.55) [open]  196.469 ms
+seq 2513: tcp response from yandex.ru (5.255.255.5) [open]  194.692 ms
+seq 2514: tcp response from yandex.ru (5.255.255.55) [open]  195.171 ms
+seq 2516: tcp response from yandex.ru (5.255.255.55) [open]  196.755 ms
+seq 2517: tcp response from yandex.ru (5.255.255.5) [open]  197.691 ms
+seq 2515: no response (timeout)
+seq 2518: tcp response from yandex.ru (77.88.55.66) [open]  196.927 ms
+seq 2519: tcp response from yandex.ru (77.88.55.66) [open]  196.353 ms
+seq 2520: tcp response from yandex.ru (5.255.255.5) [open]  198.147 ms
+seq 2522: tcp response from yandex.ru (5.255.255.5) [open]  200.651 ms
+seq 2523: tcp response from yandex.ru (5.255.255.5) [open]  198.028 ms
+seq 2521: no response (timeout)
+seq 2524: tcp response from yandex.ru (5.255.255.5) [open]  199.118 ms
+seq 2525: tcp response from yandex.ru (77.88.55.66) [open]  192.560 ms
+seq 2526: tcp response from yandex.ru (5.255.255.55) [open]  306.183 ms
+seq 2527: tcp response from yandex.ru (77.88.55.55) [open]  190.368 ms
+seq 2528: tcp response from yandex.ru (5.255.255.55) [open]  211.377 ms
+seq 2529: tcp response from yandex.ru (5.255.255.5) [open]  192.015 ms
+seq 2531: tcp response from yandex.ru (77.88.55.55) [open]  193.260 ms
+seq 2530: no response (timeout)
+seq 2534: tcp response from yandex.ru (77.88.55.66) [open]  193.151 ms
+seq 2532: no response (timeout)
+seq 2533: no response (timeout)
+seq 2537: tcp response from yandex.ru (5.255.255.55) [open]  197.793 ms
+seq 2539: tcp response from yandex.ru (77.88.55.66) [open]  194.910 ms
+seq 2536: tcp response from yandex.ru (77.88.55.55) [open]  196.733 ms
+seq 2538: tcp response from yandex.ru (5.255.255.55) [open]  196.182 ms
+seq 2542: tcp response from yandex.ru (77.88.55.55) [open]  195.019 ms
+seq 2541: no response (timeout)
+seq 2544: tcp response from yandex.ru (77.88.55.66) [open]  191.750 ms
+seq 2535: no response (timeout)
+seq 2545: tcp response from yandex.ru (77.88.55.55) [open]  192.252 ms
+seq 2540: tcp response from yandex.ru (77.88.55.66) [open]  196.068 ms
+seq 2547: tcp response from yandex.ru (5.255.255.55) [open]  198.103 ms
+seq 2543: tcp response from yandex.ru (77.88.55.66) [open]  194.164 ms
+seq 2546: no response (timeout)
+seq 2550: tcp response from yandex.ru (77.88.55.55) [open]  194.525 ms
+seq 2548: no response (timeout)
+seq 2549: no response (timeout)
+seq 2553: tcp response from yandex.ru (77.88.55.55) [open]  193.077 ms
+seq 2551: no response (timeout)
+seq 2557: tcp response from yandex.ru (77.88.55.55) [open]  191.838 ms
+seq 2555: tcp response from yandex.ru (5.255.255.5) [open]  194.550 ms
+seq 2552: tcp response from yandex.ru (5.255.255.55) [open]  191.242 ms
+seq 2554: tcp response from yandex.ru (77.88.55.55) [open]  196.755 ms
+seq 2556: no response (timeout)
+seq 2558: no response (timeout)
+seq 2561: tcp response from yandex.ru (77.88.55.55) [open]  193.975 ms
+seq 2559: no response (timeout)
+seq 2560: no response (timeout)
+seq 2563: tcp response from yandex.ru (77.88.55.66) [open]  194.491 ms
+seq 2564: tcp response from yandex.ru (5.255.255.5) [open]  197.931 ms
+seq 2562: no response (timeout)
+seq 2566: tcp response from yandex.ru (5.255.255.55) [open]  198.089 ms
+seq 2567: tcp response from yandex.ru (5.255.255.5) [open]  200.107 ms
+seq 2565: no response (timeout)
+seq 2569: tcp response from yandex.ru (77.88.55.66) [open]  195.420 ms
+seq 2568: no response (timeout)
+seq 2572: tcp response from yandex.ru (77.88.55.55) [open]  197.204 ms
+seq 2571: tcp response from yandex.ru (77.88.55.66) [open]  197.982 ms
+seq 2570: no response (timeout)
+seq 2573: tcp response from yandex.ru (5.255.255.55) [open]  192.920 ms
+seq 2575: tcp response from yandex.ru (77.88.55.55) [open]  193.708 ms
+seq 2576: tcp response from yandex.ru (5.255.255.55) [open]  194.215 ms
+seq 2574: no response (timeout)
+seq 2578: tcp response from yandex.ru (77.88.55.66) [open]  194.860 ms
+seq 2577: tcp response from yandex.ru (5.255.255.55) [open]  197.783 ms
+seq 2580: tcp response from yandex.ru (77.88.55.66) [open]  193.561 ms
+seq 2581: tcp response from yandex.ru (77.88.55.66) [open]  193.735 ms
+seq 2579: no response (timeout)
+seq 2582: tcp response from yandex.ru (5.255.255.55) [open]  197.813 ms
+seq 2584: tcp response from yandex.ru (5.255.255.55) [open]  197.138 ms
+seq 2585: tcp response from yandex.ru (5.255.255.5) [open]  199.609 ms
+seq 2586: tcp response from yandex.ru (5.255.255.5) [open]  193.121 ms
+seq 2583: tcp response from yandex.ru (77.88.55.55) [open]  194.689 ms
+seq 2587: tcp response from yandex.ru (5.255.255.55) [open]  196.345 ms
+seq 2589: tcp response from yandex.ru (77.88.55.55) [open]  194.361 ms
+seq 2588: tcp response from yandex.ru (5.255.255.55) [open]  206.117 ms
+seq 2590: tcp response from yandex.ru (77.88.55.55) [open]  193.530 ms
+seq 2592: tcp response from yandex.ru (5.255.255.5) [open]  197.478 ms
+seq 2593: tcp response from yandex.ru (77.88.55.55) [open]  196.682 ms
+seq 2591: tcp response from yandex.ru (5.255.255.5) [open]  195.271 ms
+seq 2595: tcp response from yandex.ru (77.88.55.66) [open]  203.154 ms
+seq 2596: tcp response from yandex.ru (77.88.55.66) [open]  244.202 ms
+seq 2594: no response (timeout)
+seq 2597: tcp response from yandex.ru (5.255.255.5) [open]  198.372 ms
+seq 2599: tcp response from yandex.ru (5.255.255.5) [open]  195.910 ms
+seq 2600: tcp response from yandex.ru (77.88.55.55) [open]  193.790 ms
+seq 2598: no response (timeout)
+seq 2601: tcp response from yandex.ru (77.88.55.66) [open]  193.210 ms
+seq 2602: tcp response from yandex.ru (5.255.255.5) [open]  198.125 ms
+seq 2603: tcp response from yandex.ru (5.255.255.5) [open]  199.823 ms
+seq 2605: tcp response from yandex.ru (77.88.55.66) [open]  193.987 ms
+seq 2604: tcp response from yandex.ru (5.255.255.55) [open]  232.521 ms
+seq 2606: tcp response from yandex.ru (77.88.55.55) [open]  196.684 ms
+seq 2608: tcp response from yandex.ru (5.255.255.5) [open]  193.730 ms
+seq 2609: tcp response from yandex.ru (77.88.55.55) [open]  193.652 ms
+seq 2610: tcp response from yandex.ru (77.88.55.66) [open]  196.862 ms
+seq 2611: tcp response from yandex.ru (5.255.255.55) [open]  190.837 ms
+seq 2607: no response (timeout)
+seq 2612: tcp response from yandex.ru (77.88.55.66) [open]  201.490 ms
+seq 2613: tcp response from yandex.ru (77.88.55.55) [open]  194.070 ms
+seq 2614: tcp response from yandex.ru (77.88.55.66) [open]  194.484 ms
+seq 2615: tcp response from yandex.ru (77.88.55.66) [open]  195.581 ms
+seq 2617: tcp response from yandex.ru (77.88.55.55) [open]  198.138 ms
+seq 2618: tcp response from yandex.ru (5.255.255.55) [open]  206.451 ms
+seq 2616: no response (timeout)
+seq 2620: tcp response from yandex.ru (77.88.55.66) [open]  196.212 ms
+seq 2619: no response (timeout)
+seq 2621: no response (timeout)
+seq 2622: no response (timeout)
+seq 2625: tcp response from yandex.ru (77.88.55.66) [open]  194.475 ms
+seq 2624: tcp response from yandex.ru (5.255.255.55) [open]  196.887 ms
+seq 2626: tcp response from yandex.ru (5.255.255.55) [open]  195.776 ms
+seq 2628: tcp response from yandex.ru (5.255.255.5) [open]  192.239 ms
+seq 2623: tcp response from yandex.ru (77.88.55.66) [open]  194.862 ms
+seq 2627: tcp response from yandex.ru (5.255.255.55) [open]  195.874 ms
+seq 2629: tcp response from yandex.ru (77.88.55.55) [open]  434.424 ms
+seq 2630: tcp response from yandex.ru (5.255.255.55) [open]  191.886 ms
+seq 2631: tcp response from yandex.ru (77.88.55.55) [open]  192.652 ms
+seq 2633: tcp response from yandex.ru (5.255.255.5) [open]  198.609 ms
+seq 2634: tcp response from yandex.ru (77.88.55.55) [open]  193.373 ms
+seq 2632: no response (timeout)
+seq 2636: tcp response from yandex.ru (77.88.55.66) [open]  195.566 ms
+seq 2637: tcp response from yandex.ru (77.88.55.66) [open]  193.025 ms
+seq 2635: no response (timeout)
+seq 2638: tcp response from yandex.ru (5.255.255.5) [open]  197.858 ms
+seq 2639: tcp response from yandex.ru (5.255.255.5) [open]  194.797 ms
+seq 2640: tcp response from yandex.ru (77.88.55.66) [open]  196.970 ms
+seq 2641: tcp response from yandex.ru (77.88.55.55) [open]  236.835 ms
+seq 2643: tcp response from yandex.ru (5.255.255.55) [open]  197.287 ms
+seq 2644: tcp response from yandex.ru (77.88.55.55) [open]  197.285 ms
+seq 2642: no response (timeout)
+seq 2646: tcp response from yandex.ru (5.255.255.55) [open]  196.445 ms
+seq 2647: tcp response from yandex.ru (77.88.55.55) [open]  192.101 ms
+seq 2645: no response (timeout)
+seq 2648: tcp response from yandex.ru (5.255.255.5) [open]  194.780 ms
+seq 2650: tcp response from yandex.ru (5.255.255.55) [open]  194.960 ms
+seq 2651: tcp response from yandex.ru (77.88.55.66) [open]  195.395 ms
+seq 2649: no response (timeout)
+seq 2652: tcp response from yandex.ru (5.255.255.5) [open]  192.933 ms
+seq 2653: tcp response from yandex.ru (77.88.55.55) [open]  190.825 ms
+seq 2654: tcp response from yandex.ru (5.255.255.55) [open]  196.247 ms
+seq 2655: tcp response from yandex.ru (77.88.55.66) [open]  196.176 ms
+seq 2656: tcp response from yandex.ru (5.255.255.55) [open]  191.394 ms
+seq 2657: tcp response from yandex.ru (5.255.255.55) [open]  195.033 ms
+seq 2658: tcp response from yandex.ru (77.88.55.55) [open]  195.366 ms
+seq 2659: tcp response from yandex.ru (5.255.255.5) [open]  197.930 ms
+seq 2660: tcp response from yandex.ru (77.88.55.66) [open]  195.430 ms
+seq 2661: tcp response from yandex.ru (5.255.255.5) [open]  200.137 ms
+seq 2662: tcp response from yandex.ru (77.88.55.66) [open]  192.449 ms
+seq 2663: tcp response from yandex.ru (77.88.55.66) [open]  194.510 ms
+seq 2664: tcp response from yandex.ru (77.88.55.55) [open]  190.386 ms
+seq 2665: tcp response from yandex.ru (5.255.255.55) [open]  196.900 ms
+seq 2666: tcp response from yandex.ru (77.88.55.55) [open]  192.385 ms
+seq 2667: tcp response from yandex.ru (77.88.55.55) [open]  193.930 ms
+seq 2668: tcp response from yandex.ru (5.255.255.55) [open]  198.703 ms
+seq 2669: tcp response from yandex.ru (5.255.255.5) [open]  192.175 ms
+seq 2670: tcp response from yandex.ru (5.255.255.55) [open]  197.258 ms
+seq 2671: tcp response from yandex.ru (5.255.255.5) [open]  196.540 ms
+seq 2672: tcp response from yandex.ru (5.255.255.55) [open]  197.136 ms
+seq 2673: tcp response from yandex.ru (77.88.55.66) [open]  193.656 ms
+seq 2674: tcp response from yandex.ru (5.255.255.55) [open]  199.883 ms
+seq 2675: tcp response from yandex.ru (77.88.55.66) [open]  197.711 ms
+seq 2676: tcp response from yandex.ru (77.88.55.55) [open]  194.789 ms
+seq 2677: tcp response from yandex.ru (5.255.255.5) [open]  195.878 ms
+seq 2678: tcp response from yandex.ru (77.88.55.55) [open]  194.916 ms
+seq 2679: tcp response from yandex.ru (77.88.55.55) [open]  194.112 ms
+seq 2680: tcp response from yandex.ru (77.88.55.66) [open]  197.097 ms
+seq 2681: tcp response from yandex.ru (5.255.255.5) [open]  197.396 ms
+seq 2682: tcp response from yandex.ru (5.255.255.55) [open]  190.660 ms
+seq 2683: tcp response from yandex.ru (5.255.255.55) [open]  194.726 ms
+seq 2684: tcp response from yandex.ru (5.255.255.5) [open]  194.941 ms
+seq 2685: tcp response from yandex.ru (77.88.55.66) [open]  201.614 ms

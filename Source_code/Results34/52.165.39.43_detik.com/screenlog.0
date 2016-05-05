@@ -1,0 +1,2616 @@
+seq 1: tcp response from 203.190.242.69 [open]  220.648 ms
+seq 2: tcp response from 203.190.242.69 [open]  223.144 ms
+seq 3: tcp response from 203.190.241.43 [open]  229.196 ms
+seq 4: tcp response from 203.190.242.69 [open]  231.232 ms
+seq 0: tcp response from 203.190.241.43 [open]  232.574 ms
+seq 6: tcp response from 203.190.241.43 [open]  224.216 ms
+seq 7: tcp response from 203.190.242.69 [open]  229.156 ms
+seq 8: tcp response from 203.190.242.69 [open]  227.873 ms
+seq 5: no response (timeout)
+seq 11: tcp response from 203.190.241.43 [open]  232.206 ms
+seq 9: tcp response from 203.190.241.43 [open]  248.583 ms
+seq 12: tcp response from 203.190.242.69 [open]  221.997 ms
+seq 13: tcp response from 203.190.241.43 [open]  227.906 ms
+seq 14: tcp response from 203.190.242.69 [open]  220.692 ms
+seq 15: tcp response from 203.190.242.69 [open]  248.061 ms
+seq 10: tcp response from 203.190.241.43 [open]  233.523 ms
+seq 16: tcp response from 203.190.241.43 [open]  236.823 ms
+seq 17: tcp response from 203.190.241.43 [open]  219.266 ms
+seq 18: tcp response from 203.190.242.69 [open]  229.700 ms
+seq 19: tcp response from 203.190.241.43 [open]  224.013 ms
+seq 20: tcp response from 203.190.242.69 [open]  228.041 ms
+seq 21: tcp response from 203.190.241.43 [open]  222.222 ms
+seq 22: tcp response from 203.190.241.43 [open]  228.838 ms
+seq 24: tcp response from 203.190.242.69 [open]  223.065 ms
+seq 23: tcp response from 203.190.241.43 [open]  233.622 ms
+seq 25: tcp response from 203.190.242.69 [open]  222.570 ms
+seq 26: tcp response from 203.190.241.43 [open]  236.774 ms
+seq 27: tcp response from 203.190.242.69 [open]  247.757 ms
+seq 28: tcp response from 203.190.242.69 [open]  229.427 ms
+seq 29: tcp response from 203.190.242.69 [open]  239.885 ms
+seq 31: tcp response from 203.190.242.69 [open]  227.816 ms
+seq 30: no response (timeout)
+seq 32: tcp response from 203.190.241.43 [open]  219.370 ms
+seq 34: tcp response from 203.190.242.69 [open]  221.338 ms
+seq 35: tcp response from 203.190.241.43 [open]  227.762 ms
+seq 36: tcp response from 203.190.241.43 [open]  233.113 ms
+seq 33: no response (timeout)
+seq 37: tcp response from 203.190.241.43 [open]  224.454 ms
+seq 38: tcp response from 203.190.242.69 [open]  227.547 ms
+seq 39: tcp response from 203.190.241.43 [open]  249.014 ms
+seq 40: tcp response from 203.190.242.69 [open]  221.135 ms
+seq 41: tcp response from 203.190.241.43 [open]  223.010 ms
+seq 42: tcp response from 203.190.242.69 [open]  228.947 ms
+seq 43: tcp response from 203.190.242.69 [open]  248.028 ms
+seq 44: tcp response from 203.190.242.69 [open]  238.949 ms
+seq 45: tcp response from 203.190.241.43 [open]  236.274 ms
+seq 46: tcp response from 203.190.242.69 [open]  222.312 ms
+seq 47: tcp response from 203.190.241.43 [open]  234.146 ms
+seq 48: tcp response from 203.190.242.69 [open]  220.643 ms
+seq 49: tcp response from 203.190.241.43 [open]  233.512 ms
+seq 50: tcp response from 203.190.241.43 [open]  227.737 ms
+seq 52: tcp response from 203.190.241.43 [open]  231.547 ms
+seq 51: tcp response from 203.190.242.69 [open]  222.333 ms
+seq 53: tcp response from 203.190.241.43 [open]  231.129 ms
+seq 55: tcp response from 203.190.242.69 [open]  223.057 ms
+seq 54: tcp response from 203.190.242.69 [open]  228.918 ms
+seq 56: tcp response from 203.190.241.43 [open]  224.152 ms
+seq 57: tcp response from 203.190.242.69 [open]  228.083 ms
+seq 58: tcp response from 203.190.241.43 [open]  248.477 ms
+seq 59: tcp response from 203.190.242.69 [open]  221.032 ms
+seq 63: tcp response from 203.190.242.69 [open]  247.571 ms
+seq 64: tcp response from 203.190.242.69 [open]  220.681 ms
+seq 61: tcp response from 203.190.241.43 [open]  236.822 ms
+seq 66: tcp response from 203.190.241.43 [open]  220.401 ms
+seq 67: tcp response from 203.190.242.69 [open]  222.366 ms
+seq 62: tcp response from 203.190.242.69 [open]  229.471 ms
+seq 60: tcp response from 203.190.241.43 [open]  223.435 ms
+seq 65: tcp response from 203.190.241.43 [open]  233.665 ms
+seq 69: tcp response from 203.190.241.43 [open]  233.262 ms
+seq 70: tcp response from 203.190.241.43 [open]  227.720 ms
+seq 71: tcp response from 203.190.241.43 [open]  229.018 ms
+seq 68: no response (timeout)
+seq 72: tcp response from 203.190.242.69 [open]  229.857 ms
+seq 73: tcp response from 203.190.241.43 [open]  229.646 ms
+seq 74: tcp response from 203.190.242.69 [open]  229.234 ms
+seq 75: tcp response from 203.190.242.69 [open]  221.549 ms
+seq 76: tcp response from 203.190.242.69 [open]  222.089 ms
+seq 77: tcp response from 203.190.241.43 [open]  224.473 ms
+seq 78: tcp response from 203.190.242.69 [open]  228.530 ms
+seq 79: tcp response from 203.190.242.69 [open]  221.193 ms
+seq 80: tcp response from 203.190.241.43 [open]  394.497 ms
+seq 81: tcp response from 203.190.241.43 [open]  223.605 ms
+seq 82: tcp response from 203.190.241.43 [open]  247.588 ms
+seq 83: tcp response from 203.190.241.43 [open]  228.956 ms
+seq 84: tcp response from 203.190.241.43 [open]  221.109 ms
+seq 87: tcp response from 203.190.242.69 [open]  240.053 ms
+seq 86: tcp response from 203.190.242.69 [open]  248.339 ms
+seq 85: tcp response from 203.190.242.69 [open]  229.412 ms
+seq 88: tcp response from 203.190.242.69 [open]  222.208 ms
+seq 89: tcp response from 203.190.242.69 [open]  247.421 ms
+seq 91: tcp response from 203.190.242.69 [open]  229.002 ms
+seq 92: tcp response from 203.190.241.43 [open]  232.933 ms
+seq 90: no response (timeout)
+seq 93: tcp response from 203.190.241.43 [open]  232.463 ms
+seq 94: tcp response from 203.190.242.69 [open]  221.606 ms
+seq 95: tcp response from 203.190.241.43 [open]  227.766 ms
+seq 96: tcp response from 203.190.241.43 [open]  264.940 ms
+seq 97: tcp response from 203.190.241.43 [open]  229.293 ms
+seq 98: tcp response from 203.190.241.43 [open]  228.002 ms
+seq 100: tcp response from 203.190.242.69 [open]  228.631 ms
+seq 99: no response (timeout)
+seq 101: tcp response from 203.190.241.43 [open]  223.895 ms
+seq 103: tcp response from 203.190.242.69 [open]  247.767 ms
+seq 102: tcp response from 203.190.242.69 [open]  229.055 ms
+seq 104: tcp response from 203.190.242.69 [open]  238.395 ms
+seq 105: tcp response from 203.190.241.43 [open]  236.253 ms
+seq 108: tcp response from 203.190.241.43 [open]  219.789 ms
+seq 106: tcp response from 203.190.242.69 [open]  222.521 ms
+seq 107: no response (timeout)
+seq 110: tcp response from 203.190.241.43 [open]  233.074 ms
+seq 111: tcp response from 203.190.241.43 [open]  224.239 ms
+seq 114: tcp response from 203.190.242.69 [open]  228.045 ms
+seq 109: no response (timeout)
+seq 113: tcp response from 203.190.242.69 [open]  222.854 ms
+seq 112: tcp response from 203.190.241.43 [open]  223.961 ms
+seq 115: tcp response from 203.190.242.69 [open]  221.501 ms
+seq 117: tcp response from 203.190.242.69 [open]  221.929 ms
+seq 118: tcp response from 203.190.241.43 [open]  248.874 ms
+seq 116: tcp response from 203.190.241.43 [open]  229.383 ms
+seq 119: tcp response from 203.190.242.69 [open]  224.113 ms
+seq 120: tcp response from 203.190.241.43 [open]  236.632 ms
+seq 121: tcp response from 203.190.242.69 [open]  228.952 ms
+seq 122: tcp response from 203.190.241.43 [open]  220.136 ms
+seq 123: tcp response from 203.190.242.69 [open]  248.044 ms
+seq 124: tcp response from 203.190.241.43 [open]  221.119 ms
+seq 125: tcp response from 203.190.242.69 [open]  238.756 ms
+seq 126: tcp response from 203.190.242.69 [open]  222.297 ms
+seq 127: tcp response from 203.190.242.69 [open]  247.094 ms
+seq 128: tcp response from 203.190.242.69 [open]  228.308 ms
+seq 129: tcp response from 203.190.241.43 [open]  224.804 ms
+seq 130: tcp response from 203.190.241.43 [open]  249.093 ms
+seq 132: tcp response from 203.190.242.69 [open]  227.996 ms
+seq 131: no response (timeout)
+seq 134: tcp response from 203.190.241.43 [open]  228.192 ms
+seq 133: tcp response from 203.190.241.43 [open]  247.498 ms
+seq 135: tcp response from 203.190.241.43 [open]  220.453 ms
+seq 136: tcp response from 203.190.241.43 [open]  233.175 ms
+seq 137: tcp response from 203.190.242.69 [open]  220.749 ms
+seq 138: tcp response from 203.190.241.43 [open]  232.935 ms
+seq 139: tcp response from 203.190.241.43 [open]  229.200 ms
+seq 140: tcp response from 203.190.241.43 [open]  236.650 ms
+seq 141: tcp response from 203.190.242.69 [open]  222.159 ms
+seq 142: tcp response from 203.190.242.69 [open]  230.095 ms
+seq 143: tcp response from 203.190.242.69 [open]  228.505 ms
+seq 144: tcp response from 203.190.241.43 [open]  228.057 ms
+seq 145: tcp response from 203.190.241.43 [open]  231.339 ms
+seq 146: tcp response from 203.190.242.69 [open]  223.567 ms
+seq 147: tcp response from 203.190.242.69 [open]  227.628 ms
+seq 149: tcp response from 203.190.241.43 [open]  219.340 ms
+seq 150: tcp response from 203.190.242.69 [open]  228.937 ms
+seq 151: tcp response from 203.190.242.69 [open]  247.889 ms
+seq 148: tcp response from 203.190.242.69 [open]  221.417 ms
+seq 152: tcp response from 203.190.241.43 [open]  351.151 ms
+seq 153: tcp response from 203.190.241.43 [open]  229.029 ms
+seq 154: tcp response from 203.190.242.69 [open]  220.824 ms
+seq 155: tcp response from 203.190.242.69 [open]  222.024 ms
+seq 157: tcp response from 203.190.241.43 [open]  248.925 ms
+seq 156: no response (timeout)
+seq 160: tcp response from 203.190.241.43 [open]  247.968 ms
+seq 159: tcp response from 203.190.242.69 [open]  227.978 ms
+seq 158: no response (timeout)
+seq 162: tcp response from 203.190.241.43 [open]  233.343 ms
+seq 161: tcp response from 203.190.242.69 [open]  228.908 ms
+seq 164: tcp response from 203.190.242.69 [open]  229.700 ms
+seq 165: tcp response from 203.190.241.43 [open]  220.093 ms
+seq 163: no response (timeout)
+seq 166: tcp response from 203.190.242.69 [open]  249.110 ms
+seq 167: tcp response from 203.190.242.69 [open]  239.224 ms
+seq 168: tcp response from 203.190.241.43 [open]  220.820 ms
+seq 169: tcp response from 203.190.242.69 [open]  222.188 ms
+seq 170: tcp response from 203.190.241.43 [open]  224.061 ms
+seq 171: tcp response from 203.190.242.69 [open]  227.520 ms
+seq 173: tcp response from 203.190.241.43 [open]  248.764 ms
+seq 172: no response (timeout)
+seq 175: tcp response from 203.190.242.69 [open]  229.407 ms
+seq 174: no response (timeout)
+seq 176: no response (timeout)
+seq 179: tcp response from 203.190.241.43 [open]  232.188 ms
+seq 177: tcp response from 203.190.241.43 [open]  233.690 ms
+seq 178: tcp response from 203.190.242.69 [open]  221.921 ms
+seq 180: tcp response from 203.190.241.43 [open]  227.858 ms
+seq 181: tcp response from 203.190.242.69 [open]  229.122 ms
+seq 182: tcp response from 203.190.242.69 [open]  223.307 ms
+seq 183: tcp response from 203.190.242.69 [open]  228.343 ms
+seq 184: tcp response from 203.190.242.69 [open]  222.358 ms
+seq 185: tcp response from 203.190.241.43 [open]  224.103 ms
+seq 187: tcp response from 203.190.241.43 [open]  219.413 ms
+seq 186: tcp response from 203.190.241.43 [open]  236.235 ms
+seq 189: tcp response from 203.190.241.43 [open]  221.082 ms
+seq 190: tcp response from 203.190.241.43 [open]  233.790 ms
+seq 192: tcp response from 203.190.242.69 [open]  238.935 ms
+seq 188: tcp response from 203.190.242.69 [open]  229.336 ms
+seq 191: no response (timeout)
+seq 194: tcp response from 203.190.241.43 [open]  234.799 ms
+seq 193: tcp response from 203.190.242.69 [open]  222.303 ms
+seq 196: tcp response from 203.190.242.69 [open]  246.969 ms
+seq 197: tcp response from 203.190.241.43 [open]  222.178 ms
+seq 195: tcp response from 203.190.241.43 [open]  224.397 ms
+seq 198: tcp response from 203.190.242.69 [open]  235.872 ms
+seq 199: tcp response from 203.190.242.69 [open]  229.156 ms
+seq 200: tcp response from 203.190.241.43 [open]  236.882 ms
+seq 201: tcp response from 203.190.242.69 [open]  247.767 ms
+seq 203: tcp response from 203.190.242.69 [open]  238.972 ms
+seq 204: tcp response from 203.190.241.43 [open]  224.164 ms
+seq 202: tcp response from 203.190.241.43 [open]  219.355 ms
+seq 205: tcp response from 203.190.241.43 [open]  248.473 ms
+seq 206: tcp response from 203.190.241.43 [open]  233.038 ms
+seq 207: tcp response from 203.190.242.69 [open]  221.502 ms
+seq 209: tcp response from 203.190.242.69 [open]  221.999 ms
+seq 208: tcp response from 203.190.241.43 [open]  232.657 ms
+seq 210: tcp response from 203.190.241.43 [open]  227.699 ms
+seq 211: tcp response from 203.190.241.43 [open]  236.820 ms
+seq 212: tcp response from 203.190.242.69 [open]  230.019 ms
+seq 213: tcp response from 203.190.241.43 [open]  219.438 ms
+seq 214: tcp response from 203.190.242.69 [open]  247.683 ms
+seq 215: tcp response from 203.190.242.69 [open]  238.872 ms
+seq 216: tcp response from 203.190.242.69 [open]  228.864 ms
+seq 217: tcp response from 203.190.241.43 [open]  229.656 ms
+seq 219: tcp response from 203.190.242.69 [open]  231.544 ms
+seq 221: tcp response from 203.190.242.69 [open]  221.477 ms
+seq 220: tcp response from 203.190.242.69 [open]  229.158 ms
+seq 218: tcp response from 203.190.242.69 [open]  222.657 ms
+seq 222: tcp response from 203.190.241.43 [open]  224.673 ms
+seq 224: tcp response from 203.190.242.69 [open]  221.150 ms
+seq 225: tcp response from 203.190.241.43 [open]  233.893 ms
+seq 226: tcp response from 203.190.242.69 [open]  229.070 ms
+seq 223: tcp response from 203.190.242.69 [open]  221.658 ms
+seq 227: tcp response from 203.190.241.43 [open]  236.275 ms
+seq 229: tcp response from 203.190.241.43 [open]  220.153 ms
+seq 228: tcp response from 203.190.242.69 [open]  247.460 ms
+seq 230: tcp response from 203.190.242.69 [open]  239.000 ms
+seq 232: tcp response from 203.190.241.43 [open]  233.288 ms
+seq 233: tcp response from 203.190.242.69 [open]  222.912 ms
+seq 231: no response (timeout)
+seq 235: tcp response from 203.190.241.43 [open]  232.918 ms
+seq 236: tcp response from 203.190.241.43 [open]  232.230 ms
+seq 237: tcp response from 203.190.241.43 [open]  227.938 ms
+seq 234: no response (timeout)
+seq 239: tcp response from 203.190.242.69 [open]  230.116 ms
+seq 238: tcp response from 203.190.242.69 [open]  221.128 ms
+seq 240: tcp response from 203.190.241.43 [open]  236.187 ms
+seq 242: tcp response from 203.190.242.69 [open]  247.745 ms
+seq 243: tcp response from 203.190.241.43 [open]  220.000 ms
+seq 245: tcp response from 203.190.242.69 [open]  227.565 ms
+seq 244: tcp response from 203.190.241.43 [open]  221.180 ms
+seq 241: tcp response from 203.190.242.69 [open]  229.398 ms
+seq 246: tcp response from 203.190.242.69 [open]  221.328 ms
+seq 247: tcp response from 203.190.241.43 [open]  224.875 ms
+seq 248: tcp response from 203.190.242.69 [open]  231.400 ms
+seq 249: tcp response from 203.190.242.69 [open]  221.093 ms
+seq 250: tcp response from 203.190.242.69 [open]  222.816 ms
+seq 251: tcp response from 203.190.242.69 [open]  229.547 ms
+seq 252: tcp response from 203.190.241.43 [open]  236.149 ms
+seq 253: tcp response from 203.190.241.43 [open]  219.790 ms
+seq 254: tcp response from 203.190.242.69 [open]  248.326 ms
+seq 256: tcp response from 203.190.242.69 [open]  227.906 ms
+seq 255: tcp response from 203.190.241.43 [open]  220.823 ms
+seq 258: tcp response from 203.190.242.69 [open]  221.205 ms
+seq 257: tcp response from 203.190.241.43 [open]  224.092 ms
+seq 259: tcp response from 203.190.242.69 [open]  222.025 ms
+seq 262: tcp response from 203.190.241.43 [open]  224.496 ms
+seq 261: tcp response from 203.190.241.43 [open]  223.970 ms
+seq 263: tcp response from 203.190.242.69 [open]  229.450 ms
+seq 260: tcp response from 203.190.241.43 [open]  248.470 ms
+seq 264: no response (timeout)
+seq 266: tcp response from 203.190.242.69 [open]  228.159 ms
+seq 265: no response (timeout)
+seq 268: tcp response from 203.190.241.43 [open]  224.328 ms
+seq 267: no response (timeout)
+seq 271: tcp response from 203.190.241.43 [open]  248.538 ms
+seq 269: no response (timeout)
+seq 272: tcp response from 203.190.242.69 [open]  222.301 ms
+seq 270: tcp response from 203.190.242.69 [open]  220.979 ms
+seq 273: tcp response from 203.190.242.69 [open]  220.924 ms
+seq 274: tcp response from 203.190.242.69 [open]  222.489 ms
+seq 275: tcp response from 203.190.241.43 [open]  233.170 ms
+seq 276: tcp response from 203.190.241.43 [open]  232.585 ms
+seq 277: tcp response from 203.190.242.69 [open]  247.280 ms
+seq 279: tcp response from 203.190.242.69 [open]  230.040 ms
+seq 280: tcp response from 203.190.241.43 [open]  228.196 ms
+seq 278: no response (timeout)
+seq 282: tcp response from 203.190.242.69 [open]  222.778 ms
+seq 283: tcp response from 203.190.241.43 [open]  224.457 ms
+seq 285: tcp response from 203.190.242.69 [open]  229.097 ms
+seq 281: no response (timeout)
+seq 286: tcp response from 203.190.241.43 [open]  236.383 ms
+seq 287: tcp response from 203.190.241.43 [open]  237.708 ms
+seq 288: tcp response from 203.190.241.43 [open]  223.005 ms
+seq 284: tcp response from 203.190.241.43 [open]  248.518 ms
+seq 289: tcp response from 203.190.242.69 [open]  231.233 ms
+seq 290: tcp response from 203.190.242.69 [open]  227.769 ms
+seq 292: tcp response from 203.190.241.43 [open]  233.205 ms
+seq 291: tcp response from 203.190.242.69 [open]  221.260 ms
+seq 293: tcp response from 203.190.241.43 [open]  232.350 ms
+seq 294: tcp response from 203.190.242.69 [open]  222.514 ms
+seq 295: tcp response from 203.190.241.43 [open]  228.525 ms
+seq 296: tcp response from 203.190.242.69 [open]  228.447 ms
+seq 298: tcp response from 203.190.242.69 [open]  230.018 ms
+seq 297: tcp response from 203.190.242.69 [open]  230.840 ms
+seq 299: tcp response from 203.190.241.43 [open]  229.065 ms
+seq 300: tcp response from 203.190.242.69 [open]  222.142 ms
+seq 301: tcp response from 203.190.241.43 [open]  224.384 ms
+seq 302: tcp response from 203.190.241.43 [open]  236.632 ms
+seq 303: tcp response from 203.190.241.43 [open]  219.666 ms
+seq 304: tcp response from 203.190.242.69 [open]  230.675 ms
+seq 306: tcp response from 203.190.242.69 [open]  239.052 ms
+seq 307: tcp response from 203.190.242.69 [open]  222.604 ms
+seq 305: no response (timeout)
+seq 308: tcp response from 203.190.241.43 [open]  221.110 ms
+seq 310: tcp response from 203.190.241.43 [open]  248.644 ms
+seq 309: tcp response from 203.190.242.69 [open]  227.915 ms
+seq 311: tcp response from 203.190.241.43 [open]  223.636 ms
+seq 312: tcp response from 203.190.241.43 [open]  224.075 ms
+seq 313: tcp response from 203.190.242.69 [open]  221.821 ms
+seq 314: tcp response from 203.190.242.69 [open]  221.426 ms
+seq 315: tcp response from 203.190.241.43 [open]  233.540 ms
+seq 317: tcp response from 203.190.242.69 [open]  222.185 ms
+seq 316: no response (timeout)
+seq 318: tcp response from 203.190.241.43 [open]  228.178 ms
+seq 319: tcp response from 203.190.242.69 [open]  229.791 ms
+seq 320: tcp response from 203.190.241.43 [open]  231.259 ms
+seq 322: tcp response from 203.190.241.43 [open]  228.805 ms
+seq 323: tcp response from 203.190.242.69 [open]  230.177 ms
+seq 321: tcp response from 203.190.242.69 [open]  223.113 ms
+seq 324: tcp response from 203.190.242.69 [open]  229.551 ms
+seq 325: tcp response from 203.190.241.43 [open]  236.844 ms
+seq 326: tcp response from 203.190.242.69 [open]  247.807 ms
+seq 327: tcp response from 203.190.241.43 [open]  219.467 ms
+seq 328: tcp response from 203.190.242.69 [open]  238.874 ms
+seq 329: tcp response from 203.190.241.43 [open]  221.912 ms
+seq 330: tcp response from 203.190.242.69 [open]  222.764 ms
+seq 331: tcp response from 203.190.241.43 [open]  233.705 ms
+seq 332: tcp response from 203.190.241.43 [open]  234.866 ms
+seq 333: tcp response from 203.190.242.69 [open]  220.975 ms
+seq 334: tcp response from 203.190.241.43 [open]  232.882 ms
+seq 335: tcp response from 203.190.241.43 [open]  232.843 ms
+seq 337: tcp response from 203.190.242.69 [open]  232.448 ms
+seq 338: tcp response from 203.190.241.43 [open]  224.800 ms
+seq 339: tcp response from 203.190.242.69 [open]  242.508 ms
+seq 340: tcp response from 203.190.242.69 [open]  223.383 ms
+seq 341: tcp response from 203.190.242.69 [open]  230.435 ms
+seq 342: tcp response from 203.190.242.69 [open]  222.356 ms
+seq 344: tcp response from 203.190.241.43 [open]  223.232 ms
+seq 336: no response (timeout)
+seq 345: tcp response from 203.190.241.43 [open]  236.579 ms
+seq 346: tcp response from 203.190.241.43 [open]  259.684 ms
+seq 347: tcp response from 203.190.242.69 [open]  221.283 ms
+seq 343: tcp response from 203.190.241.43 [open]  249.037 ms
+seq 348: tcp response from 203.190.242.69 [open]  222.216 ms
+seq 349: tcp response from 203.190.242.69 [open]  228.933 ms
+seq 350: tcp response from 203.190.242.69 [open]  223.519 ms
+seq 352: tcp response from 203.190.241.43 [open]  219.244 ms
+seq 351: tcp response from 203.190.241.43 [open]  220.925 ms
+seq 353: tcp response from 203.190.242.69 [open]  229.732 ms
+seq 354: tcp response from 203.190.241.43 [open]  232.710 ms
+seq 355: tcp response from 203.190.242.69 [open]  248.061 ms
+seq 357: tcp response from 203.190.241.43 [open]  229.389 ms
+seq 356: tcp response from 203.190.242.69 [open]  227.872 ms
+seq 358: tcp response from 203.190.241.43 [open]  224.172 ms
+seq 359: tcp response from 203.190.241.43 [open]  248.424 ms
+seq 360: tcp response from 203.190.242.69 [open]  223.371 ms
+seq 361: tcp response from 203.190.241.43 [open]  233.240 ms
+seq 362: tcp response from 203.190.241.43 [open]  233.342 ms
+seq 363: tcp response from 203.190.242.69 [open]  220.611 ms
+seq 365: tcp response from 203.190.241.43 [open]  227.666 ms
+seq 366: tcp response from 203.190.241.43 [open]  231.133 ms
+seq 364: tcp response from 203.190.242.69 [open]  222.758 ms
+seq 367: tcp response from 203.190.242.69 [open]  228.543 ms
+seq 368: tcp response from 203.190.241.43 [open]  236.872 ms
+seq 370: tcp response from 203.190.242.69 [open]  248.101 ms
+seq 371: tcp response from 203.190.241.43 [open]  219.422 ms
+seq 369: tcp response from 203.190.242.69 [open]  229.278 ms
+seq 373: tcp response from 203.190.242.69 [open]  238.310 ms
+seq 374: tcp response from 203.190.242.69 [open]  222.117 ms
+seq 372: no response (timeout)
+seq 376: tcp response from 203.190.242.69 [open]  247.426 ms
+seq 375: no response (timeout)
+seq 378: tcp response from 203.190.242.69 [open]  228.615 ms
+seq 377: tcp response from 203.190.241.43 [open]  235.062 ms
+seq 379: tcp response from 203.190.242.69 [open]  227.793 ms
+seq 380: tcp response from 203.190.241.43 [open]  223.926 ms
+seq 381: tcp response from 203.190.242.69 [open]  220.932 ms
+seq 383: tcp response from 203.190.241.43 [open]  223.214 ms
+seq 382: tcp response from 203.190.241.43 [open]  248.490 ms
+seq 384: tcp response from 203.190.241.43 [open]  247.690 ms
+seq 386: tcp response from 203.190.241.43 [open]  229.027 ms
+seq 385: tcp response from 203.190.242.69 [open]  220.704 ms
+seq 387: tcp response from 203.190.242.69 [open]  223.166 ms
+seq 388: tcp response from 203.190.242.69 [open]  231.522 ms
+seq 389: tcp response from 203.190.241.43 [open]  236.798 ms
+seq 390: tcp response from 203.190.242.69 [open]  229.732 ms
+seq 391: tcp response from 203.190.241.43 [open]  219.869 ms
+seq 392: tcp response from 203.190.242.69 [open]  247.693 ms
+seq 393: tcp response from 203.190.242.69 [open]  247.097 ms
+seq 394: tcp response from 203.190.241.43 [open]  224.099 ms
+seq 395: tcp response from 203.190.242.69 [open]  228.593 ms
+seq 396: tcp response from 203.190.242.69 [open]  221.192 ms
+seq 398: tcp response from 203.190.241.43 [open]  233.172 ms
+seq 399: tcp response from 203.190.241.43 [open]  228.085 ms
+seq 400: tcp response from 203.190.242.69 [open]  228.682 ms
+seq 401: tcp response from 203.190.241.43 [open]  230.967 ms
+seq 402: tcp response from 203.190.241.43 [open]  229.186 ms
+seq 403: tcp response from 203.190.241.43 [open]  229.685 ms
+seq 397: tcp response from 203.190.242.69 [open]  220.656 ms
+seq 404: tcp response from 203.190.242.69 [open]  223.483 ms
+seq 405: tcp response from 203.190.242.69 [open]  230.435 ms
+seq 406: tcp response from 203.190.241.43 [open]  227.972 ms
+seq 407: tcp response from 203.190.242.69 [open]  222.505 ms
+seq 408: tcp response from 203.190.241.43 [open]  264.943 ms
+seq 409: tcp response from 203.190.241.43 [open]  249.463 ms
+seq 410: tcp response from 203.190.241.43 [open]  236.350 ms
+seq 411: tcp response from 203.190.241.43 [open]  228.906 ms
+seq 412: tcp response from 203.190.242.69 [open]  223.045 ms
+seq 414: tcp response from 203.190.241.43 [open]  221.314 ms
+seq 415: tcp response from 203.190.241.43 [open]  221.091 ms
+seq 413: no response (timeout)
+seq 416: tcp response from 203.190.242.69 [open]  248.474 ms
+seq 417: tcp response from 203.190.241.43 [open]  232.792 ms
+seq 418: tcp response from 203.190.242.69 [open]  221.121 ms
+seq 419: tcp response from 203.190.241.43 [open]  233.442 ms
+seq 420: tcp response from 203.190.242.69 [open]  227.917 ms
+seq 422: tcp response from 203.190.241.43 [open]  224.054 ms
+seq 423: tcp response from 203.190.242.69 [open]  222.236 ms
+seq 421: no response (timeout)
+seq 425: tcp response from 203.190.242.69 [open]  229.294 ms
+seq 427: tcp response from 203.190.242.69 [open]  223.485 ms
+seq 426: tcp response from 203.190.241.43 [open]  232.290 ms
+seq 424: no response (timeout)
+seq 428: tcp response from 203.190.242.69 [open]  220.914 ms
+seq 429: tcp response from 203.190.241.43 [open]  233.048 ms
+seq 431: tcp response from 203.190.242.69 [open]  229.402 ms
+seq 430: no response (timeout)
+seq 432: tcp response from 203.190.241.43 [open]  236.645 ms
+seq 436: tcp response from 203.190.241.43 [open]  232.531 ms
+seq 438: tcp response from 203.190.241.43 [open]  228.903 ms
+seq 435: tcp response from 203.190.242.69 [open]  229.987 ms
+seq 434: tcp response from 203.190.241.43 [open]  229.792 ms
+seq 433: no response (timeout)
+seq 437: tcp response from 203.190.242.69 [open]  228.763 ms
+seq 439: tcp response from 203.190.242.69 [open]  221.991 ms
+seq 443: tcp response from 203.190.242.69 [open]  229.334 ms
+seq 441: tcp response from 203.190.241.43 [open]  232.889 ms
+seq 440: no response (timeout)
+seq 442: tcp response from 203.190.242.69 [open]  223.691 ms
+seq 446: tcp response from 203.190.241.43 [open]  223.948 ms
+seq 447: tcp response from 203.190.242.69 [open]  228.056 ms
+seq 445: no response (timeout)
+seq 444: no response (timeout)
+seq 450: tcp response from 203.190.242.69 [open]  221.561 ms
+seq 451: tcp response from 203.190.242.69 [open]  222.857 ms
+seq 449: tcp response from 203.190.241.43 [open]  232.404 ms
+seq 448: tcp response from 203.190.242.69 [open]  448.793 ms
+seq 453: tcp response from 203.190.242.69 [open]  230.770 ms
+seq 454: tcp response from 203.190.242.69 [open]  222.136 ms
+seq 452: tcp response from 203.190.241.43 [open]  248.526 ms
+seq 455: tcp response from 203.190.241.43 [open]  247.494 ms
+seq 456: tcp response from 203.190.242.69 [open]  228.044 ms
+seq 457: tcp response from 203.190.241.43 [open]  237.214 ms
+seq 458: tcp response from 203.190.241.43 [open]  219.786 ms
+seq 459: tcp response from 203.190.242.69 [open]  229.710 ms
+seq 460: tcp response from 203.190.241.43 [open]  220.790 ms
+seq 462: tcp response from 203.190.242.69 [open]  248.024 ms
+seq 461: tcp response from 203.190.241.43 [open]  233.572 ms
+seq 463: tcp response from 203.190.241.43 [open]  235.699 ms
+seq 464: tcp response from 203.190.242.69 [open]  238.836 ms
+seq 465: tcp response from 203.190.242.69 [open]  222.323 ms
+seq 466: tcp response from 203.190.241.43 [open]  233.331 ms
+seq 467: tcp response from 203.190.242.69 [open]  220.656 ms
+seq 468: tcp response from 203.190.241.43 [open]  232.803 ms
+seq 469: tcp response from 203.190.241.43 [open]  227.646 ms
+seq 470: tcp response from 203.190.242.69 [open]  223.569 ms
+seq 471: tcp response from 203.190.241.43 [open]  229.052 ms
+seq 472: tcp response from 203.190.241.43 [open]  230.846 ms
+seq 474: tcp response from 203.190.242.69 [open]  222.216 ms
+seq 475: tcp response from 203.190.242.69 [open]  228.835 ms
+seq 476: tcp response from 203.190.242.69 [open]  223.313 ms
+seq 473: no response (timeout)
+seq 478: tcp response from 203.190.241.43 [open]  220.081 ms
+seq 480: tcp response from 203.190.241.43 [open]  224.062 ms
+seq 479: tcp response from 203.190.242.69 [open]  230.176 ms
+seq 482: tcp response from 203.190.242.69 [open]  227.874 ms
+seq 477: no response (timeout)
+seq 481: tcp response from 203.190.241.43 [open]  248.603 ms
+seq 483: tcp response from 203.190.241.43 [open]  223.971 ms
+seq 484: tcp response from 203.190.242.69 [open]  248.225 ms
+seq 486: tcp response from 203.190.242.69 [open]  247.250 ms
+seq 485: no response (timeout)
+seq 488: tcp response from 203.190.241.43 [open]  235.095 ms
+seq 487: no response (timeout)
+seq 489: tcp response from 203.190.242.69 [open]  229.239 ms
+seq 491: tcp response from 203.190.242.69 [open]  221.027 ms
+seq 492: tcp response from 203.190.242.69 [open]  222.173 ms
+seq 490: no response (timeout)
+seq 493: tcp response from 203.190.241.43 [open]  224.798 ms
+seq 495: tcp response from 203.190.242.69 [open]  221.198 ms
+seq 496: tcp response from 203.190.241.43 [open]  248.404 ms
+seq 494: tcp response from 203.190.242.69 [open]  227.784 ms
+seq 497: tcp response from 203.190.241.43 [open]  223.030 ms
+seq 498: tcp response from 203.190.241.43 [open]  247.363 ms
+seq 499: tcp response from 203.190.241.43 [open]  219.875 ms
+seq 501: tcp response from 203.190.242.69 [open]  247.646 ms
+seq 502: tcp response from 203.190.242.69 [open]  229.354 ms
+seq 503: tcp response from 203.190.241.43 [open]  232.838 ms
+seq 500: tcp response from 203.190.242.69 [open]  228.954 ms
+seq 504: tcp response from 203.190.242.69 [open]  221.069 ms
+seq 506: tcp response from 203.190.242.69 [open]  230.220 ms
+seq 505: tcp response from 203.190.242.69 [open]  222.871 ms
+seq 508: tcp response from 203.190.241.43 [open]  228.157 ms
+seq 507: tcp response from 203.190.241.43 [open]  232.585 ms
+seq 509: tcp response from 203.190.242.69 [open]  228.425 ms
+seq 512: tcp response from 203.190.242.69 [open]  229.127 ms
+seq 511: tcp response from 203.190.241.43 [open]  236.696 ms
+seq 510: no response (timeout)
+seq 514: tcp response from 203.190.241.43 [open]  219.785 ms
+seq 513: no response (timeout)
+seq 516: tcp response from 203.190.242.69 [open]  239.680 ms
+seq 518: tcp response from 203.190.241.43 [open]  235.673 ms
+seq 520: tcp response from 203.190.242.69 [open]  247.308 ms
+seq 521: tcp response from 203.190.241.43 [open]  224.854 ms
+seq 517: tcp response from 203.190.241.43 [open]  234.172 ms
+seq 519: tcp response from 203.190.242.69 [open]  222.922 ms
+seq 525: tcp response from 203.190.241.43 [open]  247.712 ms
+seq 526: tcp response from 203.190.242.69 [open]  221.390 ms
+seq 524: no response (timeout)
+seq 515: tcp response from 203.190.241.43 [open]  220.917 ms
+seq 522: tcp response from 203.190.241.43 [open]  248.322 ms
+seq 528: tcp response from 203.190.241.43 [open]  232.564 ms
+seq 523: tcp response from 203.190.242.69 [open]  227.681 ms
+seq 527: tcp response from 203.190.241.43 [open]  233.939 ms
+seq 529: tcp response from 203.190.242.69 [open]  222.696 ms
+seq 530: tcp response from 203.190.242.69 [open]  239.465 ms
+seq 531: tcp response from 203.190.241.43 [open]  236.303 ms
+seq 532: tcp response from 203.190.242.69 [open]  228.768 ms
+seq 534: tcp response from 203.190.242.69 [open]  227.936 ms
+seq 533: tcp response from 203.190.242.69 [open]  223.367 ms
+seq 536: tcp response from 203.190.241.43 [open]  248.809 ms
+seq 537: tcp response from 203.190.242.69 [open]  221.242 ms
+seq 535: no response (timeout)
+seq 539: tcp response from 203.190.242.69 [open]  221.985 ms
+seq 538: no response (timeout)
+seq 540: tcp response from 203.190.241.43 [open]  219.426 ms
+seq 542: tcp response from 203.190.242.69 [open]  229.018 ms
+seq 541: no response (timeout)
+seq 543: tcp response from 203.190.242.69 [open]  248.037 ms
+seq 545: tcp response from 203.190.241.43 [open]  236.264 ms
+seq 547: tcp response from 203.190.241.43 [open]  224.087 ms
+seq 549: tcp response from 203.190.242.69 [open]  222.282 ms
+seq 544: tcp response from 203.190.242.69 [open]  238.856 ms
+seq 546: tcp response from 203.190.241.43 [open]  233.311 ms
+seq 548: tcp response from 203.190.241.43 [open]  238.693 ms
+seq 550: no response (timeout)
+seq 551: tcp response from 203.190.242.69 [open]  230.073 ms
+seq 552: tcp response from 203.190.242.69 [open]  223.996 ms
+seq 553: tcp response from 203.190.241.43 [open]  232.640 ms
+seq 554: tcp response from 203.190.242.69 [open]  230.368 ms
+seq 556: tcp response from 203.190.242.69 [open]  221.678 ms
+seq 555: tcp response from 203.190.242.69 [open]  229.412 ms
+seq 557: tcp response from 203.190.241.43 [open]  227.705 ms
+seq 558: tcp response from 203.190.241.43 [open]  236.298 ms
+seq 559: tcp response from 203.190.242.69 [open]  229.006 ms
+seq 560: tcp response from 203.190.241.43 [open]  219.928 ms
+seq 561: tcp response from 203.190.242.69 [open]  248.822 ms
+seq 562: tcp response from 203.190.241.43 [open]  222.604 ms
+seq 564: tcp response from 203.190.242.69 [open]  221.211 ms
+seq 565: tcp response from 203.190.241.43 [open]  224.677 ms
+seq 563: no response (timeout)
+seq 566: tcp response from 203.190.242.69 [open]  222.155 ms
+seq 567: tcp response from 203.190.241.43 [open]  248.237 ms
+seq 568: tcp response from 203.190.242.69 [open]  223.178 ms
+seq 569: tcp response from 203.190.241.43 [open]  223.011 ms
+seq 570: tcp response from 203.190.241.43 [open]  232.970 ms
+seq 571: tcp response from 203.190.241.43 [open]  232.307 ms
+seq 572: tcp response from 203.190.242.69 [open]  222.284 ms
+seq 573: tcp response from 203.190.241.43 [open]  228.290 ms
+seq 574: tcp response from 203.190.241.43 [open]  251.693 ms
+seq 575: tcp response from 203.190.241.43 [open]  230.342 ms
+seq 576: tcp response from 203.190.242.69 [open]  221.204 ms
+seq 577: tcp response from 203.190.242.69 [open]  230.097 ms
+seq 578: tcp response from 203.190.241.43 [open]  236.421 ms
+seq 579: tcp response from 203.190.241.43 [open]  222.457 ms
+seq 580: tcp response from 203.190.241.43 [open]  233.591 ms
+seq 581: tcp response from 203.190.242.69 [open]  229.596 ms
+seq 582: tcp response from 203.190.241.43 [open]  235.700 ms
+seq 583: tcp response from 203.190.242.69 [open]  229.263 ms
+seq 584: tcp response from 203.190.242.69 [open]  222.030 ms
+seq 585: tcp response from 203.190.241.43 [open]  224.115 ms
+seq 586: tcp response from 203.190.242.69 [open]  222.621 ms
+seq 587: tcp response from 203.190.242.69 [open]  223.178 ms
+seq 589: tcp response from 203.190.242.69 [open]  230.192 ms
+seq 590: tcp response from 203.190.242.69 [open]  227.021 ms
+seq 591: tcp response from 203.190.242.69 [open]  229.837 ms
+seq 592: tcp response from 203.190.242.69 [open]  229.300 ms
+seq 588: tcp response from 203.190.241.43 [open]  247.683 ms
+seq 593: tcp response from 203.190.241.43 [open]  223.580 ms
+seq 594: tcp response from 203.190.241.43 [open]  233.635 ms
+seq 595: tcp response from 203.190.241.43 [open]  232.354 ms
+seq 596: tcp response from 203.190.241.43 [open]  228.166 ms
+seq 597: tcp response from 203.190.241.43 [open]  231.204 ms
+seq 598: tcp response from 203.190.242.69 [open]  222.858 ms
+seq 599: tcp response from 203.190.242.69 [open]  220.856 ms
+seq 600: tcp response from 203.190.242.69 [open]  261.627 ms
+seq 602: tcp response from 203.190.242.69 [open]  223.960 ms
+seq 604: tcp response from 203.190.242.69 [open]  229.044 ms
+seq 601: tcp response from 203.190.241.43 [open]  230.540 ms
+seq 603: tcp response from 203.190.241.43 [open]  229.562 ms
+seq 605: tcp response from 203.190.242.69 [open]  221.760 ms
+seq 609: tcp response from 203.190.241.43 [open]  236.683 ms
+seq 608: tcp response from 203.190.242.69 [open]  223.333 ms
+seq 606: tcp response from 203.190.242.69 [open]  221.449 ms
+seq 607: no response (timeout)
+seq 612: tcp response from 203.190.241.43 [open]  219.451 ms
+seq 610: tcp response from 203.190.242.69 [open]  229.287 ms
+seq 611: tcp response from 203.190.242.69 [open]  248.033 ms
+seq 613: tcp response from 203.190.241.43 [open]  247.507 ms
+seq 615: tcp response from 203.190.241.43 [open]  233.506 ms
+seq 616: tcp response from 203.190.242.69 [open]  222.561 ms
+seq 618: tcp response from 203.190.241.43 [open]  233.154 ms
+seq 614: tcp response from 203.190.241.43 [open]  223.549 ms
+seq 619: tcp response from 203.190.242.69 [open]  230.436 ms
+seq 617: no response (timeout)
+seq 620: tcp response from 203.190.241.43 [open]  224.176 ms
+seq 621: tcp response from 203.190.241.43 [open]  249.001 ms
+seq 622: tcp response from 203.190.241.43 [open]  229.717 ms
+seq 625: tcp response from 203.190.242.69 [open]  229.278 ms
+seq 623: tcp response from 203.190.241.43 [open]  236.962 ms
+seq 627: tcp response from 203.190.242.69 [open]  247.836 ms
+seq 624: tcp response from 203.190.241.43 [open]  219.634 ms
+seq 626: tcp response from 203.190.241.43 [open]  223.018 ms
+seq 628: tcp response from 203.190.242.69 [open]  239.316 ms
+seq 629: tcp response from 203.190.242.69 [open]  222.532 ms
+seq 631: tcp response from 203.190.241.43 [open]  233.507 ms
+seq 632: tcp response from 203.190.241.43 [open]  227.868 ms
+seq 630: tcp response from 203.190.241.43 [open]  232.736 ms
+seq 633: tcp response from 203.190.242.69 [open]  245.733 ms
+seq 635: tcp response from 203.190.242.69 [open]  221.528 ms
+seq 636: tcp response from 203.190.242.69 [open]  222.044 ms
+seq 634: tcp response from 203.190.242.69 [open]  229.502 ms
+seq 637: tcp response from 203.190.242.69 [open]  223.028 ms
+seq 639: tcp response from 203.190.242.69 [open]  224.653 ms
+seq 641: tcp response from 203.190.242.69 [open]  256.457 ms
+seq 642: tcp response from 203.190.241.43 [open]  232.857 ms
+seq 638: tcp response from 203.190.241.43 [open]  224.097 ms
+seq 640: tcp response from 203.190.241.43 [open]  229.461 ms
+seq 643: tcp response from 203.190.242.69 [open]  222.177 ms
+seq 644: tcp response from 203.190.241.43 [open]  237.088 ms
+seq 645: tcp response from 203.190.241.43 [open]  219.318 ms
+seq 646: tcp response from 203.190.241.43 [open]  232.203 ms
+seq 647: tcp response from 203.190.241.43 [open]  227.805 ms
+seq 649: tcp response from 203.190.242.69 [open]  220.824 ms
+seq 648: tcp response from 203.190.241.43 [open]  232.000 ms
+seq 651: tcp response from 203.190.242.69 [open]  223.646 ms
+seq 650: tcp response from 203.190.242.69 [open]  230.931 ms
+seq 652: tcp response from 203.190.242.69 [open]  229.209 ms
+seq 653: tcp response from 203.190.241.43 [open]  222.362 ms
+seq 656: tcp response from 203.190.241.43 [open]  247.191 ms
+seq 655: tcp response from 203.190.241.43 [open]  224.205 ms
+seq 654: no response (timeout)
+seq 658: tcp response from 203.190.242.69 [open]  221.753 ms
+seq 657: no response (timeout)
+seq 660: tcp response from 203.190.241.43 [open]  233.192 ms
+seq 661: tcp response from 203.190.242.69 [open]  223.388 ms
+seq 659: tcp response from 203.190.242.69 [open]  247.598 ms
+seq 664: tcp response from 203.190.241.43 [open]  237.142 ms
+seq 665: tcp response from 203.190.241.43 [open]  232.907 ms
+seq 666: tcp response from 203.190.241.43 [open]  228.325 ms
+seq 667: tcp response from 203.190.242.69 [open]  229.061 ms
+seq 663: tcp response from 203.190.241.43 [open]  229.062 ms
+seq 662: tcp response from 203.190.242.69 [open]  224.483 ms
+seq 668: tcp response from 203.190.241.43 [open]  224.076 ms
+seq 670: tcp response from 203.190.242.69 [open]  248.164 ms
+seq 671: tcp response from 203.190.241.43 [open]  236.784 ms
+seq 672: tcp response from 203.190.242.69 [open]  238.889 ms
+seq 674: tcp response from 203.190.242.69 [open]  222.569 ms
+seq 669: no response (timeout)
+seq 673: tcp response from 203.190.242.69 [open]  232.542 ms
+seq 676: tcp response from 203.190.241.43 [open]  247.276 ms
+seq 677: tcp response from 203.190.241.43 [open]  223.635 ms
+seq 675: tcp response from 203.190.242.69 [open]  221.361 ms
+seq 678: tcp response from 203.190.242.69 [open]  222.803 ms
+seq 679: tcp response from 203.190.241.43 [open]  233.386 ms
+seq 681: tcp response from 203.190.242.69 [open]  220.683 ms
+seq 682: tcp response from 203.190.242.69 [open]  229.351 ms
+seq 680: tcp response from 203.190.241.43 [open]  233.148 ms
+seq 684: tcp response from 203.190.242.69 [open]  247.990 ms
+seq 685: tcp response from 203.190.241.43 [open]  219.237 ms
+seq 683: no response (timeout)
+seq 687: tcp response from 203.190.241.43 [open]  234.797 ms
+seq 688: tcp response from 203.190.241.43 [open]  222.808 ms
+seq 686: no response (timeout)
+seq 691: tcp response from 203.190.241.43 [open]  224.219 ms
+seq 690: tcp response from 203.190.241.43 [open]  233.434 ms
+seq 689: no response (timeout)
+seq 692: tcp response from 203.190.242.69 [open]  229.117 ms
+seq 693: tcp response from 203.190.241.43 [open]  247.417 ms
+seq 695: tcp response from 203.190.241.43 [open]  222.982 ms
+seq 694: no response (timeout)
+seq 697: tcp response from 203.190.242.69 [open]  221.685 ms
+seq 699: tcp response from 203.190.241.43 [open]  236.476 ms
+seq 698: tcp response from 203.190.242.69 [open]  229.119 ms
+seq 700: tcp response from 203.190.242.69 [open]  222.504 ms
+seq 696: tcp response from 203.190.241.43 [open]  249.450 ms
+seq 701: tcp response from 203.190.241.43 [open]  232.938 ms
+seq 702: tcp response from 203.190.242.69 [open]  223.482 ms
+seq 703: tcp response from 203.190.241.43 [open]  228.997 ms
+seq 704: tcp response from 203.190.242.69 [open]  224.231 ms
+seq 705: tcp response from 203.190.242.69 [open]  252.676 ms
+seq 706: tcp response from 203.190.242.69 [open]  238.580 ms
+seq 707: tcp response from 203.190.241.43 [open]  219.521 ms
+seq 708: tcp response from 203.190.241.43 [open]  222.559 ms
+seq 709: tcp response from 203.190.241.43 [open]  232.940 ms
+seq 711: tcp response from 203.190.242.69 [open]  221.323 ms
+seq 713: tcp response from 203.190.242.69 [open]  222.505 ms
+seq 714: tcp response from 203.190.241.43 [open]  233.294 ms
+seq 710: tcp response from 203.190.241.43 [open]  232.556 ms
+seq 712: tcp response from 203.190.241.43 [open]  227.893 ms
+seq 716: tcp response from 203.190.242.69 [open]  229.553 ms
+seq 718: tcp response from 203.190.241.43 [open]  248.655 ms
+seq 719: tcp response from 203.190.241.43 [open]  222.878 ms
+seq 717: no response (timeout)
+seq 715: tcp response from 203.190.242.69 [open]  230.183 ms
+seq 720: tcp response from 203.190.241.43 [open]  248.949 ms
+seq 721: tcp response from 203.190.242.69 [open]  221.797 ms
+seq 723: tcp response from 203.190.241.43 [open]  229.206 ms
+seq 724: tcp response from 203.190.241.43 [open]  222.750 ms
+seq 726: tcp response from 203.190.241.43 [open]  233.343 ms
+seq 727: tcp response from 203.190.242.69 [open]  224.135 ms
+seq 725: tcp response from 203.190.242.69 [open]  223.661 ms
+seq 729: tcp response from 203.190.241.43 [open]  230.012 ms
+seq 722: no response (timeout)
+seq 730: tcp response from 203.190.241.43 [open]  236.375 ms
+seq 728: tcp response from 203.190.242.69 [open]  229.460 ms
+seq 731: tcp response from 203.190.242.69 [open]  248.025 ms
+seq 732: tcp response from 203.190.242.69 [open]  238.597 ms
+seq 734: tcp response from 203.190.242.69 [open]  222.767 ms
+seq 735: tcp response from 203.190.241.43 [open]  222.896 ms
+seq 736: tcp response from 203.190.242.69 [open]  246.212 ms
+seq 738: tcp response from 203.190.241.43 [open]  224.460 ms
+seq 737: tcp response from 203.190.242.69 [open]  229.092 ms
+seq 733: tcp response from 203.190.241.43 [open]  220.085 ms
+seq 739: tcp response from 203.190.242.69 [open]  222.120 ms
+seq 741: tcp response from 203.190.241.43 [open]  233.014 ms
+seq 742: tcp response from 203.190.241.43 [open]  232.208 ms
+seq 743: tcp response from 203.190.242.69 [open]  222.841 ms
+seq 744: tcp response from 203.190.242.69 [open]  221.234 ms
+seq 740: no response (timeout)
+seq 746: tcp response from 203.190.242.69 [open]  229.203 ms
+seq 750: tcp response from 203.190.242.69 [open]  222.482 ms
+seq 747: tcp response from 203.190.242.69 [open]  248.105 ms
+seq 748: tcp response from 203.190.242.69 [open]  238.530 ms
+seq 745: no response (timeout)
+seq 751: no response (timeout)
+seq 749: no response (timeout)
+seq 752: tcp response from 203.190.242.69 [open]  229.124 ms
+seq 753: tcp response from 203.190.241.43 [open]  219.362 ms
+seq 755: tcp response from 203.190.241.43 [open]  247.336 ms
+seq 757: tcp response from 203.190.241.43 [open]  248.860 ms
+seq 754: tcp response from 203.190.242.69 [open]  220.982 ms
+seq 756: tcp response from 203.190.241.43 [open]  223.554 ms
+seq 759: tcp response from 203.190.242.69 [open]  223.121 ms
+seq 760: tcp response from 203.190.242.69 [open]  230.079 ms
+seq 758: no response (timeout)
+seq 761: tcp response from 203.190.242.69 [open]  230.444 ms
+seq 763: tcp response from 203.190.241.43 [open]  230.605 ms
+seq 762: no response (timeout)
+seq 764: tcp response from 203.190.241.43 [open]  229.283 ms
+seq 766: tcp response from 203.190.242.69 [open]  247.631 ms
+seq 767: tcp response from 203.190.241.43 [open]  228.383 ms
+seq 765: no response (timeout)
+seq 768: tcp response from 203.190.242.69 [open]  229.048 ms
+seq 769: tcp response from 203.190.242.69 [open]  223.209 ms
+seq 771: tcp response from 203.190.242.69 [open]  220.836 ms
+seq 770: tcp response from 203.190.241.43 [open]  232.831 ms
+seq 772: tcp response from 203.190.242.69 [open]  246.291 ms
+seq 773: tcp response from 203.190.241.43 [open]  229.489 ms
+seq 774: tcp response from 203.190.241.43 [open]  237.607 ms
+seq 775: tcp response from 203.190.241.43 [open]  224.127 ms
+seq 776: tcp response from 203.190.241.43 [open]  247.585 ms
+seq 777: tcp response from 203.190.242.69 [open]  221.300 ms
+seq 778: tcp response from 203.190.241.43 [open]  451.902 ms
+seq 779: tcp response from 203.190.242.69 [open]  229.077 ms
+seq 782: tcp response from 203.190.241.43 [open]  232.863 ms
+seq 781: tcp response from 203.190.242.69 [open]  222.892 ms
+seq 780: tcp response from 203.190.241.43 [open]  233.161 ms
+seq 783: tcp response from 203.190.242.69 [open]  228.943 ms
+seq 784: tcp response from 203.190.242.69 [open]  248.515 ms
+seq 785: tcp response from 203.190.242.69 [open]  238.719 ms
+seq 787: tcp response from 203.190.241.43 [open]  219.767 ms
+seq 788: tcp response from 203.190.242.69 [open]  222.480 ms
+seq 786: no response (timeout)
+seq 789: tcp response from 203.190.241.43 [open]  223.055 ms
+seq 790: tcp response from 203.190.242.69 [open]  246.422 ms
+seq 792: tcp response from 203.190.242.69 [open]  222.282 ms
+seq 791: tcp response from 203.190.241.43 [open]  233.024 ms
+seq 793: tcp response from 203.190.241.43 [open]  235.003 ms
+seq 795: tcp response from 203.190.241.43 [open]  232.944 ms
+seq 797: tcp response from 203.190.242.69 [open]  222.150 ms
+seq 798: tcp response from 203.190.241.43 [open]  228.068 ms
+seq 799: tcp response from 203.190.242.69 [open]  237.223 ms
+seq 796: tcp response from 203.190.241.43 [open]  232.304 ms
+seq 794: tcp response from 203.190.242.69 [open]  229.666 ms
+seq 801: tcp response from 203.190.241.43 [open]  224.632 ms
+seq 802: tcp response from 203.190.241.43 [open]  236.547 ms
+seq 803: tcp response from 203.190.242.69 [open]  229.324 ms
+seq 804: tcp response from 203.190.241.43 [open]  219.609 ms
+seq 805: tcp response from 203.190.242.69 [open]  247.972 ms
+seq 806: tcp response from 203.190.242.69 [open]  238.693 ms
+seq 800: no response (timeout)
+seq 807: tcp response from 203.190.241.43 [open]  222.570 ms
+seq 808: tcp response from 203.190.242.69 [open]  222.876 ms
+seq 809: tcp response from 203.190.242.69 [open]  222.168 ms
+seq 810: tcp response from 203.190.241.43 [open]  233.385 ms
+seq 811: tcp response from 203.190.242.69 [open]  221.160 ms
+seq 813: tcp response from 203.190.241.43 [open]  233.264 ms
+seq 814: tcp response from 203.190.242.69 [open]  228.979 ms
+seq 815: tcp response from 203.190.241.43 [open]  224.278 ms
+seq 816: tcp response from 203.190.241.43 [open]  247.701 ms
+seq 812: tcp response from 203.190.242.69 [open]  230.854 ms
+seq 818: tcp response from 203.190.242.69 [open]  222.197 ms
+seq 817: tcp response from 203.190.242.69 [open]  221.243 ms
+seq 819: tcp response from 203.190.241.43 [open]  223.523 ms
+seq 820: tcp response from 203.190.241.43 [open]  249.069 ms
+seq 822: tcp response from 203.190.241.43 [open]  236.403 ms
+seq 824: tcp response from 203.190.242.69 [open]  229.035 ms
+seq 826: tcp response from 203.190.242.69 [open]  223.824 ms
+seq 823: tcp response from 203.190.241.43 [open]  249.321 ms
+seq 827: tcp response from 203.190.242.69 [open]  221.179 ms
+seq 828: tcp response from 203.190.241.43 [open]  233.189 ms
+seq 829: tcp response from 203.190.242.69 [open]  224.027 ms
+seq 825: tcp response from 203.190.241.43 [open]  229.791 ms
+seq 821: no response (timeout)
+seq 831: tcp response from 203.190.241.43 [open]  228.498 ms
+seq 830: tcp response from 203.190.241.43 [open]  232.975 ms
+seq 832: tcp response from 203.190.242.69 [open]  229.017 ms
+seq 833: tcp response from 203.190.241.43 [open]  236.669 ms
+seq 834: tcp response from 203.190.241.43 [open]  219.781 ms
+seq 836: tcp response from 203.190.241.43 [open]  222.184 ms
+seq 837: tcp response from 203.190.242.69 [open]  238.928 ms
+seq 835: tcp response from 203.190.242.69 [open]  247.419 ms
+seq 838: tcp response from 203.190.242.69 [open]  222.233 ms
+seq 839: tcp response from 203.190.241.43 [open]  241.203 ms
+seq 840: tcp response from 203.190.242.69 [open]  229.193 ms
+seq 841: tcp response from 203.190.242.69 [open]  221.028 ms
+seq 842: tcp response from 203.190.241.43 [open]  247.227 ms
+seq 843: tcp response from 203.190.241.43 [open]  223.546 ms
+seq 844: tcp response from 203.190.242.69 [open]  244.190 ms
+seq 845: tcp response from 203.190.241.43 [open]  236.991 ms
+seq 846: tcp response from 203.190.242.69 [open]  229.603 ms
+seq 847: tcp response from 203.190.241.43 [open]  259.269 ms
+seq 848: tcp response from 203.190.241.43 [open]  229.100 ms
+seq 849: tcp response from 203.190.241.43 [open]  222.528 ms
+seq 850: tcp response from 203.190.241.43 [open]  234.653 ms
+seq 852: tcp response from 203.190.241.43 [open]  233.276 ms
+seq 853: tcp response from 203.190.241.43 [open]  228.383 ms
+seq 851: tcp response from 203.190.242.69 [open]  222.684 ms
+seq 854: tcp response from 203.190.242.69 [open]  220.810 ms
+seq 855: tcp response from 203.190.242.69 [open]  229.509 ms
+seq 857: tcp response from 203.190.242.69 [open]  247.750 ms
+seq 858: tcp response from 203.190.242.69 [open]  238.497 ms
+seq 856: tcp response from 203.190.241.43 [open]  236.488 ms
+seq 860: tcp response from 203.190.241.43 [open]  219.392 ms
+seq 859: tcp response from 203.190.242.69 [open]  230.242 ms
+seq 861: tcp response from 203.190.242.69 [open]  222.899 ms
+seq 862: tcp response from 203.190.241.43 [open]  224.570 ms
+seq 864: tcp response from 203.190.241.43 [open]  247.509 ms
+seq 865: tcp response from 203.190.242.69 [open]  221.919 ms
+seq 863: no response (timeout)
+seq 867: tcp response from 203.190.241.43 [open]  237.475 ms
+seq 868: tcp response from 203.190.241.43 [open]  223.176 ms
+seq 866: no response (timeout)
+seq 869: tcp response from 203.190.241.43 [open]  223.564 ms
+seq 870: tcp response from 203.190.242.69 [open]  222.225 ms
+seq 871: tcp response from 203.190.242.69 [open]  220.720 ms
+seq 873: tcp response from 203.190.242.69 [open]  224.247 ms
+seq 875: tcp response from 203.190.242.69 [open]  231.075 ms
+seq 872: tcp response from 203.190.242.69 [open]  230.334 ms
+seq 878: tcp response from 203.190.241.43 [open]  228.818 ms
+seq 879: tcp response from 203.190.242.69 [open]  228.984 ms
+seq 880: tcp response from 203.190.241.43 [open]  236.425 ms
+seq 876: tcp response from 203.190.242.69 [open]  229.222 ms
+seq 874: tcp response from 203.190.241.43 [open]  233.913 ms
+seq 881: tcp response from 203.190.241.43 [open]  224.087 ms
+seq 883: tcp response from 203.190.241.43 [open]  222.919 ms
+seq 884: tcp response from 203.190.242.69 [open]  230.064 ms
+seq 877: tcp response from 203.190.241.43 [open]  232.424 ms
+seq 885: tcp response from 203.190.242.69 [open]  221.038 ms
+seq 886: tcp response from 203.190.241.43 [open]  219.312 ms
+seq 888: tcp response from 203.190.242.69 [open]  244.116 ms
+seq 889: tcp response from 203.190.241.43 [open]  222.330 ms
+seq 882: tcp response from 203.190.241.43 [open]  247.694 ms
+seq 890: no response (timeout)
+seq 887: tcp response from 203.190.242.69 [open]  248.202 ms
+seq 891: tcp response from 203.190.241.43 [open]  224.175 ms
+seq 892: tcp response from 203.190.242.69 [open]  229.468 ms
+seq 894: tcp response from 203.190.241.43 [open]  247.380 ms
+seq 893: tcp response from 203.190.242.69 [open]  222.303 ms
+seq 897: tcp response from 203.190.241.43 [open]  249.323 ms
+seq 898: tcp response from 203.190.242.69 [open]  223.256 ms
+seq 895: tcp response from 203.190.242.69 [open]  221.311 ms
+seq 896: tcp response from 203.190.241.43 [open]  223.009 ms
+seq 899: tcp response from 203.190.241.43 [open]  233.106 ms
+seq 900: tcp response from 203.190.241.43 [open]  233.205 ms
+seq 901: tcp response from 203.190.241.43 [open]  228.115 ms
+seq 902: tcp response from 203.190.242.69 [open]  229.129 ms
+seq 903: tcp response from 203.190.242.69 [open]  247.786 ms
+seq 904: tcp response from 203.190.242.69 [open]  238.422 ms
+seq 905: tcp response from 203.190.241.43 [open]  237.937 ms
+seq 908: tcp response from 203.190.241.43 [open]  222.758 ms
+seq 907: tcp response from 203.190.242.69 [open]  222.530 ms
+seq 909: tcp response from 203.190.241.43 [open]  233.433 ms
+seq 910: tcp response from 203.190.242.69 [open]  230.983 ms
+seq 912: tcp response from 203.190.241.43 [open]  236.412 ms
+seq 906: no response (timeout)
+seq 911: tcp response from 203.190.242.69 [open]  245.908 ms
+seq 913: tcp response from 203.190.242.69 [open]  229.302 ms
+seq 914: tcp response from 203.190.242.69 [open]  229.551 ms
+seq 916: tcp response from 203.190.242.69 [open]  248.352 ms
+seq 917: tcp response from 203.190.242.69 [open]  238.612 ms
+seq 918: tcp response from 203.190.241.43 [open]  236.968 ms
+seq 920: tcp response from 203.190.242.69 [open]  220.648 ms
+seq 915: tcp response from 203.190.241.43 [open]  223.151 ms
+seq 921: tcp response from 203.190.241.43 [open]  224.386 ms
+seq 922: tcp response from 203.190.241.43 [open]  247.922 ms
+seq 923: tcp response from 203.190.241.43 [open]  223.128 ms
+seq 924: tcp response from 203.190.242.69 [open]  229.539 ms
+seq 919: tcp response from 203.190.242.69 [open]  222.230 ms
+seq 926: tcp response from 203.190.241.43 [open]  229.280 ms
+seq 927: tcp response from 203.190.242.69 [open]  221.717 ms
+seq 928: tcp response from 203.190.242.69 [open]  222.557 ms
+seq 925: tcp response from 203.190.241.43 [open]  249.367 ms
+seq 930: tcp response from 203.190.242.69 [open]  230.798 ms
+seq 932: tcp response from 203.190.241.43 [open]  232.759 ms
+seq 933: tcp response from 203.190.241.43 [open]  237.104 ms
+seq 929: tcp response from 203.190.241.43 [open]  222.143 ms
+seq 931: tcp response from 203.190.241.43 [open]  232.899 ms
+seq 936: tcp response from 203.190.242.69 [open]  239.348 ms
+seq 937: tcp response from 203.190.241.43 [open]  219.290 ms
+seq 934: tcp response from 203.190.242.69 [open]  229.818 ms
+seq 935: no response (timeout)
+seq 938: tcp response from 203.190.242.69 [open]  224.578 ms
+seq 940: tcp response from 203.190.241.43 [open]  224.193 ms
+seq 939: no response (timeout)
+seq 942: tcp response from 203.190.242.69 [open]  221.712 ms
+seq 941: tcp response from 203.190.242.69 [open]  222.103 ms
+seq 944: tcp response from 203.190.241.43 [open]  223.925 ms
+seq 945: tcp response from 203.190.241.43 [open]  248.866 ms
+seq 943: no response (timeout)
+seq 947: tcp response from 203.190.242.69 [open]  220.878 ms
+seq 946: tcp response from 203.190.241.43 [open]  230.499 ms
+seq 950: tcp response from 203.190.241.43 [open]  220.033 ms
+seq 948: tcp response from 203.190.241.43 [open]  232.904 ms
+seq 949: tcp response from 203.190.242.69 [open]  408.679 ms
+seq 951: tcp response from 203.190.241.43 [open]  222.584 ms
+seq 952: tcp response from 203.190.241.43 [open]  232.971 ms
+seq 953: tcp response from 203.190.242.69 [open]  248.190 ms
+seq 954: tcp response from 203.190.242.69 [open]  238.483 ms
+seq 955: tcp response from 203.190.242.69 [open]  222.158 ms
+seq 956: tcp response from 203.190.241.43 [open]  224.251 ms
+seq 957: tcp response from 203.190.242.69 [open]  229.199 ms
+seq 958: tcp response from 203.190.241.43 [open]  247.463 ms
+seq 960: tcp response from 203.190.241.43 [open]  248.942 ms
+seq 959: tcp response from 203.190.241.43 [open]  222.835 ms
+seq 961: tcp response from 203.190.242.69 [open]  245.960 ms
+seq 962: tcp response from 203.190.242.69 [open]  247.621 ms
+seq 965: tcp response from 203.190.241.43 [open]  222.250 ms
+seq 963: no response (timeout)
+seq 966: tcp response from 203.190.242.69 [open]  222.151 ms
+seq 964: tcp response from 203.190.242.69 [open]  238.505 ms
+seq 967: tcp response from 203.190.242.69 [open]  230.025 ms
+seq 968: tcp response from 203.190.241.43 [open]  233.733 ms
+seq 971: tcp response from 203.190.242.69 [open]  230.034 ms
+seq 972: tcp response from 203.190.242.69 [open]  221.031 ms
+seq 969: tcp response from 203.190.242.69 [open]  221.872 ms
+seq 970: no response (timeout)
+seq 974: tcp response from 203.190.242.69 [open]  221.978 ms
+seq 975: tcp response from 203.190.241.43 [open]  248.156 ms
+seq 976: tcp response from 203.190.241.43 [open]  222.738 ms
+seq 973: tcp response from 203.190.241.43 [open]  224.092 ms
+seq 978: tcp response from 203.190.242.69 [open]  222.982 ms
+seq 977: tcp response from 203.190.241.43 [open]  249.053 ms
+seq 979: tcp response from 203.190.242.69 [open]  229.950 ms
+seq 981: tcp response from 203.190.242.69 [open]  226.619 ms
+seq 982: tcp response from 203.190.241.43 [open]  234.193 ms
+seq 980: tcp response from 203.190.242.69 [open]  222.173 ms
+seq 985: tcp response from 203.190.241.43 [open]  230.816 ms
+seq 983: no response (timeout)
+seq 987: tcp response from 203.190.241.43 [open]  230.359 ms
+seq 984: tcp response from 203.190.241.43 [open]  232.174 ms
+seq 986: no response (timeout)
+seq 989: tcp response from 203.190.241.43 [open]  229.157 ms
+seq 988: no response (timeout)
+seq 991: tcp response from 203.190.242.69 [open]  229.972 ms
+seq 992: tcp response from 203.190.242.69 [open]  229.039 ms
+seq 990: tcp response from 203.190.242.69 [open]  222.950 ms
+seq 993: tcp response from 203.190.241.43 [open]  224.223 ms
+seq 994: tcp response from 203.190.242.69 [open]  221.420 ms
+seq 996: tcp response from 203.190.242.69 [open]  221.749 ms
+seq 997: tcp response from 203.190.241.43 [open]  222.738 ms
+seq 995: tcp response from 203.190.241.43 [open]  247.599 ms
+seq 1000: tcp response from 203.190.242.69 [open]  230.217 ms
+seq 998: tcp response from 203.190.241.43 [open]  249.437 ms
+seq 999: tcp response from 203.190.242.69 [open]  223.103 ms
+seq 1002: tcp response from 203.190.241.43 [open]  229.355 ms
+seq 1001: no response (timeout)
+seq 1003: tcp response from 203.190.241.43 [open]  221.979 ms
+seq 1004: tcp response from 203.190.241.43 [open]  236.466 ms
+seq 1007: tcp response from 203.190.242.69 [open]  229.086 ms
+seq 1005: tcp response from 203.190.241.43 [open]  219.242 ms
+seq 1006: tcp response from 203.190.242.69 [open]  229.580 ms
+seq 1008: tcp response from 203.190.242.69 [open]  222.191 ms
+seq 1009: tcp response from 203.190.241.43 [open]  228.967 ms
+seq 1010: tcp response from 203.190.242.69 [open]  248.295 ms
+seq 1011: tcp response from 203.190.241.43 [open]  222.372 ms
+seq 1012: tcp response from 203.190.241.43 [open]  233.288 ms
+seq 1013: tcp response from 203.190.241.43 [open]  234.935 ms
+seq 1015: tcp response from 203.190.241.43 [open]  236.460 ms
+seq 1018: tcp response from 203.190.242.69 [open]  220.933 ms
+seq 1019: tcp response from 203.190.241.43 [open]  232.935 ms
+seq 1014: tcp response from 203.190.242.69 [open]  238.449 ms
+seq 1017: tcp response from 203.190.242.69 [open]  222.825 ms
+seq 1021: tcp response from 203.190.242.69 [open]  230.653 ms
+seq 1016: no response (timeout)
+seq 1025: tcp response from 203.190.242.69 [open]  230.358 ms
+seq 1026: tcp response from 203.190.241.43 [open]  230.759 ms
+seq 1022: tcp response from 203.190.242.69 [open]  222.980 ms
+seq 1024: no response (timeout)
+seq 1027: tcp response from 203.190.241.43 [open]  230.397 ms
+seq 1020: tcp response from 203.190.242.69 [open]  222.859 ms
+seq 1028: tcp response from 203.190.242.69 [open]  220.738 ms
+seq 1030: tcp response from 203.190.242.69 [open]  229.390 ms
+seq 1031: tcp response from 203.190.242.69 [open]  221.283 ms
+seq 1029: tcp response from 203.190.242.69 [open]  222.250 ms
+seq 1032: tcp response from 203.190.241.43 [open]  233.808 ms
+seq 1023: tcp response from 203.190.241.43 [open]  232.288 ms
+seq 1034: tcp response from 203.190.241.43 [open]  236.345 ms
+seq 1035: tcp response from 203.190.241.43 [open]  219.473 ms
+seq 1033: no response (timeout)
+seq 1036: tcp response from 203.190.241.43 [open]  222.949 ms
+seq 1037: tcp response from 203.190.242.69 [open]  249.150 ms
+seq 1038: tcp response from 203.190.242.69 [open]  238.646 ms
+seq 1040: tcp response from 203.190.241.43 [open]  235.260 ms
+seq 1039: tcp response from 203.190.241.43 [open]  232.890 ms
+seq 1044: tcp response from 203.190.242.69 [open]  222.182 ms
+seq 1045: tcp response from 203.190.241.43 [open]  232.857 ms
+seq 1043: tcp response from 203.190.242.69 [open]  246.295 ms
+seq 1042: tcp response from 203.190.242.69 [open]  222.167 ms
+seq 1041: no response (timeout)
+seq 1046: tcp response from 203.190.241.43 [open]  236.400 ms
+seq 1048: tcp response from 203.190.242.69 [open]  284.550 ms
+seq 1049: tcp response from 203.190.241.43 [open]  219.368 ms
+seq 1047: no response (timeout)
+seq 1051: tcp response from 203.190.242.69 [open]  239.110 ms
+seq 1052: tcp response from 203.190.241.43 [open]  232.913 ms
+seq 1050: no response (timeout)
+seq 1054: tcp response from 203.190.242.69 [open]  230.226 ms
+seq 1053: no response (timeout)
+seq 1055: tcp response from 203.190.241.43 [open]  224.403 ms
+seq 1056: tcp response from 203.190.242.69 [open]  229.592 ms
+seq 1057: tcp response from 203.190.241.43 [open]  247.447 ms
+seq 1058: tcp response from 203.190.241.43 [open]  223.151 ms
+seq 1059: tcp response from 203.190.241.43 [open]  249.054 ms
+seq 1060: tcp response from 203.190.241.43 [open]  236.438 ms
+seq 1061: tcp response from 203.190.242.69 [open]  229.389 ms
+seq 1063: tcp response from 203.190.242.69 [open]  238.775 ms
+seq 1062: no response (timeout)
+seq 1065: tcp response from 203.190.241.43 [open]  222.705 ms
+seq 1066: tcp response from 203.190.242.69 [open]  222.527 ms
+seq 1064: tcp response from 203.190.241.43 [open]  219.331 ms
+seq 1069: tcp response from 203.190.242.69 [open]  233.967 ms
+seq 1068: tcp response from 203.190.241.43 [open]  220.878 ms
+seq 1067: tcp response from 203.190.241.43 [open]  233.449 ms
+seq 1071: tcp response from 203.190.242.69 [open]  222.507 ms
+seq 1072: tcp response from 203.190.242.69 [open]  228.981 ms
+seq 1070: no response (timeout)
+seq 1073: tcp response from 203.190.242.69 [open]  220.782 ms
+seq 1074: tcp response from 203.190.241.43 [open]  236.683 ms
+seq 1075: tcp response from 203.190.241.43 [open]  219.664 ms
+seq 1077: tcp response from 203.190.242.69 [open]  247.522 ms
+seq 1078: tcp response from 203.190.242.69 [open]  238.989 ms
+seq 1079: tcp response from 203.190.241.43 [open]  233.107 ms
+seq 1076: no response (timeout)
+seq 1082: tcp response from 203.190.242.69 [open]  222.710 ms
+seq 1081: tcp response from 203.190.242.69 [open]  222.276 ms
+seq 1080: no response (timeout)
+seq 1083: tcp response from 203.190.242.69 [open]  229.086 ms
+seq 1086: tcp response from 203.190.241.43 [open]  222.865 ms
+seq 1085: tcp response from 203.190.241.43 [open]  247.318 ms
+seq 1084: no response (timeout)
+seq 1088: tcp response from 203.190.241.43 [open]  249.157 ms
+seq 1090: tcp response from 203.190.242.69 [open]  230.511 ms
+seq 1092: tcp response from 203.190.242.69 [open]  229.089 ms
+seq 1089: tcp response from 203.190.242.69 [open]  220.957 ms
+seq 1087: no response (timeout)
+seq 1091: tcp response from 203.190.241.43 [open]  236.659 ms
+seq 1094: tcp response from 203.190.242.69 [open]  247.858 ms
+seq 1095: tcp response from 203.190.242.69 [open]  238.639 ms
+seq 1096: tcp response from 203.190.241.43 [open]  224.697 ms
+seq 1097: tcp response from 203.190.241.43 [open]  247.440 ms
+seq 1093: no response (timeout)
+seq 1098: tcp response from 203.190.242.69 [open]  229.166 ms
+seq 1101: tcp response from 203.190.242.69 [open]  222.016 ms
+seq 1100: tcp response from 203.190.241.43 [open]  222.997 ms
+seq 1099: no response (timeout)
+seq 1104: tcp response from 203.190.242.69 [open]  229.730 ms
+seq 1103: tcp response from 203.190.241.43 [open]  236.727 ms
+seq 1105: tcp response from 203.190.242.69 [open]  247.827 ms
+seq 1102: no response (timeout)
+seq 1107: tcp response from 203.190.241.43 [open]  233.252 ms
+seq 1108: tcp response from 203.190.242.69 [open]  238.566 ms
+seq 1106: tcp response from 203.190.241.43 [open]  219.972 ms
+seq 1109: tcp response from 203.190.242.69 [open]  222.207 ms
+seq 1110: tcp response from 203.190.241.43 [open]  233.079 ms
+seq 1112: tcp response from 203.190.242.69 [open]  221.004 ms
+seq 1113: tcp response from 203.190.242.69 [open]  220.876 ms
+seq 1114: tcp response from 203.190.241.43 [open]  233.695 ms
+seq 1111: tcp response from 203.190.242.69 [open]  229.160 ms
+seq 1115: tcp response from 203.190.242.69 [open]  230.189 ms
+seq 1116: tcp response from 203.190.242.69 [open]  223.188 ms
+seq 1118: tcp response from 203.190.242.69 [open]  229.953 ms
+seq 1117: tcp response from 203.190.242.69 [open]  229.626 ms
+seq 1119: tcp response from 203.190.241.43 [open]  227.932 ms
+seq 1120: tcp response from 203.190.241.43 [open]  229.067 ms
+seq 1122: tcp response from 203.190.241.43 [open]  247.587 ms
+seq 1121: tcp response from 203.190.241.43 [open]  224.007 ms
+seq 1123: tcp response from 203.190.242.69 [open]  229.298 ms
+seq 1124: tcp response from 203.190.241.43 [open]  236.441 ms
+seq 1125: tcp response from 203.190.241.43 [open]  219.450 ms
+seq 1127: tcp response from 203.190.242.69 [open]  247.477 ms
+seq 1126: tcp response from 203.190.241.43 [open]  222.686 ms
+seq 1129: tcp response from 203.190.242.69 [open]  229.362 ms
+seq 1128: tcp response from 203.190.242.69 [open]  238.732 ms
+seq 1131: tcp response from 203.190.242.69 [open]  221.029 ms
+seq 1134: tcp response from 203.190.241.43 [open]  247.420 ms
+seq 1135: tcp response from 203.190.242.69 [open]  221.505 ms
+seq 1133: tcp response from 203.190.242.69 [open]  229.043 ms
+seq 1130: no response (timeout)
+seq 1132: tcp response from 203.190.241.43 [open]  223.935 ms
+seq 1138: tcp response from 203.190.241.43 [open]  232.857 ms
+seq 1136: no response (timeout)
+seq 1137: no response (timeout)
+seq 1140: tcp response from 203.190.241.43 [open]  232.301 ms
+seq 1141: tcp response from 203.190.242.69 [open]  223.333 ms
+seq 1139: no response (timeout)
+seq 1143: tcp response from 203.190.242.69 [open]  222.308 ms
+seq 1142: tcp response from 203.190.241.43 [open]  228.698 ms
+seq 1145: tcp response from 203.190.241.43 [open]  230.378 ms
+seq 1144: tcp response from 203.190.241.43 [open]  230.989 ms
+seq 1148: tcp response from 203.190.242.69 [open]  229.714 ms
+seq 1150: tcp response from 203.190.242.69 [open]  221.470 ms
+seq 1147: tcp response from 203.190.242.69 [open]  220.820 ms
+seq 1146: tcp response from 203.190.241.43 [open]  229.052 ms
+seq 1152: tcp response from 203.190.241.43 [open]  247.335 ms
+seq 1151: tcp response from 203.190.242.69 [open]  221.959 ms
+seq 1149: tcp response from 203.190.241.43 [open]  224.688 ms
+seq 1153: tcp response from 203.190.241.43 [open]  223.424 ms
+seq 1154: tcp response from 203.190.242.69 [open]  223.273 ms
+seq 1155: tcp response from 203.190.241.43 [open]  254.188 ms
+seq 1156: tcp response from 203.190.242.69 [open]  229.709 ms
+seq 1157: tcp response from 203.190.241.43 [open]  233.107 ms
+seq 1158: tcp response from 203.190.242.69 [open]  222.171 ms
+seq 1161: tcp response from 203.190.242.69 [open]  247.976 ms
+seq 1160: tcp response from 203.190.242.69 [open]  228.942 ms
+seq 1162: tcp response from 203.190.242.69 [open]  238.588 ms
+seq 1159: tcp response from 203.190.242.69 [open]  220.818 ms
+seq 1164: tcp response from 203.190.241.43 [open]  237.024 ms
+seq 1166: tcp response from 203.190.241.43 [open]  222.410 ms
+seq 1163: tcp response from 203.190.242.69 [open]  222.342 ms
+seq 1165: tcp response from 203.190.241.43 [open]  219.293 ms
+seq 1167: tcp response from 203.190.242.69 [open]  229.384 ms
+seq 1168: tcp response from 203.190.241.43 [open]  224.693 ms
+seq 1169: tcp response from 203.190.241.43 [open]  247.294 ms
+seq 1170: tcp response from 203.190.242.69 [open]  221.195 ms
+seq 1171: tcp response from 203.190.242.69 [open]  222.236 ms
+seq 1174: tcp response from 203.190.242.69 [open]  220.906 ms
+seq 1173: tcp response from 203.190.241.43 [open]  232.547 ms
+seq 1172: tcp response from 203.190.241.43 [open]  233.314 ms
+seq 1176: tcp response from 203.190.241.43 [open]  236.476 ms
+seq 1177: tcp response from 203.190.242.69 [open]  228.968 ms
+seq 1175: no response (timeout)
+seq 1179: tcp response from 203.190.242.69 [open]  229.170 ms
+seq 1180: tcp response from 203.190.241.43 [open]  222.879 ms
+seq 1178: no response (timeout)
+seq 1182: tcp response from 203.190.242.69 [open]  222.011 ms
+seq 1183: tcp response from 203.190.241.43 [open]  248.976 ms
+seq 1185: tcp response from 203.190.242.69 [open]  247.514 ms
+seq 1181: no response (timeout)
+seq 1184: tcp response from 203.190.241.43 [open]  229.126 ms
+seq 1187: tcp response from 203.190.241.43 [open]  236.914 ms
+seq 1186: no response (timeout)
+seq 1189: tcp response from 203.190.241.43 [open]  219.323 ms
+seq 1191: tcp response from 203.190.241.43 [open]  224.075 ms
+seq 1190: tcp response from 203.190.241.43 [open]  222.412 ms
+seq 1188: tcp response from 203.190.242.69 [open]  228.862 ms
+seq 1192: tcp response from 203.190.241.43 [open]  248.002 ms
+seq 1194: tcp response from 203.190.241.43 [open]  223.072 ms
+seq 1193: tcp response from 203.190.242.69 [open]  229.168 ms
+seq 1195: tcp response from 203.190.241.43 [open]  234.296 ms
+seq 1196: tcp response from 203.190.241.43 [open]  234.082 ms
+seq 1197: tcp response from 203.190.242.69 [open]  222.587 ms
+seq 1198: tcp response from 203.190.242.69 [open]  220.973 ms
+seq 1199: tcp response from 203.190.242.69 [open]  230.195 ms
+seq 1200: tcp response from 203.190.242.69 [open]  248.617 ms
+seq 1202: tcp response from 203.190.242.69 [open]  222.610 ms
+seq 1201: tcp response from 203.190.242.69 [open]  238.594 ms
+seq 1203: tcp response from 203.190.241.43 [open]  229.257 ms
+seq 1205: tcp response from 203.190.241.43 [open]  232.157 ms
+seq 1206: tcp response from 203.190.241.43 [open]  234.118 ms
+seq 1204: no response (timeout)
+seq 1209: tcp response from 203.190.241.43 [open]  224.420 ms
+seq 1207: no response (timeout)
+seq 1208: tcp response from 203.190.242.69 [open]  223.303 ms
+seq 1210: tcp response from 203.190.242.69 [open]  223.412 ms
+seq 1211: no response (timeout)
+seq 1212: tcp response from 203.190.242.69 [open]  230.493 ms
+seq 1214: tcp response from 203.190.242.69 [open]  249.223 ms
+seq 1213: tcp response from 203.190.241.43 [open]  236.683 ms
+seq 1216: tcp response from 203.190.242.69 [open]  238.618 ms
+seq 1215: no response (timeout)
+seq 1217: tcp response from 203.190.242.69 [open]  222.210 ms
+seq 1218: tcp response from 203.190.241.43 [open]  233.939 ms
+seq 1219: tcp response from 203.190.241.43 [open]  232.840 ms
+seq 1221: tcp response from 203.190.241.43 [open]  224.157 ms
+seq 1220: tcp response from 203.190.242.69 [open]  229.864 ms
+seq 1222: tcp response from 203.190.241.43 [open]  247.358 ms
+seq 1223: tcp response from 203.190.241.43 [open]  225.131 ms
+seq 1226: tcp response from 203.190.242.69 [open]  224.630 ms
+seq 1224: tcp response from 203.190.242.69 [open]  222.820 ms
+seq 1227: tcp response from 203.190.242.69 [open]  230.166 ms
+seq 1225: tcp response from 203.190.242.69 [open]  223.585 ms
+seq 1228: tcp response from 203.190.241.43 [open]  249.010 ms
+seq 1231: tcp response from 203.190.241.43 [open]  233.995 ms
+seq 1230: tcp response from 203.190.242.69 [open]  246.391 ms
+seq 1229: tcp response from 203.190.241.43 [open]  236.487 ms
+seq 1234: tcp response from 203.190.242.69 [open]  230.620 ms
+seq 1232: no response (timeout)
+seq 1233: tcp response from 203.190.241.43 [open]  232.482 ms
+seq 1237: tcp response from 203.190.241.43 [open]  232.521 ms
+seq 1238: tcp response from 203.190.242.69 [open]  230.141 ms
+seq 1235: no response (timeout)
+seq 1236: no response (timeout)
+seq 1239: tcp response from 203.190.242.69 [open]  229.037 ms
+seq 1240: tcp response from 203.190.241.43 [open]  224.698 ms
+seq 1241: tcp response from 203.190.242.69 [open]  222.196 ms
+seq 1242: tcp response from 203.190.242.69 [open]  223.314 ms
+seq 1243: tcp response from 203.190.242.69 [open]  230.802 ms
+seq 1245: tcp response from 203.190.241.43 [open]  224.130 ms
+seq 1244: tcp response from 203.190.241.43 [open]  247.309 ms
+seq 1246: tcp response from 203.190.241.43 [open]  229.155 ms
+seq 1247: tcp response from 203.190.241.43 [open]  221.997 ms
+seq 1248: tcp response from 203.190.241.43 [open]  249.629 ms
+seq 1250: tcp response from 203.190.241.43 [open]  232.108 ms
+seq 1252: tcp response from 203.190.241.43 [open]  224.331 ms
+seq 1251: tcp response from 203.190.242.69 [open]  229.147 ms
+seq 1249: tcp response from 203.190.242.69 [open]  224.295 ms
+seq 1255: tcp response from 203.190.242.69 [open]  220.566 ms
+seq 1253: tcp response from 203.190.241.43 [open]  234.259 ms
+seq 1256: tcp response from 203.190.242.69 [open]  230.580 ms
+seq 1258: tcp response from 203.190.242.69 [open]  230.152 ms
+seq 1254: tcp response from 203.190.242.69 [open]  223.558 ms
+seq 1259: tcp response from 203.190.242.69 [open]  224.626 ms
+seq 1260: tcp response from 203.190.241.43 [open]  229.398 ms
+seq 1261: tcp response from 203.190.241.43 [open]  232.189 ms
+seq 1257: tcp response from 203.190.241.43 [open]  233.103 ms
+seq 1264: tcp response from 203.190.242.69 [open]  222.665 ms
+seq 1262: tcp response from 203.190.242.69 [open]  255.444 ms
+seq 1263: tcp response from 203.190.241.43 [open]  224.109 ms
+seq 1266: tcp response from 203.190.241.43 [open]  247.191 ms
+seq 1267: tcp response from 203.190.241.43 [open]  237.081 ms
+seq 1265: tcp response from 203.190.242.69 [open]  223.372 ms
+seq 1268: tcp response from 203.190.241.43 [open]  224.059 ms
+seq 1269: tcp response from 203.190.242.69 [open]  224.195 ms
+seq 1270: tcp response from 203.190.241.43 [open]  249.034 ms
+seq 1271: tcp response from 203.190.242.69 [open]  230.203 ms
+seq 1272: tcp response from 203.190.242.69 [open]  222.048 ms
+seq 1273: tcp response from 203.190.242.69 [open]  227.057 ms
+seq 1274: tcp response from 203.190.241.43 [open]  229.353 ms
+seq 1275: tcp response from 203.190.241.43 [open]  234.572 ms
+seq 1277: tcp response from 203.190.242.69 [open]  249.173 ms
+seq 1279: tcp response from 203.190.241.43 [open]  236.331 ms
+seq 1276: no response (timeout)
+seq 1281: tcp response from 203.190.242.69 [open]  222.082 ms
+seq 1280: tcp response from 203.190.241.43 [open]  220.666 ms
+seq 1278: no response (timeout)
+seq 1282: tcp response from 203.190.241.43 [open]  224.839 ms
+seq 1283: tcp response from 203.190.241.43 [open]  244.281 ms
+seq 1284: tcp response from 203.190.241.43 [open]  234.004 ms
+seq 1285: tcp response from 203.190.242.69 [open]  231.092 ms
+seq 1286: tcp response from 203.190.241.43 [open]  236.741 ms
+seq 1288: tcp response from 203.190.241.43 [open]  234.205 ms
+seq 1287: tcp response from 203.190.242.69 [open]  222.231 ms
+seq 1289: tcp response from 203.190.242.69 [open]  220.903 ms
+seq 1291: tcp response from 203.190.241.43 [open]  232.428 ms
+seq 1292: tcp response from 203.190.242.69 [open]  229.041 ms
+seq 1293: tcp response from 203.190.242.69 [open]  222.429 ms
+seq 1290: tcp response from 203.190.242.69 [open]  230.161 ms
+seq 1294: tcp response from 203.190.242.69 [open]  223.365 ms
+seq 1295: tcp response from 203.190.242.69 [open]  223.996 ms
+seq 1296: tcp response from 203.190.241.43 [open]  224.207 ms
+seq 1297: tcp response from 203.190.241.43 [open]  228.883 ms
+seq 1298: tcp response from 203.190.241.43 [open]  232.094 ms
+seq 1299: tcp response from 203.190.241.43 [open]  230.430 ms
+seq 1300: tcp response from 203.190.242.69 [open]  230.379 ms
+seq 1301: no response (timeout)
+seq 1304: tcp response from 203.190.241.43 [open]  223.184 ms
+seq 1303: tcp response from 203.190.241.43 [open]  220.990 ms
+seq 1305: tcp response from 203.190.242.69 [open]  238.378 ms
+seq 1302: tcp response from 203.190.242.69 [open]  286.279 ms
+seq 1306: tcp response from 203.190.241.43 [open]  234.649 ms
+seq 1309: tcp response from 203.190.241.43 [open]  224.061 ms
+seq 1307: tcp response from 203.190.242.69 [open]  222.058 ms
+seq 1308: tcp response from 203.190.241.43 [open]  247.565 ms
+seq 1311: tcp response from 203.190.241.43 [open]  229.221 ms
+seq 1312: tcp response from 203.190.242.69 [open]  223.185 ms
+seq 1310: no response (timeout)
+seq 1313: tcp response from 203.190.241.43 [open]  222.060 ms
+seq 1314: tcp response from 203.190.241.43 [open]  231.996 ms
+seq 1315: tcp response from 203.190.242.69 [open]  230.443 ms
+seq 1317: tcp response from 203.190.242.69 [open]  222.359 ms
+seq 1318: tcp response from 203.190.242.69 [open]  223.253 ms
+seq 1316: no response (timeout)
+seq 1319: no response (timeout)
+seq 1320: no response (timeout)
+seq 1323: tcp response from 203.190.241.43 [open]  236.308 ms
+seq 1321: no response (timeout)
+seq 1322: tcp response from 203.190.241.43 [open]  225.007 ms
+seq 1325: tcp response from 203.190.241.43 [open]  233.935 ms
+seq 1324: tcp response from 203.190.241.43 [open]  220.715 ms
+seq 1326: tcp response from 203.190.241.43 [open]  232.336 ms
+seq 1327: tcp response from 203.190.242.69 [open]  229.085 ms
+seq 1329: tcp response from 203.190.242.69 [open]  222.611 ms
+seq 1330: tcp response from 203.190.241.43 [open]  247.679 ms
+seq 1328: no response (timeout)
+seq 1331: tcp response from 203.190.242.69 [open]  223.364 ms
+seq 1334: tcp response from 203.190.242.69 [open]  230.243 ms
+seq 1333: tcp response from 203.190.242.69 [open]  224.600 ms
+seq 1332: no response (timeout)
+seq 1335: tcp response from 203.190.242.69 [open]  226.920 ms
+seq 1337: tcp response from 203.190.242.69 [open]  230.838 ms
+seq 1336: no response (timeout)
+seq 1338: no response (timeout)
+seq 1340: tcp response from 203.190.241.43 [open]  224.257 ms
+seq 1339: tcp response from 203.190.242.69 [open]  229.348 ms
+seq 1341: tcp response from 203.190.241.43 [open]  247.201 ms
+seq 1342: tcp response from 203.190.241.43 [open]  229.729 ms
+seq 1343: no response (timeout)
+seq 1344: no response (timeout)
+seq 1347: tcp response from 203.190.241.43 [open]  222.451 ms
+seq 1349: tcp response from 203.190.242.69 [open]  249.465 ms
+seq 1345: tcp response from 203.190.241.43 [open]  224.695 ms
+seq 1346: tcp response from 203.190.241.43 [open]  231.997 ms
+seq 1352: tcp response from 203.190.242.69 [open]  238.959 ms
+seq 1348: no response (timeout)
+seq 1350: no response (timeout)
+seq 1351: no response (timeout)
+seq 1355: tcp response from 203.190.241.43 [open]  229.156 ms
+seq 1353: tcp response from 203.190.241.43 [open]  234.136 ms
+seq 1354: no response (timeout)
+seq 1358: tcp response from 203.190.242.69 [open]  222.217 ms
+seq 1359: tcp response from 203.190.241.43 [open]  234.229 ms
+seq 1356: tcp response from 203.190.242.69 [open]  224.367 ms
+seq 1360: tcp response from 203.190.242.69 [open]  222.368 ms
+seq 1361: tcp response from 203.190.241.43 [open]  234.183 ms
+seq 1357: no response (timeout)
+seq 1363: tcp response from 203.190.241.43 [open]  229.255 ms
+seq 1362: no response (timeout)
+seq 1364: tcp response from 203.190.242.69 [open]  223.033 ms
+seq 1366: tcp response from 203.190.241.43 [open]  237.005 ms
+seq 1365: tcp response from 203.190.242.69 [open]  224.094 ms
+seq 1368: tcp response from 203.190.242.69 [open]  230.139 ms
+seq 1370: tcp response from 203.190.242.69 [open]  248.907 ms
+seq 1369: tcp response from 203.190.241.43 [open]  222.717 ms
+seq 1371: tcp response from 203.190.241.43 [open]  234.315 ms
+seq 1373: tcp response from 203.190.242.69 [open]  238.990 ms
+seq 1374: tcp response from 203.190.241.43 [open]  220.694 ms
+seq 1372: tcp response from 203.190.241.43 [open]  236.114 ms
+seq 1375: tcp response from 203.190.242.69 [open]  222.482 ms
+seq 1367: tcp response from 203.190.241.43 [open]  255.893 ms
+seq 1377: tcp response from 203.190.241.43 [open]  261.882 ms
+seq 1378: tcp response from 203.190.242.69 [open]  229.424 ms
+seq 1376: no response (timeout)
+seq 1380: tcp response from 203.190.242.69 [open]  259.133 ms
+seq 1381: tcp response from 203.190.241.43 [open]  247.460 ms
+seq 1382: tcp response from 203.190.241.43 [open]  224.206 ms
+seq 1384: tcp response from 203.190.242.69 [open]  222.225 ms
+seq 1383: tcp response from 203.190.241.43 [open]  234.001 ms
+seq 1379: no response (timeout)
+seq 1386: tcp response from 203.190.242.69 [open]  228.362 ms
+seq 1387: tcp response from 203.190.242.69 [open]  220.898 ms
+seq 1385: no response (timeout)
+seq 1389: tcp response from 203.190.242.69 [open]  230.270 ms
+seq 1390: tcp response from 203.190.241.43 [open]  236.655 ms
+seq 1391: tcp response from 203.190.242.69 [open]  224.269 ms
+seq 1388: no response (timeout)
+seq 1393: tcp response from 203.190.241.43 [open]  247.349 ms
+seq 1394: tcp response from 203.190.241.43 [open]  224.166 ms
+seq 1392: tcp response from 203.190.241.43 [open]  224.175 ms
+seq 1396: tcp response from 203.190.241.43 [open]  221.074 ms
+seq 1397: tcp response from 203.190.242.69 [open]  249.013 ms
+seq 1399: tcp response from 203.190.241.43 [open]  234.387 ms
+seq 1395: tcp response from 203.190.242.69 [open]  230.622 ms
+seq 1400: tcp response from 203.190.242.69 [open]  229.083 ms
+seq 1398: no response (timeout)
+seq 1401: tcp response from 203.190.242.69 [open]  222.422 ms
+seq 1402: tcp response from 203.190.241.43 [open]  234.000 ms
+seq 1403: tcp response from 203.190.242.69 [open]  222.246 ms
+seq 1404: tcp response from 203.190.242.69 [open]  220.622 ms
+seq 1405: tcp response from 203.190.241.43 [open]  232.512 ms
+seq 1406: tcp response from 203.190.241.43 [open]  229.600 ms
+seq 1407: tcp response from 203.190.241.43 [open]  231.956 ms
+seq 1409: tcp response from 203.190.242.69 [open]  230.403 ms
+seq 1410: tcp response from 203.190.242.69 [open]  224.494 ms
+seq 1408: tcp response from 203.190.241.43 [open]  230.338 ms
+seq 1411: tcp response from 203.190.242.69 [open]  230.259 ms
+seq 1412: tcp response from 203.190.241.43 [open]  234.262 ms
+seq 1413: tcp response from 203.190.241.43 [open]  224.170 ms
+seq 1414: tcp response from 203.190.242.69 [open]  230.542 ms
+seq 1415: tcp response from 203.190.242.69 [open]  222.213 ms
+seq 1416: tcp response from 203.190.241.43 [open]  233.948 ms
+seq 1417: tcp response from 203.190.241.43 [open]  232.468 ms
+seq 1418: tcp response from 203.190.242.69 [open]  221.388 ms
+seq 1419: tcp response from 203.190.242.69 [open]  230.467 ms
+seq 1420: tcp response from 203.190.241.43 [open]  236.448 ms
+seq 1421: tcp response from 203.190.241.43 [open]  221.015 ms
+seq 1422: tcp response from 203.190.242.69 [open]  249.098 ms
+seq 1425: tcp response from 203.190.242.69 [open]  239.119 ms
+seq 1427: tcp response from 203.190.242.69 [open]  222.183 ms
+seq 1423: tcp response from 203.190.241.43 [open]  222.624 ms
+seq 1428: tcp response from 203.190.242.69 [open]  222.891 ms
+seq 1429: tcp response from 203.190.242.69 [open]  220.647 ms
+seq 1426: no response (timeout)
+seq 1431: tcp response from 203.190.242.69 [open]  230.039 ms
+seq 1424: no response (timeout)
+seq 1430: tcp response from 203.190.241.43 [open]  234.783 ms
+seq 1433: tcp response from 203.190.242.69 [open]  231.877 ms
+seq 1434: tcp response from 203.190.241.43 [open]  262.228 ms
+seq 1437: tcp response from 203.190.241.43 [open]  228.882 ms
+seq 1436: tcp response from 203.190.242.69 [open]  222.566 ms
+seq 1432: no response (timeout)
+seq 1438: tcp response from 203.190.241.43 [open]  232.024 ms
+seq 1435: tcp response from 203.190.242.69 [open]  229.070 ms
+seq 1441: tcp response from 203.190.241.43 [open]  220.459 ms
+seq 1440: no response (timeout)
+seq 1439: no response (timeout)
+seq 1442: no response (timeout)
+seq 1443: tcp response from 203.190.242.69 [open]  249.322 ms
+seq 1444: tcp response from 203.190.242.69 [open]  222.760 ms
+seq 1447: tcp response from 203.190.241.43 [open]  232.394 ms
+seq 1446: tcp response from 203.190.241.43 [open]  234.297 ms
+seq 1445: tcp response from 203.190.242.69 [open]  221.368 ms
+seq 1448: tcp response from 203.190.242.69 [open]  230.124 ms
+seq 1450: tcp response from 203.190.241.43 [open]  248.084 ms
+seq 1449: tcp response from 203.190.241.43 [open]  224.432 ms
+seq 1451: tcp response from 203.190.242.69 [open]  229.290 ms
+seq 1452: tcp response from 203.190.241.43 [open]  224.441 ms
+seq 1453: tcp response from 203.190.241.43 [open]  249.019 ms
+seq 1454: tcp response from 203.190.242.69 [open]  249.511 ms
+seq 1455: tcp response from 203.190.242.69 [open]  239.159 ms
+seq 1457: tcp response from 203.190.241.43 [open]  221.312 ms
+seq 1458: tcp response from 203.190.241.43 [open]  222.319 ms
+seq 1456: no response (timeout)
+seq 1461: tcp response from 203.190.241.43 [open]  232.589 ms
+seq 1460: tcp response from 203.190.241.43 [open]  234.294 ms
+seq 1459: no response (timeout)
+seq 1462: no response (timeout)
+seq 1463: tcp response from 203.190.242.69 [open]  230.934 ms
+seq 1465: tcp response from 203.190.242.69 [open]  248.799 ms
+seq 1466: tcp response from 203.190.241.43 [open]  224.553 ms
+seq 1467: tcp response from 203.190.242.69 [open]  229.484 ms
+seq 1464: tcp response from 203.190.241.43 [open]  234.621 ms
+seq 1469: tcp response from 203.190.242.69 [open]  223.398 ms
+seq 1470: tcp response from 203.190.241.43 [open]  247.760 ms
+seq 1468: no response (timeout)
+seq 1473: tcp response from 203.190.241.43 [open]  244.828 ms
+seq 1472: tcp response from 203.190.242.69 [open]  230.017 ms
+seq 1471: no response (timeout)
+seq 1474: no response (timeout)
+seq 1476: tcp response from 203.190.241.43 [open]  236.510 ms
+seq 1477: tcp response from 203.190.241.43 [open]  221.297 ms
+seq 1478: tcp response from 203.190.241.43 [open]  222.670 ms
+seq 1475: tcp response from 203.190.242.69 [open]  230.190 ms
+seq 1480: tcp response from 203.190.241.43 [open]  234.814 ms
+seq 1481: tcp response from 203.190.241.43 [open]  236.341 ms
+seq 1482: tcp response from 203.190.241.43 [open]  222.613 ms
+seq 1479: tcp response from 203.190.242.69 [open]  249.095 ms
+seq 1483: tcp response from 203.190.241.43 [open]  220.788 ms
+seq 1484: tcp response from 203.190.242.69 [open]  223.284 ms
+seq 1485: tcp response from 203.190.242.69 [open]  221.044 ms
+seq 1487: tcp response from 203.190.242.69 [open]  225.161 ms
+seq 1486: tcp response from 203.190.242.69 [open]  230.352 ms
+seq 1489: tcp response from 203.190.241.43 [open]  224.382 ms
+seq 1488: tcp response from 203.190.242.69 [open]  230.713 ms
+seq 1491: tcp response from 203.190.241.43 [open]  247.796 ms
+seq 1492: tcp response from 203.190.242.69 [open]  223.667 ms
+seq 1490: no response (timeout)
+seq 1494: tcp response from 203.190.241.43 [open]  224.629 ms
+seq 1493: tcp response from 203.190.242.69 [open]  223.440 ms
+seq 1495: tcp response from 203.190.242.69 [open]  224.505 ms
+seq 1496: tcp response from 203.190.242.69 [open]  248.917 ms
+seq 1497: tcp response from 203.190.241.43 [open]  234.102 ms
+seq 1498: tcp response from 203.190.242.69 [open]  222.285 ms
+seq 1499: tcp response from 203.190.241.43 [open]  232.887 ms
+seq 1500: tcp response from 203.190.241.43 [open]  230.325 ms
+seq 1501: tcp response from 203.190.241.43 [open]  232.359 ms
+seq 1502: tcp response from 203.190.241.43 [open]  230.735 ms
+seq 1503: tcp response from 203.190.241.43 [open]  230.603 ms
+seq 1504: tcp response from 203.190.241.43 [open]  234.468 ms
+seq 1505: tcp response from 203.190.242.69 [open]  229.140 ms
+seq 1506: tcp response from 203.190.242.69 [open]  222.641 ms
+seq 1507: tcp response from 203.190.241.43 [open]  224.008 ms
+seq 1508: tcp response from 203.190.242.69 [open]  222.805 ms
+seq 1509: tcp response from 203.190.242.69 [open]  222.234 ms
+seq 1510: tcp response from 203.190.242.69 [open]  227.111 ms
+seq 1511: tcp response from 203.190.241.43 [open]  247.324 ms
+seq 1512: tcp response from 203.190.241.43 [open]  224.558 ms
+seq 1513: tcp response from 203.190.241.43 [open]  234.274 ms
+seq 1514: tcp response from 203.190.242.69 [open]  222.161 ms
+seq 1516: tcp response from 203.190.242.69 [open]  221.555 ms
+seq 1517: tcp response from 203.190.242.69 [open]  230.198 ms
+seq 1515: no response (timeout)
+seq 1519: tcp response from 203.190.242.69 [open]  249.011 ms
+seq 1520: tcp response from 203.190.241.43 [open]  228.875 ms
+seq 1521: tcp response from 203.190.241.43 [open]  232.034 ms
+seq 1518: no response (timeout)
+seq 1523: tcp response from 203.190.242.69 [open]  229.492 ms
+seq 1522: tcp response from 203.190.241.43 [open]  224.940 ms
+seq 1525: tcp response from 203.190.241.43 [open]  247.257 ms
+seq 1524: no response (timeout)
+seq 1528: tcp response from 203.190.241.43 [open]  224.277 ms
+seq 1526: tcp response from 203.190.241.43 [open]  224.335 ms
+seq 1527: tcp response from 203.190.242.69 [open]  222.928 ms
+seq 1530: tcp response from 203.190.242.69 [open]  224.273 ms
+seq 1529: tcp response from 203.190.241.43 [open]  249.246 ms
+seq 1532: tcp response from 203.190.241.43 [open]  232.803 ms
+seq 1533: tcp response from 203.190.242.69 [open]  222.714 ms
+seq 1531: no response (timeout)
+seq 1534: tcp response from 203.190.242.69 [open]  221.028 ms
+seq 1535: tcp response from 203.190.241.43 [open]  236.776 ms
+seq 1536: tcp response from 203.190.242.69 [open]  230.095 ms
+seq 1537: tcp response from 203.190.242.69 [open]  248.672 ms
+seq 1538: tcp response from 203.190.241.43 [open]  221.128 ms
+seq 1540: tcp response from 203.190.242.69 [open]  238.779 ms
+seq 1541: tcp response from 203.190.242.69 [open]  221.613 ms
+seq 1542: tcp response from 203.190.242.69 [open]  224.117 ms
+seq 1539: tcp response from 203.190.241.43 [open]  222.382 ms
+seq 1543: tcp response from 203.190.242.69 [open]  230.380 ms
+seq 1546: tcp response from 203.190.241.43 [open]  224.287 ms
+seq 1545: tcp response from 203.190.242.69 [open]  224.262 ms
+seq 1544: no response (timeout)
+seq 1548: tcp response from 203.190.242.69 [open]  230.078 ms
+seq 1549: tcp response from 203.190.241.43 [open]  224.355 ms
+seq 1547: tcp response from 203.190.241.43 [open]  247.639 ms
+seq 1550: tcp response from 203.190.242.69 [open]  222.724 ms
+seq 1551: tcp response from 203.190.241.43 [open]  254.517 ms
+seq 1553: tcp response from 203.190.242.69 [open]  223.449 ms
+seq 1554: tcp response from 203.190.242.69 [open]  230.761 ms
+seq 1555: tcp response from 203.190.241.43 [open]  236.339 ms
+seq 1552: tcp response from 203.190.241.43 [open]  229.306 ms
+seq 1556: tcp response from 203.190.241.43 [open]  220.711 ms
+seq 1557: tcp response from 203.190.241.43 [open]  233.993 ms
+seq 1558: tcp response from 203.190.242.69 [open]  222.583 ms
+seq 1559: tcp response from 203.190.242.69 [open]  220.624 ms
+seq 1560: tcp response from 203.190.241.43 [open]  232.679 ms
+seq 1561: tcp response from 203.190.242.69 [open]  230.822 ms
+seq 1562: tcp response from 203.190.241.43 [open]  230.615 ms
+seq 1564: tcp response from 203.190.242.69 [open]  224.451 ms
+seq 1563: tcp response from 203.190.241.43 [open]  232.159 ms
+seq 1566: tcp response from 203.190.241.43 [open]  224.135 ms
+seq 1565: no response (timeout)
+seq 1568: tcp response from 203.190.241.43 [open]  249.247 ms
+seq 1567: no response (timeout)
+seq 1569: tcp response from 203.190.241.43 [open]  229.967 ms
+seq 1570: tcp response from 203.190.242.69 [open]  222.949 ms
+seq 1571: tcp response from 203.190.242.69 [open]  230.483 ms
+seq 1572: tcp response from 203.190.241.43 [open]  237.286 ms
+seq 1576: tcp response from 203.190.241.43 [open]  222.282 ms
+seq 1573: tcp response from 203.190.241.43 [open]  220.798 ms
+seq 1574: no response (timeout)
+seq 1575: no response (timeout)
+seq 1578: tcp response from 203.190.242.69 [open]  222.435 ms
+seq 1577: no response (timeout)
+seq 1579: tcp response from 203.190.241.43 [open]  221.047 ms
+seq 1581: tcp response from 203.190.242.69 [open]  222.358 ms
+seq 1580: no response (timeout)
+seq 1582: no response (timeout)
+seq 1583: no response (timeout)
+seq 1584: no response (timeout)
+seq 1586: tcp response from 203.190.242.69 [open]  229.518 ms
+seq 1588: tcp response from 203.190.242.69 [open]  224.031 ms
+seq 1587: tcp response from 203.190.242.69 [open]  222.833 ms
+seq 1585: no response (timeout)
+seq 1589: tcp response from 203.190.242.69 [open]  224.278 ms
+seq 1590: tcp response from 203.190.241.43 [open]  224.415 ms
+seq 1591: tcp response from 203.190.242.69 [open]  222.192 ms
+seq 1592: tcp response from 203.190.241.43 [open]  229.078 ms
+seq 1593: tcp response from 203.190.241.43 [open]  232.526 ms
+seq 1594: tcp response from 203.190.241.43 [open]  228.044 ms
+seq 1595: tcp response from 203.190.242.69 [open]  231.260 ms
+seq 1597: tcp response from 203.190.241.43 [open]  236.296 ms
+seq 1598: tcp response from 203.190.241.43 [open]  224.037 ms
+seq 1596: tcp response from 203.190.242.69 [open]  249.244 ms
+seq 1599: tcp response from 203.190.242.69 [open]  229.391 ms
+seq 1601: tcp response from 203.190.241.43 [open]  248.034 ms
+seq 1602: tcp response from 203.190.242.69 [open]  222.984 ms
+seq 1603: tcp response from 203.190.242.69 [open]  224.571 ms
+seq 1600: no response (timeout)
+seq 1605: tcp response from 203.190.242.69 [open]  231.249 ms
+seq 1607: tcp response from 203.190.242.69 [open]  230.524 ms
+seq 1604: tcp response from 203.190.241.43 [open]  224.575 ms
+seq 1606: tcp response from 203.190.242.69 [open]  222.173 ms
+seq 1608: tcp response from 203.190.241.43 [open]  234.257 ms
+seq 1609: tcp response from 203.190.241.43 [open]  232.892 ms
+seq 1611: tcp response from 203.190.242.69 [open]  222.219 ms
+seq 1610: tcp response from 203.190.241.43 [open]  229.125 ms
+seq 1612: tcp response from 203.190.241.43 [open]  232.479 ms
+seq 1613: tcp response from 203.190.242.69 [open]  220.802 ms
+seq 1615: tcp response from 203.190.241.43 [open]  236.509 ms
+seq 1616: tcp response from 203.190.241.43 [open]  221.186 ms
+seq 1617: tcp response from 203.190.242.69 [open]  230.154 ms
+seq 1614: tcp response from 203.190.241.43 [open]  230.441 ms
+seq 1619: tcp response from 203.190.242.69 [open]  238.793 ms
+seq 1618: no response (timeout)
+seq 1621: tcp response from 203.190.242.69 [open]  229.307 ms
+seq 1620: tcp response from 203.190.241.43 [open]  222.315 ms
+seq 1622: tcp response from 203.190.242.69 [open]  222.112 ms
+seq 1625: tcp response from 203.190.241.43 [open]  236.288 ms
+seq 1627: tcp response from 203.190.241.43 [open]  232.607 ms
+seq 1624: tcp response from 203.190.241.43 [open]  234.396 ms
+seq 1626: tcp response from 203.190.241.43 [open]  234.473 ms
+seq 1623: no response (timeout)
+seq 1628: tcp response from 203.190.242.69 [open]  222.659 ms
+seq 1629: tcp response from 203.190.241.43 [open]  224.074 ms
+seq 1630: tcp response from 203.190.242.69 [open]  229.444 ms
+seq 1631: tcp response from 203.190.241.43 [open]  247.486 ms
+seq 1634: tcp response from 203.190.242.69 [open]  224.404 ms
+seq 1637: tcp response from 203.190.241.43 [open]  257.424 ms
+seq 1632: no response (timeout)
+seq 1636: tcp response from 203.190.242.69 [open]  222.124 ms
+seq 1635: no response (timeout)
+seq 1639: tcp response from 203.190.241.43 [open]  220.555 ms
+seq 1640: tcp response from 203.190.242.69 [open]  230.709 ms
+seq 1633: no response (timeout)
+seq 1638: no response (timeout)
+seq 1643: tcp response from 203.190.241.43 [open]  234.923 ms
+seq 1644: tcp response from 203.190.241.43 [open]  232.829 ms
+seq 1642: tcp response from 203.190.242.69 [open]  222.571 ms
+seq 1645: tcp response from 203.190.241.43 [open]  229.063 ms
+seq 1646: tcp response from 203.190.242.69 [open]  220.687 ms
+seq 1647: tcp response from 203.190.241.43 [open]  232.062 ms
+seq 1648: tcp response from 203.190.242.69 [open]  230.808 ms
+seq 1641: no response (timeout)
+seq 1651: tcp response from 203.190.242.69 [open]  229.952 ms
+seq 1652: tcp response from 203.190.241.43 [open]  224.140 ms
+seq 1650: tcp response from 203.190.242.69 [open]  227.694 ms
+seq 1649: no response (timeout)
+seq 1654: tcp response from 203.190.242.69 [open]  223.994 ms
+seq 1653: tcp response from 203.190.242.69 [open]  224.280 ms
+seq 1655: tcp response from 203.190.242.69 [open]  230.608 ms
+seq 1657: tcp response from 203.190.241.43 [open]  229.248 ms
+seq 1658: tcp response from 203.190.242.69 [open]  223.368 ms
+seq 1656: tcp response from 203.190.241.43 [open]  249.559 ms
+seq 1659: tcp response from 203.190.242.69 [open]  229.330 ms
+seq 1660: tcp response from 203.190.241.43 [open]  237.034 ms
+seq 1661: tcp response from 203.190.242.69 [open]  222.712 ms
+seq 1663: tcp response from 203.190.241.43 [open]  224.035 ms
+seq 1664: tcp response from 203.190.241.43 [open]  224.383 ms
+seq 1662: tcp response from 203.190.242.69 [open]  223.432 ms
+seq 1665: tcp response from 203.190.242.69 [open]  224.778 ms
+seq 1667: tcp response from 203.190.242.69 [open]  224.186 ms
+seq 1666: tcp response from 203.190.241.43 [open]  257.584 ms
+seq 1668: tcp response from 203.190.242.69 [open]  230.758 ms
+seq 1670: tcp response from 203.190.242.69 [open]  222.370 ms
+seq 1669: no response (timeout)
+seq 1672: tcp response from 203.190.241.43 [open]  232.766 ms
+seq 1674: tcp response from 203.190.241.43 [open]  230.331 ms
+seq 1675: tcp response from 203.190.241.43 [open]  230.584 ms
+seq 1673: tcp response from 203.190.241.43 [open]  232.320 ms
+seq 1671: no response (timeout)
+seq 1676: tcp response from 203.190.242.69 [open]  221.104 ms
+seq 1677: tcp response from 203.190.241.43 [open]  234.217 ms
+seq 1679: tcp response from 203.190.242.69 [open]  229.923 ms
+seq 1678: tcp response from 203.190.242.69 [open]  224.435 ms
+seq 1681: tcp response from 203.190.242.69 [open]  222.169 ms
+seq 1680: tcp response from 203.190.242.69 [open]  230.236 ms
+seq 1683: tcp response from 203.190.241.43 [open]  236.854 ms
+seq 1685: tcp response from 203.190.242.69 [open]  248.711 ms
+seq 1682: tcp response from 203.190.241.43 [open]  247.886 ms
+seq 1686: tcp response from 203.190.241.43 [open]  222.821 ms
+seq 1687: tcp response from 203.190.241.43 [open]  224.208 ms
+seq 1688: tcp response from 203.190.242.69 [open]  224.197 ms
+seq 1684: no response (timeout)
+seq 1689: tcp response from 203.190.242.69 [open]  238.530 ms
+seq 1690: tcp response from 203.190.241.43 [open]  234.306 ms
+seq 1691: tcp response from 203.190.242.69 [open]  222.220 ms
+seq 1692: tcp response from 203.190.241.43 [open]  232.667 ms
+seq 1693: tcp response from 203.190.242.69 [open]  220.962 ms
+seq 1695: tcp response from 203.190.241.43 [open]  230.280 ms
+seq 1696: tcp response from 203.190.242.69 [open]  230.646 ms
+seq 1694: no response (timeout)
+seq 1697: tcp response from 203.190.242.69 [open]  249.177 ms
+seq 1699: tcp response from 203.190.241.43 [open]  220.829 ms
+seq 1698: no response (timeout)
+seq 1701: tcp response from 203.190.241.43 [open]  224.710 ms
+seq 1703: tcp response from 203.190.242.69 [open]  229.592 ms
+seq 1702: tcp response from 203.190.241.43 [open]  225.491 ms
+seq 1706: tcp response from 203.190.241.43 [open]  249.445 ms
+seq 1707: tcp response from 203.190.241.43 [open]  229.400 ms
+seq 1700: no response (timeout)
+seq 1704: tcp response from 203.190.242.69 [open]  222.231 ms
+seq 1705: tcp response from 203.190.241.43 [open]  340.797 ms
+seq 1709: tcp response from 203.190.242.69 [open]  248.640 ms
+seq 1708: no response (timeout)
+seq 1711: tcp response from 203.190.241.43 [open]  234.142 ms
+seq 1712: tcp response from 203.190.241.43 [open]  232.465 ms
+seq 1713: tcp response from 203.190.242.69 [open]  220.685 ms
+seq 1710: tcp response from 203.190.242.69 [open]  222.202 ms
+seq 1715: tcp response from 203.190.242.69 [open]  224.464 ms
+seq 1716: tcp response from 203.190.242.69 [open]  231.042 ms
+seq 1717: tcp response from 203.190.241.43 [open]  228.996 ms
+seq 1718: tcp response from 203.190.241.43 [open]  232.002 ms
+seq 1719: tcp response from 203.190.241.43 [open]  230.451 ms
+seq 1714: no response (timeout)
+seq 1722: tcp response from 203.190.241.43 [open]  225.176 ms
+seq 1721: tcp response from 203.190.242.69 [open]  230.263 ms
+seq 1720: no response (timeout)
+seq 1723: no response (timeout)
+seq 1727: tcp response from 203.190.242.69 [open]  230.087 ms
+seq 1728: tcp response from 203.190.242.69 [open]  224.182 ms
+seq 1726: no response (timeout)
+seq 1725: tcp response from 203.190.242.69 [open]  222.784 ms
+seq 1724: tcp response from 203.190.241.43 [open]  247.306 ms
+seq 1729: tcp response from 203.190.241.43 [open]  234.366 ms
+seq 1732: tcp response from 203.190.241.43 [open]  232.772 ms
+seq 1734: tcp response from 203.190.242.69 [open]  221.301 ms
+seq 1731: no response (timeout)
+seq 1730: no response (timeout)
+seq 1735: tcp response from 203.190.241.43 [open]  230.269 ms
+seq 1733: no response (timeout)
+seq 1737: tcp response from 203.190.242.69 [open]  230.684 ms
+seq 1736: no response (timeout)
+seq 1739: tcp response from 203.190.241.43 [open]  249.352 ms
+seq 1738: no response (timeout)
+seq 1741: tcp response from 203.190.242.69 [open]  224.364 ms
+seq 1740: no response (timeout)
+seq 1742: tcp response from 203.190.241.43 [open]  234.249 ms
+seq 1743: tcp response from 203.190.242.69 [open]  224.226 ms
+seq 1745: tcp response from 203.190.241.43 [open]  229.474 ms
+seq 1744: no response (timeout)
+seq 1746: tcp response from 203.190.241.43 [open]  236.544 ms
+seq 1748: tcp response from 203.190.241.43 [open]  221.090 ms
+seq 1749: tcp response from 203.190.242.69 [open]  249.150 ms
+seq 1747: no response (timeout)
+seq 1751: tcp response from 203.190.241.43 [open]  224.540 ms
+seq 1752: tcp response from 203.190.242.69 [open]  229.141 ms
+seq 1750: no response (timeout)
+seq 1754: tcp response from 203.190.241.43 [open]  247.913 ms
+seq 1753: tcp response from 203.190.242.69 [open]  222.756 ms
+seq 1756: tcp response from 203.190.242.69 [open]  222.416 ms
+seq 1757: tcp response from 203.190.241.43 [open]  232.380 ms
+seq 1755: no response (timeout)
+seq 1758: tcp response from 203.190.241.43 [open]  229.367 ms
+seq 1759: tcp response from 203.190.242.69 [open]  220.951 ms
+seq 1760: tcp response from 203.190.242.69 [open]  230.162 ms
+seq 1761: tcp response from 203.190.242.69 [open]  248.732 ms
+seq 1763: tcp response from 203.190.241.43 [open]  236.920 ms
+seq 1762: tcp response from 203.190.242.69 [open]  238.594 ms
+seq 1764: tcp response from 203.190.241.43 [open]  220.580 ms
+seq 1765: tcp response from 203.190.242.69 [open]  222.307 ms
+seq 1766: tcp response from 203.190.241.43 [open]  222.198 ms
+seq 1768: tcp response from 203.190.241.43 [open]  236.259 ms
+seq 1769: tcp response from 203.190.242.69 [open]  245.997 ms
+seq 1767: no response (timeout)
+seq 1772: tcp response from 203.190.241.43 [open]  234.117 ms
+seq 1770: no response (timeout)
+seq 1771: tcp response from 203.190.242.69 [open]  222.816 ms
+seq 1773: tcp response from 203.190.241.43 [open]  232.844 ms
+seq 1774: tcp response from 203.190.241.43 [open]  229.290 ms
+seq 1779: tcp response from 203.190.242.69 [open]  223.053 ms
+seq 1778: no response (timeout)
+seq 1777: no response (timeout)
+seq 1775: tcp response from 203.190.242.69 [open]  229.095 ms
+seq 1782: tcp response from 203.190.241.43 [open]  236.835 ms
+seq 1780: no response (timeout)
+seq 1776: tcp response from 203.190.241.43 [open]  224.017 ms
+seq 1784: tcp response from 203.190.241.43 [open]  221.059 ms
+seq 1781: no response (timeout)
+seq 1785: tcp response from 203.190.242.69 [open]  238.534 ms
+seq 1786: tcp response from 203.190.242.69 [open]  222.814 ms
+seq 1788: tcp response from 203.190.241.43 [open]  232.898 ms
+seq 1783: tcp response from 203.190.242.69 [open]  248.633 ms
+seq 1791: tcp response from 203.190.241.43 [open]  247.796 ms
+seq 1789: tcp response from 203.190.242.69 [open]  223.003 ms
+seq 1790: tcp response from 203.190.241.43 [open]  224.174 ms
+seq 1787: tcp response from 203.190.241.43 [open]  234.516 ms
+seq 1792: tcp response from 203.190.242.69 [open]  221.115 ms
+seq 1793: tcp response from 203.190.242.69 [open]  230.194 ms
+seq 1795: tcp response from 203.190.241.43 [open]  229.255 ms
+seq 1794: tcp response from 203.190.242.69 [open]  224.419 ms
+seq 1796: tcp response from 203.190.241.43 [open]  234.702 ms
+seq 1798: tcp response from 203.190.241.43 [open]  232.411 ms
+seq 1797: tcp response from 203.190.242.69 [open]  222.351 ms
+seq 1799: tcp response from 203.190.242.69 [open]  230.302 ms
+seq 1800: tcp response from 203.190.241.43 [open]  237.088 ms
+seq 1801: tcp response from 203.190.242.69 [open]  249.250 ms
+seq 1802: tcp response from 203.190.241.43 [open]  224.055 ms
+seq 1803: tcp response from 203.190.242.69 [open]  224.206 ms
+seq 1804: tcp response from 203.190.241.43 [open]  234.193 ms
+seq 1805: tcp response from 203.190.241.43 [open]  229.007 ms
+seq 1806: tcp response from 203.190.242.69 [open]  222.792 ms
+seq 1807: tcp response from 203.190.242.69 [open]  233.677 ms
+seq 1809: tcp response from 203.190.241.43 [open]  247.413 ms
+seq 1808: tcp response from 203.190.242.69 [open]  222.963 ms
+seq 1811: tcp response from 203.190.241.43 [open]  220.625 ms
+seq 1810: no response (timeout)
+seq 1812: tcp response from 203.190.242.69 [open]  239.035 ms
+seq 1814: tcp response from 203.190.242.69 [open]  249.348 ms
+seq 1815: tcp response from 203.190.241.43 [open]  222.927 ms
+seq 1813: no response (timeout)
+seq 1818: tcp response from 203.190.242.69 [open]  246.583 ms
+seq 1817: tcp response from 203.190.241.43 [open]  234.287 ms
+seq 1816: no response (timeout)
+seq 1820: tcp response from 203.190.242.69 [open]  222.362 ms
+seq 1819: tcp response from 203.190.241.43 [open]  234.092 ms
+seq 1821: tcp response from 203.190.241.43 [open]  232.562 ms
+seq 1822: tcp response from 203.190.241.43 [open]  229.287 ms
+seq 1823: tcp response from 203.190.242.69 [open]  222.348 ms
+seq 1824: tcp response from 203.190.241.43 [open]  247.399 ms
+seq 1825: tcp response from 203.190.241.43 [open]  225.048 ms
+seq 1826: tcp response from 203.190.242.69 [open]  229.344 ms
+seq 1827: tcp response from 203.190.242.69 [open]  223.503 ms
+seq 1828: tcp response from 203.190.241.43 [open]  224.586 ms
+seq 1829: tcp response from 203.190.241.43 [open]  249.024 ms
+seq 1830: tcp response from 203.190.242.69 [open]  224.162 ms
+seq 1832: tcp response from 203.190.242.69 [open]  226.710 ms
+seq 1833: tcp response from 203.190.241.43 [open]  234.132 ms
+seq 1831: tcp response from 203.190.242.69 [open]  229.969 ms
+seq 1834: tcp response from 203.190.242.69 [open]  222.278 ms
+seq 1835: tcp response from 203.190.241.43 [open]  232.517 ms
+seq 1837: tcp response from 203.190.241.43 [open]  232.502 ms
+seq 1838: tcp response from 203.190.242.69 [open]  220.847 ms
+seq 1836: tcp response from 203.190.241.43 [open]  229.846 ms
+seq 1839: tcp response from 203.190.241.43 [open]  229.290 ms
+seq 1841: tcp response from 203.190.242.69 [open]  224.132 ms
+seq 1842: tcp response from 203.190.242.69 [open]  230.275 ms
+seq 1840: no response (timeout)
+seq 1843: tcp response from 203.190.241.43 [open]  234.800 ms
+seq 1844: tcp response from 203.190.241.43 [open]  230.841 ms
+seq 1846: tcp response from 203.190.242.69 [open]  230.081 ms
+seq 1847: tcp response from 203.190.242.69 [open]  249.968 ms
+seq 1845: tcp response from 203.190.241.43 [open]  238.211 ms
+seq 1848: tcp response from 203.190.241.43 [open]  224.884 ms
+seq 1851: tcp response from 203.190.242.69 [open]  223.110 ms
+seq 1850: tcp response from 203.190.241.43 [open]  247.535 ms
+seq 1849: no response (timeout)
+seq 1852: tcp response from 203.190.241.43 [open]  224.345 ms
+seq 1854: tcp response from 203.190.242.69 [open]  221.434 ms
+seq 1855: tcp response from 203.190.241.43 [open]  234.076 ms
+seq 1856: tcp response from 203.190.241.43 [open]  232.695 ms
+seq 1857: tcp response from 203.190.242.69 [open]  230.598 ms
+seq 1853: no response (timeout)
+seq 1859: tcp response from 203.190.241.43 [open]  236.796 ms
+seq 1858: tcp response from 203.190.242.69 [open]  248.672 ms
+seq 1860: tcp response from 203.190.241.43 [open]  221.807 ms
+seq 1861: tcp response from 203.190.242.69 [open]  238.883 ms
+seq 1863: tcp response from 203.190.242.69 [open]  227.921 ms
+seq 1862: no response (timeout)
+seq 1864: tcp response from 203.190.241.43 [open]  224.436 ms
+seq 1866: tcp response from 203.190.242.69 [open]  222.256 ms
+seq 1865: no response (timeout)
+seq 1868: tcp response from 203.190.241.43 [open]  228.112 ms
+seq 1869: tcp response from 203.190.242.69 [open]  223.019 ms
+seq 1867: no response (timeout)
+seq 1871: tcp response from 203.190.242.69 [open]  230.348 ms
+seq 1872: tcp response from 203.190.242.69 [open]  226.915 ms
+seq 1873: tcp response from 203.190.241.43 [open]  236.847 ms
+seq 1874: tcp response from 203.190.241.43 [open]  221.127 ms
+seq 1870: no response (timeout)
+seq 1875: tcp response from 203.190.242.69 [open]  228.212 ms
+seq 1877: tcp response from 203.190.242.69 [open]  248.835 ms
+seq 1876: tcp response from 203.190.242.69 [open]  230.357 ms
+seq 1878: tcp response from 203.190.241.43 [open]  234.262 ms
+seq 1880: tcp response from 203.190.242.69 [open]  221.217 ms
+seq 1879: tcp response from 203.190.241.43 [open]  232.375 ms
+seq 1882: tcp response from 203.190.241.43 [open]  229.718 ms
+seq 1884: tcp response from 203.190.241.43 [open]  229.070 ms
+seq 1883: tcp response from 203.190.242.69 [open]  222.949 ms
+seq 1885: tcp response from 203.190.242.69 [open]  228.978 ms
+seq 1886: tcp response from 203.190.242.69 [open]  220.894 ms
+seq 1881: no response (timeout)
+seq 1887: tcp response from 203.190.242.69 [open]  228.601 ms
+seq 1888: tcp response from 203.190.241.43 [open]  224.069 ms
+seq 1890: tcp response from 203.190.241.43 [open]  236.418 ms
+seq 1889: no response (timeout)
+seq 1892: tcp response from 203.190.241.43 [open]  247.376 ms
+seq 1891: tcp response from 203.190.242.69 [open]  222.944 ms
+seq 1894: tcp response from 203.190.241.43 [open]  220.801 ms
+seq 1896: tcp response from 203.190.242.69 [open]  248.833 ms
+seq 1893: tcp response from 203.190.241.43 [open]  224.840 ms
+seq 1895: tcp response from 203.190.241.43 [open]  221.007 ms
+seq 1897: tcp response from 203.190.242.69 [open]  221.462 ms
+seq 1898: tcp response from 203.190.242.69 [open]  222.392 ms
+seq 1899: tcp response from 203.190.241.43 [open]  234.276 ms
+seq 1900: tcp response from 203.190.241.43 [open]  232.511 ms
+seq 1902: tcp response from 203.190.242.69 [open]  224.482 ms
+seq 1903: tcp response from 203.190.241.43 [open]  228.961 ms
+seq 1901: tcp response from 203.190.242.69 [open]  229.057 ms
+seq 1904: tcp response from 203.190.242.69 [open]  230.794 ms
+seq 1905: tcp response from 203.190.242.69 [open]  221.012 ms
+seq 1906: tcp response from 203.190.241.43 [open]  232.366 ms
+seq 1907: tcp response from 203.190.241.43 [open]  230.801 ms
+seq 1908: tcp response from 203.190.241.43 [open]  234.161 ms
+seq 1911: tcp response from 203.190.241.43 [open]  234.564 ms
+seq 1909: tcp response from 203.190.242.69 [open]  221.461 ms
+seq 1912: tcp response from 203.190.242.69 [open]  230.318 ms
+seq 1913: tcp response from 203.190.241.43 [open]  224.272 ms
+seq 1910: tcp response from 203.190.242.69 [open]  241.526 ms
+seq 1914: tcp response from 203.190.242.69 [open]  228.206 ms
+seq 1915: tcp response from 203.190.241.43 [open]  247.358 ms
+seq 1917: tcp response from 203.190.241.43 [open]  224.397 ms
+seq 1916: tcp response from 203.190.242.69 [open]  222.622 ms
+seq 1918: tcp response from 203.190.242.69 [open]  223.091 ms
+seq 1919: tcp response from 203.190.241.43 [open]  228.250 ms
+seq 1922: tcp response from 203.190.242.69 [open]  228.925 ms
+seq 1920: tcp response from 203.190.242.69 [open]  220.908 ms
+seq 1921: tcp response from 203.190.242.69 [open]  220.705 ms
+seq 1923: tcp response from 203.190.241.43 [open]  234.173 ms
+seq 1924: tcp response from 203.190.241.43 [open]  232.306 ms
+seq 1925: tcp response from 203.190.242.69 [open]  224.685 ms
+seq 1926: tcp response from 203.190.241.43 [open]  229.111 ms
+seq 1927: tcp response from 203.190.242.69 [open]  230.584 ms
+seq 1931: tcp response from 203.190.241.43 [open]  229.391 ms
+seq 1930: tcp response from 203.190.242.69 [open]  241.262 ms
+seq 1928: tcp response from 203.190.241.43 [open]  232.054 ms
+seq 1932: tcp response from 203.190.242.69 [open]  221.176 ms
+seq 1929: no response (timeout)
+seq 1933: tcp response from 203.190.241.43 [open]  236.474 ms
+seq 1934: tcp response from 203.190.242.69 [open]  221.988 ms
+seq 1935: tcp response from 203.190.242.69 [open]  231.100 ms
+seq 1938: tcp response from 203.190.242.69 [open]  222.899 ms
+seq 1939: tcp response from 203.190.241.43 [open]  224.059 ms
+seq 1936: tcp response from 203.190.241.43 [open]  220.550 ms
+seq 1937: tcp response from 203.190.242.69 [open]  228.716 ms
+seq 1940: tcp response from 203.190.242.69 [open]  221.348 ms
+seq 1942: tcp response from 203.190.241.43 [open]  232.341 ms
+seq 1941: tcp response from 203.190.241.43 [open]  234.032 ms
+seq 1944: tcp response from 203.190.242.69 [open]  228.830 ms
+seq 1945: tcp response from 203.190.242.69 [open]  230.640 ms
+seq 1947: tcp response from 203.190.242.69 [open]  248.729 ms
+seq 1943: tcp response from 203.190.242.69 [open]  221.033 ms
+seq 1946: tcp response from 203.190.241.43 [open]  237.217 ms
+seq 1948: tcp response from 203.190.241.43 [open]  220.915 ms
+seq 1949: tcp response from 203.190.241.43 [open]  224.020 ms
+seq 1950: tcp response from 203.190.242.69 [open]  233.134 ms
+seq 1951: tcp response from 203.190.241.43 [open]  228.613 ms
+seq 1952: tcp response from 203.190.241.43 [open]  221.030 ms
+seq 1954: tcp response from 203.190.242.69 [open]  238.596 ms
+seq 1953: tcp response from 203.190.241.43 [open]  234.590 ms
+seq 1956: tcp response from 203.190.242.69 [open]  227.787 ms
+seq 1957: tcp response from 203.190.242.69 [open]  222.588 ms
+seq 1955: tcp response from 203.190.241.43 [open]  271.715 ms
+seq 1958: tcp response from 203.190.242.69 [open]  223.010 ms
+seq 1959: tcp response from 203.190.241.43 [open]  248.039 ms
+seq 1960: tcp response from 203.190.242.69 [open]  221.466 ms
+seq 1961: tcp response from 203.190.241.43 [open]  234.085 ms
+seq 1962: tcp response from 203.190.242.69 [open]  220.534 ms
+seq 1963: tcp response from 203.190.242.69 [open]  231.398 ms
+seq 1965: tcp response from 203.190.241.43 [open]  232.808 ms
+seq 1964: tcp response from 203.190.242.69 [open]  230.408 ms
+seq 1966: tcp response from 203.190.242.69 [open]  220.914 ms
+seq 1968: tcp response from 203.190.241.43 [open]  220.858 ms
+seq 1969: tcp response from 203.190.241.43 [open]  234.300 ms
+seq 1967: no response (timeout)
+seq 1970: tcp response from 203.190.242.69 [open]  230.484 ms
+seq 1971: tcp response from 203.190.241.43 [open]  222.874 ms
+seq 1972: tcp response from 203.190.241.43 [open]  221.464 ms
+seq 1974: tcp response from 203.190.242.69 [open]  228.267 ms
+seq 1976: tcp response from 203.190.241.43 [open]  224.438 ms
+seq 1973: tcp response from 203.190.241.43 [open]  224.047 ms
+seq 1975: no response (timeout)
+seq 1977: tcp response from 203.190.242.69 [open]  222.558 ms
+seq 1979: tcp response from 203.190.241.43 [open]  247.691 ms
+seq 1978: no response (timeout)
+seq 1981: tcp response from 203.190.242.69 [open]  222.996 ms
+seq 1980: tcp response from 203.190.241.43 [open]  228.524 ms
+seq 1982: tcp response from 203.190.242.69 [open]  223.999 ms
+seq 1983: tcp response from 203.190.241.43 [open]  236.842 ms
+seq 1984: tcp response from 203.190.242.69 [open]  230.337 ms
+seq 1986: tcp response from 203.190.241.43 [open]  220.780 ms
+seq 1987: tcp response from 203.190.241.43 [open]  234.169 ms
+seq 1985: tcp response from 203.190.242.69 [open]  248.804 ms
+seq 1989: tcp response from 203.190.242.69 [open]  221.474 ms
+seq 1991: tcp response from 203.190.242.69 [open]  221.390 ms
+seq 1994: tcp response from 203.190.241.43 [open]  232.813 ms
+seq 1992: no response (timeout)
+seq 1988: no response (timeout)
+seq 1990: tcp response from 203.190.241.43 [open]  220.576 ms
+seq 1996: tcp response from 203.190.242.69 [open]  228.696 ms
+seq 1995: no response (timeout)
+seq 1993: no response (timeout)
+seq 1998: tcp response from 203.190.242.69 [open]  222.350 ms
+seq 1997: no response (timeout)
+seq 2000: tcp response from 203.190.241.43 [open]  224.299 ms
+seq 2003: tcp response from 203.190.241.43 [open]  247.468 ms
+seq 2004: tcp response from 203.190.241.43 [open]  224.405 ms
+seq 1999: tcp response from 203.190.242.69 [open]  223.597 ms
+seq 2002: no response (timeout)
+seq 2001: tcp response from 203.190.242.69 [open]  224.516 ms
+seq 2006: tcp response from 203.190.241.43 [open]  247.734 ms
+seq 2005: no response (timeout)
+seq 2007: no response (timeout)
+seq 2010: tcp response from 203.190.242.69 [open]  220.855 ms
+seq 2008: no response (timeout)
+seq 2012: tcp response from 203.190.241.43 [open]  224.005 ms
+seq 2009: tcp response from 203.190.241.43 [open]  233.192 ms
+seq 2014: tcp response from 203.190.242.69 [open]  222.744 ms
+seq 2015: tcp response from 203.190.242.69 [open]  223.251 ms
+seq 2011: no response (timeout)
+seq 2016: tcp response from 203.190.242.69 [open]  224.908 ms
+seq 2013: no response (timeout)
+seq 2018: tcp response from 203.190.242.69 [open]  222.152 ms
+seq 2019: tcp response from 203.190.241.43 [open]  234.845 ms
+seq 2017: no response (timeout)
+seq 2020: tcp response from 203.190.241.43 [open]  268.153 ms
+seq 2022: tcp response from 203.190.242.69 [open]  221.031 ms
+seq 2021: no response (timeout)
+seq 2023: tcp response from 203.190.241.43 [open]  220.578 ms
+seq 2025: tcp response from 203.190.241.43 [open]  224.373 ms
+seq 2026: tcp response from 203.190.241.43 [open]  224.806 ms
+seq 2024: tcp response from 203.190.242.69 [open]  230.386 ms
+seq 2029: tcp response from 203.190.241.43 [open]  234.764 ms
+seq 2028: tcp response from 203.190.241.43 [open]  248.013 ms
+seq 2027: no response (timeout)
+seq 2031: tcp response from 203.190.242.69 [open]  222.245 ms
+seq 2032: tcp response from 203.190.241.43 [open]  227.787 ms
+seq 2030: no response (timeout)
+seq 2034: tcp response from 203.190.242.69 [open]  230.703 ms
+seq 2035: tcp response from 203.190.242.69 [open]  248.801 ms
+seq 2036: tcp response from 203.190.241.43 [open]  236.306 ms
+seq 2033: no response (timeout)
+seq 2037: tcp response from 203.190.241.43 [open]  220.595 ms
+seq 2038: tcp response from 203.190.242.69 [open]  238.697 ms
+seq 2040: tcp response from 203.190.241.43 [open]  234.348 ms
+seq 2041: tcp response from 203.190.241.43 [open]  232.243 ms
+seq 2039: no response (timeout)
+seq 2043: tcp response from 203.190.241.43 [open]  229.304 ms
+seq 2044: tcp response from 203.190.241.43 [open]  232.536 ms
+seq 2042: no response (timeout)
+seq 2046: tcp response from 203.190.242.69 [open]  225.225 ms
+seq 2047: tcp response from 203.190.241.43 [open]  229.208 ms
+seq 2045: no response (timeout)
+seq 2048: tcp response from 203.190.241.43 [open]  230.587 ms
+seq 2049: tcp response from 203.190.242.69 [open]  230.817 ms
+seq 2050: tcp response from 203.190.241.43 [open]  236.440 ms
+seq 2051: tcp response from 203.190.241.43 [open]  224.308 ms
+seq 2053: tcp response from 203.190.242.69 [open]  228.139 ms
+seq 2054: tcp response from 203.190.242.69 [open]  222.791 ms
+seq 2055: tcp response from 203.190.242.69 [open]  223.405 ms
+seq 2052: no response (timeout)
+seq 2057: tcp response from 203.190.241.43 [open]  225.020 ms
+seq 2056: tcp response from 203.190.242.69 [open]  223.755 ms
+seq 2058: tcp response from 203.190.241.43 [open]  224.186 ms
+seq 2059: tcp response from 203.190.242.69 [open]  224.131 ms
+seq 2060: tcp response from 203.190.242.69 [open]  230.018 ms
+seq 2062: tcp response from 203.190.242.69 [open]  248.818 ms
+seq 2061: no response (timeout)
+seq 2065: tcp response from 203.190.242.69 [open]  221.109 ms
+seq 2063: tcp response from 203.190.242.69 [open]  239.133 ms
+seq 2066: tcp response from 203.190.241.43 [open]  234.168 ms
+seq 2067: tcp response from 203.190.242.69 [open]  228.931 ms
+seq 2064: no response (timeout)
+seq 2068: tcp response from 203.190.241.43 [open]  232.711 ms
+seq 2070: tcp response from 203.190.242.69 [open]  222.597 ms
+seq 2071: tcp response from 203.190.242.69 [open]  224.088 ms
+seq 2072: tcp response from 203.190.242.69 [open]  224.245 ms
+seq 2073: tcp response from 203.190.241.43 [open]  224.334 ms
+seq 2074: tcp response from 203.190.241.43 [open]  224.111 ms
+seq 2069: tcp response from 203.190.241.43 [open]  247.905 ms
+seq 2075: tcp response from 203.190.241.43 [open]  247.879 ms
+seq 2076: tcp response from 203.190.242.69 [open]  226.812 ms
+seq 2077: tcp response from 203.190.241.43 [open]  236.652 ms
+seq 2078: tcp response from 203.190.241.43 [open]  220.609 ms
+seq 2079: tcp response from 203.190.241.43 [open]  221.064 ms
+seq 2080: tcp response from 203.190.242.69 [open]  230.663 ms
+seq 2081: tcp response from 203.190.241.43 [open]  234.258 ms
+seq 2082: no response (timeout)
+seq 2083: tcp response from 203.190.241.43 [open]  238.224 ms
+seq 2087: tcp response from 203.190.241.43 [open]  220.560 ms
+seq 2085: tcp response from 203.190.242.69 [open]  238.622 ms
+seq 2088: tcp response from 203.190.241.43 [open]  234.042 ms
+seq 2086: tcp response from 203.190.242.69 [open]  228.191 ms
+seq 2084: no response (timeout)
+seq 2089: tcp response from 203.190.242.69 [open]  220.922 ms
+seq 2090: tcp response from 203.190.241.43 [open]  271.446 ms
+seq 2093: tcp response from 203.190.241.43 [open]  229.159 ms
+seq 2092: tcp response from 203.190.242.69 [open]  228.980 ms
+seq 2091: no response (timeout)
+seq 2095: tcp response from 203.190.242.69 [open]  223.387 ms
+seq 2096: tcp response from 203.190.241.43 [open]  223.985 ms
+seq 2097: tcp response from 203.190.242.69 [open]  228.347 ms
+seq 2094: no response (timeout)
+seq 2098: tcp response from 203.190.242.69 [open]  225.205 ms
+seq 2099: tcp response from 203.190.241.43 [open]  248.481 ms
+seq 2100: tcp response from 203.190.242.69 [open]  231.049 ms
+seq 2103: tcp response from 203.190.241.43 [open]  236.837 ms
+seq 2102: tcp response from 203.190.242.69 [open]  248.734 ms
+seq 2104: tcp response from 203.190.241.43 [open]  234.439 ms
+seq 2106: tcp response from 203.190.242.69 [open]  220.805 ms
+seq 2105: no response (timeout)
+seq 2107: no response (timeout)
+seq 2101: no response (timeout)
+seq 2108: no response (timeout)
+seq 2109: tcp response from 203.190.242.69 [open]  221.127 ms
+seq 2113: tcp response from 203.190.242.69 [open]  224.142 ms
+seq 2110: no response (timeout)
+seq 2112: tcp response from 203.190.242.69 [open]  228.943 ms
+seq 2117: tcp response from 203.190.242.69 [open]  228.943 ms
+seq 2114: tcp response from 203.190.241.43 [open]  236.415 ms
+seq 2111: no response (timeout)
+seq 2115: tcp response from 203.190.241.43 [open]  223.972 ms
+seq 2116: tcp response from 203.190.241.43 [open]  248.562 ms
+seq 2118: tcp response from 203.190.242.69 [open]  222.606 ms
+seq 2119: tcp response from 203.190.241.43 [open]  224.630 ms
+seq 2120: tcp response from 203.190.242.69 [open]  223.690 ms
+seq 2121: tcp response from 203.190.242.69 [open]  222.976 ms
+seq 2123: tcp response from 203.190.242.69 [open]  225.192 ms
+seq 2122: no response (timeout)
+seq 2125: tcp response from 203.190.241.43 [open]  232.232 ms
+seq 2126: tcp response from 203.190.242.69 [open]  230.180 ms
+seq 2124: no response (timeout)
+seq 2127: tcp response from 203.190.242.69 [open]  221.580 ms
+seq 2128: tcp response from 203.190.242.69 [open]  221.084 ms
+seq 2131: tcp response from 203.190.241.43 [open]  220.882 ms
+seq 2129: tcp response from 203.190.241.43 [open]  229.012 ms
+seq 2130: tcp response from 203.190.241.43 [open]  237.841 ms
+seq 2133: tcp response from 203.190.241.43 [open]  224.674 ms
+seq 2134: tcp response from 203.190.242.69 [open]  223.781 ms
+seq 2132: tcp response from 203.190.242.69 [open]  228.288 ms
+seq 2136: tcp response from 203.190.242.69 [open]  224.144 ms
+seq 2137: tcp response from 203.190.241.43 [open]  247.818 ms
+seq 2135: no response (timeout)
+seq 2139: tcp response from 203.190.241.43 [open]  236.906 ms
+seq 2140: tcp response from 203.190.241.43 [open]  234.293 ms
+seq 2138: no response (timeout)
+seq 2142: tcp response from 203.190.241.43 [open]  228.937 ms
+seq 2143: tcp response from 203.190.242.69 [open]  229.063 ms
+seq 2144: tcp response from 203.190.242.69 [open]  224.228 ms
+seq 2141: tcp response from 203.190.242.69 [open]  221.179 ms
+seq 2145: tcp response from 203.190.241.43 [open]  232.492 ms
+seq 2146: tcp response from 203.190.242.69 [open]  230.674 ms
+seq 2148: tcp response from 203.190.241.43 [open]  233.495 ms
+seq 2149: tcp response from 203.190.242.69 [open]  228.075 ms
+seq 2150: tcp response from 203.190.242.69 [open]  222.468 ms
+seq 2147: tcp response from 203.190.242.69 [open]  230.140 ms
+seq 2151: tcp response from 203.190.241.43 [open]  224.514 ms
+seq 2152: tcp response from 203.190.241.43 [open]  247.462 ms
+seq 2153: tcp response from 203.190.241.43 [open]  234.538 ms
+seq 2154: tcp response from 203.190.242.69 [open]  223.160 ms
+seq 2155: tcp response from 203.190.241.43 [open]  224.697 ms
+seq 2156: tcp response from 203.190.242.69 [open]  225.174 ms
+seq 2157: no response (timeout)
+seq 2160: tcp response from 203.190.241.43 [open]  232.846 ms
+seq 2158: tcp response from 203.190.242.69 [open]  223.253 ms
+seq 2162: tcp response from 203.190.241.43 [open]  228.977 ms
+seq 2161: tcp response from 203.190.241.43 [open]  232.613 ms
+seq 2164: tcp response from 203.190.241.43 [open]  221.749 ms
+seq 2159: no response (timeout)
+seq 2166: tcp response from 203.190.242.69 [open]  248.872 ms
+seq 2165: tcp response from 203.190.242.69 [open]  238.513 ms
+seq 2167: tcp response from 203.190.242.69 [open]  223.029 ms
+seq 2163: no response (timeout)
+seq 2170: tcp response from 203.190.241.43 [open]  247.632 ms
+seq 2168: no response (timeout)
+seq 2171: tcp response from 203.190.242.69 [open]  222.994 ms
+seq 2172: tcp response from 203.190.241.43 [open]  234.259 ms
+seq 2173: tcp response from 203.190.242.69 [open]  221.667 ms
+seq 2169: tcp response from 203.190.242.69 [open]  228.084 ms
+seq 2174: tcp response from 203.190.242.69 [open]  225.663 ms
+seq 2177: tcp response from 203.190.242.69 [open]  220.949 ms
+seq 2179: tcp response from 203.190.241.43 [open]  229.504 ms
+seq 2178: tcp response from 203.190.242.69 [open]  229.169 ms
+seq 2175: tcp response from 203.190.241.43 [open]  248.419 ms
+seq 2176: tcp response from 203.190.241.43 [open]  233.197 ms
+seq 2180: tcp response from 203.190.242.69 [open]  230.377 ms
+seq 2182: tcp response from 203.190.242.69 [open]  231.086 ms
+seq 2183: tcp response from 203.190.241.43 [open]  229.287 ms
+seq 2181: no response (timeout)
+seq 2185: tcp response from 203.190.241.43 [open]  236.984 ms
+seq 2186: tcp response from 203.190.241.43 [open]  224.317 ms
+seq 2187: tcp response from 203.190.242.69 [open]  228.041 ms
+seq 2188: tcp response from 203.190.242.69 [open]  222.588 ms
+seq 2189: tcp response from 203.190.241.43 [open]  247.318 ms
+seq 2190: tcp response from 203.190.242.69 [open]  230.289 ms
+seq 2184: tcp response from 203.190.242.69 [open]  228.501 ms
+seq 2191: tcp response from 203.190.241.43 [open]  228.568 ms
+seq 2193: tcp response from 203.190.242.69 [open]  222.118 ms
+seq 2192: tcp response from 203.190.241.43 [open]  220.995 ms
+seq 2194: tcp response from 203.190.242.69 [open]  221.287 ms
+seq 2195: tcp response from 203.190.241.43 [open]  234.904 ms
+seq 2196: tcp response from 203.190.242.69 [open]  230.107 ms
+seq 2197: tcp response from 203.190.241.43 [open]  236.869 ms
+seq 2198: tcp response from 203.190.241.43 [open]  220.952 ms
+seq 2199: tcp response from 203.190.241.43 [open]  221.602 ms
+seq 2200: tcp response from 203.190.241.43 [open]  234.021 ms
+seq 2202: tcp response from 203.190.241.43 [open]  236.258 ms
+seq 2201: tcp response from 203.190.242.69 [open]  276.764 ms
+seq 2203: tcp response from 203.190.242.69 [open]  227.925 ms
+seq 2205: tcp response from 203.190.242.69 [open]  223.249 ms
+seq 2206: tcp response from 203.190.242.69 [open]  224.026 ms
+seq 2204: no response (timeout)
+seq 2208: tcp response from 203.190.241.43 [open]  247.666 ms
+seq 2211: tcp response from 203.190.242.69 [open]  222.999 ms
+seq 2212: tcp response from 203.190.242.69 [open]  221.528 ms
+seq 2209: tcp response from 203.190.242.69 [open]  230.040 ms
+seq 2207: no response (timeout)
+seq 2210: tcp response from 203.190.241.43 [open]  224.697 ms
+seq 2214: tcp response from 203.190.241.43 [open]  220.783 ms
+seq 2217: tcp response from 203.190.242.69 [open]  248.906 ms
+seq 2215: tcp response from 203.190.241.43 [open]  221.651 ms
+seq 2216: tcp response from 203.190.242.69 [open]  230.274 ms
+seq 2213: no response (timeout)
+seq 2219: tcp response from 203.190.241.43 [open]  234.024 ms
+seq 2220: tcp response from 203.190.241.43 [open]  236.318 ms
+seq 2218: no response (timeout)
+seq 2222: tcp response from 203.190.241.43 [open]  224.062 ms
+seq 2221: tcp response from 203.190.242.69 [open]  228.537 ms
+seq 2224: tcp response from 203.190.242.69 [open]  222.560 ms
+seq 2223: no response (timeout)
+seq 2225: tcp response from 203.190.241.43 [open]  224.190 ms
+seq 2226: tcp response from 203.190.242.69 [open]  223.290 ms
+seq 2227: tcp response from 203.190.241.43 [open]  247.722 ms
+seq 2228: tcp response from 203.190.241.43 [open]  228.214 ms
+seq 2230: tcp response from 203.190.242.69 [open]  224.218 ms
+seq 2229: tcp response from 203.190.241.43 [open]  224.190 ms
+seq 2232: tcp response from 203.190.242.69 [open]  231.600 ms
+seq 2231: tcp response from 203.190.241.43 [open]  236.751 ms
+seq 2234: tcp response from 203.190.242.69 [open]  221.196 ms
+seq 2235: tcp response from 203.190.241.43 [open]  234.862 ms
+seq 2236: tcp response from 203.190.242.69 [open]  228.775 ms
+seq 2237: tcp response from 203.190.241.43 [open]  232.512 ms
+seq 2233: tcp response from 203.190.242.69 [open]  221.161 ms
+seq 2238: tcp response from 203.190.241.43 [open]  229.087 ms
+seq 2240: tcp response from 203.190.242.69 [open]  230.043 ms
+seq 2239: tcp response from 203.190.242.69 [open]  224.189 ms
+seq 2241: tcp response from 203.190.242.69 [open]  227.958 ms
+seq 2243: tcp response from 203.190.241.43 [open]  236.486 ms
+seq 2242: tcp response from 203.190.242.69 [open]  222.274 ms
+seq 2244: no response (timeout)
+seq 2246: tcp response from 203.190.241.43 [open]  221.290 ms
+seq 2247: tcp response from 203.190.241.43 [open]  234.705 ms
+seq 2248: tcp response from 203.190.241.43 [open]  236.489 ms
+seq 2245: no response (timeout)
+seq 2250: tcp response from 203.190.242.69 [open]  238.578 ms
+seq 2251: tcp response from 203.190.241.43 [open]  222.844 ms
+seq 2249: no response (timeout)
+seq 2253: tcp response from 203.190.242.69 [open]  228.211 ms
+seq 2254: tcp response from 203.190.242.69 [open]  222.260 ms
+seq 2252: no response (timeout)
+seq 2256: tcp response from 203.190.241.43 [open]  224.219 ms
+seq 2257: tcp response from 203.190.241.43 [open]  247.694 ms
+seq 2255: no response (timeout)
+seq 2258: no response (timeout)
+seq 2259: tcp response from 203.190.242.69 [open]  230.645 ms
+seq 2260: tcp response from 203.190.241.43 [open]  234.117 ms
+seq 2261: tcp response from 203.190.241.43 [open]  232.438 ms
+seq 2262: tcp response from 203.190.241.43 [open]  229.041 ms
+seq 2263: tcp response from 203.190.242.69 [open]  222.940 ms
+seq 2264: tcp response from 203.190.242.69 [open]  221.273 ms
+seq 2265: tcp response from 203.190.241.43 [open]  224.246 ms
+seq 2267: tcp response from 203.190.242.69 [open]  229.564 ms
+seq 2266: no response (timeout)
+seq 2269: tcp response from 203.190.242.69 [open]  239.424 ms
+seq 2268: tcp response from 203.190.242.69 [open]  230.250 ms
+seq 2270: tcp response from 203.190.242.69 [open]  228.400 ms
+seq 2271: tcp response from 203.190.241.43 [open]  236.737 ms
+seq 2272: tcp response from 203.190.241.43 [open]  221.148 ms
+seq 2276: tcp response from 203.190.242.69 [open]  223.559 ms
+seq 2277: tcp response from 203.190.241.43 [open]  236.731 ms
+seq 2274: tcp response from 203.190.242.69 [open]  245.953 ms
+seq 2273: tcp response from 203.190.242.69 [open]  222.519 ms
+seq 2275: tcp response from 203.190.241.43 [open]  234.083 ms
+seq 2279: tcp response from 203.190.241.43 [open]  229.009 ms
+seq 2278: no response (timeout)
+seq 2281: tcp response from 203.190.242.69 [open]  221.970 ms
+seq 2280: no response (timeout)
+seq 2282: tcp response from 203.190.241.43 [open]  236.783 ms
+seq 2284: tcp response from 203.190.242.69 [open]  230.833 ms
+seq 2285: tcp response from 203.190.241.43 [open]  221.786 ms
+seq 2288: tcp response from 203.190.241.43 [open]  233.287 ms
+seq 2283: no response (timeout)
+seq 2286: tcp response from 203.190.242.69 [open]  221.699 ms
+seq 2287: no response (timeout)
+seq 2289: no response (timeout)
+seq 2292: tcp response from 203.190.241.43 [open]  248.639 ms
+seq 2290: no response (timeout)
+seq 2291: no response (timeout)
+seq 2294: tcp response from 203.190.242.69 [open]  221.263 ms
+seq 2293: no response (timeout)
+seq 2296: tcp response from 203.190.242.69 [open]  228.280 ms
+seq 2295: tcp response from 203.190.242.69 [open]  223.145 ms
+seq 2297: tcp response from 203.190.242.69 [open]  230.499 ms
+seq 2298: tcp response from 203.190.241.43 [open]  234.279 ms
+seq 2299: tcp response from 203.190.242.69 [open]  221.316 ms
+seq 2300: tcp response from 203.190.241.43 [open]  232.573 ms
+seq 2301: tcp response from 203.190.241.43 [open]  229.720 ms
+seq 2302: tcp response from 203.190.241.43 [open]  232.113 ms
+seq 2303: tcp response from 203.190.241.43 [open]  224.690 ms
+seq 2305: tcp response from 203.190.242.69 [open]  231.973 ms
+seq 2307: tcp response from 203.190.242.69 [open]  228.658 ms
+seq 2306: tcp response from 203.190.241.43 [open]  224.338 ms
+seq 2304: tcp response from 203.190.241.43 [open]  229.447 ms
+seq 2309: tcp response from 203.190.241.43 [open]  247.368 ms
+seq 2310: tcp response from 203.190.242.69 [open]  223.121 ms
+seq 2308: no response (timeout)
+seq 2312: tcp response from 203.190.241.43 [open]  224.288 ms
+seq 2311: no response (timeout)
+seq 2314: tcp response from 203.190.242.69 [open]  248.876 ms
+seq 2313: no response (timeout)
+seq 2315: tcp response from 203.190.242.69 [open]  221.219 ms
+seq 2318: tcp response from 203.190.241.43 [open]  232.650 ms
+seq 2316: no response (timeout)
+seq 2319: tcp response from 203.190.242.69 [open]  229.005 ms
+seq 2317: tcp response from 203.190.242.69 [open]  220.875 ms
+seq 2320: tcp response from 203.190.242.69 [open]  238.759 ms
+seq 2322: tcp response from 203.190.241.43 [open]  225.751 ms
+seq 2321: no response (timeout)
+seq 2323: tcp response from 203.190.241.43 [open]  247.444 ms
+seq 2325: tcp response from 203.190.241.43 [open]  229.364 ms
+seq 2327: tcp response from 203.190.241.43 [open]  232.310 ms
+seq 2326: tcp response from 203.190.241.43 [open]  243.343 ms
+seq 2324: no response (timeout)
+seq 2328: tcp response from 203.190.241.43 [open]  232.909 ms
+seq 2329: tcp response from 203.190.242.69 [open]  221.238 ms
+seq 2330: tcp response from 203.190.242.69 [open]  220.666 ms
+seq 2331: tcp response from 203.190.241.43 [open]  229.276 ms
+seq 2332: tcp response from 203.190.242.69 [open]  229.459 ms
+seq 2333: tcp response from 203.190.241.43 [open]  234.254 ms
+seq 2334: tcp response from 203.190.241.43 [open]  229.043 ms
+seq 2336: tcp response from 203.190.242.69 [open]  230.199 ms
+seq 2337: tcp response from 203.190.241.43 [open]  234.485 ms
+seq 2335: no response (timeout)
+seq 2338: tcp response from 203.190.241.43 [open]  224.700 ms
+seq 2339: tcp response from 203.190.242.69 [open]  228.497 ms
+seq 2342: tcp response from 203.190.241.43 [open]  224.405 ms
+seq 2341: tcp response from 203.190.241.43 [open]  247.678 ms
+seq 2343: tcp response from 203.190.242.69 [open]  223.143 ms
+seq 2340: no response (timeout)
+seq 2344: tcp response from 203.190.241.43 [open]  236.243 ms
+seq 2345: tcp response from 203.190.241.43 [open]  220.467 ms
+seq 2346: tcp response from 203.190.242.69 [open]  230.981 ms
+seq 2348: tcp response from 203.190.242.69 [open]  221.766 ms
+seq 2347: tcp response from 203.190.241.43 [open]  234.230 ms
+seq 2349: tcp response from 203.190.241.43 [open]  232.332 ms
+seq 2351: tcp response from 203.190.241.43 [open]  229.660 ms
+seq 2352: tcp response from 203.190.242.69 [open]  228.867 ms
+seq 2350: no response (timeout)
+seq 2354: tcp response from 203.190.242.69 [open]  223.393 ms
+seq 2353: no response (timeout)
+seq 2357: tcp response from 203.190.241.43 [open]  224.537 ms
+seq 2355: tcp response from 203.190.242.69 [open]  227.879 ms
+seq 2358: tcp response from 203.190.241.43 [open]  247.704 ms
+seq 2356: no response (timeout)
+seq 2359: tcp response from 203.190.241.43 [open]  228.444 ms
+seq 2360: tcp response from 203.190.241.43 [open]  220.770 ms
+seq 2362: tcp response from 203.190.242.69 [open]  220.601 ms
+seq 2361: tcp response from 203.190.242.69 [open]  228.110 ms
+seq 2363: tcp response from 203.190.242.69 [open]  229.194 ms
+seq 2365: tcp response from 203.190.241.43 [open]  234.234 ms
+seq 2364: tcp response from 203.190.242.69 [open]  227.841 ms
+seq 2366: tcp response from 203.190.242.69 [open]  230.021 ms
+seq 2368: tcp response from 203.190.241.43 [open]  237.314 ms
+seq 2369: tcp response from 203.190.242.69 [open]  230.413 ms
+seq 2367: no response (timeout)
+seq 2372: tcp response from 203.190.241.43 [open]  220.482 ms
+seq 2373: tcp response from 203.190.242.69 [open]  222.860 ms
+seq 2374: tcp response from 203.190.241.43 [open]  224.535 ms
+seq 2370: tcp response from 203.190.242.69 [open]  249.370 ms
+seq 2376: tcp response from 203.190.242.69 [open]  228.191 ms
+seq 2377: tcp response from 203.190.241.43 [open]  247.290 ms
+seq 2371: tcp response from 203.190.242.69 [open]  238.604 ms
+seq 2375: no response (timeout)
+seq 2378: tcp response from 203.190.241.43 [open]  234.100 ms
+seq 2379: tcp response from 203.190.242.69 [open]  221.097 ms
+seq 2380: tcp response from 203.190.241.43 [open]  232.423 ms
+seq 2381: tcp response from 203.190.242.69 [open]  231.260 ms
+seq 2383: tcp response from 203.190.242.69 [open]  238.801 ms
+seq 2382: tcp response from 203.190.242.69 [open]  248.733 ms
+seq 2384: tcp response from 203.190.241.43 [open]  236.417 ms
+seq 2385: tcp response from 203.190.242.69 [open]  222.168 ms
+seq 2386: tcp response from 203.190.241.43 [open]  220.593 ms
+seq 2388: tcp response from 203.190.242.69 [open]  362.680 ms
+seq 2389: tcp response from 203.190.242.69 [open]  228.113 ms
+seq 2387: tcp response from 203.190.241.43 [open]  221.429 ms
+seq 2390: tcp response from 203.190.242.69 [open]  222.034 ms
+seq 2391: tcp response from 203.190.241.43 [open]  234.354 ms
+seq 2392: tcp response from 203.190.242.69 [open]  221.069 ms
+seq 2393: tcp response from 203.190.241.43 [open]  224.354 ms
+seq 2394: tcp response from 203.190.241.43 [open]  247.343 ms
+seq 2395: tcp response from 203.190.242.69 [open]  228.438 ms
+seq 2397: tcp response from 203.190.242.69 [open]  222.335 ms
+seq 2398: tcp response from 203.190.241.43 [open]  247.648 ms
+seq 2396: no response (timeout)
+seq 2399: tcp response from 203.190.242.69 [open]  223.341 ms
+seq 2401: tcp response from 203.190.242.69 [open]  230.278 ms
+seq 2402: tcp response from 203.190.241.43 [open]  236.840 ms
+seq 2400: tcp response from 203.190.241.43 [open]  228.026 ms
+seq 2404: tcp response from 203.190.241.43 [open]  224.059 ms
+seq 2405: tcp response from 203.190.241.43 [open]  221.152 ms
+seq 2406: tcp response from 203.190.241.43 [open]  247.365 ms
+seq 2403: tcp response from 203.190.242.69 [open]  248.876 ms
+seq 2408: tcp response from 203.190.241.43 [open]  232.853 ms
+seq 2411: tcp response from 203.190.241.43 [open]  220.762 ms
+seq 2410: tcp response from 203.190.242.69 [open]  222.309 ms
+seq 2409: tcp response from 203.190.242.69 [open]  238.454 ms
+seq 2407: tcp response from 203.190.241.43 [open]  224.175 ms
+seq 2412: tcp response from 203.190.242.69 [open]  221.206 ms
+seq 2414: tcp response from 203.190.242.69 [open]  224.673 ms
+seq 2413: tcp response from 203.190.242.69 [open]  221.273 ms
+seq 2416: tcp response from 203.190.241.43 [open]  234.572 ms
+seq 2415: no response (timeout)
+seq 2418: tcp response from 203.190.241.43 [open]  232.691 ms
+seq 2417: no response (timeout)
+seq 2420: tcp response from 203.190.242.69 [open]  241.952 ms
+seq 2419: tcp response from 203.190.242.69 [open]  222.278 ms
+seq 2421: tcp response from 203.190.242.69 [open]  228.299 ms
+seq 2422: tcp response from 203.190.241.43 [open]  224.701 ms
+seq 2423: tcp response from 203.190.241.43 [open]  247.245 ms
+seq 2424: tcp response from 203.190.241.43 [open]  224.142 ms
+seq 2425: tcp response from 203.190.241.43 [open]  268.447 ms
+seq 2426: tcp response from 203.190.242.69 [open]  222.395 ms
+seq 2429: tcp response from 203.190.241.43 [open]  221.107 ms
+seq 2427: tcp response from 203.190.241.43 [open]  236.800 ms
+seq 2430: tcp response from 203.190.242.69 [open]  249.079 ms
+seq 2428: no response (timeout)
+seq 2432: tcp response from 203.190.241.43 [open]  224.313 ms
+seq 2433: no response (timeout)
+seq 2436: tcp response from 203.190.242.69 [open]  220.929 ms
+seq 2431: no response (timeout)
+seq 2434: no response (timeout)
+seq 2435: tcp response from 203.190.241.43 [open]  234.102 ms
+seq 2437: tcp response from 203.190.241.43 [open]  224.052 ms
+seq 2439: tcp response from 203.190.242.69 [open]  222.293 ms
+seq 2440: tcp response from 203.190.241.43 [open]  248.100 ms
+seq 2441: tcp response from 203.190.242.69 [open]  222.866 ms
+seq 2438: tcp response from 203.190.242.69 [open]  228.679 ms
+seq 2442: tcp response from 203.190.241.43 [open]  224.632 ms
+seq 2443: tcp response from 203.190.241.43 [open]  248.232 ms
+seq 2445: tcp response from 203.190.242.69 [open]  231.056 ms
+seq 2446: tcp response from 203.190.242.69 [open]  248.908 ms
+seq 2447: tcp response from 203.190.242.69 [open]  228.182 ms
+seq 2448: tcp response from 203.190.241.43 [open]  228.126 ms
+seq 2449: tcp response from 203.190.242.69 [open]  227.851 ms
+seq 2444: no response (timeout)
+seq 2450: tcp response from 203.190.241.43 [open]  237.188 ms
+seq 2451: tcp response from 203.190.241.43 [open]  220.719 ms
+seq 2452: tcp response from 203.190.242.69 [open]  231.098 ms
+seq 2453: tcp response from 203.190.241.43 [open]  234.544 ms
+seq 2454: tcp response from 203.190.242.69 [open]  248.877 ms
+seq 2455: tcp response from 203.190.241.43 [open]  221.635 ms
+seq 2456: tcp response from 203.190.241.43 [open]  222.709 ms
+seq 2458: tcp response from 203.190.242.69 [open]  222.579 ms
+seq 2459: tcp response from 203.190.242.69 [open]  228.500 ms
+seq 2457: no response (timeout)
+seq 2461: tcp response from 203.190.242.69 [open]  222.357 ms
+seq 2460: no response (timeout)
+seq 2462: tcp response from 203.190.241.43 [open]  248.348 ms
+seq 2464: tcp response from 203.190.241.43 [open]  234.231 ms
+seq 2465: tcp response from 203.190.241.43 [open]  232.705 ms
+seq 2463: tcp response from 203.190.242.69 [open]  221.854 ms
+seq 2468: tcp response from 203.190.242.69 [open]  230.090 ms
+seq 2466: tcp response from 203.190.242.69 [open]  220.870 ms
+seq 2467: no response (timeout)
+seq 2470: tcp response from 203.190.242.69 [open]  224.230 ms
+seq 2469: no response (timeout)
+seq 2472: tcp response from 203.190.242.69 [open]  253.932 ms
+seq 2473: tcp response from 203.190.241.43 [open]  224.224 ms
+seq 2471: no response (timeout)
+seq 2474: tcp response from 203.190.242.69 [open]  228.718 ms
+seq 2475: tcp response from 203.190.241.43 [open]  247.675 ms
+seq 2476: tcp response from 203.190.242.69 [open]  222.867 ms
+seq 2477: tcp response from 203.190.242.69 [open]  223.149 ms
+seq 2481: tcp response from 203.190.242.69 [open]  248.688 ms
+seq 2479: tcp response from 203.190.241.43 [open]  221.964 ms
+seq 2480: tcp response from 203.190.242.69 [open]  230.317 ms
+seq 2482: tcp response from 203.190.241.43 [open]  221.263 ms
+seq 2478: tcp response from 203.190.241.43 [open]  236.623 ms
+seq 2484: tcp response from 203.190.241.43 [open]  232.878 ms
+seq 2486: tcp response from 203.190.241.43 [open]  233.484 ms
+seq 2483: tcp response from 203.190.241.43 [open]  234.578 ms
+seq 2485: tcp response from 203.190.241.43 [open]  229.794 ms
+seq 2487: tcp response from 203.190.241.43 [open]  229.117 ms
+seq 2488: tcp response from 203.190.242.69 [open]  221.718 ms
+seq 2490: tcp response from 203.190.242.69 [open]  221.387 ms
+seq 2491: tcp response from 203.190.242.69 [open]  228.962 ms
+seq 2492: tcp response from 203.190.241.43 [open]  235.015 ms
+seq 2489: tcp response from 203.190.241.43 [open]  234.298 ms
+seq 2493: tcp response from 203.190.242.69 [open]  224.127 ms
+seq 2494: tcp response from 203.190.242.69 [open]  228.953 ms
+seq 2495: tcp response from 203.190.242.69 [open]  230.298 ms
+seq 2496: tcp response from 203.190.242.69 [open]  230.435 ms
+seq 2497: tcp response from 203.190.241.43 [open]  223.432 ms
+seq 2498: tcp response from 203.190.241.43 [open]  247.954 ms
+seq 2499: tcp response from 203.190.242.69 [open]  228.071 ms
+seq 2500: tcp response from 203.190.242.69 [open]  222.794 ms
+seq 2501: tcp response from 203.190.241.43 [open]  224.609 ms
+seq 2503: tcp response from 203.190.241.43 [open]  224.141 ms
+seq 2504: tcp response from 203.190.241.43 [open]  247.840 ms
+seq 2505: tcp response from 203.190.242.69 [open]  223.151 ms
+seq 2502: tcp response from 203.190.242.69 [open]  223.084 ms
+seq 2507: tcp response from 203.190.241.43 [open]  234.160 ms
+seq 2506: tcp response from 203.190.242.69 [open]  224.254 ms
+seq 2509: tcp response from 203.190.242.69 [open]  221.310 ms
+seq 2510: tcp response from 203.190.241.43 [open]  230.060 ms
+seq 2511: tcp response from 203.190.242.69 [open]  230.554 ms
+seq 2512: tcp response from 203.190.242.69 [open]  249.864 ms
+seq 2508: tcp response from 203.190.241.43 [open]  230.830 ms
+seq 2513: tcp response from 203.190.242.69 [open]  237.060 ms
+seq 2514: tcp response from 203.190.242.69 [open]  221.356 ms
+seq 2515: tcp response from 203.190.241.43 [open]  234.934 ms
+seq 2517: tcp response from 203.190.241.43 [open]  221.305 ms
+seq 2516: no response (timeout)
+seq 2520: tcp response from 203.190.241.43 [open]  222.449 ms
+seq 2519: tcp response from 203.190.242.69 [open]  220.823 ms
+seq 2518: no response (timeout)
+seq 2522: tcp response from 203.190.241.43 [open]  247.475 ms
+seq 2521: no response (timeout)
+seq 2524: tcp response from 203.190.241.43 [open]  224.252 ms
+seq 2526: tcp response from 203.190.242.69 [open]  230.372 ms
+seq 2523: tcp response from 203.190.242.69 [open]  222.735 ms
+seq 2527: tcp response from 203.190.241.43 [open]  235.870 ms
+seq 2525: no response (timeout)
+seq 2529: tcp response from 203.190.242.69 [open]  248.860 ms
+seq 2530: tcp response from 203.190.242.69 [open]  237.552 ms
+seq 2528: no response (timeout)
+seq 2532: tcp response from 203.190.241.43 [open]  234.420 ms
+seq 2531: no response (timeout)
+seq 2534: tcp response from 203.190.242.69 [open]  222.603 ms
+seq 2535: tcp response from 203.190.241.43 [open]  222.992 ms
+seq 2533: no response (timeout)
+seq 2536: tcp response from 203.190.242.69 [open]  228.142 ms
+seq 2537: tcp response from 203.190.242.69 [open]  220.862 ms
+seq 2538: tcp response from 203.190.241.43 [open]  229.166 ms
+seq 2539: tcp response from 203.190.242.69 [open]  229.218 ms
+seq 2540: tcp response from 203.190.241.43 [open]  235.209 ms
+seq 2541: tcp response from 203.190.242.69 [open]  231.909 ms
+seq 2542: tcp response from 203.190.242.69 [open]  248.837 ms
+seq 2543: tcp response from 203.190.241.43 [open]  220.600 ms
+seq 2544: tcp response from 203.190.242.69 [open]  237.505 ms
+seq 2545: tcp response from 203.190.241.43 [open]  222.898 ms
+seq 2547: tcp response from 203.190.241.43 [open]  248.102 ms
+seq 2548: tcp response from 203.190.241.43 [open]  224.380 ms
+seq 2546: no response (timeout)
+seq 2549: tcp response from 203.190.242.69 [open]  228.097 ms
+seq 2550: tcp response from 203.190.241.43 [open]  248.161 ms
+seq 2551: tcp response from 203.190.241.43 [open]  228.467 ms
+seq 2552: tcp response from 203.190.241.43 [open]  221.572 ms
+seq 2553: tcp response from 203.190.242.69 [open]  224.194 ms
+seq 2554: tcp response from 203.190.242.69 [open]  225.310 ms
+seq 2555: tcp response from 203.190.241.43 [open]  224.355 ms
+seq 2556: tcp response from 203.190.241.43 [open]  234.652 ms
+seq 2558: tcp response from 203.190.242.69 [open]  220.975 ms
+seq 2557: tcp response from 203.190.242.69 [open]  223.303 ms
+seq 2559: tcp response from 203.190.242.69 [open]  220.767 ms
+seq 2560: tcp response from 203.190.242.69 [open]  228.759 ms
+seq 2561: tcp response from 203.190.242.69 [open]  224.574 ms
+seq 2562: tcp response from 203.190.241.43 [open]  234.132 ms
+seq 2563: tcp response from 203.190.241.43 [open]  229.243 ms
+seq 2564: tcp response from 203.190.241.43 [open]  232.790 ms
+seq 2565: tcp response from 203.190.242.69 [open]  230.742 ms
+seq 2567: tcp response from 203.190.241.43 [open]  235.464 ms
+seq 2566: tcp response from 203.190.242.69 [open]  249.459 ms
+seq 2569: tcp response from 203.190.241.43 [open]  241.384 ms
+seq 2570: tcp response from 203.190.242.69 [open]  221.161 ms
+seq 2568: tcp response from 203.190.242.69 [open]  237.919 ms
+seq 2571: tcp response from 203.190.241.43 [open]  221.055 ms
+seq 2572: tcp response from 203.190.241.43 [open]  234.554 ms
+seq 2573: tcp response from 203.190.242.69 [open]  245.704 ms
+seq 2574: tcp response from 203.190.241.43 [open]  236.515 ms
+seq 2575: tcp response from 203.190.242.69 [open]  221.478 ms
+seq 2576: tcp response from 203.190.241.43 [open]  222.792 ms
+seq 2577: tcp response from 203.190.241.43 [open]  247.708 ms
+seq 2578: tcp response from 203.190.241.43 [open]  224.118 ms
+seq 2579: tcp response from 203.190.241.43 [open]  248.095 ms
+seq 2580: tcp response from 203.190.242.69 [open]  227.859 ms
+seq 2581: tcp response from 203.190.242.69 [open]  222.951 ms
+seq 2583: tcp response from 203.190.242.69 [open]  220.910 ms
+seq 2584: tcp response from 203.190.241.43 [open]  235.509 ms
+seq 2582: no response (timeout)
+seq 2585: tcp response from 203.190.241.43 [open]  221.301 ms
+seq 2586: tcp response from 203.190.241.43 [open]  221.305 ms
+seq 2589: tcp response from 203.190.241.43 [open]  222.582 ms
+seq 2587: no response (timeout)
+seq 2590: tcp response from 203.190.242.69 [open]  228.243 ms
+seq 2588: no response (timeout)
+seq 2591: tcp response from 203.190.241.43 [open]  247.468 ms
+seq 2592: tcp response from 203.190.242.69 [open]  222.178 ms
+seq 2593: tcp response from 203.190.242.69 [open]  223.329 ms
+seq 2594: tcp response from 203.190.242.69 [open]  224.134 ms
+seq 2595: tcp response from 203.190.242.69 [open]  222.226 ms
+seq 2596: tcp response from 203.190.241.43 [open]  234.339 ms
+seq 2597: tcp response from 203.190.241.43 [open]  232.123 ms
+seq 2598: tcp response from 203.190.241.43 [open]  228.981 ms
+seq 2599: tcp response from 203.190.242.69 [open]  220.744 ms
+seq 2600: tcp response from 203.190.242.69 [open]  229.482 ms
+seq 2601: tcp response from 203.190.242.69 [open]  225.260 ms
+seq 2602: tcp response from 203.190.242.69 [open]  228.931 ms
+seq 2603: tcp response from 203.190.241.43 [open]  232.281 ms
+seq 2604: tcp response from 203.190.242.69 [open]  241.170 ms
+seq 2605: tcp response from 203.190.242.69 [open]  227.846 ms
+seq 2606: tcp response from 203.190.242.69 [open]  230.438 ms
+seq 2607: tcp response from 203.190.241.43 [open]  229.254 ms
+seq 2608: tcp response from 203.190.241.43 [open]  230.306 ms
+seq 2609: tcp response from 203.190.241.43 [open]  229.517 ms
+seq 2610: tcp response from 203.190.241.43 [open]  234.166 ms
+seq 2611: tcp response from 203.190.242.69 [open]  221.886 ms
+seq 2612: tcp response from 203.190.242.69 [open]  222.223 ms
+seq 2613: tcp response from 203.190.242.69 [open]  221.171 ms
+seq 2614: tcp response from 203.190.241.43 [open]  230.933 ms
+seq 2615: tcp response from 203.190.242.69 [open]  223.079 ms
