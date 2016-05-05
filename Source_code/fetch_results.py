@@ -120,21 +120,28 @@ class Parsers(object):
 			except:
 				pair_path=self.plab_plab[line1.split(',')[2]+'_'+line1.split(',')[0]]			
 			for line2 in f2:
-				direct_path_1=self.plab_serv[line1.split(',')[0]+'_'+line2.strip('\n')]
-				direct_path_2=self.plab_serv[line1.split(',')[2]+'_'+line2.strip('\n')]
 				try:
-					lat=(float(direct_path_1)+float(pair_path)) / float(direct_path_2)
+					direct_path_1=self.plab_serv[line1.split(',')[0]+'_'+line2.strip('\n')]
 				except:
 					pass
 				else:
-					lat_stretch.append(lat)
-				try:
-					lat=(float(direct_path_2)+float(pair_path)) / float(direct_path_1)
-				except:
-					pass
-				else:
-					lat_stretch.append( lat )
-#			print len(lat_stretch)
+					try:
+						direct_path_2=self.plab_serv[line1.split(',')[2]+'_'+line2.strip('\n')]
+					except:
+						pass
+					else:						
+						try:
+							lat=(float(direct_path_1)+float(pair_path)) / float(direct_path_2)
+						except:
+							pass
+						else:
+							lat_stretch.append(lat)
+						try:
+							lat=(float(direct_path_2)+float(pair_path)) / float(direct_path_1)
+						except:
+							pass
+						else:
+							lat_stretch.append( lat )
 		f1.close()
 		f2.close()
 		return lat_stretch

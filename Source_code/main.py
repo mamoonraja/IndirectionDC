@@ -4,7 +4,7 @@ import os
 from Ping_experiments import Pinger
 from fetch_results import Parsers
 
-''' from command line run:
+''' From command line run:
 	'python main.py X Y Z' to do task X for experiment type Y
 	X : 0-2
 		0, get results from remote hosts
@@ -19,13 +19,13 @@ from fetch_results import Parsers
 
     *** Current experiments info:
     Experiment Number      Experiment Type
-		23 , 35				1st
+		35					1st
 		33 					2nd
 		31 					3rd type
 		32 					4th Local
 
 	*** For new experiment assign new experiemnt number and store it in table above for future reference
-	*** Currently I have results for type 3 and type 4, stll need to figure some details about type 1 and type 2
+	*** Currently I have results for type 1,3 and type 4, stll need to figure some details about type 2
 
 	NOTE : For future experiment, I will change naming methods, use experiment name instead of exp number
 	       After that there will be no need of providing both number and type 

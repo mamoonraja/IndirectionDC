@@ -1,6 +1,5 @@
 type,node,server,direct_path,node_to_dc,DC_to_server,stretch
 IndirectionDC,planetlab3.rutgers.edu,twitter.com,79.071,16.5385223836,60.7063548591,0.976905278075
-IndirectionDC,planetlab3.rutgers.edu,wordpress.com,6.514,0,0,0.0
 IndirectionDC,planetlab3.rutgers.edu,rdsa2012.com,39.863,11.1510597643,15.9761780604,0.680511698184
 IndirectionDC,planetlab3.rutgers.edu,shutterstock.com,622.934,14.7445584761,53.6740602219,0.109832853397
 IndirectionDC,planetlab3.rutgers.edu,oracle.com,80.397,26.9943017967,38.5674237396,0.81547477563
@@ -10,7 +9,6 @@ IndirectionDC,planetlab3.rutgers.edu,surveymonkey.com,76.769,3.16631021689,52.78
 IndirectionDC,planetlab-01.cs.princeton.edu,twitter.com,44.373,11.6173064935,16.5385223836,0.634526150522
 IndirectionDC,planetlab-01.cs.princeton.edu,reddit.com,8.265,1.914818,2.89932273403,0.582473168062
 IndirectionDC,planetlab-01.cs.princeton.edu,t.co,42.366,11.6173064935,17.0287606509,0.676156992503
-IndirectionDC,planetlab-01.cs.princeton.edu,wordpress.com,10.060,0,0,0.0
 IndirectionDC,planetlab-01.cs.princeton.edu,blogspot.com,20.246,11.4111150616,3.63427347903,0.743128941057
 IndirectionDC,planetlab-01.cs.princeton.edu,aliexpress.com,85.159,11.6173064935,46.3122381496,0.680251584015
 IndirectionDC,planetlab-01.cs.princeton.edu,alibaba.com,83.155,11.6173064935,46.8092887041,0.702622755067
@@ -43,7 +41,6 @@ IndirectionDC,pluto.cs.brown.edu,facebook.com,75.511,16.4035474215,29.7382181764
 IndirectionDC,pluto.cs.brown.edu,twitter.com,40.293,16.4035474215,16.5385223836,0.817563095453
 IndirectionDC,pluto.cs.brown.edu,reddit.com,7.969,1.914818,2.89932273403,0.604108512239
 IndirectionDC,pluto.cs.brown.edu,t.co,40.694,16.4035474215,17.0287606509,0.821553744346
-IndirectionDC,pluto.cs.brown.edu,wordpress.com,8.470,0,0,0.0
 IndirectionDC,pluto.cs.brown.edu,blogspot.com,35.026,11.4111150616,3.63427347903,0.429549150363
 IndirectionDC,pluto.cs.brown.edu,aliexpress.com,73.876,16.4035474215,46.3122381496,0.84893315246
 IndirectionDC,pluto.cs.brown.edu,alibaba.com,75.436,16.4035474215,46.8092887041,0.837966436789
@@ -77,7 +74,6 @@ IndirectionDC,planetlabone.ccs.neu.edu,google.co.jp,22.888,11.9560907563,3.20189
 IndirectionDC,planetlabone.ccs.neu.edu,google.de,23.094,10.988743073,3.4953216721,0.627178693388
 IndirectionDC,planetlabone.ccs.neu.edu,reddit.com,9.350,1.914818,2.89932273403,0.514881361928
 IndirectionDC,planetlabone.ccs.neu.edu,t.co,183.092,14.5061316411,17.0287606509,0.172235227601
-IndirectionDC,planetlabone.ccs.neu.edu,wordpress.com,6.409,0,0,0.0
 IndirectionDC,planetlabone.ccs.neu.edu,blogspot.com,22.917,11.4111150616,3.63427347903,0.656516496078
 IndirectionDC,planetlabone.ccs.neu.edu,aliexpress.com,73.517,14.5061316411,46.3122381496,0.82726947224
 IndirectionDC,planetlabone.ccs.neu.edu,alibaba.com,77.844,14.5061316411,46.8092887041,0.787670473578
@@ -115,7 +111,6 @@ IndirectionDC,planetlabone.ccs.neu.edu,messenger.com,84.580,14.5061316411,29.942
 IndirectionDC,planetlabone.ccs.neu.edu,surveymonkey.com,75.659,14.5061316411,3.16631021689,0.233580167039
 IndirectionDC,planetlabone.ccs.neu.edu,wunderground.com,81.366,14.5061316411,41.744444694,0.691327782306
 IndirectionDC,planetlab1.emich.edu,linkedin.com,30.138,12.2529661349,16.5198427037,0.954701998759
-IndirectionDC,planetlab1.emich.edu,wordpress.com,19.350,0,0,0.0
 IndirectionDC,planetlab1.emich.edu,imgur.com,43.054,21.0396230549,21.0396230549,0.977359736837
 IndirectionDC,planetlab1.emich.edu,indeed.com,82.995,23.263613099,3.48122266515,0.322246349348
 IndirectionDC,planetlab1.emich.edu,target.com,57.196,23.263613099,32.0157406267,0.966489854635
@@ -131,7 +126,6 @@ IndirectionDC,planetlab1.emich.edu,box.com,80.836,23.263613099,3.10000113928,0.3
 IndirectionDC,planetlab1.emich.edu,surveymonkey.com,74.525,23.263613099,3.16631021689,0.354645062944
 IndirectionDC,planetlab1.emich.edu,wunderground.com,71.797,23.263613099,41.744444694,0.905442536499
 IndirectionDC,planetlab3.eecs.umich.edu,linkedin.com,29.362,12.2529661349,16.5198427037,0.979933548076
-IndirectionDC,planetlab3.eecs.umich.edu,wordpress.com,11.158,0,0,0.0
 IndirectionDC,planetlab3.eecs.umich.edu,indeed.com,33.847,22.7278739981,3.48122266515,0.774340315634
 IndirectionDC,planetlab3.eecs.umich.edu,americanexpress.com,27.763,22.7278739981,3.76556471288,0.954271466015
 IndirectionDC,planetlab3.eecs.umich.edu,rdsa2012.com,44.582,11.1510597643,15.9761780604,0.608479606673
@@ -144,7 +138,6 @@ IndirectionDC,planetlab3.eecs.umich.edu,adplxmd.com,77.317,10.9406775114,50.7477
 IndirectionDC,planetlab3.eecs.umich.edu,box.com,75.444,22.7278739981,3.10000113928,0.34234498618
 IndirectionDC,planetlab3.eecs.umich.edu,surveymonkey.com,73.388,22.7278739981,3.16631021689,0.352839486224
 IndirectionDC,planetlab3.eecs.umich.edu,wunderground.com,70.907,22.7278739981,41.744444694,0.909251818468
-IndirectionDC,planetlab2.uta.edu,wordpress.com,2.084,0,0,0.0
 IndirectionDC,planetlab2.uta.edu,indeed.com,41.341,27.509307227,3.48122266515,0.749631839872
 IndirectionDC,planetlab2.uta.edu,taboola.com,39.145,27.509307227,3.67175828111,0.796552957162
 IndirectionDC,planetlab2.uta.edu,nih.gov,38.570,27.509307227,3.41562555721,0.80178721245
@@ -157,7 +150,6 @@ IndirectionDC,planetlab2.uta.edu,shopify.com,38.658,27.509307227,3.58103494226,0
 IndirectionDC,planetlab2.uta.edu,surveymonkey.com,50.259,27.509307227,3.16631021689,0.610350732086
 IndirectionDC,planetlab2.utdallas.edu,twitter.com,43.388,11.202964055,16.5385223836,0.639381544174
 IndirectionDC,planetlab2.utdallas.edu,t.co,49.968,11.202964055,17.0287606509,0.564996091617
-IndirectionDC,planetlab2.utdallas.edu,wordpress.com,2.026,0,0,0.0
 IndirectionDC,planetlab2.utdallas.edu,espn.go.com,39.465,11.202964055,18.8225048488,0.760812591
 IndirectionDC,planetlab2.utdallas.edu,amazonaws.com,38.100,11.202964055,3.20233116499,0.378091738057
 IndirectionDC,planetlab2.utdallas.edu,indeed.com,42.280,11.202964055,3.48122266515,0.347308105964
