@@ -11,20 +11,21 @@ from fetch_results import Parsers
 		1, run experiments
 		2, parse the results and plot results
 	Y:  1-4
-		1, PlabNodes(pairs)_DCs_ServerList , both mobilIP & indirection
-		2, large scale experiments, IplaneNodes_DCs_PlabNodes(As Servers) , both MobilIP & Indirection
-		3, PlabNodes_DCs_PlabNodes(asServers)  , just Indirection
-		4, PlabNodes_DCs_ServerList,             Just Indirection
+		1, From PlabNodes(pairs) to DCs to Servers , both mobilIP & indirection
+		2, large scale experiments, From IplaneNodes to DCs to PlabNodes(As Servers) , both MobilIP & Indirection
+		3, From PlabNodes to DCs to PlabNodes(asServers)  , just Indirection
+		4, From PlabNodes to DCs to ServerList,             Just Indirection
 	Z:  Experiment Number
 
-    Current experiments info:
+    *** Current experiments info:
     Experiment Number      Experiment Type
 		23 , 35				1st
 		33 					2nd
 		31 					3rd type
 		32 					4th Local
 
-	For new experiment assign new experiemnt number and store it in table above for future reference
+	*** For new experiment assign new experiemnt number and store it in table above for future reference
+	*** Currently I have results for type 3 and type 4, stll need to figure some details about type 1 and type 2
 
 	NOTE : For future experiment, I will change naming methods, use experiment name instead of exp number
 	       After that there will be no need of providing both number and type 
