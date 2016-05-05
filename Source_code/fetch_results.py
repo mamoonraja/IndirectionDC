@@ -6,22 +6,18 @@ import numpy as np
 
 '''
    Parse the results here using following method:
-   		initialize
-   		parse_file
-   		parse_ping
-   		parse_tcpping
-   		partition_parsed_results
-   		parse_pair
-   		mobileIPstretch
-   		diff_in_keys
-   		IndirectionStretch
-   		get_latency_stretch
-   		get_best_DC
-   		get_min_DC
-   		filterList
-   		compare_outliers
-   		plot_cdf
-   		plot_hist
+   		initialize  Initialize the experiments by walking through directory and parsing files one by one by calling parse_file
+   		parse_file  Open log file and parse it
+   		parse_ping  Parse simple pings
+   		parse_tcpping Parse for TCP ping
+   		partition_parsed_results  Partition all the results into more specific names
+   		parse_pair   Parse pairs, for mobilIP comparison experiments
+   		mobileIPstretch  Find sretch for mobileIP 
+   		diff_in_keys     Check difference between node names, to filter out anything between same node names
+   		IndirectionStretch  Finds IndirectionDC latency stretch
+   		get_latency_stretch  helper function to get latency stretch
+   		get_best_DC      returns the optimal datacenter to be used for source,destination pairs
+   		get_min_DC       returns the nearest datacenter to source
 
 '''
 class Parsers(object):
@@ -138,7 +134,7 @@ class Parsers(object):
 					pass
 				else:
 					lat_stretch.append( lat )
-			print len(lat_stretch)
+#			print len(lat_stretch)
 		f1.close()
 		f2.close()
 		return lat_stretch
@@ -181,7 +177,7 @@ class Parsers(object):
 						l1=self.get_latency_stretch(n1,n2,dc_path,dcnode,True) # best dc
 						if l1!="NA":
 							lat_stretch_best.append(l1)
-		print "lens ",len(lat_stretch_best),len(lat_stretch_nearest)
+#		print "lens ",len(lat_stretch_best),len(lat_stretch_nearest)
 		return [lat_stretch_best,lat_stretch_nearest]
 
 	def get_latency_stretch(self,n1,n2,dc_path,dcnode,record_anom):
