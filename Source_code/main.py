@@ -64,7 +64,6 @@ def parse_results(exptype,direc,f1,f2,f3,f4):
 	parser=Parsers(direc,[f1,f2,f3,f4])
 	parser.initialize(direc)
 	parser.partition_parsed_results()
-#	parser.plab_plab['planetlab1.emich.edu_planetlab3.eecs.umich.edu']=1.47
 	labels=[]
 	ls=[]
 	if exptype<3: # need mobilIP for exptype < 3
@@ -101,4 +100,3 @@ def main(runexp,exptype,expno):
 
 main(int(sys.argv[1]),int(sys.argv[2]),int(sys.argv[3]))
 #install_on_new()
-#		34 					4th GLOBAL
