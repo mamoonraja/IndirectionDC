@@ -1,9 +1,9 @@
 # Using Datacenter as Indirection point in mobility scenario  
 
 How to make it work:
-- to run experiments run 'python main.py 1 exptype expnum'  
-- to get results run 'python main.py 0 exptype expnum'  
-- to parse results run 'python main.py 2 exptype expnum'  
+- to run experiments run `python main.py 1 exptype expnum`
+- to get results run `python main.py 0 exptype expnum`
+- to parse results run `python main.py 2 exptype expnum`
   
 
 Below is the file structure for project, More details inside directories and modules.  
@@ -11,7 +11,7 @@ Below is the file structure for project, More details inside directories and mod
 ./
 README.md
 
-**Source_core/** 		      Main codes to run experiments and get results and parse them  
+**Source_code/** 		      Main codes to run experiments and get results and parse them  
 ------**main.py** 			  runs different experiments defined by command line arguments  
 ------**Ping_experiments.py** modules to run different kind of ping experiments defined here  
 ------**fetch_results.py**    to fetch results of ping experiments and plot cdfs  
